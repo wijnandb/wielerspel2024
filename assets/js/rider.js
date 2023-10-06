@@ -48,7 +48,7 @@ document.addEventListener("DOMContentLoaded", function () {
     function updateRiderData(riderID) {
       console.log("Updating rider data with riderID:", riderID);
       // Fetch the cyclist data and display it based on the RiderID
-      fetch("../assets/data/renners.json") // Adjust the path as needed
+      fetch("../../assets/data/renners.json") // Adjust the path as needed
         .then((response) => response.json())
         .then((data) => {
           console.log("Fetched cyclist data:", data);
@@ -62,7 +62,7 @@ document.addEventListener("DOMContentLoaded", function () {
             console.log("Age:", age);
             // Render data to HTML
             document.getElementById("riderPhoto").src = generateRiderPhotoURL(jsonData.RiderID);
-            document.getElementById("flag").src = `../assets/img/flags/${jsonData.Nationality}.png`;
+            document.getElementById("flag").src = `../../assets/img/flags/${jsonData.Nationality}.png`;
             document.getElementById("flag").alt = jsonData.Nationality;
             document.getElementById("flag").title = jsonData.Nationality;
             document.getElementById("birthdate").textContent = formattedBirthdate;
@@ -86,7 +86,7 @@ document.addEventListener("DOMContentLoaded", function () {
 function updateRiderResultsData(riderID) {
   console.log("Updating rider results data with riderID:", riderID);
   // Fetch the rider's results data based on RiderID
-  fetch("../assets/data/history_teams_with_earnings.json") // Adjust the path as needed
+  fetch("../../assets/data/history_teams_with_earnings.json") // Adjust the path as needed
     .then((response) => response.json())
     .then((resultsData) => {
       console.log("Fetched rider results data:", resultsData);

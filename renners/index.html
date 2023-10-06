@@ -1,0 +1,44 @@
+---
+layout: default
+title: Rider Information
+---
+
+<div class="row">
+  <!-- Left-hand side - General Information -->
+  <div class="col-md-4 text-center">
+    <h2 id="riderName"></h2>
+      <img id="riderPhoto" src="" alt=""><br /><br />
+      
+      <img id="flag" src="" alt="" title="" width="80"><br /><br />
+      <p id="birthdate"></p>
+      <p id="age"></p>
+      <a id="teamLink" href="" target="_blank"></a><br /><br />
+      <a id="CQLink" href="" target="_blank">CQ</a><br /><br />
+      <a id="PCSLink" href="" target="_blank">PCS</a><br /><br />
+      <a id="FirstCyclingLink" href="" target="_blank">FirstCycling</a><br /><br />
+
+  </div>
+  <!-- Right-hand side - Results -->
+  <div class="col-md-8">
+    <h2 id="riderNameResults"></h2>
+    <table class="table table-bordered">
+      <thead>
+        <tr>
+          <th>Edition</th>
+          <th>Ploegleider</th>
+          <th>Kosten</th>
+          <th>Punten</th>
+          <th>Profit/Loss</th>
+        </tr>
+      </thead>
+      <tbody id="resultsTableBody">
+        <!-- Results will be displayed here -->
+      </tbody>
+    </table>
+  </div>
+
+</div>
+
+
+
+<script src="{{ site.baseurl }}/assets/js/rider.js"></script>

@@ -1,0 +1,111 @@
+---
+layout: default
+title: "Kalender"
+---
+
+<table class="table display compact" id="calendar" style="width:100%">
+    <thead>
+        <tr>
+            <th>startdatum</th>
+            <th>einddatum</th>
+            <th>Race</th>
+            <th>Category</th>
+            <th>Punten</th>
+            <th>JPP</th>
+        </tr>
+    </thead>
+    <tbody>
+    {% for item in site.data.calendar %}
+      <tr>
+        <td>{{ item.startdate }}</td>
+        <td>{{ item.enddate }}</td>
+        <td>{{ item.race }}</td>
+        <td>{{ item.category }}</td>
+        <td>{{ item.points }}</td>
+        <td>{{ item.JPP }}</td>
+      </tr>
+    {% endfor %}
+    </tbody>
+</table>
+
+<link href="https://cdn.datatables.net/v/bs5/jq-3.6.0/dt-1.13.4/date-1.4.1/datatables.min.css" rel="stylesheet"/>
+ 
+<script src="https://cdn.datatables.net/v/bs5/jq-3.6.0/dt-1.13.4/date-1.4.1/datatables.min.js"></script>
+<script>
+  $(document).ready( function () {
+      $('#calendar').DataTable( {
+          pageLength: 100,
+          dom: 'Bfrtip',
+          buttons: [
+              'csv', 'excel', 'pdf', 'print'
+          ],
+          language: {
+              "sProcessing": "Bezig...",
+              "sLengthMenu": "_MENU_ resultaten weergeven",
+              "sZeroRecords": "Geen resultaten gevonden",
+              "sInfo": "_START_ tot _END_ van _TOTAL_ resultaten",
+              "sInfoEmpty": "Geen resultaten om weer te geven",
+              "sInfoFiltered": " (gefilterd uit _MAX_ resultaten)",
+              "sInfoPostFix": "",
+              "sSearch": "Zoeken:",
+              "sEmptyTable": "Geen resultaten aanwezig in de tabel",
+              "sInfoThousands": ".",
+              "sLoadingRecords": "Een moment geduld aub - bezig met laden...",
+              "oPaginate": {
+                  "sFirst": "Eerste",
+                  "sLast": "Laatste",
+                  "sNext": "Volgende",
+                  "sPrevious": "Vorige"
+              },
+          }
+      } );
+  });
+</script>
+<script>
+  const date = new Date();
+
+  let day = date.getDate();
+  let month = date.getMonth() + 1;
+  let year = date.getFullYear();
+
+  let minDate = `${day}-${month}-${year}`;
+  let maxday = date.getDate() + 1;
+  let maxDate = `${maxday}-${month}-${year}`;
+ 
+ // Custom filtering function which will search data in column four between two values
+ $.fn.dataTable.ext.search.push(
+     function( settings, data, dataIndex ) {
+         var min = minDate.val();
+         var max = maxDate.val();
+         var date = new Date( data[4] );
+  
+         if (
+             ( min === null && max === null ) ||
+             ( min === null && date <= max ) ||
+             ( min <= date   && max === null ) ||
+             ( min <= date   && date <= max )
+         ) {
+             return true;
+         }
+         return false;
+     }
+ );
+  
+ $(document).ready(function() {
+     // Create date inputs
+     minDate = new DateTime($('#min'), {
+         format: 'MMMM Do YYYY'
+     });
+     maxDate = new DateTime($('#max'), {
+         format: 'MMMM Do YYYY'
+     });
+  
+     // DataTables initialisation
+     var table = $('#calendar').DataTable();
+  
+     // Refilter the table
+     $('#min, #max').on('change', function () {
+         table.draw();
+     });
+ });
+</script>

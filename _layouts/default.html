@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html lang="nl">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+        <meta name="description" content="" />
+        <meta name="author" content="" />
+        <title>Wielerspel 2023</title>
+        <!-- Favicon-->
+        <link rel="icon" type="image/x-icon" href="{{ '/assets/favicon.ico' | relative_url }}">
+        <!-- Bootstrap core CSS-->
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65" crossorigin="anonymous">
+        <!-- Core theme CSS -->
+        <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+
+        <!-- Datatables CSS-->
+        <link href="https://cdn.datatables.net/v/bs5/jszip-2.5.0/dt-1.13.4/b-2.3.6/b-html5-2.3.6/b-print-2.3.6/datatables.min.css" rel="stylesheet"/>
+        <!-- Plausible analytics -->
+        <script defer data-domain="wijnandb.github.io/wielerspel2023" src="https://plausible.io/js/script.hash.outbound-links.js"></script>
+    </head>
+
+    <body>
+        <!-- Responsive navbar -->
+        <nav class="navbar navbar-expand-lg navbar-light bg-light">
+            <div class="container">
+                <a class="navbar-brand" href="{{ site.baseurl }}{% link index.html %}">Wielerspel 2023</a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
+                <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                    <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
+                        <!-- li class="nav-item"><a class="nav-link active" aria-current="page" href="{{ '/startlist/races/GT/index.html' | relative_url }}">Vuelta</a></li -->
+                        <li class="nav-item"><a class="nav-link active" href="{{ site.baseurl }}{% link renners.html %}">Verkochte renners</a></li>
+                        <li class="nav-item"><a class="nav-link active" href="{{ site.baseurl }}{% link uitslagen.html %}">Uitslagen</a></li>
+                    </ul>
+                    <!-- Add the search box here -->
+                    <div class="search-box">
+                        <input type="text" id="searchInput" placeholder="Zoek renner">
+                        <div id="searchResults" class="search-results"></div>
+                    </div>
+                </div>
+            </div>
+        </nav>
+
+        <!-- Header - set the background image for the header in the line below-->
+        <header class="py-5 bg-image-full" style="background-image: url('https://upload.wikimedia.org/wikipedia/commons/a/a7/Mathieu_van_der_Poel_KBK_2021.jpg')">
+            <div class="text-center my-5">
+                <h1 class="text-white fs-3 fw-bolder">{{ page.title }}</h1>
+                <p class="text-white-50 mb-0"></p>
+            </div>
+        </header>
+        <!-- Content section-->
+        <!--div id="fb-root"></div>
+            <script async defer crossorigin="anonymous" src="https://connect.facebook.net/nl_NL/sdk.js#xfbml=1&version=v16.0" nonce="yHTksQcR"></script-->
+        <section class="py-5">
+            <div class="container">
+
+                    {{ content }}
+                        <!--p class="mb-0"><div class="fb-comments" data-href="https://wijnandb.github.io/wielerspel2023{{ page.url }}" data-width="100%" data-numposts="10"></div></p-->
+
+            </div>
+        </section>
+            <!-- Footer-->
+        {% include footer.html %}
+        <!-- Bootstrap core JS-->
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.min.js" integrity="sha384-cuYeSxntonz0PPNlHhBs68uyIAVpIIOZZ5JqeqvYYIcEL727kskC66kF92t6Xl2V" crossorigin="anonymous"></script>
+        <!-- jQuery -->
+        <script
+            src="https://code.jquery.com/jquery-3.6.3.slim.min.js"
+            integrity="sha256-ZwqZIVdD3iXNyGHbSYdsmWP//UBokj2FHAxKuSBKDSo="
+            crossorigin="anonymous"></script>
+        <!-- Core theme JS-->
+       
+        <!-- Papaparse to cread CSV files -->
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.0/papaparse.min.js"></script>
+
+        <!-- datatables JS -->
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.2.7/pdfmake.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.2.7/vfs_fonts.js"></script>
+        <script src="https://cdn.datatables.net/v/bs5/jszip-2.5.0/dt-1.13.4/b-2.3.6/b-html5-2.3.6/b-print-2.3.6/datatables.min.js"></script>
+        <script>
+            $(document).ready( function () {
+                $('#table_id').DataTable( {
+                    pageLength: 100,
+                    dom: 'Bfrtip',
+                    order: [[0, 'desc']],
+                    buttons: [
+                        'csv', 'excel', 'pdf', 'print'
+                    ],
+                    columnDefs: [
+                        {
+                            target: 1,
+                            visible: false,
+                        },
+                    ],
+                    language: {
+                        "sProcessing": "Bezig...",
+                        "sLengthMenu": "_MENU_ resultaten weergeven",
+                        "sZeroRecords": "Geen resultaten gevonden",
+                        "sInfo": "_START_ tot _END_ van _TOTAL_ resultaten",
+                        "sInfoEmpty": "Geen resultaten om weer te geven",
+                        "sInfoFiltered": " (gefilterd uit _MAX_ resultaten)",
+                        "sInfoPostFix": "",
+                        "sSearch": "Zoeken:",
+                        "sEmptyTable": "Geen resultaten aanwezig in de tabel",
+                        "sInfoThousands": ".",
+                        "sLoadingRecords": "Een moment geduld aub - bezig met laden...",
+                        "oPaginate": {
+                            "sFirst": "Eerste",
+                            "sLast": "Laatste",
+                            "sNext": "Volgende",
+                            "sPrevious": "Vorige"
+                        },
+                    }
+                } );
+            });
+        </script>
+        <script>
+          // Wait for the DOM to be fully loaded
+            document.addEventListener("DOMContentLoaded", function () {
+                const searchInput = document.getElementById("searchInput");
+                const searchResults = document.getElementById("searchResults");
+
+                // Load the CSV data
+                const csvFilePath = "{{ site.baseurl }}/assets/data/riders_with_points.csv";
+                Papa.parse(csvFilePath, {
+                    header: true,
+                    download: true,
+                    dynamicTyping: true,
+                    skipEmptyLines: true, // Add this option to skip empty lines
+                    complete: function (results) {
+                        const data = results.data;
+
+                        // Event listener for input changes
+                        searchInput.addEventListener("input", function () {
+                            const searchTerm = searchInput.value.toLowerCase().trim();
+                            const filteredResults = data.filter((row) => {
+                                return row.rider.toLowerCase().includes(searchTerm);
+                            });
+
+                            // Show or hide the results div based on input
+                            if (searchTerm) {
+                                displayResults(filteredResults.slice(0, 20));
+                                searchResults.style.display = "block"; // Show the results div
+                            } else {
+                                searchResults.style.display = "none"; // Hide the results div when there's no input
+                            }
+                        });
+                    },
+                });
+
+                // Display search results
+                function displayResults(results) {
+                    searchResults.innerHTML = "";
+                    if (results.length === 0) {
+                        searchResults.textContent = "No results found.";
+                    } else {
+                        results.forEach((result) => {
+                            const riderName = result.rider;
+                            const rennerId = result.renner_id;
+
+                            // Create an anchor element
+                            const resultLink = document.createElement("a");
+                            resultLink.href = `{{ site.baseurl }}/renners/#/${rennerId}`;
+                            resultLink.classList.add("search-result-link"); // Add a class for styling
+
+                            // Create a div element for each result
+                            const resultDiv = document.createElement("div");
+
+                            // Set the text content of the div
+                            resultDiv.textContent = riderName;
+
+                            // Append the div to the anchor
+                            resultLink.appendChild(resultDiv);
+
+                            // Append the anchor to the search results div
+                            searchResults.appendChild(resultLink);
+                        });
+                    }
+                }
+            });
+  
+        </script>
+
+  </body>
+</html>

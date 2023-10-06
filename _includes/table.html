@@ -1,0 +1,22 @@
+<table class="table table-striped">
+    <tr>
+        <th>#</th>
+        <th></th>
+        <th>punten</th>
+        <th>JPP</th>
+        <th scope="col" class="d-none d-md-table-cell">bonus</th>
+        <th scope="col" class="d-none d-md-table-cell">totaal</th>
+    </tr>
+    {% for member in site.data.ranking %}
+        <tr>
+            <td>{{ member.positie }}.</td>
+            <td><a href="{{ site.baseurl }}{% link index.html %}ploegleiders/{{ member.short | downcase }}.html">
+                {{ member.ploegleider }}
+                </a></td>
+            <td>{{ member.punten }}</td>
+            <td>{{ member.JPP }}</td>
+            <td scope="col" class="d-none d-md-table-cell">{{ member.bonus }}</td>
+            <td scope="col" class="d-none d-md-table-cell">{{ member.totaal }}</td>
+        </tr>
+    {% endfor %}
+</table>

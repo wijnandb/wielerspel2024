@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Price Distribution</title>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.0/papaparse.min.js"></script>
+</head>
+<body>
+  <script>
+  // Fetch and parse the CSV file from a given URL
+    fetch('/assets/data/riders_with_points.csv')
+    .then(response => response.text())
+    .then(csvString => {
+        Papa.parse(csvString, {
+        header: true,
+        dynamicTyping: true,
+        complete: function(parsedResults) {
+            const results = parsedResults.data;
+            analyzePriceDistribution(results);
+        }
+        });
+    });
+
+  function analyzePriceDistribution(results) {
+    const priceDistribution = {};
+
+    results.forEach(result => {
+      if (result.punten === "undefined" || typeof result.punten === "undefined") return;
+
+      if (!priceDistribution[result.punten]) {
+        priceDistribution[result.punten] = 0;
+      }
+
+      priceDistribution[result.punten]++;
+    });
+
+    console.log("Points Distribution:", JSON.stringify(priceDistribution, null, 2));
+  }
+
+  </script>
+</body>
+</html>
+
+

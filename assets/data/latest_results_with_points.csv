@@ -1,0 +1,48 @@
+rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
+1,1.1,BetCity Elfstedenrace,42269,PHILIPSEN Jasper,26392,2,0,2023-10-04,Nicky
+2,1.1,BetCity Elfstedenrace,42269,KOOIJ Olav,30643,0.3,0,2023-10-04,Albert
+3,1.1,BetCity Elfstedenrace,42269,BOMBOI Davide,30543,0.1,0,2023-10-04,-
+1,1.PS,Tre Valli Varesine,42262,VAN WILDER Ilan,29828,4,50,2023-10-03,Wijnand
+2,1.PS,Tre Valli Varesine,42262,CARAPAZ MONTENEGRO Richard Antonio,21342,1,35,2023-10-03,Wijnand
+3,1.PS,Tre Valli Varesine,42262,VLASOV Aleksandr,24316,0.5,25,2023-10-03,Harry
+4,1.PS,Tre Valli Varesine,42262,ROGLIC Primoz,20719,0,20,2023-10-03,Bram
+5,1.PS,Tre Valli Varesine,42262,POGACAR Tadej,26526,0,18,2023-10-03,Kees
+6,1.PS,Tre Valli Varesine,42262,WOODS Michael,20257,0,16,2023-10-03,Albert
+7,1.PS,Tre Valli Varesine,42262,ZANA Filippo,27749,0,14,2023-10-03,Vel
+8,1.PS,Tre Valli Varesine,42262,IZAGIRRE INSAUSTI Ion,14321,0,12,2023-10-03,Harry
+9,1.PS,Tre Valli Varesine,42262,RODRIGUEZ CANO Carlos,30836,0,10,2023-10-03,Roy
+10,1.PS,Tre Valli Varesine,42262,O'CONNOR Ben,23763,0,8,2023-10-03,Harry
+1,1.PS,Münsterland Giro,42263,HAGENES Per Strand,30442,4,50,2023-10-03,-
+2,1.PS,Münsterland Giro,42263,GROVES Kaden,26637,1,35,2023-10-03,Vel
+3,1.PS,Münsterland Giro,42263,PEDERSEN Mads,21992,0.5,25,2023-10-03,Harry
+4,1.PS,Münsterland Giro,42263,EEKHOFF Nils,26429,0,20,2023-10-03,-
+5,1.PS,Münsterland Giro,42263,LAPORTE Christophe,19953,0,18,2023-10-03,Kaspar
+6,1.PS,Münsterland Giro,42263,VAN POPPEL Danny,19242,0,16,2023-10-03,Jan
+7,1.PS,Münsterland Giro,42263,WAERENSKJOLD Søren,29187,0,14,2023-10-03,-
+8,1.PS,Münsterland Giro,42263,AFFINI Edoardo,24794,0,12,2023-10-03,Paul
+9,1.PS,Münsterland Giro,42263,PLANCKAERT Edward,24308,0,10,2023-10-03,-
+10,1.PS,Münsterland Giro,42263,KOCH Jonas,19616,0,8,2023-10-03,-
+1,1.1,Binche - Chimay - Binche / Mémorial Frank Vandenbroucke,42259,MOZZATO Luca,28037,2,0,2023-10-03,Nicky
+2,1.1,Binche - Chimay - Binche / Mémorial Frank Vandenbroucke,42259,THEUNS Edward,16697,0.3,0,2023-10-03,Harry
+3,1.1,Binche - Chimay - Binche / Mémorial Frank Vandenbroucke,42259,KRAGH ANDERSEN Søren,20793,0.1,0,2023-10-03,Vel
+1,1.PS,Coppa Bernocchi,42261,VAN AERT Wout,20730,4,50,2023-10-02,Frank
+2,1.PS,Coppa Bernocchi,42261,ALBANESE Vincenzo,24139,1,35,2023-10-02,Harry
+3,1.PS,Coppa Bernocchi,42261,BAGIOLI Andrea,28452,0.5,25,2023-10-02,Albert
+4,1.PS,Coppa Bernocchi,42261,HIRSCHI Marc,26509,0,20,2023-10-02,Bram
+5,1.PS,Coppa Bernocchi,42261,MASNADA Fausto,20535,0,18,2023-10-02,Paul
+6,1.PS,Coppa Bernocchi,42261,BENOOT Tiesj,21244,0,16,2023-10-02,Paul
+7,1.PS,Coppa Bernocchi,42261,SCARONI Christian,27002,0,14,2023-10-02,-
+8,1.PS,Coppa Bernocchi,42261,ALAPHILIPPE Julian,18610,0,12,2023-10-02,Arjan
+9,1.PS,Coppa Bernocchi,42261,TRATNIK Jan,12748,0,10,2023-10-02,Kees
+10,1.PS,Coppa Bernocchi,42261,IZAGIRRE INSAUSTI Ion,14321,0,8,2023-10-02,Harry
+1,2.1,"Cro Race, General classification",42242,AULAR SANABRIA Orluis Alberto,24326,2,0,2023-10-01,PB
+2,2.1,"Cro Race, General classification",42242,KRISTOFF Alexander,4179,0.3,0,2023-10-01,Nicky
+3,2.1,"Cro Race, General classification",42242,HAYTER Ethan,27025,0.1,0,2023-10-01,Jan
+1,1.1,Famenne Ardenne Classic,42260,DE LIE Arnaud,32221,2,0,2023-10-01,Wijnand
+2,1.1,Famenne Ardenne Classic,42260,GROVES Kaden,26637,0.3,0,2023-10-01,Vel
+3,1.1,Famenne Ardenne Classic,42260,SENECHAL Florian,19903,0.1,0,2023-10-01,Wijnand
+1,1.1,Tour de Vendée,42159,DEMARE Arnaud,16653,2,0,2023-10-01,Wijnand
+2,1.1,Tour de Vendée,42159,PENHOËT Paul,30686,0.3,0,2023-10-01,-
+3,1.1,Tour de Vendée,42159,DUJARDIN Sandy,28583,0.1,0,2023-10-01,-
+1,2.1s,"Cro Race, Stage 6 : Samobor - Zagreb",42241,STEWART Campbell,27557,0.2,0,2023-10-01,-
+1,NCT3,National Championships Switzerland (Gansingen) I.T.T.,42108,BISSEGGER Stefan,26376,1,0,2023-10-01,Bram

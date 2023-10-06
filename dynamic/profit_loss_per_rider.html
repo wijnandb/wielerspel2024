@@ -1,0 +1,150 @@
+---
+layout: default
+title: "Profit/Loss per rider - Wielerspel"
+---
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <style>
+        /* Define CSS styles for bars and dots */
+        .kosten-bar {
+            fill: lightcoral;
+        }
+        .punten-bar {
+            fill: lightgreen;
+        }
+        .profit-loss-dot {
+            fill: blue;
+        }
+        .profit-loss-line {
+            stroke: blue;
+            stroke-width: 2;
+        }
+        .bar:hover {
+            opacity: 0.7;
+        }
+        .x-axis-text {
+            font-size: 10px;
+            text-anchor: start;
+            transform: rotate(30deg);
+        }
+    </style>
+    
+    <div id="chart-container"></div>
+
+    <script>
+        // Set up the chart dimensions
+        const margin = { top: 20, right: 30, bottom: 30, left: 40 };
+        const width = 800 - margin.left - margin.right;
+        const height = 800 - margin.top - margin.bottom; // Extend the height
+
+        // Load the CSV data
+        d3.csv('riders_with_points.csv')
+            .then(data => {
+                // Filter data for ploegleider "Wijnand"
+                data = data.filter(d => d.ploegleider === 'Vel');
+
+                // Convert "kosten" and "punten" to numbers
+                data.forEach(d => {
+                    d.kosten = -parseInt(d.kosten); // Convert "kosten" to negative integers
+                    d.punten = parseFloat(d.punten); // Convert "punten" to float
+                    d.profitLoss = d.kosten + d.punten; // Calculate profit/loss
+                });
+
+                // Calculate the adjusted y-axis domain
+                const yMin = d3.min(data, d => Math.min(0, d.kosten, d.punten, d.profitLoss));
+                const yMax = d3.max(data, d => Math.max(0, d.kosten, d.punten, d.profitLoss));
+                const yDomain = [yMin + yMin * 0.1, yMax + yMax * 0.1];
+
+                // Create an SVG element
+                const svg = d3.select('#chart-container')
+                    .append('svg')
+                    .attr('width', width + margin.left + margin.right)
+                    .attr('height', height + margin.top + margin.bottom)
+                    .append('g')
+                    .attr('transform', `translate(${margin.left},${margin.top + height / 2})`);
+
+                // Define scales
+                const xScale = d3.scaleBand()
+                    .domain(data.map(d => d.renner))
+                    .range([0, width])
+                    .padding(0.1);
+
+                const yScale = d3.scaleLinear()
+                    .domain(yDomain) // Set y-axis domain with adjustment
+                    .range([height / 2, -height / 2]); // Reverse the y-axis direction
+
+                // Create kosten bars
+                svg.selectAll('.kosten-bar')
+                    .data(data)
+                    .enter()
+                    .append('rect')
+                    .attr('class', 'kosten-bar bar')
+                    .attr('x', d => xScale(d.renner))
+                    .attr('y', d => Math.min(yScale(d.kosten), yScale(0))) // Start at the value of "kosten"
+                    .attr('width', xScale.bandwidth())
+                    .attr('height', d => Math.abs(yScale(d.kosten) - yScale(0))) // Range until y=0
+                    .attr('fill', 'lightcoral')
+                    .append('title')
+                    .text(d => `${d.renner}\nKosten: ${-d.kosten}\nPunten: ${d.punten}\nProfit/Loss: ${d.profitLoss.toFixed(1)}\nPloegleider: ${d.ploegleider}`);
+
+                // Create punten bars
+                svg.selectAll('.punten-bar')
+                    .data(data)
+                    .enter()
+                    .append('rect')
+                    .attr('class', 'punten-bar bar')
+                    .attr('x', d => xScale(d.renner))
+                    .attr('y', d => Math.min(yScale(d.punten), yScale(0))) // Start at the value of "punten"
+                    .attr('width', xScale.bandwidth())
+                    .attr('height', d => Math.abs(yScale(d.punten) - yScale(0))) // Range until y=0
+                    .attr('fill', 'lightgreen')
+                    .append('title')
+                    .text(d => `${d.renner}\nKosten: ${-d.kosten}\nPunten: ${d.punten}\nProfit/Loss: ${d.profitLoss.toFixed(1)}\nPloegleider: ${d.ploegleider}`);
+
+                // Create profit/loss lines and dots
+                svg.selectAll('.profit-loss-line')
+                    .data(data)
+                    .enter()
+                    .append('line')
+                    .attr('class', 'profit-loss-line')
+                    .attr('x1', d => xScale(d.renner))
+                    .attr('x2', d => xScale(d.renner) + xScale.bandwidth())
+                    .attr('y1', d => yScale(d.profitLoss)) 
+                    .attr('y2', d => yScale(d.profitLoss)) 
+                    .style('stroke', 'blue');
+
+                svg.selectAll('.profit-loss-dot')
+                    .data(data)
+                    .enter()
+                    .append('circle')
+                    .attr('class', 'profit-loss-dot')
+                    .attr('cx', d => xScale(d.renner) + xScale.bandwidth() / 2)
+                    .attr('cy', d => yScale(d.profitLoss))
+                    .attr('r', 3)
+                    .style('fill', 'blue')
+                    .append('title')
+                    .text(d => `${d.renner}\nKosten: ${-d.kosten}\nPunten: ${d.punten}\nProfit/Loss: ${d.profitLoss.toFixed(1)}\nPloegleider: ${d.ploegleider}`);
+
+                // Add y-axis
+                svg.append('g')
+                    .attr('class', 'y-axis')
+                    .call(d3.axisLeft(yScale));
+
+                // Add x-axis with rotated rider names
+                svg.append('g')
+                    .attr('class', 'x-axis')
+                    .attr('transform', `translate(0, ${yScale(yMin + yMin * 0.1)})`)
+                    .call(d3.axisBottom(xScale))
+                    .selectAll('text')
+                    .style('text-anchor', 'start')
+                    .attr('dx', '0.5em')
+                    .attr('dy', '0.5em')
+                    .attr('transform', 'rotate(30)');
+
+                // Remove x-axis at the top
+                svg.select('.x-axis').remove();
+            })
+            .catch(error => {
+                console.error('Error loading data:', error);
+            });
+    </script>
+

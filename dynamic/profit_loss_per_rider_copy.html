@@ -1,0 +1,222 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Costs, Points, and Profit/Loss Bar Chart (Ploegleider: Wijnand)</title>
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <style>
+        /* Define CSS styles for bars and dots */
+        .kosten-bar {
+            fill: lightcoral;
+        }
+        .punten-bar {
+            fill: lightgreen;
+        }
+        .profit-loss-dot {
+            fill: blue;
+        }
+        .profit-loss-line {
+            stroke: blue;
+            stroke-width: 2;
+        }
+        .bar:hover {
+            opacity: 0.7;
+        }
+        .x-axis-text {
+            font-size: 10px;
+            text-anchor: start;
+            transform: rotate(30deg);
+        }
+    </style>
+</head>
+<body>
+    
+    <div id="chart-container"></div>
+
+    <script>
+// Function to convert "kosten" to negative integers and "punten" to floats
+function processData(data) {
+    data.forEach(d => {
+        d.kosten = -parseInt(d.kosten); // Convert "kosten" to negative integers
+        d.punten = parseFloat(d.punten); // Convert "punten" to float
+        d.profitLoss = d.kosten + d.punten; // Calculate profit/loss
+    });
+    return data;
+}
+
+// Function to calculate the adjusted y-axis domain
+function calculateYDomain(data) {
+    const yMin = -90; // d3.min(data, d => Math.min(0, d.kosten, d.punten, d.profitLoss));
+    const yMax = 90; // d3.max(data, d => Math.max(0, d.kosten, d.punten, d.profitLoss));
+    return [yMin + yMin * 0.1, yMax + yMax * 0.1];
+}
+
+// Function to create the SVG element for the chart
+function createSVG(width, height, margin) {
+    return d3.select('#chart-container')
+        .append('svg')
+        .attr('width', width + margin.left + margin.right)
+        .attr('height', height + margin.top + margin.bottom)
+        .append('g')
+        .attr('transform', `translate(${margin.left},${margin.top + height / 2})`);
+}
+
+// Function to create and append bars for "kosten" and "punten"
+function createBars(svg, data, xScale, yScale, xBandwidth, yStart, yEnd, fillColor, className) {
+    svg.selectAll(`.${className}`)
+        .data(data)
+        .enter()
+        .append('rect')
+        .attr('class', `${className} bar`)
+        .attr('x', d => xScale(d.renner))
+        .attr('y', d => Math.min(yScale(yStart(d)), yScale(0)))
+        .attr('width', xBandwidth)
+        .attr('height', d => Math.abs(yScale(yEnd(d)) - yScale(0)))
+        .attr('fill', fillColor)
+        .append('title')
+        .text(d => `${d.renner}\nKosten: ${-d.kosten}\nPunten: ${d.punten}\nProfit/Loss: ${d.profitLoss}\nPloegleider: ${d.ploegleider}`);
+}
+
+// Function to create and append profit/loss lines and dots
+function createProfitLossLinesAndDots(svg, data, xScale, xBandwidth, yScale) {
+    svg.selectAll('.profit-loss-line')
+        .data(data)
+        .enter()
+        .append('line')
+        .attr('class', 'profit-loss-line')
+        .attr('x1', d => xScale(d.renner))
+        .attr('x2', d => xScale(d.renner) + xBandwidth)
+        .attr('y1', d => yScale(d.profitLoss))
+        .attr('y2', d => yScale(d.profitLoss))
+        .style('stroke', 'blue');
+
+    svg.selectAll('.profit-loss-dot')
+        .data(data)
+        .enter()
+        .append('circle')
+        .attr('class', 'profit-loss-dot')
+        .attr('cx', d => xScale(d.renner) + xBandwidth / 2)
+        .attr('cy', d => yScale(d.profitLoss))
+        .attr('r', 3)
+        .style('fill', 'blue')
+        .append('title')
+        .text(d => `${d.renner}\nKosten: ${-d.kosten}\nPunten: ${d.punten}\nProfit/Loss: ${d.profitLoss}\nPloegleider: ${d.ploegleider}`);
+}
+
+// Function to create and append y-axis
+function createYAxis(svg, yScale) {
+    svg.append('g')
+        .attr('class', 'y-axis')
+        .call(d3.axisLeft(yScale));
+}
+
+// Function to create and append x-axis with rotated rider names
+function createXAxis(svg, xScale, yPosition) {
+    svg.append('g')
+        .attr('class', 'x-axis')
+        .attr('transform', `translate(0, ${yPosition})`)
+        .call(d3.axisBottom(xScale))
+        .selectAll('text')
+        .style('text-anchor', 'start')
+        .attr('dx', '0.5em')
+        .attr('dy', '0.5em')
+        .attr('transform', 'rotate(30)');
+}
+
+// Main function to set up the chart
+        function setupChart(data) {
+            // Set up the chart dimensions
+            const margin = { top: 20, right: 30, bottom: 30, left: 40 };
+            const width = 800 - margin.left - margin.right;
+            const height = 800 - margin.top - margin.bottom; // Extend the height
+
+            // Process the data
+            data = processData(data);
+
+            // Calculate the adjusted y-axis domain
+            const yDomain = calculateYDomain(data);
+
+            // Create an SVG element for the chart
+            const svg = createSVG(width, height, margin);
+
+            // Define scales
+            const xScale = d3.scaleBand()
+                .domain(data.map(d => d.renner))
+                .range([0, width])
+                .padding(0.1);
+
+            const yScale = d3.scaleLinear()
+                .domain(yDomain)
+                .range([height / 2, -height / 2]);
+
+            // Create kosten bars
+            createBars(svg, data, xScale, yScale, xScale.bandwidth(), d => d.kosten, d => 0, 'lightcoral', 'kosten');
+
+            // Create punten bars
+            createBars(svg, data, xScale, yScale, xScale.bandwidth(), d => d.punten, d => 0, 'lightgreen', 'punten');
+
+            // Create profit/loss lines and dots
+            createProfitLossLinesAndDots(svg, data, xScale, xScale.bandwidth(), yScale);
+
+            // Create and append y-axis
+            createYAxis(svg, yScale);
+
+            // Create and append x-axis with rotated rider names
+            createXAxis(svg, xScale, yScale(0));
+        }
+
+function orderAndFilterData(data, sortBy, sortOrder, limit = 40, filterPloegleider = null) {
+    let filteredData = data;
+
+    // Filter the data by ploegleider if a filter is specified
+    if (filterPloegleider) {
+        filteredData = filteredData.filter(d => d.ploegleider === filterPloegleider);
+    }
+
+    // Sort the data based on the specified criteria and order
+    filteredData.sort((a, b) => {
+        let aValue, bValue;
+        if (sortBy === 'punten') {
+            aValue = a.punten;
+            bValue = b.punten;
+            console.log("punten", aValue, bValue)
+        } else if (sortBy === 'kosten') {
+            aValue = a.kosten;
+            bValue = b.kosten;
+        } else if (sortBy === 'profitLoss') {
+            aValue = a.profitLoss;
+            bValue = b.profitLoss;
+        }
+
+        if (sortOrder === 'ASC') {
+            return aValue - bValue;
+        } else if (sortOrder === 'DESC') {
+            return bValue - aValue;
+        }
+    });
+
+    // Limit the number of results
+    if (filteredData.length > limit) {
+        filteredData = filteredData.slice(0, limit);
+    }
+
+    // Call setupChart with the sorted and filtered data
+    setupChart(filteredData);
+    console.log(filteredData);
+}
+
+
+        // Load the CSV data and set up the chart with default settings
+        d3.csv('riders_with_points.csv')
+            .then(data => {
+                // Call orderAndFilterData with default settings
+                orderAndFilterData(data, 'profitLoss', 'DESC', 5);
+            })
+            .catch(error => {
+                console.error('Error loading data:', error);
+            });
+    </script>
+
+</body>
+</html>

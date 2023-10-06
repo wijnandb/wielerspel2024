@@ -1,0 +1,20 @@
+---
+layout: default
+title: "Punten per category 2023"
+---
+<table class="table display compact" style="width:100%">
+    <tr>
+      <th>#</th>
+      <th>category</th>
+      <th>punten</th>
+      <th>JPP</th>
+    </tr>
+    {% for member in site.data.points %}
+      <tr>
+        <td>{{ member.position }}.</td>
+        <td>{{ member.category }}</td>
+        <td>{{ member.points }}</td>
+        <td>{{ member.JPP }}</td>
+      </tr>
+    {% endfor %}
+</table>

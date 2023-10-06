@@ -1,0 +1,35 @@
+---
+title: "Verkochte renners"
+layout: default
+race_id: 23
+---
+{% include startlist-links.html %}
+
+{% include startlist.html %}
+<!-- <table class="table display compact" id="table_id" style="width:100%">
+    <thead>
+        <tr>
+            <th>#</th>
+            <td>renner_id</td>
+            <th>Renner</th>
+            <th>Ploeg</th>
+            <th>Land</th>
+            <th>Ploegleider</th>
+            <th>Prijs</th>
+            
+        </tr>
+    </thead>
+    <tbody>
+    {% for item in site.data.startlist-filtered %}
+      <tr>
+        <td>{{ item.start_number }}</td>
+        <td>{{ item.cq_rider_id }}</td>
+        <td><a href="https://cqranking.com/men/asp/gen/rider.asp?riderid={{ item.cq_rider_id }}" target="_new">{{ item.rider }}</a></td>
+        <td>{{ item.team }}</td>
+        <td>{{ item.country }}</td>
+        <td>{{ item.team_captain }}</td>
+        <td>{{ item.price }}</td>
+      </tr>
+    {% endfor %}
+    </tbody>
+</table> -->

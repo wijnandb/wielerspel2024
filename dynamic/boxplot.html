@@ -1,0 +1,165 @@
+---
+layout: graphs
+title: "Dynamische stand Wielerspel"
+---
+<p>Wat zien we hier?<br/ >
+Per ploegleider wordt een boxplot getoond, gebaseerd op de prijs van de renners die hij heeft gekocht.
+een boxplot bestaat uit 5 waarden: de minimum waarde, de maximum waarde, de mediaan, het eerste kwartiel en het derde kwartiel. 
+De mediaan is de middelste waarde. Het eerste kwartiel is de waarde waar 25% van de waarden onder zit. Het derde kwartiel is de waarde waar 75% van de waarden onder zit.
+</p>
+<h2>Verdiensten per ploeg</h2><div id="boxplotDivPoints"></div>
+<h2>Inkoop per ploeg</h2><div id="boxplotDivCosts"></div>
+<p>Het is waarschijnlijk mooier en veelzeggender als we de punten en kosten per ploeg in twee boxplots naast elkaar vergelijken</p>
+<script src="https://d3js.org/d3.v6.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.0/papaparse.min.js"></script>
+  <script>
+// Wait for the DOM to load
+document.addEventListener("DOMContentLoaded", function() {
+  // Fetch and parse the CSV file
+  d3.csv('/assets/data/riders_with_points.csv').then(function(data) {
+    // Convert string data to numbers
+    data.forEach(function(d) {
+      d.kosten = +d.kosten;  // Convert price to number
+      d.punten = +d.punten;  // Convert points to number
+    });
+
+    // Group data by teamcaptain
+    const groupedDataPoints = Array.from(d3.group(data, d => d.ploegleider), ([key, value]) => ({ ploegleider: key, data: value }));
+    const groupedDataCosts = Array.from(d3.group(data, d => d.ploegleider), ([key, value]) => ({ ploegleider: key, data: value }));
+
+
+    // Create the boxplots for points
+    createBoxplots(groupedDataPoints, "#boxplotDivPoints", 'punten');
+
+    // Create the boxplots for costs
+    createBoxplots(groupedDataCosts, "#boxplotDivCosts", 'kosten');
+  });
+});
+
+
+function calculateBoxplotData(data, field) {
+  // Sort the data and calculate quartiles, etc.
+  const sortedData = data.map(d => +d[field]).sort(d3.ascending);
+  const min = d3.min(sortedData);
+  const max = d3.max(sortedData);
+  const q1 = d3.quantile(sortedData, 0.25);
+  const median = d3.quantile(sortedData, 0.5);
+  const q3 = d3.quantile(sortedData, 0.75);
+
+  return { min, q1, median, q3, max };
+}
+
+
+
+function createBoxplots(groupedData, divId, field) {
+  // Calculate boxplot data
+  const boxplotData = [];
+
+  for (const { ploegleider, data } of groupedData) {
+    const stats = calculateBoxplotData(data, field);  // Pass the field name here
+    boxplotData.push({ ploegleider, ...stats });
+  }
+
+  // Create SVG
+  const margin = { top: 20, right: 20, bottom: 30, left: 40 };
+  const width = 960 - margin.left - margin.right;
+  const height = 500 - margin.top - margin.bottom;
+
+  const svg = d3.select(divId)
+    .append("svg")
+    .attr("width", width + margin.left + margin.right)
+    .attr("height", height + margin.top + margin.bottom)
+    .append("g")
+    .attr("transform", `translate(${margin.left},${margin.top})`);
+
+  // Create scales
+  const x = d3.scaleBand()
+    .range([0, width])
+    .domain(boxplotData.map(d => d.ploegleider))
+    .padding(0.2);
+
+  const y = d3.scaleLinear()
+    .range([height, 0])
+    .domain([0, d3.max(boxplotData, d => d.max)]);
+
+  // Add X-axis
+  svg.append("g")
+    .attr("transform", `translate(0,${height})`)
+    .call(d3.axisBottom(x));
+
+  // Add Y-axis
+  svg.append("g")
+    .call(d3.axisLeft(y));
+
+  // Create a tooltip div
+  const tooltip = d3.select("body")
+    .append("div")
+    .attr("class", "tooltip")
+    .style("opacity", 0);
+
+  // Add boxplots
+  const boxWidth = 50;
+
+  const boxes = svg.selectAll(".box")
+    .data(boxplotData)
+    .enter().append("g")
+    .attr("class", "box")
+    .attr("transform", d => `translate(${x(d.ploegleider)},0)`);
+
+  // Box
+  boxes.append("rect")
+    .attr("y", d => y(d.q3))
+    .attr("x", 0)
+    .attr("height", d => y(d.q1) - y(d.q3))
+    .attr("width", boxWidth)
+    .attr("stroke", "black")
+    .attr("fill", "#f9b3a2")
+    .on("mouseover", function(event, d) {
+        tooltip.transition()
+            .duration(200)
+            .style("opacity", .9);
+        tooltip.html(`Team: ${d.ploegleider}<br>Q1: ${d.q1.toFixed(1)}<br>Median: ${d.median.toFixed(1)}<br>Q3: ${d.q3.toFixed(1)}`)
+            .style("left", (event.pageX) + "px")
+            .style("top", (event.pageY - 250) + "px");  // 50 pixels higher
+        })
+    .on("mouseout", function(d) {
+      tooltip.transition()
+        .duration(500)
+        .style("opacity", 0);
+    });
+    
+  // Line: min to max
+  boxes.append("line")
+    .attr("x1", boxWidth/2)
+    .attr("x2", boxWidth/2)
+    .attr("y1", d => y(d.min))
+    .attr("y2", d => y(d.max))
+    .attr("stroke", "black");
+
+  // Line: min
+  boxes.append("line")
+    .attr("x1", 0)
+    .attr("x2", boxWidth)
+    .attr("y1", d => y(d.min))
+    .attr("y2", d => y(d.min))
+    .attr("stroke", "black");
+
+  // Line: max
+  boxes.append("line")
+    .attr("x1", 0)
+    .attr("x2", boxWidth)
+    .attr("y1", d => y(d.max))
+    .attr("y2", d => y(d.max))
+    .attr("stroke", "black");
+
+  // Line: median
+  boxes.append("line")
+    .attr("x1", 0)
+    .attr("x2", boxWidth)
+    .attr("y1", d => y(d.median))
+    .attr("y2", d => y(d.median))
+    .attr("stroke", "black")
+    .attr("stroke-width", 2);
+}
+
+  </script>

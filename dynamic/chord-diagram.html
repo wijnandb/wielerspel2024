@@ -1,0 +1,217 @@
+---
+layout: default
+title: "Renners per prijsklasse naar verdiensten - Wielerspel"
+---
+
+<div class="row">
+    <div class="col-md-9">
+        <div id="chordDiagram"></div>
+    </div>
+    <div class="col-md-3">
+        <div id="legend"></div>
+    </div>
+    <div class="col-md-12">
+        Toelichting:<br>Informatie verschijnt <i>on mouse over</i>, dus alleen op computer en niet op mobiel of tablet.<br />
+        Je ziet hier de prestaties van alle (verkochte) renners. De renners zijn ingedeeld in een aantal prijsklassen (begin op 12 uur,
+        met de klok mee, 0 punten t/m >20 punten, zie ook legenda). Er is aangegeven vanuit welke categorie qua kosten ze gaan naar welke 
+        categorie qua verdiensten.<br /> Nadeel is dat de omvang van de categorie wordt bepaald door de kosten, en niet door de verdiende punten.<br />
+        Dat is te zien doordat er 13 gratis renners zijn, terwijl er maar liefst
+    </div>
+</div>
+
+
+
+<script>
+    function processRiders(riders) {
+        // Initialize a 6x6 matrix with zeros
+        const matrix = Array.from({ length: 7 }, () => Array(7).fill(0));
+
+        // Loop through all riders
+        riders.forEach(rider => {
+            let i, j;
+
+            const kosten = parseInt(rider.kosten, 10); // Convert to integer
+            const punten = parseFloat(rider.punten);  // Convert to float
+
+            // Determine the "coming from" category based on price
+            if (kosten === 0) {
+            i = 0;
+            } else if (kosten > 0 && kosten <= 1) {
+            i = 1;
+            } else if (kosten > 1 && kosten < 3) {
+            i = 2;
+            } else if (kosten >= 3 && kosten <= 5) {
+            i = 3;
+            } else if (kosten >= 6 && kosten <= 10) {
+            i = 4;
+            } else if (kosten >= 11 && kosten <= 20) {
+            i = 5;
+            } else if (kosten > 20) {
+            i = 6;
+            }
+
+            // Determine the "going to" category based on points
+            if (punten === 0) {
+            j = 0;
+            } else if (punten > 0 && punten <= 1.5) {
+            j = 1;
+            } else if (punten > 1.5 && punten < 3) {
+            j = 2;
+            } else if (punten >= 3 && punten <= 5) {
+            j = 3;
+            } else if (punten >= 6 && punten <= 10) {
+            j = 4;
+            } else if (punten >= 11 && punten <= 20) {
+            j = 5;
+            } else if (punten > 20) {
+            j = 6;
+            }
+
+            // Increment the value at matrix[i][j]
+            if (i !== undefined && j !== undefined) {
+            matrix[i][j]++;
+            }
+        });
+
+        console.log(JSON.stringify(matrix));
+        createChordDiagram(matrix)
+        }
+
+
+    // Fetch and parse the CSV file
+    fetch('/assets/data/riders_with_points.csv')
+    .then(response => response.text())
+    .then(csvString => {
+        Papa.parse(csvString, {
+        header: true,
+        dynamicTyping: true,
+        complete: function(parsedResults) {
+            const riders = parsedResults.data;
+            processRiders(riders);
+        }
+        });
+    });
+
+function createChordDiagram(matrix)  {
+    const labels = ["0 punten", "1 punt", "2 punten", "3-5 punten", "6-10 punten", "10-20 punten", ">20 punten"];
+    const color = d3.scaleOrdinal()
+    .domain([0, 1, 2, 3, 4, 5, 6])
+    .range(["#1f77b4", "#ff7f0e", "#2ca02c", "#d62728", "#9467bd", "#8c564b", '#000000']);
+
+    // Create the chord layout
+    const chord = d3.chord()
+    .padAngle(0.05)
+    .sortSubgroups(d3.descending);
+
+    const chords = chord(matrix);
+
+    // SVG dimensions
+    const width = 800;
+    const height = 800;
+
+    // Create SVG
+    const svg = d3.select("#chordDiagram")
+    .append("svg")
+    .attr("width", width)
+    .attr("height", height);
+
+    // Create groups and chords
+    const outerRadius = Math.min(width, height) * 0.5 - 40;
+    const innerRadius = outerRadius - 30;
+
+    const g = svg.append("g")
+    .attr("transform", `translate(${width / 2},${height / 2})`);
+
+    // Create the groups
+    const group = g.append("g")
+    .selectAll("g")
+    .data(chords.groups)
+    .enter().append("g");
+
+    // Create the arcs
+    const arcs = group.append("path")
+    .attr("fill", d => color(d.index))
+    .attr("stroke", "#000")
+    .attr("d", d3.arc()
+        .innerRadius(innerRadius)
+        .outerRadius(outerRadius)
+    );
+
+    // Add hover functionality to display numbers
+    arcs.append("title")
+    .text(function(d, i) {
+        // Assuming that the matrix contains the numbers you want to display
+        return `Prijsklasse: ${labels[i]} \nAantal renners: ${matrix[i].reduce((a, b) => a + b, 0)}`;
+    });
+
+
+    // Create the ribbons
+    const ribbons = g.append("g")
+    .attr("fill-opacity", 0.67)
+    .selectAll("path")
+    .data(chords)
+    .enter().append("path")
+    .attr("d", d3.ribbon()
+        .radius(innerRadius)
+    )
+    .attr("fill", d => color(d.source.index))
+    .attr("stroke", "#000");
+
+    // Add hover functionality to display numbers for ribbons
+    ribbons.append("title")
+    .text(function(d) {
+        return `Van: ${labels[d.source.index]} \nNaar: ${labels[d.target.index]} \nAantal renners: ${d.source.value}`;
+    });
+
+
+    // Add the labels for each arc
+    // g.append("g")
+    // .selectAll("text")
+    // .data(chords.groups)
+    // .enter().append("text")
+    // .each(function(d) { 
+    //     d.angle = (d.startAngle + d.endAngle) / 2; 
+    // })
+    // .attr("dy", ".35em")
+    // .attr("font-size", "16px")  // Adjust font size here
+    // .attr("transform", function(d) {
+    //     const labelRadius = outerRadius + 30;  // Increase this value to move labels further away
+    //     const x = Math.cos(d.angle - Math.PI / 2) * labelRadius;
+    //     const y = Math.sin(d.angle - Math.PI / 2) * labelRadius;
+    //     return `translate(${x},${y})` 
+    //     + (d.angle > Math.PI && d.angle < 2 * Math.PI ? "rotate(180)" : "");
+    // })
+    // .attr("text-anchor", function(d) { 
+    //     return (d.angle > Math.PI && d.angle < 2 * Math.PI) ? "end" : "start"; 
+    // })
+    // .text(function(d, i) { 
+    //     return labels[i]; 
+    // });
+
+    function createLegend() {
+    const categories = ["0 punten", "1 punt", "2 punten", "3-5 punten", "6-10 punten", "10-20 punten", ">20 punten"];
+    const colors = ["#1f77b4", "#ff7f0e", "#2ca02c", "#d62728", "#9467bd", "#8c564b", '#000000'];
+
+    const legendDiv = d3.select("#legend");
+
+    categories.forEach((category, index) => {
+        const legendItem = legendDiv.append("div").attr("class", "legend-item");
+
+        legendItem.append("div")
+        .attr("class", "legend-color")
+        .style("background-color", colors[index]);
+
+        legendItem.append("div")
+        .attr("class", "legend-label")
+        .text(category);
+    });
+    }
+
+// Call the function to create the legend
+createLegend();
+
+}
+</script>
+<script src="https://d3js.org/d3.v6.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.0/papaparse.min.js"></script>
+  

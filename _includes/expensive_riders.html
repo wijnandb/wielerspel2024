@@ -1,0 +1,28 @@
+{% assign topriders = site.data.riders_with_points | sort: 'kosten' | reverse %}
+
+<h2>Duurste renners</h2>
+<table class="table table-striped">
+  <thead>
+    <tr>
+      <th>Renner</th>
+      <th>Ploegleider</th>
+      <th>Kosten</th>
+      <th>Punten</th>
+      <th>Opbrengst</th>
+    </tr>
+  </thead>
+  <tbody>
+  {% for rider in topriders | limit: 10 -%}
+  <tr>
+    <td>{{ rider.rider }}</td>
+    <td>{{ rider.ploegleider }}</td>
+    <td>{{ rider.kosten }}</td>
+    <td>{{ rider.punten }}</td>
+    {% assign diff = rider.punten | minus: rider.kosten %}
+    <td>{{ diff }}</td>
+  </tr>
+{%- endfor %}
+  </tbody>
+</table>
+
+<br />

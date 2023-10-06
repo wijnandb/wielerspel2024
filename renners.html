@@ -1,0 +1,33 @@
+---
+title: "Alle verkochte renners"
+layout: default
+---
+  <table class="table display compact" id="table_id" style="width:100%">
+    <thead>
+        <tr>
+            <th>Renner</th>
+            <th>Renner ID</th>
+            <th>Team</th>
+            <th>Land</th>
+            <th>Ploegleider</th>
+            <th>Kosten</th>
+            <th>Punten</th>
+            <th>JPP</th>
+        </tr>
+    </thead>
+    <tbody>
+        {% for member in site.data.riders_with_points %}
+        <tr>
+            <td><a href="https://cqranking.com/men/asp/gen/rider.asp?riderid={{ member.renner_id }}" title="CQranking pagina van {{ member.renner }}">{{ member.renner }}</a></td>
+            <td>{{ member.renner_id }}</td>
+            <td>{{ member.team }}</td>
+            <td>{{ member.nationality }}</td>
+            <td><a href="{{ site.baseurl }}{% link index.html %}ploegleiders/{{ member.ploegleider | downcase }}.html" title="Bekijk ploeg van {{ member.ploegleider }}">{{ member.ploegleider }}</a></td>
+            <td>{{ member.kosten }}</td>
+            <td>{{ member.punten }}</td>
+            <td>{{ member.JPP }}</td>
+        </tr>
+        {% endfor %}
+    </tbody>
+  </table>
+

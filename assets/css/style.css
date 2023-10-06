@@ -1,0 +1,138 @@
+a {
+    color: inherit;
+    text-decoration: none;
+  }
+  a:hover {
+    color: #0a58ca;
+    text-decoration: underline;
+  }
+  
+  a:not([href]):not([class]), a:not([href]):not([class]):hover {
+    color: inherit;
+    text-decoration: none;
+  }
+
+.bg-image-full {
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: center;
+    background-size: cover;
+  }  
+
+  .clickable-month {
+    cursor: pointer;
+    margin: 0 25px;  /* Adjust the margin as needed */
+  }
+
+/* Change cursor to pointer for clickable headers */
+th[onclick] {
+  cursor: pointer;
+}
+
+/* Add hover effect */
+th[onclick]:hover {
+  background-color: #f2f2f2;
+}
+
+.sort-up::before {
+  content: "▲";
+}
+
+.sort-down::before {
+  content: "▼";
+}
+
+.flex-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+
+/* Footer */
+/* Custom background color */
+.bg-dark-blue {
+  background-color: rgb(31, 41, 55);
+}
+
+/* Light-colored links */
+.footer-link {
+  color: rgba(255, 255, 255, 0.7);
+  text-decoration: none;
+}
+
+/* Hover effect */
+.footer-link:hover {
+  color: rgba(255, 255, 255, 1);
+  text-decoration: underline;
+}
+
+/* chord diagram */
+.legend-item {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.legend-color {
+  width: 20px;
+  height: 20px;
+  margin-right: 10px;
+}
+
+.legend-label {
+  font-size: 16px;
+}
+
+/* scatterplot */
+#tooltip {
+  background-color: white;
+  border: 1px solid black;
+  padding: 5px;
+}
+
+#legend {
+  margin-top: 20px;
+}
+
+/* boxplot */
+.tooltip {
+  position: absolute;
+  text-align: center;
+  width: 120px;
+  height: 128px;
+  padding: 2px;
+  font: 12px sans-serif;
+  background: lightsteelblue;
+  border: 0px;
+  border-radius: 8px;
+  pointer-events: none;
+}
+
+/* search results */
+#searchResults {
+  display: none; /* Initially hide the results div */
+  position: absolute;
+  width: 200px; /* Set the width as desired */
+  max-height: 300px;
+  overflow-y: auto;
+  border: 1px solid #ccc;
+  padding: 10px;
+  background-color: white;
+  z-index: 1;
+  text-align: left; /* Align text to the left */
+}
+
+
+/* Style for clickable div */
+.search-result-link {
+    display: block;
+    text-decoration: none !important; /* Remove underline with !important */
+    color: inherit;
+    padding: 5px 0; /* Add padding to make it clickable */
+}
+
+/* Style for clickable div hover */
+.search-result-link:hover {
+    background-color: grey;
+    color: white;
+}

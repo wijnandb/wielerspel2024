@@ -1,0 +1,27 @@
+{% assign riders_per_race = site.data.startlist | where: "race_id", page.race_id  %}
+<h1>{{ page.title }}</h1>
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>#</th>
+            <th></th>
+            <th>renner</th>
+            <th scope="col" class="d-none d-lg-table-cell">ploeg</th>
+            <th scope="col" class="d-none d-lg-table-cell">land</th>
+            <th>ploegleider</th>
+            <th>prijs</th>
+        </tr>
+    </thead>
+    <tbody>
+        {% for rider in riders_per_race %}
+            <tr{% if rider.dropped_out %} style="text-decoration: line-through; font-style: italic; color: red;"{% endif %}>
+                <td>{{ rider.start_number }}</td>
+                <td></td>
+                <td><img src="{{ site.baseurl }}/assets/img/flags/{{ rider.country }}.png" ALT="{{ rider.nationality }}" title="{{ rider.nationality }}" width="30">  <a href="https://cqranking.com/men/asp/gen/rider.asp?riderid={{ rider.cq_rider_id }}" target="_new">{{ rider.rider }}</a></td>
+                <td scope="col" class="d-none d-lg-table-cell">{{ rider.team }}</td>
+                <td>{{ rider.team_captain }}</td>
+                <td>{{ rider.price }}</td>
+            </tr>
+        {% endfor %}
+    </tbody>
+</table>

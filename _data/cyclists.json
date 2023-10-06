@@ -1,0 +1,19 @@
+[
+    {
+      "RiderID": "1",
+      "Name": "John Doe",
+      "Team": "Team A",
+      "Nationality": "USA",
+      "Age": 28,
+      "FirstCyclingRider_id": "12345"
+    },
+    {
+      "RiderID": "2",
+      "Name": "Jane Smith",
+      "Team": "Team B",
+      "Nationality": "Canada",
+      "Age": 25,
+      "FirstCyclingRider_id": "67890"
+    }
+  ]
+  

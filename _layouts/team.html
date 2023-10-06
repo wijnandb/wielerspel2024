@@ -1,0 +1,34 @@
+---
+layout: default
+---
+
+<h1>{{ page.title }}</h1>
+<table class="table display compact" id="table_id" style="width:100%">
+    <thead>
+        <tr>
+            <th>Renner</th>
+            <th>Team</th>
+            <th scope="col" class="d-none d-lg-table-cell">Nationaliteit</th>
+            <th scope="col" class="d-none d-md-table-cell">Ploegleider</th>
+            <th>Kosten</th>
+            <th>Punten</th>
+            <th scope="col" class="d-none d-sm-table-cell">JPP</th>
+        </tr>
+    </thead>
+    <tbody>
+        {% assign riders = site.data.riders_with_points %}
+        {% for member in riders %}
+            {% if member.ploegleider == page.ploegleider %}
+                <tr>
+                    <td><img src="/assets/img/flags/{{ member.nationality }}.png" ALT="{{ member.nationality }}" title="{{ member.nationality }}" width="30"> {{ member.renner }}</td>
+                    <td>{{ member.team }}</td>
+                    <td scope="col" class="d-none d-lg-table-cell">{{ member.nationality }}</td>
+                    <td scope="col" class="d-none d-md-table-cell">{{ member.ploegleider }}</td>
+                    <td>{{ member.kosten }}</td>
+                    <td>{{ member.punten }}</td>
+                    <td scope="col" class="d-none d-sm-table-cell">{{ member.JPP }}</td>
+                </tr>
+            {% endif %}
+        {% endfor %}
+    </tbody>
+  </table>

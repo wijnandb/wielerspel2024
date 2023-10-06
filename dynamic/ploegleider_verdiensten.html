@@ -1,0 +1,24 @@
+---
+layout: "default"
+title: "Ploegleider verdiensten en uitslagen per maand - Wielerspel"
+---
+<div class="row">
+  <div class="col-12">
+    <h1><span id="ploegleider">Ploegleider</span> verdiensten per maand</h1>
+    <label for="teamCaptainSelect">ploegleider:</label>
+    <select id="teamCaptainSelect"></select>
+
+    <canvas id="teamCaptainChart" width="800" height="400"></canvas>
+    <select id="monthSelect">
+      <!-- Months will be populated dynamically -->
+    </select>
+    <div id="latestResults">
+      <h2>Uitslagen in <div id="month"></div></h2>
+      <!-- Latest results will be populated dynamically -->
+    </div>
+  </div>
+</div>
+</div>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.0/papaparse.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<script src="ploegleider-verdiensten.js"></script>

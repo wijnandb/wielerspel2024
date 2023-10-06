@@ -1,0 +1,45 @@
+<div class="row justify-content-md-center">
+    <div class="col-1">
+
+    </div>
+    <div class="col-5">
+    
+    </div>
+    <div class="col-2">
+    punten
+    </div>
+    <div class="col-2">
+    JPP
+    </div>
+    <div class="col-1 d-none d-md-block">
+    bonus
+    </div>
+    <div class="col-1 d-none d-md-block">
+    Totaal
+    </div>
+</div>
+  {% for member in site.data.ranking %}
+    <div class="row justify-content-md-center">
+        <div class="col-1">
+        {{ member.positie }}.
+        </div>
+        <div class="col-5">
+            <a href="{{ site.baseurl }}{% link index.html %}ploegleiders/{{ member.short | downcase }}.html">
+            {{ member.ploegleider }}
+            </a>
+        </div>
+        <div class="col-2">
+        {{ member.punten }}
+        </div>
+        <div class="col-2">
+        {{ member.JPP }}
+        </div>
+        <div class="col-1 d-none d-md-block">
+        {{ member.punten }}
+        </div>
+        <div class="col-1 d-none d-md-block">
+        {{ member.JPP }}
+        </div>
+    </div>
+  {% endfor %}
+</div>

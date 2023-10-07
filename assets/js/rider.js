@@ -1,3 +1,5 @@
+var repo_name = "wielerspel2024";
+
 document.addEventListener("DOMContentLoaded", function () {
   // Function to extract RiderID from the URL
   function getRiderIDFromURL() {
@@ -48,7 +50,7 @@ document.addEventListener("DOMContentLoaded", function () {
     function updateRiderData(riderID) {
       console.log("Updating rider data with riderID:", riderID);
       // Fetch the cyclist data and display it based on the RiderID
-      fetch("{{ site.baseurl }}/assets/data/renners.json") // Adjust the path as needed
+      fetch("/$(repo_name)/assets/data/renners.json") // Adjust the path as needed
         .then((response) => response.json())
         .then((data) => {
           console.log("Fetched cyclist data:", data);
@@ -86,7 +88,7 @@ document.addEventListener("DOMContentLoaded", function () {
 function updateRiderResultsData(riderID) {
   console.log("Updating rider results data with riderID:", riderID);
   // Fetch the rider's results data based on RiderID
-  fetch("{{ site.baseurl }}/assets/data/history_teams_with_earnings.json") // Adjust the path as needed
+  fetch("/$(repo_name)/assets/data/history_teams_with_earnings.json") // Adjust the path as needed
     .then((response) => response.json())
     .then((resultsData) => {
       console.log("Fetched rider results data:", resultsData);

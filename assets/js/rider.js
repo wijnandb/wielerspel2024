@@ -64,7 +64,7 @@ document.addEventListener("DOMContentLoaded", function () {
             console.log("Age:", age);
             // Render data to HTML
             document.getElementById("riderPhoto").src = generateRiderPhotoURL(jsonData.RiderID);
-            document.getElementById("flag").src = `${repo_name}/assets/img/flags/${jsonData.Nationality}.png`;
+            document.getElementById("flag").src = `/${repo_name}/assets/img/flags/${jsonData.Nationality}.png`;
             document.getElementById("flag").alt = jsonData.Nationality;
             document.getElementById("flag").title = jsonData.Nationality;
             document.getElementById("birthdate").textContent = formattedBirthdate;

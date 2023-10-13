@@ -11,7 +11,7 @@ document.addEventListener("DOMContentLoaded", function () {
       console.log(urlParts[riderIDIndex]);
       return urlParts[riderIDIndex];
     } else {
-      return null; // RiderID not found in the URL
+      return 5; // RiderID not found in the URL
     }
   }
 

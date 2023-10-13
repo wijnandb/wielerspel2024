@@ -1,4 +1,4 @@
-var repo_name = "wielerspel2024";
+var repo_name = "/wielerspel2024/";
 
 document.addEventListener("DOMContentLoaded", function () {
   // Function to extract RiderID from the URL
@@ -7,11 +7,18 @@ document.addEventListener("DOMContentLoaded", function () {
     const riderIDIndex = urlParts.indexOf("renners") + 2;
 
     // Check if RiderID is found in the URL
-    if (riderIDIndex >= 0 && riderIDIndex < urlParts.length) {
+    if (riderIDIndex >= 0 && riderIDIndex < urlParts.length && urlParts[riderIDIndex] !== "") {
       console.log(urlParts[riderIDIndex]);
       return urlParts[riderIDIndex];
     } else {
-      return 5; // RiderID not found in the URL
+      // Try to extract the number after /#/
+      const hashParts = window.location.hash.split("/");
+      if (hashParts.length > 1 && !isNaN(hashParts[1]) && hashParts[1] !== "") {
+        console.log(hashParts[1]);
+        return hashParts[1];
+      } else {
+        return 5;  // RiderID not found in the URL
+      }
     }
   }
 
@@ -50,7 +57,7 @@ document.addEventListener("DOMContentLoaded", function () {
     function updateRiderData(riderID) {
       console.log("Updating rider data with riderID:", riderID);
       // Fetch the cyclist data and display it based on the RiderID
-      fetch(`/${repo_name}/assets/data/renners.json`)
+      fetch(`${repo_name}assets/data/renners.json`)
         .then((response) => response.json())
         .then((data) => {
           console.log("Fetched cyclist data:", data);
@@ -64,7 +71,7 @@ document.addEventListener("DOMContentLoaded", function () {
             console.log("Age:", age);
             // Render data to HTML
             document.getElementById("riderPhoto").src = generateRiderPhotoURL(jsonData.RiderID);
-            document.getElementById("flag").src = `/${repo_name}/assets/img/flags/${jsonData.Nationality}.png`;
+            document.getElementById("flag").src = `${repo_name}assets/img/flags/${jsonData.Nationality}.png`;
             document.getElementById("flag").alt = jsonData.Nationality;
             document.getElementById("flag").title = jsonData.Nationality;
             document.getElementById("birthdate").textContent = formattedBirthdate;
@@ -88,7 +95,7 @@ document.addEventListener("DOMContentLoaded", function () {
 function updateRiderResultsData(riderID) {
   console.log("Updating rider results data with riderID:", riderID);
   // Fetch the rider's results data based on RiderID
-  fetch(`/${repo_name}/assets/data/history_teams_with_earnings.json`)
+  fetch(`${repo_name}assets/data/history_teams_with_earnings.json`)
     .then((response) => response.json())
     .then((resultsData) => {
       console.log("Fetched rider results data:", resultsData);

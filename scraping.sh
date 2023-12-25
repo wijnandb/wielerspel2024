@@ -1,5 +1,5 @@
 #!/bin/bash
-path="/home/wijnandb/sites/heroku/wielerspel2023"
+path="/home/wijnandb/sites/heroku/wielerspel2024"
 cd $path
 echo "Start scraping"
 python generate_ranking/scraping.py

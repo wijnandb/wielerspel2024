@@ -1,0 +1,71 @@
+---
+layout: default
+title: Ploegen per jaar
+---
+
+<div class="row">
+  <div class="col-md-2">
+    <h1 id="teamCaptain"></h1>
+  </div>
+  <div class="col-md-2">
+    <h1 id="teamYear"></h1>
+  </div>
+  <div class="col-md-2">
+    <select id="yearSelect" class="form-control" onchange="navigateToNewUrl()" style="width: 100px;">
+      <option value="">jaar</option>
+      <option value="2022">2022</option>
+      <option value="2021">2021</option>
+      <option value="2020">2020</option>
+      <option value="2019">2019</option>
+      <option value="2018">2018</option>
+      <option value="2017">2017</option>
+      <option value="2016">2016</option>
+      <option value="2015">2015</option>
+      <option value="2014">2014</option>
+      <option value="2013">2013</option>
+    </select>
+  </div>
+  
+  <div class="col-md-2">
+    <select id="ploegleiderSelect" class="form-control" onchange="navigateToNewUrl()" style="width: 100px;">
+      <option value="">ploegleider</option>
+      <option value="Albert">Albert</option>
+      <option value="Arjan">Arjan</option>
+      <option value="Bram">Bram</option>
+      <option value="Frank">Frank R.</option>
+      <option value="Vel">Frank V.</option>
+      <option value="Harry">Harry</option>
+      <option value="Jan">Jan</option>
+      <option value="Kaspar">Kaspar</option>
+      <option value="Kees">Kees</option>
+      <option value="Nicky">Nicky</option>
+      <option value="Paul">Paul</option>
+      <option value="Pieter-Bas">Pieter-Bas</option>
+      <option value="Roy">Roy</option>
+      <option value="Wijnand">Wijnand</option>
+    </select>
+  </div>
+  <div class="table-responsive">
+    <table class="table table-responsive-sm">
+      <thead>
+        <tr>
+          <th id="editionHeader">jaar</th>
+          <th id="flagHeader">vlag</th>
+          <th id="riderHeader">renner</th>
+          <th id="costHeader">prijs</th>
+          <th id="pointsHeader">punten</th>
+          <th id="jppHeader">JPP</th>
+          <th id="profitHeader">+/-</th>
+          <th id="jokerHeader">joker</th>
+        </tr>
+      </thead>
+      <tbody id="ploegTableBody">
+        <!-- Results will be displayed here -->
+      </tbody>
+    </table>
+  </div>
+
+</div>
+
+
+<script src="{{ site.baseurl }}/assets/js/scripts.js"></script>

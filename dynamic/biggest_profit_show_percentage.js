@@ -49,7 +49,7 @@ function calculateAndDisplayData(results) {
     labels: sortedRiders.map(r => r.rider), // Label with rider names
     datasets: [
       {
-        label: 'Profit',
+        label: 'Marge',
         data: sortedRiders.map(r => r.profit), // Bar height represents profit
         backgroundColor: 'rgba(75, 192, 192, 0.2)',
         borderColor: 'rgba(75, 192, 192, 1)',

@@ -30,7 +30,7 @@ Parts of the workflow we need to get working:
 We also want to find out how to create different jobs, that depend on eachother.
 If there are no new results to scrape, we want the workflow to stop: there is nothing to do.
  
-See [https://github.com/wijnandb/wielerspel2023/blob/main/.github/workflows/scraping.yaml](https://github.com/wijnandb/wielerspel2023/blob/main/.github/workflows/scraping.yaml) for the code.
+See [https://github.com/wijnandb/wielerspel2024/blob/main/.github/workflows/scraping.yaml](https://github.com/wijnandb/wielerspel2024/blob/main/.github/workflows/scraping.yaml) for the code.
 
 First, the scraper runs. If the scraper finds new results, some csv files are changed. The changes are committed and subsquently another process runs, to process those results.
 

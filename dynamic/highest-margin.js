@@ -48,7 +48,7 @@ function calculateAndDisplayMargins(results) {
         borderWidth: 1
       },
       {
-        label: 'Profit',
+        label: 'Marge',
         data: sortedRiders.map(r => r.margin),
         stack: 'Stack 0',
         backgroundColor: 'rgba(75, 192, 192, 0.2)',
@@ -56,7 +56,7 @@ function calculateAndDisplayMargins(results) {
         borderWidth: 1
       },
       {
-        label: 'Points',
+        label: 'Punten',
         data: sortedRiders.map(r => r.points),
         backgroundColor: 'rgba(255, 206, 86, 0.2)',
         borderColor: 'rgba(255, 206, 86, 1)',

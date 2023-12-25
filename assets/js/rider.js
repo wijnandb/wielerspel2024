@@ -1,4 +1,21 @@
-var repo_name = "/wielerspel2024/";
+function getRepoNameFromUrl() {
+  // Extract the pathname and remove any leading or trailing slashes
+  const path = window.location.pathname.replace(/^\/|\/$/g, '');
+  
+  // Check if path matches any of the specified values
+  const specialValues = ["renners", "stand", "ploegen", "graphs"];
+  
+  if (specialValues.includes(path)) {
+      return "";
+  }
+  
+  // Return the path prefixed with a slash
+  return `/${path}`;
+}
+
+const repo_name = getRepoNameFromUrl();
+// console.log(repo_name);  // This will display the repo_name extracted from the URL
+
 
 document.addEventListener("DOMContentLoaded", function () {
   // Function to extract RiderID from the URL
@@ -57,10 +74,10 @@ document.addEventListener("DOMContentLoaded", function () {
     function updateRiderData(riderID) {
       console.log("Updating rider data with riderID:", riderID);
       // Fetch the cyclist data and display it based on the RiderID
-      fetch(`${repo_name}assets/data/renners.json`)
+      fetch(`${repo_name}/assets/data/renners.json`)
         .then((response) => response.json())
         .then((data) => {
-          console.log("Fetched cyclist data:", data);
+          // console.log("Fetched cyclist data:", data);
           const jsonData = data.find((item) => parseInt(item.RiderID, 10) === parseInt(riderID, 10));
 
   
@@ -95,7 +112,7 @@ document.addEventListener("DOMContentLoaded", function () {
 function updateRiderResultsData(riderID) {
   console.log("Updating rider results data with riderID:", riderID);
   // Fetch the rider's results data based on RiderID
-  fetch(`${repo_name}assets/data/history_teams_with_earnings.json`)
+  fetch(`${repo_name}/assets/data/history_teams_with_earnings.json`)
     .then((response) => response.json())
     .then((resultsData) => {
       console.log("Fetched rider results data:", resultsData);

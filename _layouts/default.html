@@ -5,7 +5,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
         <meta name="description" content="" />
         <meta name="author" content="" />
-        <title>Wielerspel 2023</title>
+        <title>Wielerspel 2024</title>
         <!-- Favicon-->
         <link rel="icon" type="image/x-icon" href="{{ '/assets/favicon.ico' | relative_url }}">
         <!-- Bootstrap core CSS-->
@@ -15,21 +15,20 @@
 
         <!-- Datatables CSS-->
         <link href="https://cdn.datatables.net/v/bs5/jszip-2.5.0/dt-1.13.4/b-2.3.6/b-html5-2.3.6/b-print-2.3.6/datatables.min.css" rel="stylesheet"/>
-        <!-- Plausible analytics -->
-        <script defer data-domain="wijnandb.github.io/wielerspel2023" src="https://plausible.io/js/script.hash.outbound-links.js"></script>
     </head>
 
     <body>
         <!-- Responsive navbar -->
         <nav class="navbar navbar-expand-lg navbar-light bg-light">
             <div class="container">
-                <a class="navbar-brand" href="{{ site.baseurl }}{% link index.html %}">Wielerspel 2023</a>
+                <a class="navbar-brand" href="{{ site.baseurl }}{% link index.html %}">Wielerspel 2024</a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
                     <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
                         <!-- li class="nav-item"><a class="nav-link active" aria-current="page" href="{{ '/startlist/races/GT/index.html' | relative_url }}">Vuelta</a></li -->
                         <li class="nav-item"><a class="nav-link active" href="{{ site.baseurl }}{% link renners.html %}">Verkochte renners</a></li>
                         <li class="nav-item"><a class="nav-link active" href="{{ site.baseurl }}{% link uitslagen.html %}">Uitslagen</a></li>
+                        <li class="nav-item"><a class="nav-link active" href="{{ site.baseurl }}{% link dynamic/index.html %}">Grafiekjes</a></li>
                     </ul>
                     <!-- Add the search box here -->
                     <div class="search-box">
@@ -54,7 +53,7 @@
             <div class="container">
 
                     {{ content }}
-                        <!--p class="mb-0"><div class="fb-comments" data-href="https://wijnandb.github.io/wielerspel2023{{ page.url }}" data-width="100%" data-numposts="10"></div></p-->
+                        <!--p class="mb-0"><div class="fb-comments" data-href="https://wijnandb.github.io/wielerspel2024{{ page.url }}" data-width="100%" data-numposts="10"></div></p-->
 
             </div>
         </section>
@@ -69,7 +68,7 @@
             crossorigin="anonymous"></script>
         <!-- Core theme JS-->
        
-        <!-- Papaparse to cread CSV files -->
+        <!-- Papaparse to read CSV files -->
         <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.0/papaparse.min.js"></script>
 
         <!-- datatables JS -->
@@ -120,7 +119,7 @@
                 const searchResults = document.getElementById("searchResults");
 
                 // Load the CSV data
-                const csvFilePath = "{{ site.baseurl }}/assets/data/riders_with_points.csv";
+                const csvFilePath = "{{ site.baseurl }}/assets/data/veillijst.csv";
                 Papa.parse(csvFilePath, {
                     header: true,
                     download: true,
@@ -133,7 +132,7 @@
                         searchInput.addEventListener("input", function () {
                             const searchTerm = searchInput.value.toLowerCase().trim();
                             const filteredResults = data.filter((row) => {
-                                return row.rider.toLowerCase().includes(searchTerm);
+                                return row.Name.toLowerCase().includes(searchTerm);
                             });
 
                             // Show or hide the results div based on input
@@ -154,8 +153,8 @@
                         searchResults.textContent = "No results found.";
                     } else {
                         results.forEach((result) => {
-                            const riderName = result.rider;
-                            const rennerId = result.renner_id;
+                            const riderName = result.Name;
+                            const rennerId = result.RiderID;
 
                             // Create an anchor element
                             const resultLink = document.createElement("a");

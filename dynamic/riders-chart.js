@@ -35,7 +35,7 @@ function calculateAndDisplayPoints(results) {
   const chartData = {
     labels: sortedRiders,
     datasets: [{
-      label: 'Points',
+      label: 'Punten',
       data: sortedRiders.map(rider => groupedData[rider]),
       backgroundColor: 'rgba(75, 192, 192, 0.2)',
       borderColor: 'rgba(75, 192, 192, 1)',

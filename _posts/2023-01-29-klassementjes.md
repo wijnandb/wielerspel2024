@@ -6,9 +6,9 @@ author: Wijnand
 
 Zonder zout in wonden te willen gooien of oude vetes nieuw leven in te willen blazen, snijd ik graag het onderwerp van klassementjes aan. Of, om de gemoederen te bedaren en het over een modernere, neutralere boeg te gooien: data.
 
-Nu we de mogelijkheden van het scrapen van data binnen onze toolset hebben, kunnen we nadenken over de exra data die we binnen willen halen, en hoe we deze kunnen verwerken en presenteren.
+Nu we de mogelijkheden van het scrapen van data binnen onze toolset hebben, kunnen we nadenken over de extra data die we binnen willen halen, en hoe we deze kunnen verwerken en presenteren.
 
-Een erg leuk klassementje/overzicht dat Jan ooit heeft samengesteld maar dat sindsien weer is verdwenen, was een overzicht van onze prestaties in de belangrijkste wedstridjen (de prestaties van onze renners bedoel iok dan natuurlijk en wel in het jaar dat je die renner in je bezit had).
+Een erg leuk klassementje/overzicht dat Jan ooit heeft samengesteld maar dat sindsien weer is verdwenen, was een overzicht van onze prestaties in de belangrijkste wedstrijden (de prestaties van onze renners bedoel iok dan natuurlijk en wel in het jaar dat je die renner in je bezit had).
 De belangrijke wedstrijden zijn de klassiekers (de monumenten), de grote rondes en het WK. We kunnen hier naar behoeven wedstrijden aan toevoegen, de wegwedstrijd op de Olympische Spelen is dan een kandidaat.
 
 Nu is de vraag, hoe haalbaar is het om deze data te vergaren en hoe willen we deze dan presenteren?

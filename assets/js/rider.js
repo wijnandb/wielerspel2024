@@ -15,7 +15,7 @@ function getRepoNameFromUrl() {
 
 // const repo_name = getRepoNameFromUrl();
 //  console.log(repo_name);  // This will display the repo_name extracted from the URL
-const repo_name = "wielerspel2024"
+const repo_name = "/wielerspel2024"
 
 document.addEventListener("DOMContentLoaded", function () {
   // Function to extract RiderID from the URL

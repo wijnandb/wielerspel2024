@@ -88,7 +88,7 @@ document.addEventListener("DOMContentLoaded", function () {
             console.log("Age:", age);
             // Render data to HTML
             document.getElementById("riderPhoto").src = generateRiderPhotoURL(jsonData.RiderID);
-            document.getElementById("flag").src = `${repo_name}assets/img/flags/${jsonData.Nationality}.png`;
+            document.getElementById("flag").src = `${repo_name}/assets/img/flags/${jsonData.Nationality}.png`;
             document.getElementById("flag").alt = jsonData.Nationality;
             document.getElementById("flag").title = jsonData.Nationality;
             document.getElementById("birthdate").textContent = formattedBirthdate;
@@ -97,7 +97,7 @@ document.addEventListener("DOMContentLoaded", function () {
             document.getElementById("teamLink").href = `https://cqranking.com/men/asp/gen/team.asp?year=2023&teamcode=${jsonData.Team}`;
             document.getElementById("teamLink").textContent = jsonData.Team;
             document.getElementById("CQLink").href = `https://cqranking.com/men/asp/gen/rider.asp?riderid=${jsonData.RiderID}`;
-            document.getElementById("PCSLink").href = `https://www.procyclingstats.com/rider/${jsonData.Team}`;
+            //document.getElementById("PCSLink").href = `https://www.procyclingstats.com/rider/${jsonData.Team}`;
             document.getElementById("FirstCyclingLink").href = `https://firstcycling.com/rider.php?r=${jsonData.FirstCyclingRider_id}`;
           } else {
             console.error("Rider not found!");

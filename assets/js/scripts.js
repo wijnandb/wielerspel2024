@@ -2,7 +2,7 @@
 let allData = [];
 
 async function loadAllData() {
-    const filename = '/assets/data/history_riders_with_points.json';
+    const filename = '/assets/data/history_teams_with_earnings.json';
     const response = await fetch(filename);
     allData = await response.json();
     // Sort allData based on "kosten" in descending order
@@ -59,7 +59,7 @@ function displayDataInTable(data) {
         <td class="${result.punten - result.kosten >= 0 ? 'text-success' : 'text-danger'}">
             ${(result.punten - result.kosten).toFixed(1)}
         </td>
-        <td>${jokercell}</td>
+        <td>${result.ploegleider}</td>
         `;
         tableBody.appendChild(row);
     });

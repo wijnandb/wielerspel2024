@@ -14,7 +14,7 @@ function getRepoNameFromUrl() {
 }
 
 const repo_name = getRepoNameFromUrl();
-// console.log(repo_name);  // This will display the repo_name extracted from the URL
+ console.log(repo_name);  // This will display the repo_name extracted from the URL
 
 
 document.addEventListener("DOMContentLoaded", function () {

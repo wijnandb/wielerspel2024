@@ -1,10 +1,4 @@
-startdate,enddate,race,FC_race_id,category,points,jpp,sold_riders,total_riders
-2023-10-04 00:00:00,,Visit Friesland Elfstedenrace,16523,1.1,2.4,0,5,150
-2023-10-05 00:00:00,,Asian Games RR,674,CCRR,0,0,2,180
-2023-10-05 00:00:00,,Gran Piemonte,61,1.PS,5.5,208,30,170
-2023-10-05 00:00:00,,Paris - Bourges,157,1.1,2.4,0,19,150
-2023-10-05 00:00:00,2023-10-09 00:00:00,Tour of Hainan,139,2.PS,5.5,208,0,0
-2023-10-07 00:00:00,,Il Lombardia,24,1.WT1,21.5,208,0,0
-2023-10-07 00:00:00,2023-10-09 00:00:00,Tour de Kyushu,18945,2.1,2.4,0,0,0
-2023-10-08 00:00:00,,Paris - Tours,28,1.PS,5.5,208,0,0
-2023-10-08 00:00:00,2023-10-15 00:00:00,Tour of Türkiye,152,2.1,2.4,0,0,0
+startdate,enddate,race,FC_race_id,category,points,jpp
+2024-01-16 00:00:00,2024-01-21 00:00:00,Tour Down Under,1,2.WT1,14.7,208
+2024-01-20 00:00:00,,Clàssica Comunitat Valenciana 1969 - GP Valencia,411,1.1,2.4,0
+2024-01-21 00:00:00,,Ruta de la Cerámica - Gran Premio Castellón,22183,1.1,2.4,0

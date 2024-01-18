@@ -1,0 +1,31 @@
+# separate workflow to run the processing (calculation, addding up) of points
+# normally not neede4 to run, is included in the scraping job, but nice
+# to be able to run manually
+
+on:
+  workflow_dispatch:
+
+jobs:
+  processing_points:
+    runs-on: ubuntu-latest
+    permissions: write-all
+
+    steps:
+      - uses: actions/checkout@v3.3.0
+
+      - name: set user
+        run: |
+          git config --global user.email "wb@retta.nl"
+          git config --global user.name "wijnandb"
+
+      - name: pull latest changes
+        run: git pull
+
+      - name: run processing points
+        run: python generate_ranking/processing.py
+      
+      - name: check for changes
+        id: git-check
+        run: |
+          git diff --quiet || (git add . && git commit -m "Processed points at $(date +'%Y-%m-%dT%H:%M:%S')" && git push origin HEAD:main)
+          

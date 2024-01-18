@@ -1,1 +1,197 @@
 startdate,enddate,race,race_id,category,points,JPP
+2024-01-16,2024-01-21,Tour Down Under,1,2.WT1,14.7,208
+2024-01-20,,Clàssica Comunitat Valenciana 1969 - GP Valencia,411,1.1,2.4,0
+2024-01-21,,Ruta de la Cerámica - Gran Premio Castellón,22183,1.1,2.4,0
+2024-01-24,,Trofeo Calvia,271,1.1,2.4,0
+2024-01-25,,Surf Coast Classic,13182,1.1,2.4,0
+2024-01-25,,Trofeo Ses Salines - Felantix,102,1.1,2.4,0
+2024-01-26,,Trofeo Serra de Tramuntana,100,1.1,2.4,0
+2024-01-27,,Trofeo Andratx,274,1.1,2.4,0
+2024-01-28,,Cadel Road Race,1172,1.WT3,8.0,208
+2024-01-28,,GP la Marseillaise,97,1.1,2.4,0
+2024-01-28,,Trofeo Palma,83,1.1,2.4,0
+2024-01-30,2024-02-03,AlUla Tour,868,2.1,2.4,0
+2024-01-31,2024-02-04,Étoile de Bessèges,106,2.1,2.4,0
+2024-01-31,2024-02-04,Volta Comunitat Valenciana,319,2.PS,5.5,208
+2024-02-06,2024-02-11,Tour Colombia,8519,2.1,2.4,0
+2024-02-08,2024-02-11,Tour de La Provence,4396,2.1,2.4,0
+2024-02-08,2024-02-11,Tour of Antalya,8472,2.1,2.4,0
+2024-02-09,,Muscat Classic,18946,1.1,2.4,0
+2024-02-10,2024-02-14,Tour of Oman,57,2.PS,5.5,208
+2024-02-10,,Vuelta a Murcia,74,1.1,2.4,0
+2024-02-11,,Clasica de Almeria,129,1.PS,5.5,208
+2024-02-12,,Jaén Paraiso Interior,16519,1.1,2.4,0
+2024-02-14,2024-02-18,Volta ao Algarve,107,2.PS,5.5,208
+2024-02-14,2024-02-18,Vuelta a Andalucía,110,2.PS,5.5,208
+2024-02-16,,Classic Var,21999,1.1,2.4,0
+2024-02-17,2024-02-18,Tour Alpes Maritimes du Var,111,2.1,2.4,0
+2024-02-18,2024-02-25,Tour of Rwanda,450,2.1,2.4,0
+2024-02-19,2024-02-25,UAE Tour,9800,2.WT3,8.0,208
+2024-02-22,2024-02-25,Gran Camiño,16526,2.1,2.4,0
+2024-02-24,,Faun-Ardèche Classic,121,1.PS,5.5,208
+2024-02-24,,Omloop Het Nieuwsblad,53,1.WT3,8.0,208
+2024-02-25,,Kuurne-Brussel-Kuurne,84,1.PS,5.5,208
+2024-02-25,,La Drome Classic,432,1.PS,5.5,208
+2024-02-27,,Le Samyn,116,1.1,2.4,0
+2024-02-28,,Trofeo Laigueglia,112,1.PS,5.5,208
+2024-03-02,,GP Criquielion,539,1.1,2.4,0
+2024-03-02,,Strade Bianche,54,1.WT2,14.7,208
+2024-03-03,,GP Jean-Pierre Monseré,2729,1.1,2.4,0
+2024-03-03,2024-03-10,Paris-Nice,2,2.WT1,14.7,208
+2024-03-04,2024-03-10,Tirreno-Adriatico,3,2.WT1,14.7,208
+2024-03-10,2024-03-14,Tour de Taiwan,132,2.1,2.4,0
+2024-03-13,,Milano - Torino,89,1.PS,5.5,208
+2024-03-13,,Nokere Koerse,122,1.PS,5.5,208
+2024-03-14,,GP de Denain,146,1.PS,5.5,208
+2024-03-15,,Bredene Koksijde Classic,123,1.PS,5.5,208
+2024-03-16,,Classic Loire Atlantique,124,1.1,2.4,0
+2024-03-16,,Milano-Sanremo,4,1.WT1,21.5,208
+2024-03-17,,Cholet Agglo Tour,125,1.1,2.4,0
+2024-03-18,2024-03-24,Volta Catalunya,14,2.WT1,14.7,208
+2024-03-19,2024-03-23,Coppi e Bartali,114,2.1,2.4,0
+2024-03-20,,Classic Brugge-De Panne,40,1.WT3,8.0,208
+2024-03-22,,E3 Saxo Classic,47,1.WT3,8.0,208
+2024-03-24,,Gent - Wevelgem,7,1.WT2,14.7,208
+2024-03-24,,La Roue Tourangelle,260,1.1,2.4,0
+2024-03-27,,Dwars door Vlaanderen,75,1.WT3,8.0,208
+2024-03-27,,Paris - Camembert,145,1.1,2.4,0
+2024-03-29,,Route Adélie de Vitré,134,1.1,2.4,0
+2024-03-30,,GP Miguel Indurain,48,1.PS,5.5,208
+2024-03-30,,Volta Limburg Classic,126,1.1,2.4,0
+2024-03-31,,Ronde van Vlaanderen,5,1.WT1,21.5,208
+2024-04-01,2024-04-06,Itzulia Basque Country,6,2.WT1,14.7,208
+2024-04-01,2024-04-06,Tour of Thailand,507,2.1,2.4,0
+2024-04-02,2024-04-05,Pays de la Loire Tour,217,2.1,2.4,0
+2024-04-03,,Scheldeprijs,56,1.PS,5.5,208
+2024-04-07,,Giro Reggio Calabria,108,1.1,2.4,0
+2024-04-07,,Paris-Roubaix,8,1.WT1,21.5,208
+2024-04-09,2024-04-12,Giro di Sicilia,11248,2.1,2.4,0
+2024-04-10,,Brabantse Pijl,77,1.PS,5.5,208
+2024-04-12,,Classic Grand Besançon Doubs,15075,1.1,2.4,0
+2024-04-13,,Tour du Jura,1285,1.1,2.4,0
+2024-04-14,,Amstel Gold Race,9,1.WT1,21.5,208
+2024-04-14,,Tour du Doubs,162,1.1,2.4,0
+2024-04-15,2024-04-19,Tour of the Alps,62,2.PS,5.5,208
+2024-04-17,,La Flèche Wallonne,10,1.WT2,14.7,208
+2024-04-21,,Giro di Romagna,15371,1.1,2.4,0
+2024-04-21,,Liège-Bastogne-Liège,11,1.WT1,21.5,208
+2024-04-21,2024-04-28,Tour of Türkiye,152,2.PS,5.5,208
+2024-04-23,2024-04-28,Tour de Romandie,12,2.WT1,14.7,208
+2024-04-26,2024-04-28,Vuelta a Asturias,153,2.1,2.4,0
+2024-04-28,,Famenne Ardenne Classic,7660,1.1,2.4,0
+2024-05-01,,Eschborn-Frankfurt,35,1.WT3,8.0,208
+2024-05-04,2024-05-26,Giro d'Italia,13,GT2,70.0,208
+2024-05-04,,GP de Plumelec-Morbihan,180,1.PS,5.5,208
+2024-05-05,,Elfstedenronde,8515,1.1,2.4,0
+2024-05-05,,Tro-Bro Leon,148,1.PS,5.5,208
+2024-05-08,2024-05-12,Tour de Hongrie,765,2.PS,5.5,208
+2024-05-09,,Circuit de Wallonie,537,1.1,2.4,0
+2024-05-11,,Tour du Finistère,147,1.1,2.4,0
+2024-05-12,,Boucles de l'Aulne,182,1.1,2.4,0
+2024-05-14,2024-05-19,4 Jours de Dunkerque,175,2.PS,5.5,208
+2024-05-15,2024-05-19,Tour of Hellas,513,2.1,2.4,0
+2024-05-18,,Veenendaal Classic,50,1.1,2.4,0
+2024-05-19,,Antwerp Port Epic,10204,1.1,2.4,0
+2024-05-20,,Ronde van Limburg,437,1.1,2.4,0
+2024-05-23,2024-05-26,Boucles de la Mayenne,343,2.PS,5.5,208
+2024-05-23,2024-05-25,Tour of Estonia,250,2.1,2.4,0
+2024-05-23,2024-05-26,Tour of Norway,71,2.PS,5.5,208
+2024-05-26,,Rund um Köln,144,1.1,2.4,0
+2024-05-29,,Circuit Franco-Belge,231,1.PS,5.5,208
+2024-05-29,,Mercan Tour Classic Alpes-Maritimes,13188,1.1,2.4,0
+2024-06-01,,Heistse Pijl,349,1.1,2.4,0
+2024-06-02,,Brussels Classic,64,1.PS,5.5,208
+2024-06-02,,Classica Andorra Pirineus,18948,1.1,2.4,0
+2024-06-02,2024-06-09,Critérium du Dauphiné,15,2.WT1,14.7,208
+2024-06-05,2024-06-09,Tour de Korea,255,2.1,2.4,0
+2024-06-05,2024-06-09,ZLM Tour,213,2.1,2.4,0
+2024-06-07,,GP Kanton Aargau,199,1.1,2.4,0
+2024-06-08,,Dwars door het Hageland,425,1.PS,5.5,208
+2024-06-09,2024-06-16,Tour de Suisse,16,2.WT1,14.7,208
+2024-06-12,2024-06-16,Belgium Tour,60,2.PS,5.5,208
+2024-06-12,2024-06-16,Tour of Slovenia,211,2.PS,5.5,208
+2024-06-15,2024-06-16,Route d'Occitanie,212,2.1,2.4,0
+2024-06-26,2024-06-30,Okolo Slovenska,380,2.1,2.4,0
+2024-06-29,2024-07-21,Tour de France,17,GT1,120.0,208
+2024-07-02,2024-07-07,Österreich-Rundfahrt,38,2.1,2.4,0
+2024-07-06,2024-07-09,Sibiu Cycling Tour,258,2.1,2.4,0
+2024-07-07,2024-07-14,Tour of Qinghai Lake,127,2.PS,5.5,208
+2024-07-10,2024-07-12,Settimana Lombarda,91,2.1,2.4,0
+2024-07-13,2024-07-15,Tour de l'Ain,63,2.1,2.4,0
+2024-07-14,,Giro dell'Appennino,149,1.1,2.4,0
+2024-07-22,2024-07-26,Tour de Wallonie,193,2.PS,5.5,208
+2024-07-23,2024-07-24,Vuelta a Castilla y León,85,2.1,2.4,0
+2024-07-24,2024-08-04,Volta a Portugal,197,2.1,2.4,0
+2024-07-25,2024-07-28,Czech Tour,15209,2.1,2.4,0
+2024-07-25,,Villafranca de Ordizia,207,1.1,2.4,0
+2024-07-27,,Olympic Games ITT,34,WCTT,14.7,208
+2024-08-03,,Olympic Games RR,33,WCRR,39.5,208
+2024-08-05,2024-08-09,Vuelta a Burgos,192,2.PS,5.5,208
+2024-08-08,2024-08-11,Arctic Race of Norway,259,2.PS,5.5,208
+2024-08-10,,San Sebastian Klasikoa,18,1.WT2,14.7,208
+2024-08-11,,Circuito de Getxo,202,1.1,2.4,0
+2024-08-11,,Polynormande,203,1.1,2.4,0
+2024-08-12,2024-08-18,Tour de Pologne,19,2.WT2,7.5,208
+2024-08-13,2024-08-16,Tour du Limousin,191,2.1,2.4,0
+2024-08-14,2024-08-18,PostNord Tour of Denmark,32,2.PS,5.5,208
+2024-08-15,,Tour of Leuven,161,1.1,2.4,0
+2024-08-17,2024-09-08,Vuelta a España,23,GT2,70.0,208
+2024-08-18,,Egmont Cycling Race,188,1.1,2.4,0
+2024-08-20,2024-08-23,Poitou-Charentes,187,2.1,2.4,0
+2024-08-21,2024-08-25,Deutschland Tour,36,2.PS,5.5,208
+2024-08-23,,Druivenkoers Overijse,186,1.1,2.4,0
+2024-08-25,,Bretagne Classic,22,1.WT2,14.7,208
+2024-08-28,,Muur Classic Geraardsbergen,996,1.1,2.4,0
+2024-08-28,2024-09-01,Renewi Tour,21,2.WT2,7.5,208
+2024-09-01,,Maryland Cycling Classic,13191,1.PS,5.5,208
+2024-09-01,2024-09-08,Tour of Britain,45,2.PS,5.5,208
+2024-09-08,,BEMER Cyclassics,20,1.WT2,14.7,208
+2024-09-08,,GP de Fourmies,92,1.PS,5.5,208
+2024-09-08,,GP Industria & Artigianato,263,1.PS,5.5,208
+2024-09-11,,Europe ITT,4020,CCTT,0,0
+2024-09-11,,Giro della Toscana,4025,1.1,2.4,0
+2024-09-12,,Europe Mixed Relay,12532,CCTT,0,0
+2024-09-12,,Coppa Sabatini,160,1.PS,5.5,208
+2024-09-13,,GP Québec,59,1.WT2,14.7,208
+2024-09-14,,Memorial Pantani,68,1.1,2.4,0
+2024-09-15,,Europe RR,4019,CCRR,0,0
+2024-09-15,,GP d'Isbergues,171,1.1,2.4,0
+2024-09-15,,GP Montreal,58,1.WT2,14.7,208
+2024-09-15,,Trofeo Matteotti,205,1.1,2.4,0
+2024-09-18,2024-09-22,Adriatica Ionica Race,8516,2.1,2.4,0
+2024-09-18,,GP de Wallonie,93,1.PS,5.5,208
+2024-09-18,2024-09-22,Tour de Luxembourg,37,2.PS,5.5,208
+2024-09-20,,Kamp. van Vlaanderen,167,1.1,2.4,0
+2024-09-21,,SUPER 8 Classic,168,1.PS,5.5,208
+2024-09-22,,Gooikse Pijl,444,1.1,2.4,0
+2024-09-22,,Paris-Chauny,949,1.1,2.4,0
+2024-09-22,,World Championship ITT,27,WCTT,14.7,208
+2024-09-25,,Omloop van het Houtland,170,1.1,2.4,0
+2024-09-25,,World Championship Mixed Relay,12533,WCTT,14.7,208
+2024-09-26,2024-09-29,Tour of Istanbul,20781,2.1,2.4,0
+2024-09-29,2024-10-06,Tour de Langkawi,128,2.PS,5.5,208
+2024-09-29,,World Championship RR,26,WCRR,39.5,208
+2024-10-01,,Binche-Chimay-Binche,159,1.1,2.4,0
+2024-10-01,2024-10-06,CRO Race,773,2.1,2.4,0
+2024-10-02,,Visit Friesland Elfstedenrace,16523,1.1,2.4,0
+2024-10-03,,Munsterland Giro,158,1.PS,5.5,208
+2024-10-03,,Paris - Bourges,157,1.1,2.4,0
+2024-10-05,,Giro dell'Emilia,29,1.PS,5.5,208
+2024-10-05,,Tour de Vendée,94,1.1,2.4,0
+2024-10-06,,Coppa Agostoni,262,1.1,2.4,0
+2024-10-06,,Paris - Tours,28,1.PS,5.5,208
+2024-10-06,2024-10-10,Tour of Iran,434,2.1,2.4,0
+2024-10-07,,Coppa Bernocchi,196,1.PS,5.5,208
+2024-10-08,,Tre Valli Varesine,190,1.PS,5.5,208
+2024-10-10,,Gran Piemonte,61,1.PS,5.5,208
+2024-10-10,2024-10-13,Tour of Taihu Lake,242,2.PS,5.5,208
+2024-10-11,2024-10-14,Tour de Kyushu,18945,2.1,2.4,0
+2024-10-12,,Il Lombardia,24,1.WT1,21.5,208
+2024-10-13,,Chrono des Nations,154,1.1,2.4,0
+2024-10-13,,Hong Kong Cyclothon,8499,1.1,2.4,0
+2024-10-13,,Trofeo Baracchi,374,1.1,2.4,0
+2024-10-15,2024-10-20,Gree - Tour of Guangxi,7591,2.WT3,8.0,208
+2024-10-15,2024-10-20,Turul Romaniei,549,2.1,2.4,0
+2024-10-16,,Giro del Veneto,183,1.PS,5.5,208
+2024-10-20,,Japan Cup,95,1.PS,5.5,208
+2024-10-20,,Veneto Classic,15208,1.PS,5.5,208

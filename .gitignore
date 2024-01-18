@@ -6,3 +6,4 @@ _site/
 .bundle/
 vendor/
 *.pyc
+generate_ranking/__pycache__

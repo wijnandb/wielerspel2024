@@ -3,7 +3,7 @@ on:
   #   branches:
   #     - main
   schedule:
-    - cron: '05 17,21 * 9 *'
+    - cron: '05 */6 * * *'
 
   workflow_dispatch:
 

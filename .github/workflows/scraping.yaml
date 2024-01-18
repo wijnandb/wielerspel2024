@@ -1,0 +1,59 @@
+on:
+  # push:
+  #   branches:
+  #     - main
+  schedule:
+    - cron: '05 17,21 * 9 *'
+
+  workflow_dispatch:
+
+jobs:
+  scraping:
+    runs-on: ubuntu-latest
+    permissions: write-all
+
+    steps:
+      - uses: actions/checkout@v3.3.0
+
+      - name: set user
+        run: |
+          git config --global user.email "wb@retta.nl"
+          git config --global user.name "wijnandb"
+
+      - name: pull latest changes
+        run: git pull
+
+      - name: install dependencies
+        run: pip install requests bs4 unidecode
+
+      - name: run scraper
+        run: python generate_ranking/scraping.py
+
+      - name: Check for new data
+        id: check-new-data
+        run: |
+          git diff --quiet || (git add . && git commit -m "New results at $(date +'%Y-%m-%dT%H:%M:%S')" && git push origin HEAD:main)
+        
+  processing:
+    runs-on: ubuntu-latest
+    permissions: write-all
+    needs: scraping
+    steps:
+      - uses: actions/checkout@v3.3.0
+
+      - name: set user
+        run: |
+          git config --global user.email "wb@retta.nl"
+          git config --global user.name "wijnandb"
+
+      - name: pull latest changes
+        run: git pull
+
+      - name: process-points
+        run: python generate_ranking/processing.py
+
+      - name: Check for changes in processing
+        id: check-processing-changes
+        run: |
+          git diff --quiet || (git add . && git commit -m "Points processed at $(date +'%Y-%m-%dT%H:%M:%S')" && git push origin HEAD:main)
+          

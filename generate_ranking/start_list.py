@@ -1,6 +1,6 @@
 """
 For each race a startlist is published on FirstCycling.
-https://firstcycling.com/race.php?r=12&y=2023&k=start
+https://firstcycling.com/race.php?r=12&y=2024&k=start
 r = race_id.
 y = year 
 and k = start means startlist
@@ -26,7 +26,7 @@ riders = process_files.read_csv_file('all_riders_cqranking_with_fc_rider_id.csv'
 startlist = [['race_id', 'start_number', 'rider', 'cq_rider_id', 'team', 'country', 'team_captain', 'team_captain_id', 'price', 'dropped_out']]
 
 
-def get_riders(race_id, year='2023'):
+def get_riders(race_id, year='2024'):
     start_url = "https://firstcycling.com/race.php?r="+race_id+"&y="+year+"&k=8"
     print(start_url)
 

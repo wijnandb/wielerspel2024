@@ -26,7 +26,7 @@ for c in calendar_with_startdate:
     if c[1] != "":
         c[1] = datetime.datetime.strptime(c[1], '%Y-%m-%d')
     calendar_with_dates.append(c)
-    # print(calendar_with_dates[-1])
+    print(calendar_with_dates[-1])
 
 
 def create_html_file(c):
@@ -34,7 +34,7 @@ def create_html_file(c):
     output = '---\nlayout: startlist\ntitle: Startlijst '+ c[2] +' ('+ c[4] +')\n'
     output += 'race_id: '+ c[3] +'\n---\n\n'
     # output += '{% include startlist.html %}\n\n'
-    output += '<a href="https://firstcycling.com/race.php?r='+ c[3] +'&y=2023&k=8" target="_new" title="Bekijk op FirstCycling.com">Bekijk volledige startlijst op FirstCycling</a>\n\n'
+    output += '<a href="https://firstcycling.com/race.php?r='+ c[3] +'&y=2024&k=8" target="_new" title="Bekijk op FirstCycling.com">Bekijk volledige startlijst op FirstCycling</a>\n\n'
 
 
     # write the output to an HTML file
@@ -81,7 +81,7 @@ for race in calendar_with_dates:
         current_races.append(race)
         create_html_file(race)
         try:
-            start_list.get_riders(race[3], '2023')
+            start_list.get_riders(race[3], '2024')
         except:
             print("No startlist found")
         

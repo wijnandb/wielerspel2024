@@ -69,7 +69,7 @@ def get_results():
         date = tds[0].text
         if len(date) < 8:
             # WIP: year hardcoded, use VARIABLE
-            date_string = date + "/2023"
+            date_string = date + "/2024"
             date = datetime.strptime(date_string, '%d/%m/%Y').date()
         rank = tds[4].text.split(".")[0]
         category = tds[1].text
@@ -92,7 +92,10 @@ def get_results():
                     if category[:3] == 'NCT':
                         category = count_riders.change_category_NCTT(country)
                         print(f"New category for {race_name}, changed to {category}")
-                    new_results.append([int(rank), category, race_name, int(race_id), rider.strip(), int(rider_id), float(points), int(JPP), date])
+                    if date > datetime.strptime("15-01-2024", "%d-%m-%Y").date():
+                        new_results.append([int(rank), category, race_name, int(race_id), rider.strip(), int(rider_id), float(points), int(JPP), date])
+                    else:
+                        print(f"Skipped {race_name} on {date} because it was raced before auction")
                 else:
                     if category[:4]=='1.WT' or category[:4]=='2.WT':
                         category = change_category.new_category(race_name, category)
@@ -262,7 +265,10 @@ def get_results_per_race(race_id, race_name, category, country=None):
                     category = count_riders.change_category_NCTT(country)
                 elif category[:2] == 'NC':
                     category = count_riders.change_category_NCRR(country)
-                new_results.append([int(rank), category, race_name, int(race_id), rider.strip(), int(rider_id), float(points), int(JPP), date])
+                if date > datetime.strptime("15-01-2024", "%d-%m-%Y").date():
+                    new_results.append([int(rank), category, race_name, int(race_id), rider.strip(), int(rider_id), float(points), int(JPP), date])
+                else:
+                    print(f"Skipped {race_name} on {date} because it was raced before auction")
             except:
                 continue
 

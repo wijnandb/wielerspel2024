@@ -1,7 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 import process_files
-YEAR = 2023
+YEAR = 2024
 """"
 Some results are not on CQranking, for innstance for the Big Tours
 we also award points for the leaders of the GC, the points and mountains ranking 
@@ -302,9 +302,6 @@ def add_points_to_calendar():
         extended_calendar.append(c)
     process_files.write_csv_file("calendar_points.csv", extended_calendar)
     
-
-# add_points_to_calendar()
-# get_calendar(2023, [1,2,3,4,5,6,7,8,9,10])
 
 def print_worldtour_races():
     for c in calendar[1:]:

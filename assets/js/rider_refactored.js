@@ -35,7 +35,7 @@ document.addEventListener("DOMContentLoaded", function () {
             document.getElementById("birthdate").textContent = formattedBirthdate;
             document.getElementById("age").textContent = `${age} jaar`;
             document.getElementById("riderName").textContent = jsonData.Name;
-            document.getElementById("teamLink").href = `https://cqranking.com/men/asp/gen/team.asp?year=2023&teamcode=${jsonData.Team}`;
+            document.getElementById("teamLink").href = `https://cqranking.com/men/asp/gen/team.asp?year=2024&teamcode=${jsonData.Team}`;
             document.getElementById("teamLink").textContent = jsonData.Team;
             document.getElementById("CQLink").href = `https://cqranking.com/men/asp/gen/rider.asp?riderid=${jsonData.RiderID}`;
             document.getElementById("PCSLink").href = `https://www.procyclingstats.com/rider/${jsonData.Team}`;

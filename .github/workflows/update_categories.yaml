@@ -1,0 +1,32 @@
+# this normally doesn't have to be run, it is already done on each scrape
+# if we have an error in the cahenge_category.py, i.e. a race name has been changed
+# and we find out too late (result is not in latest_results.csv anymore)
+# we can run this one
+
+on:
+  workflow_dispatch:
+
+jobs:
+  update_categories:
+    runs-on: ubuntu-latest
+    permissions: write-all
+
+    steps:
+      - uses: actions/checkout@v3.3.0
+
+      - name: set user
+        run: |
+          git config --global user.email "wb@retta.nl"
+          git config --global user.name "wijnandb"
+
+      - name: pull latest changes
+        run: git pull
+
+      - name: run check_categories
+        run: python generate_ranking/check_categories.py
+      
+      - name: check for changes
+        id: git-check
+        run: |
+          git diff --quiet || (git add . && git commit -m "Updated race_categories at $(date +'%Y-%m-%dT%H:%M:%S')" && git push origin HEAD:main)
+          

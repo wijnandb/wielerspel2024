@@ -1,7 +1,7 @@
 renner_id,renner,rider,ploegleider,kosten,team,nationality,age,punten,JPP
 24934,SIVAKOV Pavel,SIVAKOV Pavel,Albert,7,UAD,FRA,26,0,0
 29359,MILAN Jonathan,MILAN Jonathan,Albert,6,LTK,ITA,23,0,0
-19238,GROENEWEGEN Dylan,GROENEWEGEN Dylan,Albert,6,JAY,NED,30,0,0
+19238,GROENEWEGEN Dylan,GROENEWEGEN Dylan,Albert,6,JAY,NED,30,2,0
 17881,BILBAO LOPEZ DE ARMENTIA Pello,BILBAO LOPEZ DE ARMENTIA Pello,Albert,6,TBV,ESP,33,0,0
 14319,LANDA MEANA Mikel,LANDA MEANA Mikel,Albert,6,SOQ,ESP,34,0,0
 31264,VAUQUELIN Kevin,VAUQUELIN Kevin,Albert,5,ARK,FRA,22,0,0
@@ -151,7 +151,7 @@ renner_id,renner,rider,ploegleider,kosten,team,nationality,age,punten,JPP
 25157,NARVAEZ PRADO Jhonatan Manuel,NARVAEZ PRADO Jhonatan Manuel,Nicky,2,IGD,ECU,26,0,0
 21930,BOL Cees,BOL Cees,Nicky,2,AST,NED,28,0,0
 29332,VERMAERKE Kevin,VERMAERKE Kevin,Nicky,2,DSM,USA,23,0,0
-18714,COQUARD Bryan,COQUARD Bryan,Nicky,2,COF,FRA,31,0,0
+18714,COQUARD Bryan,COQUARD Bryan,Nicky,2,COF,FRA,31,0.3,0
 17534,HERRADA LOPEZ Jesus,HERRADA LOPEZ Jesus,Nicky,2,COF,ESP,33,0,0
 4179,KRISTOFF Alexander,KRISTOFF Alexander,Nicky,2,UXT,NOR,36,0,0
 20535,MASNADA Fausto,MASNADA Fausto,Nicky,1,SOQ,ITA,30,0,0

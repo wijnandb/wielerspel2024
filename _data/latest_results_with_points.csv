@@ -1,4 +1,17 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
+1,2.WT1,"Tour Down Under, General classification (prov.)",42454,WILLIAMS Stephen,24346,10,50,2024-01-21,PB
+2,2.WT1,"Tour Down Under, General classification (prov.)",42454,NARVAEZ PRADO Jhonatan Manuel,25157,3,35,2024-01-21,Nicky
+3,2.WT1,"Tour Down Under, General classification (prov.)",42454,DEL TORO ROMERO Isaac,33556,1,25,2024-01-21,Kees
+4,2.WT1,"Tour Down Under, General classification (prov.)",42454,ONLEY Oscar,31724,0.5,20,2024-01-21,Albert
+5,2.WT1,"Tour Down Under, General classification (prov.)",42454,LEMMEN Bart,32252,0.2,18,2024-01-21,-
+6,2.WT1,"Tour Down Under, General classification (prov.)",42454,ALAPHILIPPE Julian,18610,0,16,2024-01-21,Kaspar
+7,2.WT1,"Tour Down Under, General classification (prov.)",42454,YATES Simon,17893,0,14,2024-01-21,Jan
+8,2.WT1,"Tour Down Under, General classification (prov.)",42454,PARET PEINTRE Valentin,31495,0,12,2024-01-21,Jan
+9,2.WT1,"Tour Down Under, General classification (prov.)",42454,HOWSON Damien,18239,0,10,2024-01-21,-
+10,2.WT1,"Tour Down Under, General classification (prov.)",42454,HAIG Jack,21212,0,8,2024-01-21,Paul
+1,2.WT1s,"Tour Down Under, Stage 6 : Unley - Mount Lofty (prov.)",42453,WILLIAMS Stephen,24346,1,0,2024-01-21,PB
+1,2.WT1r,"Tour Down Under, Points classification (prov.)",42455,WELSFORD Sam,23517,0.0,0,2024-01-21,Albert
+1,2.WT1r,"Tour Down Under, Mountains classification (prov.)",42456,BURNS Luke,33367,0.0,0,2024-01-21,-
 1,2.WT1s,"Tour Down Under, Stage 5 : Christies Beach - Willunga Hill (prov.)",42452,ONLEY Oscar,31724,1,0,2024-01-20,Albert
 1,1.1,GP Valencia,42392,GROENEWEGEN Dylan,19238,2,0,2024-01-20,Albert
 2,1.1,GP Valencia,42392,COQUARD Bryan,18714,0.3,0,2024-01-20,Nicky

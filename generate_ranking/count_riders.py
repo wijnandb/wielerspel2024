@@ -55,14 +55,17 @@ def change_category_NCRR(country):
     Based on the number of sold riders, I want to change the category in the results.
     So in goed results, find the NC and NCT categories and change them to 
     1.WT3 (9 riders or more)
-    1.1 ()
-    NC5
+    1.1 (5 riders or more)
+    NC4 (at least 1)
+    NC5 (no riders)
     """
     number_sold = count_riders(country)
     if number_sold > 9:
         return '1.WT3'
     elif number_sold > 4:
         return '1.1'
+    elif number_sold > 0:
+        return 'NC4'
     else:
         return 'NC5'
 
@@ -72,12 +75,15 @@ def change_category_NCTT(country):
     So in goed results, find the NCT categories and change them to 
     NCT1 (more than 9 riders)
     NCT3 (more than 4 riders)
-    NCT5
+    NCT4 (more than 0 riders)
+    NCT5 (no riders)
     """
     number_sold = count_riders(country)
     if number_sold > 9:
         return 'NCT1'
     elif number_sold > 4:
         return 'NCT3'
+    elif number_sold > 0:
+        return 'NCT4'
     else:
         return 'NCT5'

@@ -121,7 +121,7 @@ renner_id,renner,rider,ploegleider,kosten,team,nationality,age,punten,JPP
 29828,VAN WILDER Ilan,VAN WILDER Ilan,Kees,7,SOQ,BEL,23,0,0
 22018,GEOGHEGAN HART Tao,GEOGHEGAN HART Tao,Kees,6,LTK,GBR,28,0,0
 27716,ARENSMAN Thymen,ARENSMAN Thymen,Kees,5,IGD,NED,24,0,0
-26508,MCNULTY Brandon,MCNULTY Brandon,Kees,4,UAD,USA,25,0,0
+26508,MCNULTY Brandon,MCNULTY Brandon,Kees,4,UAD,USA,25,0.1,0
 24873,FOSS Tobias Svendsen,FOSS Tobias Svendsen,Kees,2,IGD,NOR,26,0,0
 20847,POLITT Nils,POLITT Nils,Kees,2,UAD,GER,29,0,0
 26388,BJERG Mikkel,BJERG Mikkel,Kees,2,UAD,DEN,25,0,0
@@ -164,7 +164,7 @@ renner_id,renner,rider,ploegleider,kosten,team,nationality,age,punten,JPP
 23429,PEDERSEN Casper Phillip,PEDERSEN Casper Phillip,Nicky,0,SOQ,DEN,27,0,0
 21342,CARAPAZ MONTENEGRO Richard Antonio,CARAPAZ MONTENEGRO Richard Antonio,Paul,16,EFE,ECU,30,0,0
 19953,LAPORTE Christophe,LAPORTE Christophe,Paul,11,TJV,FRA,31,0,0
-24316,VLASOV Alexander,VLASOV Alexander,Paul,10,BOH,RUS,27,0,0
+24316,VLASOV Alexander,VLASOV Alexander,Paul,10,BOH,RUS,27,0.3,0
 28057,JORGENSON Matteo,JORGENSON Matteo,Paul,10,TJV,USA,24,0,0
 26637,GROVES Kaden,GROVES Kaden,Paul,9,ADC,AUS,25,0,0
 19651,EWAN Caleb,EWAN Caleb,Paul,7,JAY,AUS,29,0,0
@@ -195,7 +195,7 @@ renner_id,renner,rider,ploegleider,kosten,team,nationality,age,punten,JPP
 13066,MATTHEWS Michael,MATTHEWS Michael,PB,3,JAY,AUS,33,2,0
 18123,VALGREN ANDERSEN Michael,VALGREN ANDERSEN Michael,PB,2,EFE,DEN,31,0,0
 28298,COVI Alessandro,COVI Alessandro,PB,2,UAD,ITA,25,0,0
-30010,CARR Simon,CARR Simon,PB,2,EFE,GBR,25,0,0
+30010,CARR Simon,CARR Simon,PB,2,EFE,GBR,25,2,0
 12923,KWIATKOWSKI Michal,KWIATKOWSKI Michal,PB,2,IGD,POL,33,0,0
 14321,IZAGIRRE INSAUSTI Ion,IZAGIRRE INSAUSTI Ion,PB,2,COF,ESP,34,0,0
 29309,FEDOROV Yevgeniy,FEDOROV Yevgeniy,PB,1,AST,KAZ,23,0,0

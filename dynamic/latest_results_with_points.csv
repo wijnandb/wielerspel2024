@@ -1,10 +1,14 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
-1,1.1,Surf Coast Classic (prov.),42404,GIRMAY HAILU Biniam,29474,2,0,2024-01-25,Nicky
-2,1.1,Surf Coast Classic (prov.),42404,VIVIANI Elia,13240,0.3,0,2024-01-25,Arjan
-3,1.1,Surf Coast Classic (prov.),42404,STRONG Corbin,29492,0.1,0,2024-01-25,PB
-1,1.1,Trofeo Calvia (prov.),42398,CARR Simon,30010,2,0,2024-01-24,PB
-2,1.1,Trofeo Calvia (prov.),42398,VLASOV Aleksandr,24316,0.3,0,2024-01-24,Paul
-3,1.1,Trofeo Calvia (prov.),42398,MCNULTY Brandon,26508,0.1,0,2024-01-24,Kees
+1,1.1,Trofeo Ses Salines - Alcudia,42399,MAGNIER Paul,34555,2,0,2024-01-25,-
+2,1.1,Trofeo Ses Salines - Alcudia,42399,DAINESE Alberto,26965,0.3,0,2024-01-25,Jan
+3,1.1,Trofeo Ses Salines - Alcudia,42399,LAMPERTI Luke,31833,0.1,0,2024-01-25,Bram
+1,1.1,Surf Coast Classic,42404,GIRMAY HAILU Biniam,29474,2,0,2024-01-25,Nicky
+2,1.1,Surf Coast Classic,42404,VIVIANI Elia,13240,0.3,0,2024-01-25,Arjan
+3,1.1,Surf Coast Classic,42404,STRONG Corbin,29492,0.1,0,2024-01-25,PB
+1,NCT1,National Championships Colombia (Boyaca) I.T.T. (prov.),42405,MARTINEZ POVEDA Daniel Felipe,23503,2,0,2024-01-25,PB
+1,1.1,Trofeo Calvia,42398,CARR Simon,30010,2,0,2024-01-24,PB
+2,1.1,Trofeo Calvia,42398,VLASOV Aleksandr,24316,0.3,0,2024-01-24,Paul
+3,1.1,Trofeo Calvia,42398,MCNULTY Brandon,26508,0.1,0,2024-01-24,Kees
 1,2.WT1,"Tour Down Under, General classification",42454,WILLIAMS Stephen,24346,10,50,2024-01-21,PB
 2,2.WT1,"Tour Down Under, General classification",42454,NARVAEZ PRADO Jhonatan Manuel,25157,3,35,2024-01-21,Nicky
 3,2.WT1,"Tour Down Under, General classification",42454,DEL TORO ROMERO Isaac,33556,1,25,2024-01-21,Kees
@@ -30,4 +34,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 1,NCT5,National Championships Uruguay (Tacuarembo) I.T.T.,42396,ALONSO TORRES Agustin,29803,0.0,0,2024-01-20,-
 1,NC5,National Championships Oman (Qurayat) R.R.,42388,ALWAHIBI Mohammed,32879,0.0,0,2024-01-20,-
 1,2.WT1s,"Tour Down Under, Stage 4 : Murray Bridge - Port Elliot",42451,WELSFORD Sam,23517,1,0,2024-01-19,Albert
-1,NCT5,National Championships Thailand (Kanchanaburi) I.T.T.,42394,CHAIYASOMBAT Thanakhan,28399,0.0,0,2024-01-19,-

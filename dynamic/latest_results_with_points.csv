@@ -1,4 +1,7 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
+1,1.1,Surf Coast Classic (prov.),42404,GIRMAY HAILU Biniam,29474,2,0,2024-01-25,Nicky
+2,1.1,Surf Coast Classic (prov.),42404,VIVIANI Elia,13240,0.3,0,2024-01-25,Arjan
+3,1.1,Surf Coast Classic (prov.),42404,STRONG Corbin,29492,0.1,0,2024-01-25,PB
 1,1.1,Trofeo Calvia (prov.),42398,CARR Simon,30010,2,0,2024-01-24,PB
 2,1.1,Trofeo Calvia (prov.),42398,VLASOV Aleksandr,24316,0.3,0,2024-01-24,Paul
 3,1.1,Trofeo Calvia (prov.),42398,MCNULTY Brandon,26508,0.1,0,2024-01-24,Kees
@@ -28,4 +31,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 1,NC5,National Championships Oman (Qurayat) R.R.,42388,ALWAHIBI Mohammed,32879,0.0,0,2024-01-20,-
 1,2.WT1s,"Tour Down Under, Stage 4 : Murray Bridge - Port Elliot",42451,WELSFORD Sam,23517,1,0,2024-01-19,Albert
 1,NCT5,National Championships Thailand (Kanchanaburi) I.T.T.,42394,CHAIYASOMBAT Thanakhan,28399,0.0,0,2024-01-19,-
-1,NCT5,National Championships Oman (Wadi Al Abyadh) I.T.T.,42387,ALYAQOOBI Abdulrahman,33493,0.0,0,2024-01-19,-

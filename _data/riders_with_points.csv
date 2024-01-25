@@ -36,7 +36,7 @@ renner_id,renner,rider,ploegleider,kosten,team,nationality,age,punten,JPP
 27923,TURNER Ben,TURNER Ben,Arjan,2,IGD,GBR,24,0,0
 13272,PUCCIO Salvatore,PUCCIO Salvatore,Arjan,1,IGD,ITA,34,0,0
 26437,SWIFT Connor,SWIFT Connor,Arjan,1,IGD,GBR,28,0,0
-13240,VIVIANI Elia,VIVIANI Elia,Arjan,1,IGD,ITA,34,0,0
+13240,VIVIANI Elia,VIVIANI Elia,Arjan,1,IGD,ITA,34,0.3,0
 9811,CASTROVIEJO NICOLAS Jonathan,CASTROVIEJO NICOLAS Jonathan,Arjan,1,IGD,ESP,36,0,0
 23536,VARGAS ALZATE Walter Alejandro,VARGAS ALZATE Walter Alejandro,Arjan,0,MED,COL,31,0,0
 20730,VAN AERT Wout,VAN AERT Wout,Bram,49,TJV,BEL,29,0,0
@@ -140,7 +140,7 @@ renner_id,renner,rider,ploegleider,kosten,team,nationality,age,punten,JPP
 29419,BARONCINI Filippo,BARONCINI Filippo,Kees,0,UAD,ITA,23,0,0
 26392,PHILIPSEN Jasper,PHILIPSEN Jasper,Nicky,28,ADC,BEL,25,0,0
 24758,MADOUAS Valentin,MADOUAS Valentin,Nicky,11,FDJ,FRA,27,0,0
-29474,GIRMAY HAILU Biniam,GIRMAY HAILU Biniam,Nicky,10,ICW,ERI,23,0,0
+29474,GIRMAY HAILU Biniam,GIRMAY HAILU Biniam,Nicky,10,ICW,ERI,23,2,0
 23558,ASGREEN Kasper,ASGREEN Kasper,Nicky,7,SOQ,DEN,28,0,0
 13566,BARDET Romain,BARDET Romain,Nicky,7,DSM,FRA,33,0,0
 18749,FORMOLO Davide,FORMOLO Davide,Nicky,6,MOV,ITA,31,0,0
@@ -188,7 +188,7 @@ renner_id,renner,rider,ploegleider,kosten,team,nationality,age,punten,JPP
 28452,BAGIOLI Andrea,BAGIOLI Andrea,PB,11,LTK,ITA,24,0,0
 24255,GAUDU David,GAUDU David,PB,8,FDJ,FRA,27,0,0
 23503,MARTINEZ POVEDA Daniel Felipe,MARTINEZ POVEDA Daniel Felipe,PB,6,BOH,COL,27,0,0
-29492,STRONG Corbin,STRONG Corbin,PB,6,IPT,NZL,23,0,0
+29492,STRONG Corbin,STRONG Corbin,PB,6,IPT,NZL,23,0.1,0
 29699,BUITRAGO SANCHEZ Santiago,BUITRAGO SANCHEZ Santiago,PB,5,TBV,COL,24,0,0
 25704,GODON Dorian,GODON Dorian,PB,3,A2R,FRA,27,0,0
 23463,MOLANO BENAVIDES Juan Sebastian,MOLANO BENAVIDES Juan Sebastian,PB,3,UAD,COL,29,0,0

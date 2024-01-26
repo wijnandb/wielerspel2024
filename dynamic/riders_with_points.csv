@@ -21,7 +21,7 @@ renner_id,renner,rider,ploegleider,kosten,team,nationality,age,punten,JPP
 31724,ONLEY Oscar,ONLEY Oscar,Albert,2,DSM,GBR,21,1.5,20
 32720,VADER Milan,VADER Milan,Albert,2,TJV,NED,27,0,0
 25335,STORER Michael,STORER Michael,Albert,2,FDJ,AUS,26,0,0
-32225,VAN EETVELT Lennert,VAN EETVELT Lennert,Albert,2,LTD,BEL,22,0,0
+32225,VAN EETVELT Lennert,VAN EETVELT Lennert,Albert,2,LTD,BEL,22,2,0
 28521,VAN GILS Maxim,VAN GILS Maxim,Albert,2,LTD,BEL,24,0,0
 19242,VAN POPPEL Danny,VAN POPPEL Danny,Albert,2,BOH,NED,30,0,0
 33567,SEGAERT Alec,SEGAERT Alec,Albert,1,LTD,BEL,20,0,0
@@ -121,7 +121,7 @@ renner_id,renner,rider,ploegleider,kosten,team,nationality,age,punten,JPP
 29828,VAN WILDER Ilan,VAN WILDER Ilan,Kees,7,SOQ,BEL,23,0,0
 22018,GEOGHEGAN HART Tao,GEOGHEGAN HART Tao,Kees,6,LTK,GBR,28,0,0
 27716,ARENSMAN Thymen,ARENSMAN Thymen,Kees,5,IGD,NED,24,0,0
-26508,MCNULTY Brandon,MCNULTY Brandon,Kees,4,UAD,USA,25,0.1,0
+26508,MCNULTY Brandon,MCNULTY Brandon,Kees,4,UAD,USA,25,0.2,0
 24873,FOSS Tobias Svendsen,FOSS Tobias Svendsen,Kees,2,IGD,NOR,26,0,0
 20847,POLITT Nils,POLITT Nils,Kees,2,UAD,GER,29,0,0
 26388,BJERG Mikkel,BJERG Mikkel,Kees,2,UAD,DEN,25,0,0
@@ -164,7 +164,7 @@ renner_id,renner,rider,ploegleider,kosten,team,nationality,age,punten,JPP
 23429,PEDERSEN Casper Phillip,PEDERSEN Casper Phillip,Nicky,0,SOQ,DEN,27,0,0
 21342,CARAPAZ MONTENEGRO Richard Antonio,CARAPAZ MONTENEGRO Richard Antonio,Paul,16,EFE,ECU,30,0,0
 19953,LAPORTE Christophe,LAPORTE Christophe,Paul,11,TJV,FRA,31,0,0
-24316,VLASOV Alexander,VLASOV Alexander,Paul,10,BOH,RUS,27,0.3,0
+24316,VLASOV Alexander,VLASOV Alexander,Paul,10,BOH,RUS,27,0.6,0
 28057,JORGENSON Matteo,JORGENSON Matteo,Paul,10,TJV,USA,24,0,0
 26637,GROVES Kaden,GROVES Kaden,Paul,9,ADC,AUS,25,0,0
 19651,EWAN Caleb,EWAN Caleb,Paul,7,JAY,AUS,29,0,0

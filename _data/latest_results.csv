@@ -1,4 +1,7 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
+1,1.1,Trofeo Pollença - Port d'Andratx (prov.),42401,SANCHEZ MAYO Pelayo,31655,0.0,0,2024-01-27
+2,1.1,Trofeo Pollença - Port d'Andratx (prov.),42401,MAYRHOFER Marius,29192,0.0,0,2024-01-27
+3,1.1,Trofeo Pollença - Port d'Andratx (prov.),42401,VLASOV Aleksandr,24316,0.0,0,2024-01-27
 1,1.1,Trofeo Serra de Tramuntana,42400,VAN EETVELT Lennert,32225,0.0,0,2024-01-26
 2,1.1,Trofeo Serra de Tramuntana,42400,VLASOV Aleksandr,24316,0.0,0,2024-01-26
 3,1.1,Trofeo Serra de Tramuntana,42400,MCNULTY Brandon,26508,0.0,0,2024-01-26
@@ -32,7 +35,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
 1,NC5,National Championships Uruguay (Tacuarembo - Rivera) R.R.,42397,RODRIGUEZ RAMOS Diego Leonel,29716,0.0,0,2024-01-21
 1,NC5,National Championships Thailand (Kanchanaburi) R.R.,42395,CHAIYASOMBAT Thanakhan,28399,0.0,0,2024-01-21
 1,2.WT1s,"Tour Down Under, Stage 5 : Christies Beach - Willunga Hill",42452,ONLEY Oscar,31724,0.0,0,2024-01-20
-1,1.1,GP Valencia,42392,GROENEWEGEN Dylan,19238,0.0,0,2024-01-20
-2,1.1,GP Valencia,42392,COQUARD Bryan,18714,0.0,0,2024-01-20
-3,1.1,GP Valencia,42392,TEUTENBERG Tim Torn,31857,0.0,0,2024-01-20
-1,NCT5,National Championships Uruguay (Tacuarembo) I.T.T.,42396,ALONSO TORRES Agustin,29803,0.0,0,2024-01-20

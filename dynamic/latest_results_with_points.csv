@@ -1,4 +1,14 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
+1,1.WT3,Cadel Evans Great Ocean Road Race (prov.),42403,PITHIE Laurence,31638,5,50,2024-01-28,PB
+2,1.WT3,Cadel Evans Great Ocean Road Race (prov.),42403,TESFATSION Natnael Ocbit,28234,2,35,2024-01-28,-
+3,1.WT3,Cadel Evans Great Ocean Road Race (prov.),42403,ZIMMERMANN Georg,25165,1,25,2024-01-28,Paul
+4,1.WT3,Cadel Evans Great Ocean Road Race (prov.),42403,STRONG Corbin,29492,0,20,2024-01-28,PB
+5,1.WT3,Cadel Evans Great Ocean Road Race (prov.),42403,NARVAEZ PRADO Jhonatan Manuel,25157,0,18,2024-01-28,Nicky
+6,1.WT3,Cadel Evans Great Ocean Road Race (prov.),42403,MARIAULT Axel,30008,0,16,2024-01-28,-
+7,1.WT3,Cadel Evans Great Ocean Road Race (prov.),42403,HAMILTON Christopher,23885,0,14,2024-01-28,-
+8,1.WT3,Cadel Evans Great Ocean Road Race (prov.),42403,SCARONI Christian,27002,0,12,2024-01-28,-
+9,1.WT3,Cadel Evans Great Ocean Road Race (prov.),42403,RUTSCH Jonas,26438,0,10,2024-01-28,-
+10,1.WT3,Cadel Evans Great Ocean Road Race (prov.),42403,BARRE Louis,30055,0,8,2024-01-28,-
 1,1.1,Trofeo Pollença - Port d'Andratx,42401,SANCHEZ MAYO Pelayo,31655,2,0,2024-01-27,-
 2,1.1,Trofeo Pollença - Port d'Andratx,42401,MAYRHOFER Marius,29192,0.3,0,2024-01-27,Paul
 3,1.1,Trofeo Pollença - Port d'Andratx,42401,VLASOV Aleksandr,24316,0.1,0,2024-01-27,Paul
@@ -34,4 +44,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 3,1.1,GP Castellón - Ruta de la Cerámica,42393,ARANBURU DEBA Alexander,23940,0.1,0,2024-01-21,Harry
 1,NC5,National Championships Uruguay (Tacuarembo - Rivera) R.R.,42397,RODRIGUEZ RAMOS Diego Leonel,29716,0.0,0,2024-01-21,-
 1,NC5,National Championships Thailand (Kanchanaburi) R.R.,42395,CHAIYASOMBAT Thanakhan,28399,0.0,0,2024-01-21,-
-1,2.WT1s,"Tour Down Under, Stage 5 : Christies Beach - Willunga Hill",42452,ONLEY Oscar,31724,1,0,2024-01-20,Albert

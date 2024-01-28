@@ -30,7 +30,7 @@ renner_id,renner,rider,ploegleider,kosten,team,nationality,age,punten,JPP
 32809,POOLE Max,POOLE Max,Albert,1,DSM,GBR,20,0,0
 19165,TEUNISSEN Mike,TEUNISSEN Mike,Albert,1,ICW,NED,31,0,0
 25740,VINGEGAARD RASMUSSEN Jonas,VINGEGAARD RASMUSSEN Jonas,Arjan,63,TJV,DEN,27,0,0
-24926,BERNAL GOMEZ Egan Arley,BERNAL GOMEZ Egan Arley,Arjan,16,IGD,COL,26,0,0
+24926,BERNAL GOMEZ Egan Arley,BERNAL GOMEZ Egan Arley,Arjan,16,IGD,COL,26,1,25
 25653,KUSS Sepp,KUSS Sepp,Arjan,10,TJV,USA,29,0,0
 3891,THOMAS Geraint,THOMAS Geraint,Arjan,5,IGD,GBR,37,0,0
 27923,TURNER Ben,TURNER Ben,Arjan,2,IGD,GBR,24,0,0
@@ -54,7 +54,7 @@ renner_id,renner,rider,ploegleider,kosten,team,nationality,age,punten,JPP
 31654,AYUSO PESQUERA Juan,AYUSO PESQUERA Juan,Frank,25,UAD,ESP,21,0,0
 17988,MERLIER Tim,MERLIER Tim,Frank,12,SOQ,BEL,31,0,0
 30595,LAZKANO LOPEZ Oier,LAZKANO LOPEZ Oier,Frank,6,MOV,ESP,24,0,0
-27024,RUBIO REYES Einer Augusto,RUBIO REYES Einer Augusto,Frank,5,MOV,COL,25,0,0
+27024,RUBIO REYES Einer Augusto,RUBIO REYES Einer Augusto,Frank,5,MOV,COL,25,0,10
 26420,KRON Andreas Lorentz,KRON Andreas Lorentz,Frank,4,LTD,DEN,25,0,0
 31449,GLOAG Thomas,GLOAG Thomas,Frank,2,TJV,GBR,22,0,0
 18608,BYSTROM Sven Erik,BYSTROM Sven Erik,Frank,1,FDJ,NOR,31,0,0
@@ -80,7 +80,7 @@ renner_id,renner,rider,ploegleider,kosten,team,nationality,age,punten,JPP
 26383,GALL Felix,GALL Felix,Jan,6,A2R,AUT,25,0,0
 31598,SHEFFIELD Magnus,SHEFFIELD Magnus,Jan,5,IGD,USA,21,0,0
 16722,WELLENS Tim,WELLENS Tim,Jan,5,UAD,BEL,32,0,0
-25026,HIGUITA GARCIA Sergio Andres,HIGUITA GARCIA Sergio Andres,Jan,4,BOH,COL,26,0,0
+25026,HIGUITA GARCIA Sergio Andres,HIGUITA GARCIA Sergio Andres,Jan,4,BOH,COL,26,2,35
 25623,TILLER Rasmus Fossum,TILLER Rasmus Fossum,Jan,4,UXT,NOR,27,0,0
 27749,ZANA Filippo,ZANA Filippo,Jan,3,JAY,ITA,24,0,0
 23427,KEMNA Lennard,KEMNA Lennard,Jan,3,BOH,GER,27,0,0

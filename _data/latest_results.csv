@@ -1,4 +1,5 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
+1,2.1s,"AlUla Tour , Stage 2 : Winter Park - Sharaan Nature Reserve (prov.)",42464,WAERENSKJOLD Søren,29187,0.0,0,2024-01-31
 1,2.1s,"AlUla Tour , Stage 1 : Al Manshiyah - Al Manshiyah (prov.)",42463,VAN UDEN Casper,30636,0.0,0,2024-01-30
 1,1.WT3,Cadel Evans Great Ocean Road Race,42403,PITHIE Laurence,31638,0.0,0,2024-01-28
 2,1.WT3,Cadel Evans Great Ocean Road Race,42403,TESFATSION Natnael Ocbit,28234,0.0,0,2024-01-28
@@ -41,17 +42,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
 2,1.1,Surf Coast Classic,42404,VIVIANI Elia,13240,0.0,0,2024-01-25
 3,1.1,Surf Coast Classic,42404,STRONG Corbin,29492,0.0,0,2024-01-25
 1,NCT1,National Championships Colombia (Boyaca) I.T.T.,42405,MARTINEZ POVEDA Daniel Felipe,23503,0.0,0,2024-01-25
-1,1.1,Trofeo Calvia,42398,CARR Simon,30010,0.0,0,2024-01-24
-2,1.1,Trofeo Calvia,42398,VLASOV Aleksandr,24316,0.0,0,2024-01-24
-3,1.1,Trofeo Calvia,42398,MCNULTY Brandon,26508,0.0,0,2024-01-24
-1,2.WT1,"Tour Down Under, General classification",42454,WILLIAMS Stephen,24346,0.0,0,2024-01-21
-2,2.WT1,"Tour Down Under, General classification",42454,NARVAEZ PRADO Jhonatan Manuel,25157,0.0,0,2024-01-21
-3,2.WT1,"Tour Down Under, General classification",42454,DEL TORO ROMERO Isaac,33556,0.0,0,2024-01-21
-4,2.WT1,"Tour Down Under, General classification",42454,ONLEY Oscar,31724,0.0,0,2024-01-21
-5,2.WT1,"Tour Down Under, General classification",42454,LEMMEN Bart,32252,0.0,0,2024-01-21
-6,2.WT1,"Tour Down Under, General classification",42454,ALAPHILIPPE Julian,18610,0.0,0,2024-01-21
-7,2.WT1,"Tour Down Under, General classification",42454,YATES Simon,17893,0.0,0,2024-01-21
-8,2.WT1,"Tour Down Under, General classification",42454,PARET PEINTRE Valentin,31495,0.0,0,2024-01-21
-9,2.WT1,"Tour Down Under, General classification",42454,HOWSON Damien,18239,0.0,0,2024-01-21
-10,2.WT1,"Tour Down Under, General classification",42454,HAIG Jack,21212,0.0,0,2024-01-21
-1,2.WT1s,"Tour Down Under, Stage 6 : Unley - Mount Lofty",42453,WILLIAMS Stephen,24346,0.0,0,2024-01-21

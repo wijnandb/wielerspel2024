@@ -1,4 +1,6 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
+1,2.1s,"Etoile de Bessèges / Tour du Gard, Stage 2 : Marguerittes - Rousson (prov.)",42470,LAURANCE Axel,31621,0.2,0,2024-02-01,Jan
+1,2.1s,"AlUla Tour , Stage 3 : AlUla - AlUla (prov.)",42465,MERLIER Tim,17988,0.2,0,2024-02-01,Frank
 1,2.PSs,"Volta a la Comunitat Valenciana, Stage 1 : Benicassim - Castellón (prov.)",42475,TONELLI Alessandro,19901,0.3,0,2024-01-31,-
 1,2.1s,"Etoile de Bessèges / Tour du Gard, Stage 1 : Bellegarde - Bellegarde (prov.)",42469,no result,13543,0.2,0,2024-01-31,-
 1,2.1s,"AlUla Tour , Stage 2 : Winter Park - Sharaan Nature Reserve (prov.)",42464,WAERENSKJOLD Søren,29187,0.2,0,2024-01-31,Albert
@@ -36,7 +38,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 1,1.1,Trofeo Serra de Tramuntana,42400,VAN EETVELT Lennert,32225,2,0,2024-01-26,Albert
 2,1.1,Trofeo Serra de Tramuntana,42400,VLASOV Aleksandr,24316,0.3,0,2024-01-26,Paul
 3,1.1,Trofeo Serra de Tramuntana,42400,MCNULTY Brandon,26508,0.1,0,2024-01-26,Kees
-1,NCT5,National Championships Namibia (Windhoek) I.T.T.,42407,COETZEE Drikus,26844,0.0,0,2024-01-26,-
-1,1.1,Trofeo Ses Salines - Alcudia,42399,MAGNIER Paul,34555,2,0,2024-01-25,-
-2,1.1,Trofeo Ses Salines - Alcudia,42399,DAINESE Alberto,26965,0.3,0,2024-01-25,Jan
-3,1.1,Trofeo Ses Salines - Alcudia,42399,LAMPERTI Luke,31833,0.1,0,2024-01-25,Bram

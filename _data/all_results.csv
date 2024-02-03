@@ -1,20 +1,22 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
-1,2.1,"AlUla Tour , General classification (prov.)",42468,YATES Simon,17893,0.0,0,2024-02-03
-2,2.1,"AlUla Tour , General classification (prov.)",42468,LECERF William Junior,32229,0.0,0,2024-02-03
-3,2.1,"AlUla Tour , General classification (prov.)",42468,FISHER-BLACK Finn,30562,0.0,0,2024-02-03
-1,2.1s,"AlUla Tour , Stage 5 : AlUla - Harrat Uwayrid (prov.)",42467,YATES Simon,17893,0.0,0,2024-02-03
+1,2.PSs,"Volta a la Comunitat Valenciana, Stage 4 : Teulada - Vall d'Ebo (prov.)",42478,MCNULTY Brandon,26508,0.0,0,2024-02-03
+1,2.1,"AlUla Tour , General classification",42468,YATES Simon,17893,0.0,0,2024-02-03
+2,2.1,"AlUla Tour , General classification",42468,LECERF William Junior,32229,0.0,0,2024-02-03
+3,2.1,"AlUla Tour , General classification",42468,FISHER-BLACK Finn,30562,0.0,0,2024-02-03
+1,2.1s,"Etoile de Bessèges / Tour du Gard, Stage 4 : Méjannes le Clap - Méjannes le Clap (prov.)",42472,LEROUX Samuel,22909,0.0,0,2024-02-03
+1,2.1s,"AlUla Tour , Stage 5 : AlUla - Harrat Uwayrid",42467,YATES Simon,17893,0.0,0,2024-02-03
 1,2.PSs,"Volta a la Comunitat Valenciana, Stage 3 : San Vincente del Raspeig - Orihuela (prov.)",42477,MILAN Jonathan,29359,0.0,0,2024-02-02
 1,2.1s,"Etoile de Bessèges / Tour du Gard, Stage 3 : Bessèges - Bessèges (prov.)",42471,PEDERSEN Mads,21992,0.0,0,2024-02-02
-1,2.1s,"AlUla Tour , Stage 4 : Hegra - Maraya (prov.)",42466,MERLIER Tim,17988,0.0,0,2024-02-02
+1,2.1s,"AlUla Tour , Stage 4 : Hegra - Maraya",42466,MERLIER Tim,17988,0.0,0,2024-02-02
 1,NCT4,National Championships South Africa (Meyerton) I.T.T.,42411,GIBBONS Ryan,22205,0.0,0,2024-02-02
 1,2.PSs,"Volta a la Comunitat Valenciana, Stage 2 : Canals - Mancomunitat de la Valldigna (prov.)",42476,MOHORIC Matej,21145,0.0,0,2024-02-01
 1,2.1s,"Etoile de Bessèges / Tour du Gard, Stage 2 : Marguerittes - Rousson (prov.)",42470,LAURANCE Axel,31621,0.0,0,2024-02-01
-1,2.1s,"AlUla Tour , Stage 3 : AlUla - AlUla (prov.)",42465,MERLIER Tim,17988,0.0,0,2024-02-01
+1,2.1s,"AlUla Tour , Stage 3 : AlUla - AlUla",42465,MERLIER Tim,17988,0.0,0,2024-02-01
 1,NCT4,National Championships Ecuador (Riobamba) I.T.T.,42414,CARAPAZ MONTENEGRO Richard Antonio,21342,0.0,0,2024-02-01
 1,2.PSs,"Volta a la Comunitat Valenciana, Stage 1 : Benicassim - Castellón (prov.)",42475,TONELLI Alessandro,19901,0.0,0,2024-01-31
 1,2.1s,"Etoile de Bessèges / Tour du Gard, Stage 1 : Bellegarde - Bellegarde (prov.)",42469,no result,13543,0.0,0,2024-01-31
-1,2.1s,"AlUla Tour , Stage 2 : Winter Park - Sharaan Nature Reserve (prov.)",42464,WAERENSKJOLD Søren,29187,0.0,0,2024-01-31
-1,2.1s,"AlUla Tour , Stage 1 : Al Manshiyah - Al Manshiyah (prov.)",42463,VAN UDEN Casper,30636,0.0,0,2024-01-30
+1,2.1s,"AlUla Tour , Stage 2 : Winter Park - Sharaan Nature Reserve",42464,WAERENSKJOLD Søren,29187,0.0,0,2024-01-31
+1,2.1s,"AlUla Tour , Stage 1 : Al Manshiyah - Al Manshiyah",42463,VAN UDEN Casper,30636,0.0,0,2024-01-30
 1,1.WT3,Cadel Evans Great Ocean Road Race,42403,PITHIE Laurence,31638,0.0,0,2024-01-28
 2,1.WT3,Cadel Evans Great Ocean Road Race,42403,TESFATSION Natnael Ocbit,28234,0.0,0,2024-01-28
 3,1.WT3,Cadel Evans Great Ocean Road Race,42403,ZIMMERMANN Georg,25165,0.0,0,2024-01-28

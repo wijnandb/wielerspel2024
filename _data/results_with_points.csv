@@ -1,4 +1,8 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
+1,2.1,"AlUla Tour , General classification (prov.)",42468,YATES Simon,17893,2,0,2024-02-03,Jan
+2,2.1,"AlUla Tour , General classification (prov.)",42468,LECERF William Junior,32229,0.3,0,2024-02-03,-
+3,2.1,"AlUla Tour , General classification (prov.)",42468,FISHER-BLACK Finn,30562,0.1,0,2024-02-03,Kees
+1,2.1s,"AlUla Tour , Stage 5 : AlUla - Harrat Uwayrid (prov.)",42467,YATES Simon,17893,0.2,0,2024-02-03,Jan
 1,2.PSs,"Volta a la Comunitat Valenciana, Stage 3 : San Vincente del Raspeig - Orihuela (prov.)",42477,MILAN Jonathan,29359,0.3,0,2024-02-02,Albert
 1,2.1s,"Etoile de Bessèges / Tour du Gard, Stage 3 : Bessèges - Bessèges (prov.)",42471,PEDERSEN Mads,21992,0.2,0,2024-02-02,Kees
 1,2.1s,"AlUla Tour , Stage 4 : Hegra - Maraya (prov.)",42466,MERLIER Tim,17988,0.2,0,2024-02-02,Frank

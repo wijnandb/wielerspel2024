@@ -1,4 +1,8 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
+1,2.1,"AlUla Tour , General classification (prov.)",42468,YATES Simon,17893,0.0,0,2024-02-03
+2,2.1,"AlUla Tour , General classification (prov.)",42468,LECERF William Junior,32229,0.0,0,2024-02-03
+3,2.1,"AlUla Tour , General classification (prov.)",42468,FISHER-BLACK Finn,30562,0.0,0,2024-02-03
+1,2.1s,"AlUla Tour , Stage 5 : AlUla - Harrat Uwayrid (prov.)",42467,YATES Simon,17893,0.0,0,2024-02-03
 1,2.PSs,"Volta a la Comunitat Valenciana, Stage 3 : San Vincente del Raspeig - Orihuela (prov.)",42477,MILAN Jonathan,29359,0.0,0,2024-02-02
 1,2.1s,"Etoile de Bessèges / Tour du Gard, Stage 3 : Bessèges - Bessèges (prov.)",42471,PEDERSEN Mads,21992,0.0,0,2024-02-02
 1,2.1s,"AlUla Tour , Stage 4 : Hegra - Maraya (prov.)",42466,MERLIER Tim,17988,0.0,0,2024-02-02
@@ -24,16 +28,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
 1,1.1,GP La Marseillaise,42410,GENIETS Kévin,25763,0.0,0,2024-01-28
 2,1.1,GP La Marseillaise,42410,BAUDIN Alex,32146,0.0,0,2024-01-28
 3,1.1,GP La Marseillaise,42410,VAUQUELIN Kévin,31264,0.0,0,2024-01-28
-1,1.1,Trofeo Palma,42402,THIJSSEN Gerben,27085,0.0,0,2024-01-28
-2,1.1,Trofeo Palma,42402,KRISTOFF Alexander,4179,0.0,0,2024-01-28
-3,1.1,Trofeo Palma,42402,VAN DEN BERG Marijn,27674,0.0,0,2024-01-28
-1,1.WT3,National Championships Colombia (Boyaca) R.R.,42406,OSORIO CARVAJAL Alejandro,26540,0.0,0,2024-01-28
-2,1.WT3,National Championships Colombia (Boyaca) R.R.,42406,HIGUITA GARCIA Sergio Andres,25026,0.0,0,2024-01-28
-3,1.WT3,National Championships Colombia (Boyaca) R.R.,42406,BERNAL GOMEZ Egan Arley,24926,0.0,0,2024-01-28
-4,1.WT3,National Championships Colombia (Boyaca) R.R.,42406,MUÑOZ LANCHEROS Cristian Camilo,25402,0.0,0,2024-01-28
-5,1.WT3,National Championships Colombia (Boyaca) R.R.,42406,GOMEZ MARIN David Santiago,29697,0.0,0,2024-01-28
-6,1.WT3,National Championships Colombia (Boyaca) R.R.,42406,SUAZA ARANGO Bernardo Albeiro,22159,0.0,0,2024-01-28
-7,1.WT3,National Championships Colombia (Boyaca) R.R.,42406,LOPEZ RIVERA Robinson Fabian,26906,0.0,0,2024-01-28
-8,1.WT3,National Championships Colombia (Boyaca) R.R.,42406,RIVERA VARGAS Brandon Smith,26283,0.0,0,2024-01-28
-9,1.WT3,National Championships Colombia (Boyaca) R.R.,42406,RUBIO REYES Einer Augusto,27024,0.0,0,2024-01-28
-10,1.WT3,National Championships Colombia (Boyaca) R.R.,42406,PEÑA JIMENEZ Jesus David,29399,0.0,0,2024-01-28

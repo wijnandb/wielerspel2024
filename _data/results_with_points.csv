@@ -1,36 +1,36 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
-1,2.PS,"Volta a la Comunitat Valenciana, General classification (prov.)",42480,MCNULTY Brandon,26508,4,50,2024-02-04,Kees
-2,2.PS,"Volta a la Comunitat Valenciana, General classification (prov.)",42480,BUITRAGO SANCHEZ Santiago,29699,1,35,2024-02-04,PB
-3,2.PS,"Volta a la Comunitat Valenciana, General classification (prov.)",42480,VLASOV Aleksandr,24316,0.5,25,2024-02-04,Paul
-4,2.PS,"Volta a la Comunitat Valenciana, General classification (prov.)",42480,TONELLI Alessandro,19901,0,20,2024-02-04,-
-5,2.PS,"Volta a la Comunitat Valenciana, General classification (prov.)",42480,HINDLEY Jai,23948,0,18,2024-02-04,Kaspar
-6,2.PS,"Volta a la Comunitat Valenciana, General classification (prov.)",42480,BILBAO LOPEZ DE ARMENTIA Pello,17881,0,16,2024-02-04,Albert
-7,2.PS,"Volta a la Comunitat Valenciana, General classification (prov.)",42480,GROSSSCHARTNER Felix,19548,0,14,2024-02-04,Vel
-8,2.PS,"Volta a la Comunitat Valenciana, General classification (prov.)",42480,KEPPLINGER Rainer,32347,0,12,2024-02-04,-
-9,2.PS,"Volta a la Comunitat Valenciana, General classification (prov.)",42480,ROMO OLIVER Javier,31678,0,10,2024-02-04,Bram
-10,2.PS,"Volta a la Comunitat Valenciana, General classification (prov.)",42480,BERHE Welay Hagos,31740,0,8,2024-02-04,-
-1,2.PSs,"Volta a la Comunitat Valenciana, Stage 5 : Betera - Valencia (prov.)",42479,BARTA William,23362,0.3,0,2024-02-04,-
-1,2.1,"Etoile de Bessèges / Tour du Gard, General classification (prov.)",42474,PEDERSEN Mads,21992,2,0,2024-02-04,Kees
-2,2.1,"Etoile de Bessèges / Tour du Gard, General classification (prov.)",42474,VAUQUELIN Kévin,31264,0.3,0,2024-02-04,Albert
-3,2.1,"Etoile de Bessèges / Tour du Gard, General classification (prov.)",42474,BETTIOL Alberto,20697,0.1,0,2024-02-04,PB
-1,2.1s,"Etoile de Bessèges / Tour du Gard, Stage 5 : Alès - Aès I.T.T. (prov.)",42473,VAUQUELIN Kévin,31264,0.2,0,2024-02-04,Albert
-1,NC4,National Championships South Africa (Meyerton) R.R. (prov.),42412,GIBBONS Ryan,22205,1,0,2024-02-04,-
-1,2.PSs,"Volta a la Comunitat Valenciana, Stage 4 : Teulada - Vall d'Ebo (prov.)",42478,MCNULTY Brandon,26508,0.3,0,2024-02-03,Kees
+1,2.PS,"Volta a la Comunitat Valenciana, General classification",42480,MCNULTY Brandon,26508,4,50,2024-02-04,Kees
+2,2.PS,"Volta a la Comunitat Valenciana, General classification",42480,BUITRAGO SANCHEZ Santiago,29699,1,35,2024-02-04,PB
+3,2.PS,"Volta a la Comunitat Valenciana, General classification",42480,VLASOV Aleksandr,24316,0.5,25,2024-02-04,Paul
+4,2.PS,"Volta a la Comunitat Valenciana, General classification",42480,TONELLI Alessandro,19901,0,20,2024-02-04,-
+5,2.PS,"Volta a la Comunitat Valenciana, General classification",42480,HINDLEY Jai,23948,0,18,2024-02-04,Kaspar
+6,2.PS,"Volta a la Comunitat Valenciana, General classification",42480,BILBAO LOPEZ DE ARMENTIA Pello,17881,0,16,2024-02-04,Albert
+7,2.PS,"Volta a la Comunitat Valenciana, General classification",42480,GROSSSCHARTNER Felix,19548,0,14,2024-02-04,Vel
+8,2.PS,"Volta a la Comunitat Valenciana, General classification",42480,KEPPLINGER Rainer,32347,0,12,2024-02-04,-
+9,2.PS,"Volta a la Comunitat Valenciana, General classification",42480,ROMO OLIVER Javier,31678,0,10,2024-02-04,Bram
+10,2.PS,"Volta a la Comunitat Valenciana, General classification",42480,BERHE Welay Hagos,31740,0,8,2024-02-04,-
+1,2.PSs,"Volta a la Comunitat Valenciana, Stage 5 : Betera - Valencia",42479,BARTA William,23362,0.3,0,2024-02-04,-
+1,2.1,"Etoile de Bessèges / Tour du Gard, General classification",42474,PEDERSEN Mads,21992,2,0,2024-02-04,Kees
+2,2.1,"Etoile de Bessèges / Tour du Gard, General classification",42474,VAUQUELIN Kévin,31264,0.3,0,2024-02-04,Albert
+3,2.1,"Etoile de Bessèges / Tour du Gard, General classification",42474,BETTIOL Alberto,20697,0.1,0,2024-02-04,PB
+1,2.1s,"Etoile de Bessèges / Tour du Gard, Stage 5 : Alès - Aès I.T.T.",42473,VAUQUELIN Kévin,31264,0.2,0,2024-02-04,Albert
+1,NC4,National Championships South Africa (Meyerton) R.R.,42412,GIBBONS Ryan,22205,1,0,2024-02-04,-
+1,2.PSs,"Volta a la Comunitat Valenciana, Stage 4 : Teulada - Vall d'Ebo",42478,MCNULTY Brandon,26508,0.3,0,2024-02-03,Kees
 1,2.1,"AlUla Tour , General classification",42468,YATES Simon,17893,2,0,2024-02-03,Jan
 2,2.1,"AlUla Tour , General classification",42468,LECERF William Junior,32229,0.3,0,2024-02-03,-
 3,2.1,"AlUla Tour , General classification",42468,FISHER-BLACK Finn,30562,0.1,0,2024-02-03,Kees
-1,2.1s,"Etoile de Bessèges / Tour du Gard, Stage 4 : Méjannes le Clap - Méjannes le Clap (prov.)",42472,LEROUX Samuel,22909,0.2,0,2024-02-03,-
+1,2.1s,"Etoile de Bessèges / Tour du Gard, Stage 4 : Méjannes le Clap - Méjannes le Clap",42472,LEROUX Samuel,22909,0.2,0,2024-02-03,-
 1,2.1s,"AlUla Tour , Stage 5 : AlUla - Harrat Uwayrid",42467,YATES Simon,17893,0.2,0,2024-02-03,Jan
 1,NC4,National Championships Ecuador (Riobamba) R.R.,42413,NARVAEZ PRADO Jhonatan Manuel,25157,1,0,2024-02-03,Nicky
-1,2.PSs,"Volta a la Comunitat Valenciana, Stage 3 : San Vincente del Raspeig - Orihuela (prov.)",42477,MILAN Jonathan,29359,0.3,0,2024-02-02,Albert
-1,2.1s,"Etoile de Bessèges / Tour du Gard, Stage 3 : Bessèges - Bessèges (prov.)",42471,PEDERSEN Mads,21992,0.2,0,2024-02-02,Kees
+1,2.PSs,"Volta a la Comunitat Valenciana, Stage 3 : San Vincente del Raspeig - Orihuela",42477,MILAN Jonathan,29359,0.3,0,2024-02-02,Albert
+1,2.1s,"Etoile de Bessèges / Tour du Gard, Stage 3 : Bessèges - Bessèges",42471,PEDERSEN Mads,21992,0.2,0,2024-02-02,Kees
 1,2.1s,"AlUla Tour , Stage 4 : Hegra - Maraya",42466,MERLIER Tim,17988,0.2,0,2024-02-02,Frank
 1,NCT4,National Championships South Africa (Meyerton) I.T.T.,42411,GIBBONS Ryan,22205,0.5,0,2024-02-02,-
-1,2.PSs,"Volta a la Comunitat Valenciana, Stage 2 : Canals - Mancomunitat de la Valldigna (prov.)",42476,MOHORIC Matej,21145,0.3,0,2024-02-01,PB
-1,2.1s,"Etoile de Bessèges / Tour du Gard, Stage 2 : Marguerittes - Rousson (prov.)",42470,LAURANCE Axel,31621,0.2,0,2024-02-01,Jan
+1,2.PSs,"Volta a la Comunitat Valenciana, Stage 2 : Canals - Mancomunitat de la Valldigna",42476,MOHORIC Matej,21145,0.3,0,2024-02-01,PB
+1,2.1s,"Etoile de Bessèges / Tour du Gard, Stage 2 : Marguerittes - Rousson",42470,LAURANCE Axel,31621,0.2,0,2024-02-01,Jan
 1,2.1s,"AlUla Tour , Stage 3 : AlUla - AlUla",42465,MERLIER Tim,17988,0.2,0,2024-02-01,Frank
 1,NCT4,National Championships Ecuador (Riobamba) I.T.T.,42414,CARAPAZ MONTENEGRO Richard Antonio,21342,0.5,0,2024-02-01,Paul
-1,2.PSs,"Volta a la Comunitat Valenciana, Stage 1 : Benicassim - Castellón (prov.)",42475,TONELLI Alessandro,19901,0.3,0,2024-01-31,-
+1,2.PSs,"Volta a la Comunitat Valenciana, Stage 1 : Benicassim - Castellón",42475,TONELLI Alessandro,19901,0.3,0,2024-01-31,-
 1,2.1s,"Etoile de Bessèges / Tour du Gard, Stage 1 : Bellegarde - Bellegarde (prov.)",42469,no result,13543,0.2,0,2024-01-31,-
 1,2.1s,"AlUla Tour , Stage 2 : Winter Park - Sharaan Nature Reserve",42464,WAERENSKJOLD Søren,29187,0.2,0,2024-01-31,Albert
 1,2.1s,"AlUla Tour , Stage 1 : Al Manshiyah - Al Manshiyah",42463,VAN UDEN Casper,30636,0.2,0,2024-01-30,-

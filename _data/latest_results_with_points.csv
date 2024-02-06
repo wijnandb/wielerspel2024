@@ -1,4 +1,5 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
+1,2.1s,"Tour Colombia, Stage 1 : Paipa - Duitama (prov.)",42481,GAVIRIA RENDON Fernando,20777,0.2,0,2024-02-06,Albert
 1,NCT5,National Championships Philippines (Tagaytay) I.T.T.,42544,PAREJA Nichol Blanca,30502,0.0,0,2024-02-06,-
 1,2.PS,"Volta a la Comunitat Valenciana, General classification",42480,MCNULTY Brandon,26508,4,50,2024-02-04,Kees
 2,2.PS,"Volta a la Comunitat Valenciana, General classification",42480,BUITRAGO SANCHEZ Santiago,29699,1,35,2024-02-04,PB
@@ -30,4 +31,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 1,2.PSs,"Volta a la Comunitat Valenciana, Stage 2 : Canals - Mancomunitat de la Valldigna",42476,MOHORIC Matej,21145,0.3,0,2024-02-01,PB
 1,2.1s,"Etoile de Bessèges / Tour du Gard, Stage 2 : Marguerittes - Rousson",42470,LAURANCE Axel,31621,0.2,0,2024-02-01,Jan
 1,2.1s,"AlUla Tour , Stage 3 : AlUla - AlUla",42465,MERLIER Tim,17988,0.2,0,2024-02-01,Frank
-1,NCT4,National Championships Ecuador (Riobamba) I.T.T.,42414,CARAPAZ MONTENEGRO Richard Antonio,21342,0.5,0,2024-02-01,Paul

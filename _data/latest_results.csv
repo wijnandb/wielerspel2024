@@ -1,4 +1,8 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
+1,1.1,Muscat Classic (prov.),42415,FISHER-BLACK Finn,30562,0.0,0,2024-02-09
+2,1.1,Muscat Classic (prov.),42415,LAMPERTI Luke,31833,0.0,0,2024-02-09
+3,1.1,Muscat Classic (prov.),42415,CAPIOT Amaury,22669,0.0,0,2024-02-09
+1,2.1s,"Tour de la Provence , Stage 1 : Aix-en-Provence - Martigues (prov.)",42495,PEDERSEN Mads,21992,0.0,0,2024-02-09
 1,2.1s,"Tour Colombia, Stage 3 : Tunja - Tunja (prov.)",42483,OSORIO CARVAJAL Alejandro,26540,0.0,0,2024-02-08
 1,2.1s,"Tour de la Provence , Prologue : Marseille I.T.T. (prov.)",42494,PEDERSEN Mads,21992,0.0,0,2024-02-08
 1,2.1s,"Tour of Antalya, Stage 1 : Manavgat - Antalya (prov.)",42489,DUPONT Timothy,7948,0.0,0,2024-02-08
@@ -29,5 +33,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
 1,2.1s,"Etoile de Bessèges / Tour du Gard, Stage 4 : Méjannes le Clap - Méjannes le Clap",42472,LEROUX Samuel,22909,0.0,0,2024-02-03
 1,2.1s,"AlUla Tour , Stage 5 : AlUla - Harrat Uwayrid",42467,YATES Simon,17893,0.0,0,2024-02-03
 1,NC4,National Championships Ecuador (Riobamba) R.R.,42413,NARVAEZ PRADO Jhonatan Manuel,25157,0.0,0,2024-02-03
-1,2.PSs,"Volta a la Comunitat Valenciana, Stage 3 : San Vincente del Raspeig - Orihuela",42477,MILAN Jonathan,29359,0.0,0,2024-02-02
-1,2.1s,"Etoile de Bessèges / Tour du Gard, Stage 3 : Bessèges - Bessèges",42471,PEDERSEN Mads,21992,0.0,0,2024-02-02

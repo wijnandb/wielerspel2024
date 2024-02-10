@@ -1,4 +1,11 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
+1,2.PSs,"Tour of Oman, Stage 1 : Al Rustaq Fort - Muscat (prov.)",42499,EWAN Caleb,19651,0.0,0,2024-02-10
+1,1.1,Vuelta a Murcia (prov.),42419,O'CONNOR Ben,23763,0.0,0,2024-02-10
+2,1.1,Vuelta a Murcia (prov.),42419,TRATNIK Jan,12748,0.0,0,2024-02-10
+3,1.1,Vuelta a Murcia (prov.),42419,WELLENS Tim,16722,0.0,0,2024-02-10
+1,1.1,National Championships New Zealand (Timaru) R.R.,42416,GATE Aaron,13153,0.0,0,2024-02-10
+2,1.1,National Championships New Zealand (Timaru) R.R.,42416,STRONG Corbin,29492,0.0,0,2024-02-10
+3,1.1,National Championships New Zealand (Timaru) R.R.,42416,PITHIE Laurence,31638,0.0,0,2024-02-10
 1,1.1,Muscat Classic,42415,FISHER-BLACK Finn,30562,0.0,0,2024-02-09
 2,1.1,Muscat Classic,42415,LAMPERTI Luke,31833,0.0,0,2024-02-09
 3,1.1,Muscat Classic,42415,CAPIOT Amaury,22669,0.0,0,2024-02-09
@@ -29,8 +36,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
 1,2.1s,"Etoile de Bessèges / Tour du Gard, Stage 5 : Alès - Aès I.T.T.",42473,VAUQUELIN Kévin,31264,0.0,0,2024-02-04
 1,NC4,National Championships South Africa (Meyerton) R.R.,42412,GIBBONS Ryan,22205,0.0,0,2024-02-04
 1,2.PSs,"Volta a la Comunitat Valenciana, Stage 4 : Teulada - Vall d'Ebo",42478,MCNULTY Brandon,26508,0.0,0,2024-02-03
-1,2.1,"AlUla Tour , General classification",42468,YATES Simon,17893,0.0,0,2024-02-03
-2,2.1,"AlUla Tour , General classification",42468,LECERF William Junior,32229,0.0,0,2024-02-03
-3,2.1,"AlUla Tour , General classification",42468,FISHER-BLACK Finn,30562,0.0,0,2024-02-03
-1,2.1s,"Etoile de Bessèges / Tour du Gard, Stage 4 : Méjannes le Clap - Méjannes le Clap",42472,LEROUX Samuel,22909,0.0,0,2024-02-03
-1,2.1s,"AlUla Tour , Stage 5 : AlUla - Harrat Uwayrid",42467,YATES Simon,17893,0.0,0,2024-02-03

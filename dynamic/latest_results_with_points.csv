@@ -10,6 +10,9 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 9,1.PS,Clasica de Almeria,42421,ASKEY Lewis,30685,0,10,2024-02-11,-
 10,1.PS,Clasica de Almeria,42421,VAN AERT Wout,20730,0,8,2024-02-11,Bram
 1,2.PSs,"Tour of Oman, Stage 2 : Muscat - Qurayyat (prov.)",42500,FISHER-BLACK Finn,30562,0.3,0,2024-02-11,Kees
+1,2.1,"Tour de la Provence , General classification (prov.)",42487,CONTRERAS PINZON Rodrigo,22116,2,0,2024-02-11,-
+2,2.1,"Tour de la Provence , General classification (prov.)",42487,CARAPAZ MONTENEGRO Richard Antonio,21342,0.3,0,2024-02-11,Paul
+3,2.1,"Tour de la Provence , General classification (prov.)",42487,CAICEDO CEPEDA Jonathan Klever,22631,0.1,0,2024-02-11,-
 1,2.1,"Tour de la Provence , General classification",42498,PEDERSEN Mads,21992,2,0,2024-02-11,Kees
 2,2.1,"Tour de la Provence , General classification",42498,ZINGLE Axel,31263,0.3,0,2024-02-11,Paul
 3,2.1,"Tour de la Provence , General classification",42498,GARCIA PIERNA Raul,30678,0.1,0,2024-02-11,-
@@ -46,4 +49,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 1,2.1s,"Tour de la Provence , Stage 1 : Aix-en-Provence - Martigues",42495,PEDERSEN Mads,21992,0.2,0,2024-02-09,Kees
 1,2.1s,"Tour of Antalya, Stage 2 : Demre - Antalya",42490,GOVEKAR Matevz,20406,0.2,0,2024-02-09,-
 1,2.1s,"Tour Colombia, Stage 3 : Tunja - Tunja (prov.)",42483,OSORIO CARVAJAL Alejandro,26540,0.2,0,2024-02-08,-
-1,2.1s,"Tour de la Provence , Prologue : Marseille I.T.T.",42494,PEDERSEN Mads,21992,0.2,0,2024-02-08,Kees

@@ -10,16 +10,16 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
 9,1.PS,Clasica de Almeria,42421,ASKEY Lewis,30685,0.0,0,2024-02-11
 10,1.PS,Clasica de Almeria,42421,VAN AERT Wout,20730,0.0,0,2024-02-11
 1,2.PSs,"Tour of Oman, Stage 2 : Muscat - Qurayyat (prov.)",42500,FISHER-BLACK Finn,30562,0.0,0,2024-02-11
-1,2.1,"Tour de la Provence , General classification (prov.)",42487,CONTRERAS PINZON Rodrigo,22116,0.0,0,2024-02-11
-2,2.1,"Tour de la Provence , General classification (prov.)",42487,CARAPAZ MONTENEGRO Richard Antonio,21342,0.0,0,2024-02-11
-3,2.1,"Tour de la Provence , General classification (prov.)",42487,CAICEDO CEPEDA Jonathan Klever,22631,0.0,0,2024-02-11
+1,2.1,"Tour Colombia, General classification",42487,CONTRERAS PINZON Rodrigo,22116,0.0,0,2024-02-11
+2,2.1,"Tour Colombia, General classification",42487,CARAPAZ MONTENEGRO Richard Antonio,21342,0.0,0,2024-02-11
+3,2.1,"Tour Colombia, General classification",42487,CAICEDO CEPEDA Jonathan Klever,22631,0.0,0,2024-02-11
 1,2.1,"Tour de la Provence , General classification",42498,PEDERSEN Mads,21992,0.0,0,2024-02-11
 2,2.1,"Tour de la Provence , General classification",42498,ZINGLE Axel,31263,0.0,0,2024-02-11
 3,2.1,"Tour de la Provence , General classification",42498,GARCIA PIERNA Raul,30678,0.0,0,2024-02-11
 1,2.1,"Tour of Antalya, General classification",42493,PIGANZOLI Davide,32232,0.0,0,2024-02-11
 2,2.1,"Tour of Antalya, General classification",42493,PINARELLO Alessandro,33101,0.0,0,2024-02-11
 3,2.1,"Tour of Antalya, General classification",42493,ZAMBANINI Edoardo,31437,0.0,0,2024-02-11
-1,2.1s,"Tour Colombia, Stage 6 : Sopo - Bogota (prov.)",42486,RESTREPO VALENCIA Jhonatan,24720,0.0,0,2024-02-11
+1,2.1s,"Tour Colombia, Stage 6 : Sopo - Bogota",42486,RESTREPO VALENCIA Jhonatan,24720,0.0,0,2024-02-11
 1,2.1s,"Tour de la Provence , Stage 3 : Rognac - Arles",42497,VAN ASBROECK Tom,18504,0.0,0,2024-02-11
 1,2.1s,"Tour of Antalya, Stage 4 : Antalya - Antalya",42492,DE VRIES Hartthijs,23351,0.0,0,2024-02-11
 1,1.PS,Figueira Champions Classic,42420,EVENEPOEL Remco,28377,0.0,0,2024-02-10
@@ -37,7 +37,7 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
 2,1.1,Vuelta a Murcia,42419,TRATNIK Jan,12748,0.0,0,2024-02-10
 3,1.1,Vuelta a Murcia,42419,WELLENS Tim,16722,0.0,0,2024-02-10
 1,2.1s,"Tour of Antalya, Stage 3 : Kemer - Tahtali",42491,PIGANZOLI Davide,32232,0.0,0,2024-02-10
-1,2.1s,"Tour Colombia, Stage 5 : Cota - Alto del Vino (prov.)",42485,CARAPAZ MONTENEGRO Richard Antonio,21342,0.0,0,2024-02-10
+1,2.1s,"Tour Colombia, Stage 5 : Cota - Alto del Vino",42485,CARAPAZ MONTENEGRO Richard Antonio,21342,0.0,0,2024-02-10
 1,2.1s,"Tour de la Provence , Stage 2 : Forcalquier - Manosque",42496,PEDERSEN Mads,21992,0.0,0,2024-02-10
 1,1.1,National Championships New Zealand (Timaru) R.R.,42416,GATE Aaron,13153,0.0,0,2024-02-10
 2,1.1,National Championships New Zealand (Timaru) R.R.,42416,STRONG Corbin,29492,0.0,0,2024-02-10
@@ -45,10 +45,10 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
 1,1.1,Muscat Classic,42415,FISHER-BLACK Finn,30562,0.0,0,2024-02-09
 2,1.1,Muscat Classic,42415,LAMPERTI Luke,31833,0.0,0,2024-02-09
 3,1.1,Muscat Classic,42415,CAPIOT Amaury,22669,0.0,0,2024-02-09
-1,2.1s,"Tour Colombia, Stage 4 : Paipa - Zipaquira (prov.)",42484,CAVENDISH Mark,3448,0.0,0,2024-02-09
+1,2.1s,"Tour Colombia, Stage 4 : Paipa - Zipaquira",42484,CAVENDISH Mark,3448,0.0,0,2024-02-09
 1,2.1s,"Tour de la Provence , Stage 1 : Aix-en-Provence - Martigues",42495,PEDERSEN Mads,21992,0.0,0,2024-02-09
 1,2.1s,"Tour of Antalya, Stage 2 : Demre - Antalya",42490,GOVEKAR Matevz,20406,0.0,0,2024-02-09
-1,2.1s,"Tour Colombia, Stage 3 : Tunja - Tunja (prov.)",42483,OSORIO CARVAJAL Alejandro,26540,0.0,0,2024-02-08
+1,2.1s,"Tour Colombia, Stage 3 : Tunja - Tunja",42483,OSORIO CARVAJAL Alejandro,26540,0.0,0,2024-02-08
 1,2.1s,"Tour de la Provence , Prologue : Marseille I.T.T.",42494,PEDERSEN Mads,21992,0.0,0,2024-02-08
 1,2.1s,"Tour of Antalya, Stage 1 : Manavgat - Antalya",42489,DUPONT Timothy,7948,0.0,0,2024-02-08
 1,NCT3,National Championships New Zealand (Timaru) I.T.T.,42417,CURRIE Logan,30604,0.0,0,2024-02-08

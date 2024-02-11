@@ -1,23 +1,23 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
-1,1.PS,Clasica de Almeria (prov.),42421,KOOIJ Olav,30643,4,50,2024-02-11,Roy
-2,1.PS,Clasica de Almeria (prov.),42421,MOSCHETTI Matteo,27126,1,35,2024-02-11,Kees
-3,1.PS,Clasica de Almeria (prov.),42421,TRENTIN Matteo,13270,0.5,25,2024-02-11,Jan
-4,1.PS,Clasica de Almeria (prov.),42421,DE LIE Arnaud,32221,0,20,2024-02-11,PB
-5,1.PS,Clasica de Almeria (prov.),42421,THIJSSEN Gerben,27085,0,18,2024-02-11,Vel
-6,1.PS,Clasica de Almeria (prov.),42421,FRETIN Milan,32617,0,16,2024-02-11,-
-7,1.PS,Clasica de Almeria (prov.),42421,TESSON Jason,29883,0,14,2024-02-11,-
-8,1.PS,Clasica de Almeria (prov.),42421,MEEUS Jordi,26421,0,12,2024-02-11,Vel
-9,1.PS,Clasica de Almeria (prov.),42421,ASKEY Lewis,30685,0,10,2024-02-11,-
-10,1.PS,Clasica de Almeria (prov.),42421,VAN AERT Wout,20730,0,8,2024-02-11,Bram
+1,1.PS,Clasica de Almeria,42421,KOOIJ Olav,30643,4,50,2024-02-11,Roy
+2,1.PS,Clasica de Almeria,42421,MOSCHETTI Matteo,27126,1,35,2024-02-11,Kees
+3,1.PS,Clasica de Almeria,42421,TRENTIN Matteo,13270,0.5,25,2024-02-11,Jan
+4,1.PS,Clasica de Almeria,42421,DE LIE Arnaud,32221,0,20,2024-02-11,PB
+5,1.PS,Clasica de Almeria,42421,THIJSSEN Gerben,27085,0,18,2024-02-11,Vel
+6,1.PS,Clasica de Almeria,42421,FRETIN Milan,32617,0,16,2024-02-11,-
+7,1.PS,Clasica de Almeria,42421,TESSON Jason,29883,0,14,2024-02-11,-
+8,1.PS,Clasica de Almeria,42421,MEEUS Jordi,26421,0,12,2024-02-11,Vel
+9,1.PS,Clasica de Almeria,42421,ASKEY Lewis,30685,0,10,2024-02-11,-
+10,1.PS,Clasica de Almeria,42421,VAN AERT Wout,20730,0,8,2024-02-11,Bram
 1,2.PSs,"Tour of Oman, Stage 2 : Muscat - Qurayyat (prov.)",42500,FISHER-BLACK Finn,30562,0.3,0,2024-02-11,Kees
-1,2.1,"Tour de la Provence , General classification (prov.)",42498,PEDERSEN Mads,21992,2,0,2024-02-11,Kees
-2,2.1,"Tour de la Provence , General classification (prov.)",42498,ZINGLE Axel,31263,0.3,0,2024-02-11,Paul
-3,2.1,"Tour de la Provence , General classification (prov.)",42498,GARCIA PIERNA Raul,30678,0.1,0,2024-02-11,-
-1,2.1,"Tour of Antalya, General classification (prov.)",42493,PIGANZOLI Davide,32232,2,0,2024-02-11,-
-2,2.1,"Tour of Antalya, General classification (prov.)",42493,PINARELLO Alessandro,33101,0.3,0,2024-02-11,-
-3,2.1,"Tour of Antalya, General classification (prov.)",42493,ZAMBANINI Edoardo,31437,0.1,0,2024-02-11,-
-1,2.1s,"Tour de la Provence , Stage 3 : Rognac - Arles (prov.)",42497,VAN ASBROECK Tom,18504,0.2,0,2024-02-11,-
-1,2.1s,"Tour of Antalya, Stage 4 : Antalya - Antalya (prov.)",42492,DE VRIES Hartthijs,23351,0.2,0,2024-02-11,-
+1,2.1,"Tour de la Provence , General classification",42498,PEDERSEN Mads,21992,2,0,2024-02-11,Kees
+2,2.1,"Tour de la Provence , General classification",42498,ZINGLE Axel,31263,0.3,0,2024-02-11,Paul
+3,2.1,"Tour de la Provence , General classification",42498,GARCIA PIERNA Raul,30678,0.1,0,2024-02-11,-
+1,2.1,"Tour of Antalya, General classification",42493,PIGANZOLI Davide,32232,2,0,2024-02-11,-
+2,2.1,"Tour of Antalya, General classification",42493,PINARELLO Alessandro,33101,0.3,0,2024-02-11,-
+3,2.1,"Tour of Antalya, General classification",42493,ZAMBANINI Edoardo,31437,0.1,0,2024-02-11,-
+1,2.1s,"Tour de la Provence , Stage 3 : Rognac - Arles",42497,VAN ASBROECK Tom,18504,0.2,0,2024-02-11,-
+1,2.1s,"Tour of Antalya, Stage 4 : Antalya - Antalya",42492,DE VRIES Hartthijs,23351,0.2,0,2024-02-11,-
 1,1.PS,Figueira Champions Classic,42420,EVENEPOEL Remco,28377,4,50,2024-02-10,Roy
 2,1.PS,Figueira Champions Classic,42420,BRAET Vito,29801,1,35,2024-02-10,-
 3,1.PS,Figueira Champions Classic,42420,VELASCO Simone,22662,0.5,25,2024-02-10,Vel
@@ -32,9 +32,9 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 1,1.1,Vuelta a Murcia,42419,O'CONNOR Ben,23763,2,0,2024-02-10,Nicky
 2,1.1,Vuelta a Murcia,42419,TRATNIK Jan,12748,0.3,0,2024-02-10,-
 3,1.1,Vuelta a Murcia,42419,WELLENS Tim,16722,0.1,0,2024-02-10,Jan
-1,2.1s,"Tour of Antalya, Stage 3 : Kemer - Tahtali (prov.)",42491,PIGANZOLI Davide,32232,0.2,0,2024-02-10,-
+1,2.1s,"Tour of Antalya, Stage 3 : Kemer - Tahtali",42491,PIGANZOLI Davide,32232,0.2,0,2024-02-10,-
 1,2.1s,"Tour Colombia, Stage 5 : Cota - Alto del Vino (prov.)",42485,CARAPAZ MONTENEGRO Richard Antonio,21342,0.2,0,2024-02-10,Paul
-1,2.1s,"Tour de la Provence , Stage 2 : Forcalquier - Manosque (prov.)",42496,PEDERSEN Mads,21992,0.2,0,2024-02-10,Kees
+1,2.1s,"Tour de la Provence , Stage 2 : Forcalquier - Manosque",42496,PEDERSEN Mads,21992,0.2,0,2024-02-10,Kees
 1,1.1,National Championships New Zealand (Timaru) R.R.,42416,GATE Aaron,13153,2,0,2024-02-10,-
 2,1.1,National Championships New Zealand (Timaru) R.R.,42416,STRONG Corbin,29492,0.3,0,2024-02-10,PB
 3,1.1,National Championships New Zealand (Timaru) R.R.,42416,PITHIE Laurence,31638,0.1,0,2024-02-10,PB
@@ -42,8 +42,8 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 2,1.1,Muscat Classic,42415,LAMPERTI Luke,31833,0.3,0,2024-02-09,Bram
 3,1.1,Muscat Classic,42415,CAPIOT Amaury,22669,0.1,0,2024-02-09,-
 1,2.1s,"Tour Colombia, Stage 4 : Paipa - Zipaquira (prov.)",42484,CAVENDISH Mark,3448,0.2,0,2024-02-09,Roy
-1,2.1s,"Tour de la Provence , Stage 1 : Aix-en-Provence - Martigues (prov.)",42495,PEDERSEN Mads,21992,0.2,0,2024-02-09,Kees
-1,2.1s,"Tour of Antalya, Stage 2 : Demre - Antalya (prov.)",42490,GOVEKAR Matevz,20406,0.2,0,2024-02-09,-
+1,2.1s,"Tour de la Provence , Stage 1 : Aix-en-Provence - Martigues",42495,PEDERSEN Mads,21992,0.2,0,2024-02-09,Kees
+1,2.1s,"Tour of Antalya, Stage 2 : Demre - Antalya",42490,GOVEKAR Matevz,20406,0.2,0,2024-02-09,-
 1,2.1s,"Tour Colombia, Stage 3 : Tunja - Tunja (prov.)",42483,OSORIO CARVAJAL Alejandro,26540,0.2,0,2024-02-08,-
-1,2.1s,"Tour de la Provence , Prologue : Marseille I.T.T. (prov.)",42494,PEDERSEN Mads,21992,0.2,0,2024-02-08,Kees
-1,2.1s,"Tour of Antalya, Stage 1 : Manavgat - Antalya (prov.)",42489,DUPONT Timothy,7948,0.2,0,2024-02-08,-
+1,2.1s,"Tour de la Provence , Prologue : Marseille I.T.T.",42494,PEDERSEN Mads,21992,0.2,0,2024-02-08,Kees
+1,2.1s,"Tour of Antalya, Stage 1 : Manavgat - Antalya",42489,DUPONT Timothy,7948,0.2,0,2024-02-08,-

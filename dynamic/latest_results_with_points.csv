@@ -1,5 +1,8 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 1,2.PSs,"Tour of Oman, Stage 3 : Al Khobar - Al Bustan (prov.)",42501,MAGNIER Paul,34555,0.3,0,2024-02-12,-
+1,1.1,"AlUla Tour , Clasica Jaén Paraíso Interior (prov.)",42422,LAZKANO LOPEZ Oier,30595,2,0,2024-02-12,Frank
+2,1.1,"AlUla Tour , Clasica Jaén Paraíso Interior (prov.)",42422,TRONCHON Bastien,32134,0.3,0,2024-02-12,-
+3,1.1,"AlUla Tour , Clasica Jaén Paraíso Interior (prov.)",42422,TRATNIK Jan,12748,0.1,0,2024-02-12,-
 1,1.PS,Clasica de Almeria,42421,KOOIJ Olav,30643,4,50,2024-02-11,Roy
 2,1.PS,Clasica de Almeria,42421,MOSCHETTI Matteo,27126,1,35,2024-02-11,Kees
 3,1.PS,Clasica de Almeria,42421,TRENTIN Matteo,13270,0.5,25,2024-02-11,Jan
@@ -48,4 +51,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 3,1.1,Muscat Classic,42415,CAPIOT Amaury,22669,0.1,0,2024-02-09,-
 1,2.1s,"Tour Colombia, Stage 4 : Paipa - Zipaquira",42484,CAVENDISH Mark,3448,0.2,0,2024-02-09,Roy
 1,2.1s,"Tour de la Provence , Stage 1 : Aix-en-Provence - Martigues",42495,PEDERSEN Mads,21992,0.2,0,2024-02-09,Kees
-1,2.1s,"Tour of Antalya, Stage 2 : Demre - Antalya",42490,GOVEKAR Matevz,20406,0.2,0,2024-02-09,-

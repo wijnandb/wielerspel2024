@@ -1,4 +1,15 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
+1,2.PS,"Tour of Oman, General classification (prov.)",42504,YATES Adam,18975,0.0,0,2024-02-14
+2,2.PS,"Tour of Oman, General classification (prov.)",42504,HIRT Jan,17078,0.0,0,2024-02-14
+3,2.PS,"Tour of Oman, General classification (prov.)",42504,FISHER-BLACK Finn,30562,0.0,0,2024-02-14
+4,2.PS,"Tour of Oman, General classification (prov.)",42504,ULISSI Diego,10023,0.0,0,2024-02-14
+5,2.PS,"Tour of Oman, General classification (prov.)",42504,RODRIGUEZ MARTIN Cristian,24102,0.0,0,2024-02-14
+6,2.PS,"Tour of Oman, General classification (prov.)",42504,BARGUIL Warren,17627,0.0,0,2024-02-14
+7,2.PS,"Tour of Oman, General classification (prov.)",42504,VANSEVENANT Mauri,28580,0.0,0,2024-02-14
+8,2.PS,"Tour of Oman, General classification (prov.)",42504,KULSET Johannes,34399,0.0,0,2024-02-14
+9,2.PS,"Tour of Oman, General classification (prov.)",42504,COBO CAYON Ivan,31277,0.0,0,2024-02-14
+10,2.PS,"Tour of Oman, General classification (prov.)",42504,FAURE PROST Alexy,34353,0.0,0,2024-02-14
+1,2.PSs,"Tour of Oman, Stage 5 : Jamail - Jabal Al Akhdar (prov.)",42503,YATES Adam,18975,0.0,0,2024-02-14
 1,2.PSs,"Tour of Oman, Stage 4 : Izki - Yitti Hills (prov.)",42502,CAPIOT Amaury,22669,0.0,0,2024-02-13
 1,2.PSs,"Tour of Oman, Stage 3 : Al Khobar - Al Bustan (prov.)",42501,MAGNIER Paul,34555,0.0,0,2024-02-12
 1,1.1,Clasica Jaén Paraíso Interior,42422,LAZKANO LOPEZ Oier,30595,0.0,0,2024-02-12
@@ -47,7 +58,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
 1,1.1,National Championships New Zealand (Timaru) R.R.,42416,GATE Aaron,13153,0.0,0,2024-02-10
 2,1.1,National Championships New Zealand (Timaru) R.R.,42416,STRONG Corbin,29492,0.0,0,2024-02-10
 3,1.1,National Championships New Zealand (Timaru) R.R.,42416,PITHIE Laurence,31638,0.0,0,2024-02-10
-1,1.1,Muscat Classic,42415,FISHER-BLACK Finn,30562,0.0,0,2024-02-09
-2,1.1,Muscat Classic,42415,LAMPERTI Luke,31833,0.0,0,2024-02-09
-3,1.1,Muscat Classic,42415,CAPIOT Amaury,22669,0.0,0,2024-02-09
-1,2.1s,"Tour Colombia, Stage 4 : Paipa - Zipaquira",42484,CAVENDISH Mark,3448,0.0,0,2024-02-09

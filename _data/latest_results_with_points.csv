@@ -1,19 +1,19 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
-1,2.PS,"Tour of Oman, General classification (prov.)",42504,YATES Adam,18975,4,50,2024-02-14,Kees
-2,2.PS,"Tour of Oman, General classification (prov.)",42504,HIRT Jan,17078,1,35,2024-02-14,-
-3,2.PS,"Tour of Oman, General classification (prov.)",42504,FISHER-BLACK Finn,30562,0.5,25,2024-02-14,Kees
-4,2.PS,"Tour of Oman, General classification (prov.)",42504,ULISSI Diego,10023,0,20,2024-02-14,Kaspar
-5,2.PS,"Tour of Oman, General classification (prov.)",42504,RODRIGUEZ MARTIN Cristian,24102,0,18,2024-02-14,-
-6,2.PS,"Tour of Oman, General classification (prov.)",42504,BARGUIL Warren,17627,0,16,2024-02-14,Nicky
-7,2.PS,"Tour of Oman, General classification (prov.)",42504,VANSEVENANT Mauri,28580,0,14,2024-02-14,Jan
-8,2.PS,"Tour of Oman, General classification (prov.)",42504,KULSET Johannes,34399,0,12,2024-02-14,-
-9,2.PS,"Tour of Oman, General classification (prov.)",42504,COBO CAYON Ivan,31277,0,10,2024-02-14,-
-10,2.PS,"Tour of Oman, General classification (prov.)",42504,FAURE PROST Alexy,34353,0,8,2024-02-14,-
+1,2.PS,"Tour of Oman, General classification",42504,YATES Adam,18975,4,50,2024-02-14,Kees
+2,2.PS,"Tour of Oman, General classification",42504,HIRT Jan,17078,1,35,2024-02-14,-
+3,2.PS,"Tour of Oman, General classification",42504,FISHER-BLACK Finn,30562,0.5,25,2024-02-14,Kees
+4,2.PS,"Tour of Oman, General classification",42504,ULISSI Diego,10023,0,20,2024-02-14,Kaspar
+5,2.PS,"Tour of Oman, General classification",42504,RODRIGUEZ MARTIN Cristian,24102,0,18,2024-02-14,-
+6,2.PS,"Tour of Oman, General classification",42504,BARGUIL Warren,17627,0,16,2024-02-14,Nicky
+7,2.PS,"Tour of Oman, General classification",42504,VANSEVENANT Mauri,28580,0,14,2024-02-14,Jan
+8,2.PS,"Tour of Oman, General classification",42504,KULSET Johannes,34399,0,12,2024-02-14,-
+9,2.PS,"Tour of Oman, General classification",42504,COBO CAYON Ivan,31277,0,10,2024-02-14,-
+10,2.PS,"Tour of Oman, General classification",42504,FAURE PROST Alexy,34353,0,8,2024-02-14,-
 1,2.PSs,"Volta ao Algarve, Stage 1 : Portimao - Lagos (prov.)",42505,THIJSSEN Gerben,27085,0.3,0,2024-02-14,Vel
 1,2.PSs,"Vuelta a Andalucia / Ruta Del Sol, Stage 1 : Puente de Genave - Santiago de la Espada (prov.)",42511,no result,13543,0.3,0,2024-02-14,-
-1,2.PSs,"Tour of Oman, Stage 5 : Jamail - Jabal Al Akhdar (prov.)",42503,YATES Adam,18975,0.3,0,2024-02-14,Kees
-1,2.PSs,"Tour of Oman, Stage 4 : Izki - Yitti Hills (prov.)",42502,CAPIOT Amaury,22669,0.3,0,2024-02-13,-
-1,2.PSs,"Tour of Oman, Stage 3 : Al Khobar - Al Bustan (prov.)",42501,MAGNIER Paul,34555,0.3,0,2024-02-12,-
+1,2.PSs,"Tour of Oman, Stage 5 : Jamail - Jabal Al Akhdar",42503,YATES Adam,18975,0.3,0,2024-02-14,Kees
+1,2.PSs,"Tour of Oman, Stage 4 : Izki - Yitti Hills",42502,CAPIOT Amaury,22669,0.3,0,2024-02-13,-
+1,2.PSs,"Tour of Oman, Stage 3 : Al Khobar - Al Bustan",42501,MAGNIER Paul,34555,0.3,0,2024-02-12,-
 1,1.1,Clasica Jaén Paraíso Interior,42422,LAZKANO LOPEZ Oier,30595,2,0,2024-02-12,Frank
 2,1.1,Clasica Jaén Paraíso Interior,42422,TRONCHON Bastien,32134,0.3,0,2024-02-12,-
 3,1.1,Clasica Jaén Paraíso Interior,42422,TRATNIK Jan,12748,0.1,0,2024-02-12,-
@@ -27,7 +27,7 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 8,1.PS,Clasica de Almeria,42421,MEEUS Jordi,26421,0,12,2024-02-11,Vel
 9,1.PS,Clasica de Almeria,42421,ASKEY Lewis,30685,0,10,2024-02-11,-
 10,1.PS,Clasica de Almeria,42421,VAN AERT Wout,20730,0,8,2024-02-11,Bram
-1,2.PSs,"Tour of Oman, Stage 2 : Muscat - Qurayyat (prov.)",42500,FISHER-BLACK Finn,30562,0.3,0,2024-02-11,Kees
+1,2.PSs,"Tour of Oman, Stage 2 : Muscat - Qurayyat",42500,FISHER-BLACK Finn,30562,0.3,0,2024-02-11,Kees
 1,2.1,"Tour Colombia, General classification",42487,CONTRERAS PINZON Rodrigo,22116,2,0,2024-02-11,-
 2,2.1,"Tour Colombia, General classification",42487,CARAPAZ MONTENEGRO Richard Antonio,21342,0.3,0,2024-02-11,Paul
 3,2.1,"Tour Colombia, General classification",42487,CAICEDO CEPEDA Jonathan Klever,22631,0.1,0,2024-02-11,-
@@ -50,7 +50,7 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 8,1.PS,Figueira Champions Classic,42420,SCARONI Christian,27002,0,12,2024-02-10,-
 9,1.PS,Figueira Champions Classic,42420,GUERREIRO Ruben Antonio Almeida,22683,0,10,2024-02-10,Jan
 10,1.PS,Figueira Champions Classic,42420,SANCHEZ MAYO Pelayo,31655,0,8,2024-02-10,-
-1,2.PSs,"Tour of Oman, Stage 1 : Al Rustaq Fort - Muscat (prov.)",42499,EWAN Caleb,19651,0.3,0,2024-02-10,Paul
+1,2.PSs,"Tour of Oman, Stage 1 : Al Rustaq Fort - Muscat",42499,EWAN Caleb,19651,0.3,0,2024-02-10,Paul
 1,1.1,Vuelta a Murcia,42419,O'CONNOR Ben,23763,2,0,2024-02-10,Nicky
 2,1.1,Vuelta a Murcia,42419,TRATNIK Jan,12748,0.3,0,2024-02-10,-
 3,1.1,Vuelta a Murcia,42419,WELLENS Tim,16722,0.1,0,2024-02-10,Jan

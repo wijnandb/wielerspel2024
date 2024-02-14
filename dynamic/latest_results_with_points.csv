@@ -9,6 +9,7 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 8,2.PS,"Tour of Oman, General classification (prov.)",42504,KULSET Johannes,34399,0,12,2024-02-14,-
 9,2.PS,"Tour of Oman, General classification (prov.)",42504,COBO CAYON Ivan,31277,0,10,2024-02-14,-
 10,2.PS,"Tour of Oman, General classification (prov.)",42504,FAURE PROST Alexy,34353,0,8,2024-02-14,-
+1,2.PSs,"Volta ao Algarve, Stage 1 : Portimao - Lagos (prov.)",42505,THIJSSEN Gerben,27085,0.3,0,2024-02-14,Vel
 1,2.PSs,"Vuelta a Andalucia / Ruta Del Sol, Stage 1 : Puente de Genave - Santiago de la Espada (prov.)",42511,no result,13543,0.3,0,2024-02-14,-
 1,2.PSs,"Tour of Oman, Stage 5 : Jamail - Jabal Al Akhdar (prov.)",42503,YATES Adam,18975,0.3,0,2024-02-14,Kees
 1,2.PSs,"Tour of Oman, Stage 4 : Izki - Yitti Hills (prov.)",42502,CAPIOT Amaury,22669,0.3,0,2024-02-13,-
@@ -55,4 +56,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 3,1.1,Vuelta a Murcia,42419,WELLENS Tim,16722,0.1,0,2024-02-10,Jan
 1,2.1s,"Tour of Antalya, Stage 3 : Kemer - Tahtali",42491,PIGANZOLI Davide,32232,0.2,0,2024-02-10,-
 1,2.1s,"Tour Colombia, Stage 5 : Cota - Alto del Vino",42485,CARAPAZ MONTENEGRO Richard Antonio,21342,0.2,0,2024-02-10,Paul
-1,2.1s,"Tour de la Provence , Stage 2 : Forcalquier - Manosque",42496,PEDERSEN Mads,21992,0.2,0,2024-02-10,Kees

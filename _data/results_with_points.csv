@@ -1,4 +1,15 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
+1,2.PS,"Tour of Oman, General classification (prov.)",42504,YATES Adam,18975,4,50,2024-02-14,Kees
+2,2.PS,"Tour of Oman, General classification (prov.)",42504,HIRT Jan,17078,1,35,2024-02-14,-
+3,2.PS,"Tour of Oman, General classification (prov.)",42504,FISHER-BLACK Finn,30562,0.5,25,2024-02-14,Kees
+4,2.PS,"Tour of Oman, General classification (prov.)",42504,ULISSI Diego,10023,0,20,2024-02-14,Kaspar
+5,2.PS,"Tour of Oman, General classification (prov.)",42504,RODRIGUEZ MARTIN Cristian,24102,0,18,2024-02-14,-
+6,2.PS,"Tour of Oman, General classification (prov.)",42504,BARGUIL Warren,17627,0,16,2024-02-14,Nicky
+7,2.PS,"Tour of Oman, General classification (prov.)",42504,VANSEVENANT Mauri,28580,0,14,2024-02-14,Jan
+8,2.PS,"Tour of Oman, General classification (prov.)",42504,KULSET Johannes,34399,0,12,2024-02-14,-
+9,2.PS,"Tour of Oman, General classification (prov.)",42504,COBO CAYON Ivan,31277,0,10,2024-02-14,-
+10,2.PS,"Tour of Oman, General classification (prov.)",42504,FAURE PROST Alexy,34353,0,8,2024-02-14,-
+1,2.PSs,"Tour of Oman, Stage 5 : Jamail - Jabal Al Akhdar (prov.)",42503,YATES Adam,18975,0.3,0,2024-02-14,Kees
 1,2.PSs,"Tour of Oman, Stage 4 : Izki - Yitti Hills (prov.)",42502,CAPIOT Amaury,22669,0.3,0,2024-02-13,-
 1,2.PSs,"Tour of Oman, Stage 3 : Al Khobar - Al Bustan (prov.)",42501,MAGNIER Paul,34555,0.3,0,2024-02-12,-
 1,1.1,Clasica Jaén Paraíso Interior,42422,LAZKANO LOPEZ Oier,30595,2,0,2024-02-12,Frank

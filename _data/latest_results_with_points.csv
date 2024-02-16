@@ -1,7 +1,8 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
-1,1.1,Classic Var (prov.),42543,MARTINEZ Lenny,32721,2,0,2024-02-16,Kees
-2,1.1,Classic Var (prov.),42543,JOHANNESSEN Tobias Halland,31567,0.3,0,2024-02-16,Albert
-3,1.1,Classic Var (prov.),42543,BARDET Romain,13566,0.1,0,2024-02-16,Nicky
+1,2.PSs,"Volta ao Algarve, Stage 3 : Vila Real de Santo Antonio - Tavira (prov.)",42507,VAN AERT Wout,20730,0.3,0,2024-02-16,Bram
+1,1.1,Classic Var,42543,MARTINEZ Lenny,32721,2,0,2024-02-16,Kees
+2,1.1,Classic Var,42543,JOHANNESSEN Tobias Halland,31567,0.3,0,2024-02-16,Albert
+3,1.1,Classic Var,42543,BARDET Romain,13566,0.1,0,2024-02-16,Nicky
 1,2.PSs,"Volta ao Algarve, Stage 2 : Lagoa - Alto da Foia (prov.)",42506,MARTINEZ POVEDA Daniel Felipe,23503,0.3,0,2024-02-15,PB
 1,2.PSs,"Vuelta a Andalucia / Ruta Del Sol, Stage 2 : Diezma - Alcala la Real (prov.)",42512,no result,13543,0.3,0,2024-02-15,-
 1,2.PS,"Tour of Oman, General classification",42504,YATES Adam,18975,4,50,2024-02-14,Kees
@@ -55,4 +56,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 8,1.PS,Figueira Champions Classic,42420,SCARONI Christian,27002,0,12,2024-02-10,-
 9,1.PS,Figueira Champions Classic,42420,GUERREIRO Ruben Antonio Almeida,22683,0,10,2024-02-10,Jan
 10,1.PS,Figueira Champions Classic,42420,SANCHEZ MAYO Pelayo,31655,0,8,2024-02-10,-
-1,2.PSs,"Tour of Oman, Stage 1 : Al Rustaq Fort - Muscat",42499,EWAN Caleb,19651,0.3,0,2024-02-10,Paul

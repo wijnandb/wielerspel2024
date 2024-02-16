@@ -1,4 +1,14 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
+1,2.PS,"Vuelta a Andalucia / Ruta Del Sol, General classification (prov.)",42516,VAN GILS Maxim,28521,0.0,0,2024-02-16
+2,2.PS,"Vuelta a Andalucia / Ruta Del Sol, General classification (prov.)",42516,AYUSO PESQUERA Juan,31654,0.0,0,2024-02-16
+3,2.PS,"Vuelta a Andalucia / Ruta Del Sol, General classification (prov.)",42516,TIBERI Antonio,30649,0.0,0,2024-02-16
+4,2.PS,"Vuelta a Andalucia / Ruta Del Sol, General classification (prov.)",42516,CEPEDA HERNANDEZ Jefferson Alveiro,23549,0.0,0,2024-02-16
+5,2.PS,"Vuelta a Andalucia / Ruta Del Sol, General classification (prov.)",42516,WELLENS Tim,16722,0.0,0,2024-02-16
+6,2.PS,"Vuelta a Andalucia / Ruta Del Sol, General classification (prov.)",42516,MONIQUET Sylvain,26331,0.0,0,2024-02-16
+7,2.PS,"Vuelta a Andalucia / Ruta Del Sol, General classification (prov.)",42516,BUITRAGO SANCHEZ Santiago,29699,0.0,0,2024-02-16
+8,2.PS,"Vuelta a Andalucia / Ruta Del Sol, General classification (prov.)",42516,BAUDIN Alex,32146,0.0,0,2024-02-16
+9,2.PS,"Vuelta a Andalucia / Ruta Del Sol, General classification (prov.)",42516,SOLER GIMENEZ Marc,23299,0.0,0,2024-02-16
+10,2.PS,"Vuelta a Andalucia / Ruta Del Sol, General classification (prov.)",42516,SERRANO RODRIGUEZ Gonzalo,25671,0.0,0,2024-02-16
 1,2.PSs,"Volta ao Algarve, Stage 3 : Vila Real de Santo Antonio - Tavira (prov.)",42507,VAN AERT Wout,20730,0.0,0,2024-02-16
 1,1.1,Classic Var,42543,MARTINEZ Lenny,32721,0.0,0,2024-02-16
 2,1.1,Classic Var,42543,JOHANNESSEN Tobias Halland,31567,0.0,0,2024-02-16
@@ -46,13 +56,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
 1,2.1s,"Tour Colombia, Stage 6 : Sopo - Bogota",42486,RESTREPO VALENCIA Jhonatan,24720,0.0,0,2024-02-11
 1,2.1s,"Tour de la Provence , Stage 3 : Rognac - Arles",42497,VAN ASBROECK Tom,18504,0.0,0,2024-02-11
 1,2.1s,"Tour of Antalya, Stage 4 : Antalya - Antalya",42492,DE VRIES Hartthijs,23351,0.0,0,2024-02-11
-1,1.PS,Figueira Champions Classic,42420,EVENEPOEL Remco,28377,0.0,0,2024-02-10
-2,1.PS,Figueira Champions Classic,42420,BRAET Vito,29801,0.0,0,2024-02-10
-3,1.PS,Figueira Champions Classic,42420,VELASCO Simone,22662,0.0,0,2024-02-10
-4,1.PS,Figueira Champions Classic,42420,BOVEN Lars,30561,0.0,0,2024-02-10
-5,1.PS,Figueira Champions Classic,42420,MAYRHOFER Marius,29192,0.0,0,2024-02-10
-6,1.PS,Figueira Champions Classic,42420,HIRSCHI Marc,26509,0.0,0,2024-02-10
-7,1.PS,Figueira Champions Classic,42420,VAN DEN BERG Marijn,27674,0.0,0,2024-02-10
-8,1.PS,Figueira Champions Classic,42420,SCARONI Christian,27002,0.0,0,2024-02-10
-9,1.PS,Figueira Champions Classic,42420,GUERREIRO Ruben Antonio Almeida,22683,0.0,0,2024-02-10
-10,1.PS,Figueira Champions Classic,42420,SANCHEZ MAYO Pelayo,31655,0.0,0,2024-02-10

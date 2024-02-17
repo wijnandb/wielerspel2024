@@ -1,4 +1,6 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
+1,2.PSs,"Volta ao Algarve, Stage 4 : Albufeira - Albufeira I.T.T. (prov.)",42508,EVENEPOEL Remco,28377,0.3,0,2024-02-17,Roy
+1,2.1s,"Tour des Alpes-Maritimes , Stage 1 : Levens - Antibes (prov.)",42517,VERNON Ethan,30035,0.2,0,2024-02-17,Albert
 1,2.PS,"Vuelta a Andalucia / Ruta Del Sol, General classification (prov.)",42516,VAN GILS Maxim,28521,4,50,2024-02-16,Albert
 2,2.PS,"Vuelta a Andalucia / Ruta Del Sol, General classification (prov.)",42516,AYUSO PESQUERA Juan,31654,1,35,2024-02-16,Frank
 3,2.PS,"Vuelta a Andalucia / Ruta Del Sol, General classification (prov.)",42516,TIBERI Antonio,30649,0.5,25,2024-02-16,-
@@ -54,5 +56,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 2,2.1,"Tour of Antalya, General classification",42493,PINARELLO Alessandro,33101,0.3,0,2024-02-11,-
 3,2.1,"Tour of Antalya, General classification",42493,ZAMBANINI Edoardo,31437,0.1,0,2024-02-11,-
 1,2.1s,"Tour Colombia, Stage 6 : Sopo - Bogota",42486,RESTREPO VALENCIA Jhonatan,24720,0.2,0,2024-02-11,-
-1,2.1s,"Tour de la Provence , Stage 3 : Rognac - Arles",42497,VAN ASBROECK Tom,18504,0.2,0,2024-02-11,-
-1,2.1s,"Tour of Antalya, Stage 4 : Antalya - Antalya",42492,DE VRIES Hartthijs,23351,0.2,0,2024-02-11,-

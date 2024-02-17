@@ -15,7 +15,7 @@ renner_id,renner,rider,ploegleider,kosten,team,nationality,age,punten,JPP
 28127,VERMEERSCH Florian,VERMEERSCH Florian,Albert,4,LTD,BEL,24,0,0
 26378,SOSA CUERVO Ivan Ramiro,SOSA CUERVO Ivan Ramiro,Albert,3,MOV,COL,26,0,0
 19903,SENECHAL Florian,SENECHAL Florian,Albert,3,ARK,FRA,30,0,0
-30035,VERNON Ethan,VERNON Ethan,Albert,3,IPT,GBR,23,0,0
+30035,VERNON Ethan,VERNON Ethan,Albert,3,IPT,GBR,23,0.2,0
 29214,SCHMID Mauro,SCHMID Mauro,Albert,3,JAY,SUI,24,0,0
 31550,STAUNE-MITTET Johannes,STAUNE-MITTET Johannes,Albert,2,TJV,NOR,21,0,0
 31724,ONLEY Oscar,ONLEY Oscar,Albert,2,DSM,GBR,21,1.5,20
@@ -207,7 +207,7 @@ renner_id,renner,rider,ploegleider,kosten,team,nationality,age,punten,JPP
 31638,PITHIE Laurence,PITHIE Laurence,PB,1,FDJ,NZL,21,5.1,50
 26869,GEE Derek,GEE Derek,PB,1,IPT,CAN,26,0,0
 32161,WATSON Samuel,WATSON Samuel,PB,0,FDJ,GBR,22,0,0
-28377,EVENEPOEL Remco,EVENEPOEL Remco,Roy,65,SOQ,BEL,23,4,50
+28377,EVENEPOEL Remco,EVENEPOEL Remco,Roy,65,SOQ,BEL,23,4.3,50
 30643,KOOIJ Olav,KOOIJ Olav,Roy,19,TJV,NED,22,4,50
 12843,QUINTANA ROJAS Nairo Alexander,QUINTANA ROJAS Nairo Alexander,Roy,5,MOV,COL,33,0,0
 21312,TURGIS Anthony,TURGIS Anthony,Roy,3,TEN,FRA,29,0,0

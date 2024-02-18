@@ -1,4 +1,14 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
+1,2.PS,"Volta ao Algarve, General classification (prov.)",42510,EVENEPOEL Remco,28377,0.0,0,2024-02-18
+2,2.PS,"Volta ao Algarve, General classification (prov.)",42510,MARTINEZ POVEDA Daniel Felipe,23503,0.0,0,2024-02-18
+3,2.PS,"Volta ao Algarve, General classification (prov.)",42510,TRATNIK Jan,12748,0.0,0,2024-02-18
+4,2.PS,"Volta ao Algarve, General classification (prov.)",42510,HEALY Ben,28846,0.0,0,2024-02-18
+5,2.PS,"Volta ao Algarve, General classification (prov.)",42510,ARENSMAN Thymen,27716,0.0,0,2024-02-18
+6,2.PS,"Volta ao Algarve, General classification (prov.)",42510,PIDCOCK Joseph,31637,0.0,0,2024-02-18
+7,2.PS,"Volta ao Algarve, General classification (prov.)",42510,VAN AERT Wout,20730,0.0,0,2024-02-18
+8,2.PS,"Volta ao Algarve, General classification (prov.)",42510,KUSS Sepp,25653,0.0,0,2024-02-18
+9,2.PS,"Volta ao Algarve, General classification (prov.)",42510,KÜNG Stefan,20960,0.0,0,2024-02-18
+10,2.PS,"Volta ao Algarve, General classification (prov.)",42510,MORGADO Antonio Tomas,34222,0.0,0,2024-02-18
 1,2.PSs,"Volta ao Algarve, Stage 5 : Faro - Alto do Malhao (prov.)",42509,MARTINEZ POVEDA Daniel Felipe,23503,0.0,0,2024-02-18
 1,2.1,"Tour des Alpes-Maritimes , General classification (prov.)",42519,COSNEFROY Benoît,24189,0.0,0,2024-02-18
 2,2.1,"Tour des Alpes-Maritimes , General classification (prov.)",42519,ALBANESE Vincenzo,24139,0.0,0,2024-02-18
@@ -50,4 +60,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
 8,1.PS,Clasica de Almeria,42421,MEEUS Jordi,26421,0.0,0,2024-02-11
 9,1.PS,Clasica de Almeria,42421,ASKEY Lewis,30685,0.0,0,2024-02-11
 10,1.PS,Clasica de Almeria,42421,VAN AERT Wout,20730,0.0,0,2024-02-11
-1,2.PSs,"Tour of Oman, Stage 2 : Muscat - Qurayyat",42500,FISHER-BLACK Finn,30562,0.0,0,2024-02-11

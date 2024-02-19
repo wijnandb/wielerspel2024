@@ -1,4 +1,6 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
+1,2.WT3s,"UAE Tour, Stage 1 : Al Dhafra - Liwa (prov.)",42529,MERLIER Tim,17988,0.5,0,2024-02-19,Frank
+1,2.1s,"Tour du Rwanda, Stage 2 : Muhanga - Kibeho (prov.)",42521,EINHORN Itamar,27315,0.2,0,2024-02-19,-
 1,2.PS,"Volta ao Algarve, General classification",42510,EVENEPOEL Remco,28377,4,50,2024-02-18,Roy
 2,2.PS,"Volta ao Algarve, General classification",42510,MARTINEZ POVEDA Daniel Felipe,23503,1,35,2024-02-18,PB
 3,2.PS,"Volta ao Algarve, General classification",42510,TRATNIK Jan,12748,0.5,25,2024-02-18,-
@@ -16,16 +18,7 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 1,2.1s,"Tour des Alpes-Maritimes , Stage 2 : Villefranche-sur-Mer - Vence",42518,COSNEFROY Benoît,24189,0.2,0,2024-02-18,Bram
 1,2.PSs,"Volta ao Algarve, Stage 4 : Albufeira - Albufeira I.T.T.",42508,EVENEPOEL Remco,28377,0.3,0,2024-02-17,Roy
 1,2.1s,"Tour des Alpes-Maritimes , Stage 1 : Levens - Antibes",42517,VERNON Ethan,30035,0.2,0,2024-02-17,Albert
-1,2.PS,"Vuelta a Andalucia / Ruta Del Sol, General classification (prov.)",42516,VAN GILS Maxim,28521,4,50,2024-02-16,Albert
-2,2.PS,"Vuelta a Andalucia / Ruta Del Sol, General classification (prov.)",42516,AYUSO PESQUERA Juan,31654,1,35,2024-02-16,Frank
-3,2.PS,"Vuelta a Andalucia / Ruta Del Sol, General classification (prov.)",42516,TIBERI Antonio,30649,0.5,25,2024-02-16,-
-4,2.PS,"Vuelta a Andalucia / Ruta Del Sol, General classification (prov.)",42516,CEPEDA HERNANDEZ Jefferson Alveiro,23549,0,20,2024-02-16,-
-5,2.PS,"Vuelta a Andalucia / Ruta Del Sol, General classification (prov.)",42516,WELLENS Tim,16722,0,18,2024-02-16,Jan
-6,2.PS,"Vuelta a Andalucia / Ruta Del Sol, General classification (prov.)",42516,MONIQUET Sylvain,26331,0,16,2024-02-16,-
-7,2.PS,"Vuelta a Andalucia / Ruta Del Sol, General classification (prov.)",42516,BUITRAGO SANCHEZ Santiago,29699,0,14,2024-02-16,PB
-8,2.PS,"Vuelta a Andalucia / Ruta Del Sol, General classification (prov.)",42516,BAUDIN Alex,32146,0,12,2024-02-16,-
-9,2.PS,"Vuelta a Andalucia / Ruta Del Sol, General classification (prov.)",42516,SOLER GIMENEZ Marc,23299,0,10,2024-02-16,Jan
-10,2.PS,"Vuelta a Andalucia / Ruta Del Sol, General classification (prov.)",42516,SERRANO RODRIGUEZ Gonzalo,25671,0,8,2024-02-16,Jan
+1,2.PSs,"Vuelta a Andalucia / Ruta Del Sol, Stage 3 : Alcaudete - Alcaudete I.T.T. (prov.)",42513,VAN GILS Maxim,28521,0.3,0,2024-02-16,Albert
 1,2.PSs,"Volta ao Algarve, Stage 3 : Vila Real de Santo Antonio - Tavira",42507,VAN AERT Wout,20730,0.3,0,2024-02-16,Bram
 1,1.1,Classic Var,42543,MARTINEZ Lenny,32721,2,0,2024-02-16,Kees
 2,1.1,Classic Var,42543,JOHANNESSEN Tobias Halland,31567,0.3,0,2024-02-16,Albert
@@ -47,16 +40,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 1,2.PSs,"Tour of Oman, Stage 5 : Jamail - Jabal Al Akhdar",42503,YATES Adam,18975,0.3,0,2024-02-14,Kees
 1,2.PSs,"Tour of Oman, Stage 4 : Izki - Yitti Hills",42502,CAPIOT Amaury,22669,0.3,0,2024-02-13,-
 1,2.PSs,"Tour of Oman, Stage 3 : Al Khobar - Al Bustan",42501,MAGNIER Paul,34555,0.3,0,2024-02-12,-
-1,1.1,Clasica Jaén Paraíso Interior,42422,LAZKANO LOPEZ Oier,30595,2,0,2024-02-12,Frank
-2,1.1,Clasica Jaén Paraíso Interior,42422,TRONCHON Bastien,32134,0.3,0,2024-02-12,-
-3,1.1,Clasica Jaén Paraíso Interior,42422,TRATNIK Jan,12748,0.1,0,2024-02-12,-
-1,1.PS,Clasica de Almeria,42421,KOOIJ Olav,30643,4,50,2024-02-11,Roy
-2,1.PS,Clasica de Almeria,42421,MOSCHETTI Matteo,27126,1,35,2024-02-11,Kees
-3,1.PS,Clasica de Almeria,42421,TRENTIN Matteo,13270,0.5,25,2024-02-11,Jan
-4,1.PS,Clasica de Almeria,42421,DE LIE Arnaud,32221,0,20,2024-02-11,PB
-5,1.PS,Clasica de Almeria,42421,THIJSSEN Gerben,27085,0,18,2024-02-11,Vel
-6,1.PS,Clasica de Almeria,42421,FRETIN Milan,32617,0,16,2024-02-11,-
-7,1.PS,Clasica de Almeria,42421,TESSON Jason,29883,0,14,2024-02-11,-
-8,1.PS,Clasica de Almeria,42421,MEEUS Jordi,26421,0,12,2024-02-11,Vel
-9,1.PS,Clasica de Almeria,42421,ASKEY Lewis,30685,0,10,2024-02-11,-
-10,1.PS,Clasica de Almeria,42421,VAN AERT Wout,20730,0,8,2024-02-11,Bram

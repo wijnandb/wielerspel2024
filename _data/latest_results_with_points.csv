@@ -18,7 +18,7 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 2,2.1,"Tour des Alpes-Maritimes , General classification",42519,ALBANESE Vincenzo,24139,0.3,0,2024-02-18,-
 3,2.1,"Tour des Alpes-Maritimes , General classification",42519,PARET PEINTRE Aurélien,24110,0.1,0,2024-02-18,Jan
 1,2.1s,"Tour des Alpes-Maritimes , Stage 2 : Villefranche-sur-Mer - Vence",42518,COSNEFROY Benoît,24189,0.2,0,2024-02-18,Bram
-1,2.PSs,"Vuelta a Andalucia / Ruta Del Sol, Stage 4 : Lucena - Lucena",42514,no result,13543,0.3,0,2024-02-17,-
+1,2.PSs,"Vuelta a Andalucia / Ruta Del Sol, Stage 4 : Cordoba - Lucena",42514,no result,13543,0.3,0,2024-02-17,-
 1,2.PSs,"Volta ao Algarve, Stage 4 : Albufeira - Albufeira I.T.T.",42508,EVENEPOEL Remco,28377,0.3,0,2024-02-17,Roy
 1,2.1s,"Tour des Alpes-Maritimes , Stage 1 : Levens - Antibes",42517,VERNON Ethan,30035,0.2,0,2024-02-17,Albert
 1,2.PSs,"Vuelta a Andalucia / Ruta Del Sol, Stage 3 : Alcaudete - Alcaudete I.T.T.",42513,VAN GILS Maxim,28521,0.3,0,2024-02-16,Albert
@@ -26,8 +26,8 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 1,1.1,Classic Var,42543,MARTINEZ Lenny,32721,2,0,2024-02-16,Kees
 2,1.1,Classic Var,42543,JOHANNESSEN Tobias Halland,31567,0.3,0,2024-02-16,Albert
 3,1.1,Classic Var,42543,BARDET Romain,13566,0.1,0,2024-02-16,Nicky
+1,2.PSs,"Vuelta a Andalucia / Ruta Del Sol, Stage 2 : Velez - Alcaudete",42512,no result,13543,0.3,0,2024-02-15,-
 1,2.PSs,"Volta ao Algarve, Stage 2 : Lagoa - Alto da Foia",42506,MARTINEZ POVEDA Daniel Felipe,23503,0.3,0,2024-02-15,PB
-1,2.PSs,"Vuelta a Andalucia / Ruta Del Sol, Stage 2 : Diezma - Alcala la Real",42512,no result,13543,0.3,0,2024-02-15,-
 1,2.PS,"Tour of Oman, General classification",42504,YATES Adam,18975,4,50,2024-02-14,Kees
 2,2.PS,"Tour of Oman, General classification",42504,HIRT Jan,17078,1,35,2024-02-14,-
 3,2.PS,"Tour of Oman, General classification",42504,FISHER-BLACK Finn,30562,0.5,25,2024-02-14,Kees
@@ -38,5 +38,5 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 8,2.PS,"Tour of Oman, General classification",42504,KULSET Johannes,34399,0,12,2024-02-14,-
 9,2.PS,"Tour of Oman, General classification",42504,COBO CAYON Ivan,31277,0,10,2024-02-14,-
 10,2.PS,"Tour of Oman, General classification",42504,FAURE PROST Alexy,34353,0,8,2024-02-14,-
+1,2.PSs,"Vuelta a Andalucia / Ruta Del Sol, Stage 1 : Almunecar la Herradura - Cadiar",42511,no result,13543,0.3,0,2024-02-14,-
 1,2.PSs,"Volta ao Algarve, Stage 1 : Portimao - Lagos",42505,THIJSSEN Gerben,27085,0.3,0,2024-02-14,Vel
-1,2.PSs,"Vuelta a Andalucia / Ruta Del Sol, Stage 1 : Puente de Genave - Santiago de la Espada",42511,no result,13543,0.3,0,2024-02-14,-

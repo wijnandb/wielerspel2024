@@ -1,4 +1,6 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
+1,2.WT3s,"UAE Tour, Stage 3 : Al Marjan - Jebel Jais (prov.)",42531,O'CONNOR Ben,23763,0.5,0,2024-02-21,Nicky
+1,2.1s,"Tour du Rwanda, Stage 4 : Karongi - Rubavu (prov.)",42523,LECERF William Junior,32229,0.2,0,2024-02-21,-
 1,2.WT3s,"UAE Tour, Stage 2 : Al Hudayriat - Al Hudayriat I.T.T. (prov.)",42530,MCNULTY Brandon,26508,0.5,0,2024-02-20,Kees
 1,2.1s,"Tour du Rwanda, Stage 3 : Huye - Rusizi (prov.)",42522,RESTREPO VALENCIA Jhonatan,24720,0.2,0,2024-02-20,-
 1,2.WT3s,"UAE Tour, Stage 1 : Al Dhafra - Liwa (prov.)",42529,MERLIER Tim,17988,0.5,0,2024-02-19,Frank
@@ -29,14 +31,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 2,1.1,Classic Var,42543,JOHANNESSEN Tobias Halland,31567,0.3,0,2024-02-16,Albert
 3,1.1,Classic Var,42543,BARDET Romain,13566,0.1,0,2024-02-16,Nicky
 1,2.PSs,"Vuelta a Andalucia / Ruta Del Sol, Stage 2 : Velez - Alcaudete",42512,no result,13543,0.3,0,2024-02-15,-
-1,2.PSs,"Volta ao Algarve, Stage 2 : Lagoa - Alto da Foia",42506,MARTINEZ POVEDA Daniel Felipe,23503,0.3,0,2024-02-15,PB
-1,2.PS,"Tour of Oman, General classification",42504,YATES Adam,18975,4,50,2024-02-14,Kees
-2,2.PS,"Tour of Oman, General classification",42504,HIRT Jan,17078,1,35,2024-02-14,-
-3,2.PS,"Tour of Oman, General classification",42504,FISHER-BLACK Finn,30562,0.5,25,2024-02-14,Kees
-4,2.PS,"Tour of Oman, General classification",42504,ULISSI Diego,10023,0,20,2024-02-14,Kaspar
-5,2.PS,"Tour of Oman, General classification",42504,RODRIGUEZ MARTIN Cristian,24102,0,18,2024-02-14,-
-6,2.PS,"Tour of Oman, General classification",42504,BARGUIL Warren,17627,0,16,2024-02-14,Nicky
-7,2.PS,"Tour of Oman, General classification",42504,VANSEVENANT Mauri,28580,0,14,2024-02-14,Jan
-8,2.PS,"Tour of Oman, General classification",42504,KULSET Johannes,34399,0,12,2024-02-14,-
-9,2.PS,"Tour of Oman, General classification",42504,COBO CAYON Ivan,31277,0,10,2024-02-14,-
-10,2.PS,"Tour of Oman, General classification",42504,FAURE PROST Alexy,34353,0,8,2024-02-14,-

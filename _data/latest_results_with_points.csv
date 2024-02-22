@@ -1,5 +1,6 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 1,2.WT3s,"UAE Tour, Stage 4 : Dubai - Dubai (prov.)",42532,MERLIER Tim,17988,0.5,0,2024-02-22,Frank
+1,2.1s,"O Gran Camiño, Stage 1 : A Coruña - A Coruña I.T.T. (prov.)",42538,TARLING Joshua,34297,0.2,0,2024-02-22,Kaspar
 1,2.1s,"Tour du Rwanda, Stage 5 : Musanze - Kinigi I.T.T. (prov.)",42524,LATOUR Pierre,20156,0.2,0,2024-02-22,-
 1,2.WT3s,"UAE Tour, Stage 3 : Al Marjan - Jebel Jais (prov.)",42531,O'CONNOR Ben,23763,0.5,0,2024-02-21,Nicky
 1,2.1s,"Tour du Rwanda, Stage 4 : Karongi - Rubavu (prov.)",42523,LECERF William Junior,32229,0.2,0,2024-02-21,-
@@ -28,4 +29,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 1,2.PSs,"Volta ao Algarve, Stage 4 : Albufeira - Albufeira I.T.T.",42508,EVENEPOEL Remco,28377,0.3,0,2024-02-17,Roy
 1,2.1s,"Tour des Alpes-Maritimes , Stage 1 : Levens - Antibes",42517,VERNON Ethan,30035,0.2,0,2024-02-17,Albert
 1,2.PSs,"Vuelta a Andalucia / Ruta Del Sol, Stage 3 : Alcaudete - Alcaudete I.T.T.",42513,VAN GILS Maxim,28521,0.3,0,2024-02-16,Albert
-1,2.PSs,"Volta ao Algarve, Stage 3 : Vila Real de Santo Antonio - Tavira",42507,VAN AERT Wout,20730,0.3,0,2024-02-16,Bram

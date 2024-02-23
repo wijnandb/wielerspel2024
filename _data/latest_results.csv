@@ -1,5 +1,6 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
 1,2.WT3s,"UAE Tour, Stage 5 : Al Aqah - Umm al Quwain (prov.)",42533,KOOIJ Olav,30643,0.0,0,2024-02-23
+1,2.1s,"O Gran Camiño, Stage 2 : Taboada - Chantada (prov.)",42539,VINGEGAARD HANSEN Jonas,25740,0.0,0,2024-02-23
 1,2.1s,"Tour du Rwanda, Stage 6 : Musanze - Mount Kigali (prov.)",42525,BLACKMORE Joseph,34973,0.0,0,2024-02-23
 1,2.WT3s,"UAE Tour, Stage 4 : Dubai - Dubai (prov.)",42532,MERLIER Tim,17988,0.0,0,2024-02-22
 1,2.1s,"O Gran Camiño, Stage 1 : A Coruña - A Coruña I.T.T. (prov.)",42538,TARLING Joshua,34297,0.0,0,2024-02-22
@@ -28,4 +29,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
 3,2.1,"Tour des Alpes-Maritimes , General classification",42519,PARET PEINTRE Aurélien,24110,0.0,0,2024-02-18
 1,2.1s,"Tour des Alpes-Maritimes , Stage 2 : Villefranche-sur-Mer - Vence",42518,COSNEFROY Benoît,24189,0.0,0,2024-02-18
 1,2.PSs,"Vuelta a Andalucia / Ruta Del Sol, Stage 4 : Cordoba - Lucena",42514,no result,13543,0.0,0,2024-02-17
-1,2.PSs,"Volta ao Algarve, Stage 4 : Albufeira - Albufeira I.T.T.",42508,EVENEPOEL Remco,28377,0.0,0,2024-02-17

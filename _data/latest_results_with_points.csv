@@ -1,14 +1,14 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
-1,1.WT2,Omloop Het Nieuwsblad (prov.),42425,TRATNIK Jan,12748,10,50,2024-02-24,-
-2,1.WT2,Omloop Het Nieuwsblad (prov.),42425,POLITT Nils,20847,3,35,2024-02-24,Kees
-3,1.WT2,Omloop Het Nieuwsblad (prov.),42425,VAN AERT Wout,20730,1,25,2024-02-24,Bram
-4,1.WT2,Omloop Het Nieuwsblad (prov.),42425,NAESEN Oliver,21392,0.5,20,2024-02-24,-
-5,1.WT2,Omloop Het Nieuwsblad (prov.),42425,LAPORTE Christophe,19953,0.2,18,2024-02-24,Paul
-6,1.WT2,Omloop Het Nieuwsblad (prov.),42425,REX Laurenz,28442,0,16,2024-02-24,-
-7,1.WT2,Omloop Het Nieuwsblad (prov.),42425,STUYVEN Jasper,18233,0,14,2024-02-24,Jan
-8,1.WT2,Omloop Het Nieuwsblad (prov.),42425,PIDCOCK Thomas,27708,0,12,2024-02-24,Vel
-9,1.WT2,Omloop Het Nieuwsblad (prov.),42425,TRENTIN Matteo,13270,0,10,2024-02-24,Jan
-10,1.WT2,Omloop Het Nieuwsblad (prov.),42425,DE LIE Arnaud,32221,0,8,2024-02-24,PB
+1,1.WT2,Omloop Het Nieuwsblad,42425,TRATNIK Jan,12748,10,50,2024-02-24,-
+2,1.WT2,Omloop Het Nieuwsblad,42425,POLITT Nils,20847,3,35,2024-02-24,Kees
+3,1.WT2,Omloop Het Nieuwsblad,42425,VAN AERT Wout,20730,1,25,2024-02-24,Bram
+4,1.WT2,Omloop Het Nieuwsblad,42425,NAESEN Oliver,21392,0.5,20,2024-02-24,-
+5,1.WT2,Omloop Het Nieuwsblad,42425,LAPORTE Christophe,19953,0.2,18,2024-02-24,Paul
+6,1.WT2,Omloop Het Nieuwsblad,42425,REX Laurenz,28442,0,16,2024-02-24,-
+7,1.WT2,Omloop Het Nieuwsblad,42425,STUYVEN Jasper,18233,0,14,2024-02-24,Jan
+8,1.WT2,Omloop Het Nieuwsblad,42425,PIDCOCK Thomas,27708,0,12,2024-02-24,Vel
+9,1.WT2,Omloop Het Nieuwsblad,42425,TRENTIN Matteo,13270,0,10,2024-02-24,Jan
+10,1.WT2,Omloop Het Nieuwsblad,42425,DE LIE Arnaud,32221,0,8,2024-02-24,PB
 1,2.WT3s,"UAE Tour, Stage 6 : Abu Dhabi - Abu Dhabi (prov.)",42534,MERLIER Tim,17988,0.5,0,2024-02-24,Frank
 1,1.PS,Faun Ardèche Classic,42426,AYUSO PESQUERA Juan,31654,4,50,2024-02-24,Frank
 2,1.PS,Faun Ardèche Classic,42426,GREGOIRE Romain,32766,1,35,2024-02-24,Jan

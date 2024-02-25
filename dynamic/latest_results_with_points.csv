@@ -11,6 +11,26 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 10,2.WT3,"UAE Tour, General classification (prov.)",42536,LEMMEN Bart,32252,0,8,2024-02-25,-
 1,2.WT3s,"UAE Tour, Stage 7 : Al Ain - Jebel Hafeet (prov.)",42535,VAN EETVELT Lennert,32225,0.5,0,2024-02-25,Albert
 1,2.WT3r,"UAE Tour, Points classification (prov.)",42537,MERLIER Tim,17988,0.0,0,2024-02-25,Frank
+1,1.PS,Kuurne - Brussel - Kuurne (prov.),42428,VAN AERT Wout,20730,4,50,2024-02-25,Bram
+2,1.PS,Kuurne - Brussel - Kuurne (prov.),42428,WELLENS Tim,16722,1,35,2024-02-25,Jan
+3,1.PS,Kuurne - Brussel - Kuurne (prov.),42428,LAZKANO LOPEZ Oier,30595,0.5,25,2024-02-25,Frank
+4,1.PS,Kuurne - Brussel - Kuurne (prov.),42428,LAPORTE Christophe,19953,0,20,2024-02-25,Paul
+5,1.PS,Kuurne - Brussel - Kuurne (prov.),42428,EEKHOFF Nils,26429,0,18,2024-02-25,Jan
+6,1.PS,Kuurne - Brussel - Kuurne (prov.),42428,JEANNIERE Emilien,29288,0,16,2024-02-25,-
+7,1.PS,Kuurne - Brussel - Kuurne (prov.),42428,LAMPERTI Luke,31833,0,14,2024-02-25,Bram
+8,1.PS,Kuurne - Brussel - Kuurne (prov.),42428,TAMINIAUX Lionel,23416,0,12,2024-02-25,-
+9,1.PS,Kuurne - Brussel - Kuurne (prov.),42428,MAYRHOFER Marius,29192,0,10,2024-02-25,Paul
+10,1.PS,Kuurne - Brussel - Kuurne (prov.),42428,STUYVEN Jasper,18233,0,8,2024-02-25,Jan
+1,1.PS,Faun Drôme Classic (prov.),42427,HIRSCHI Marc,26509,4,50,2024-02-25,Bram
+2,1.PS,Faun Drôme Classic (prov.),42427,AYUSO PESQUERA Juan,31654,1,35,2024-02-25,Frank
+3,1.PS,Faun Drôme Classic (prov.),42427,VAN GILS Maxim,28521,0.5,25,2024-02-25,Albert
+4,1.PS,Faun Drôme Classic (prov.),42427,BARGUIL Warren,17627,0,20,2024-02-25,Nicky
+5,1.PS,Faun Drôme Classic (prov.),42427,SKJELMOSE JENSEN Mattias,30166,0,18,2024-02-25,Kaspar
+6,1.PS,Faun Drôme Classic (prov.),42427,TRONCHON Bastien,32134,0,16,2024-02-25,-
+7,1.PS,Faun Drôme Classic (prov.),42427,LAPEIRA Paul,30615,0,14,2024-02-25,-
+8,1.PS,Faun Drôme Classic (prov.),42427,STRONG Corbin,29492,0,12,2024-02-25,PB
+9,1.PS,Faun Drôme Classic (prov.),42427,COSNEFROY Benoît,24189,0,10,2024-02-25,Bram
+10,1.PS,Faun Drôme Classic (prov.),42427,GODON Dorian,25704,0,8,2024-02-25,PB
 1,2.1,"O Gran Camiño, General classification (prov.)",42542,VINGEGAARD HANSEN Jonas,25740,2,0,2024-02-25,Arjan
 2,2.1,"O Gran Camiño, General classification (prov.)",42542,MARTINEZ Lenny,32721,0.3,0,2024-02-25,Kees
 3,2.1,"O Gran Camiño, General classification (prov.)",42542,BERNAL GOMEZ Egan Arley,24926,0.1,0,2024-02-25,Arjan
@@ -47,5 +67,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 1,2.1s,"Tour du Rwanda, Stage 6 : Musanze - Mount Kigali (prov.)",42525,BLACKMORE Joseph,34973,0.2,0,2024-02-23,-
 1,2.WT3s,"UAE Tour, Stage 4 : Dubai - Dubai (prov.)",42532,MERLIER Tim,17988,0.5,0,2024-02-22,Frank
 1,2.1s,"O Gran Camiño, Stage 1 : A Coruña - A Coruña I.T.T. (prov.)",42538,TARLING Joshua,34297,0.2,0,2024-02-22,Kaspar
-1,2.1s,"Tour du Rwanda, Stage 5 : Musanze - Kinigi I.T.T. (prov.)",42524,LATOUR Pierre,20156,0.2,0,2024-02-22,-
-1,2.WT3s,"UAE Tour, Stage 3 : Al Marjan - Jebel Jais (prov.)",42531,O'CONNOR Ben,23763,0.5,0,2024-02-21,Nicky

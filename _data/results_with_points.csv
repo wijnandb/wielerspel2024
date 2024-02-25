@@ -1,4 +1,24 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
+1,2.WT3,"UAE Tour, General classification (prov.)",42536,VAN EETVELT Lennert,32225,5,50,2024-02-25,Albert
+2,2.WT3,"UAE Tour, General classification (prov.)",42536,O'CONNOR Ben,23763,2,35,2024-02-25,Nicky
+3,2.WT3,"UAE Tour, General classification (prov.)",42536,BILBAO LOPEZ DE ARMENTIA Pello,17881,1,25,2024-02-25,Albert
+4,2.WT3,"UAE Tour, General classification (prov.)",42536,VAN WILDER Ilan,29828,0,20,2024-02-25,Kees
+5,2.WT3,"UAE Tour, General classification (prov.)",42536,VALTER Attila,27198,0,18,2024-02-25,Paul
+6,2.WT3,"UAE Tour, General classification (prov.)",42536,STORER Michael,25335,0,16,2024-02-25,Albert
+7,2.WT3,"UAE Tour, General classification (prov.)",42536,POOLE Max,32809,0,14,2024-02-25,Albert
+8,2.WT3,"UAE Tour, General classification (prov.)",42536,RIVERA VARGAS Brandon Smith,26283,0,12,2024-02-25,-
+9,2.WT3,"UAE Tour, General classification (prov.)",42536,VERONA QUINTANILLA Carlos,17994,0,10,2024-02-25,-
+10,2.WT3,"UAE Tour, General classification (prov.)",42536,LEMMEN Bart,32252,0,8,2024-02-25,-
+1,2.WT3s,"UAE Tour, Stage 7 : Al Ain - Jebel Hafeet (prov.)",42535,VAN EETVELT Lennert,32225,0.5,0,2024-02-25,Albert
+1,2.WT3r,"UAE Tour, Points classification (prov.)",42537,MERLIER Tim,17988,0.0,0,2024-02-25,Frank
+1,2.1,"O Gran Camiño, General classification (prov.)",42542,VINGEGAARD HANSEN Jonas,25740,2,0,2024-02-25,Arjan
+2,2.1,"O Gran Camiño, General classification (prov.)",42542,MARTINEZ Lenny,32721,0.3,0,2024-02-25,Kees
+3,2.1,"O Gran Camiño, General classification (prov.)",42542,BERNAL GOMEZ Egan Arley,24926,0.1,0,2024-02-25,Arjan
+1,2.1,"Tour du Rwanda, General classification (prov.)",42528,BLACKMORE Joseph,34973,2,0,2024-02-25,-
+2,2.1,"Tour du Rwanda, General classification (prov.)",42528,DOSTIYEV Ilkhan,31966,0.3,0,2024-02-25,-
+3,2.1,"Tour du Rwanda, General classification (prov.)",42528,RESTREPO VALENCIA Jhonatan,24720,0.1,0,2024-02-25,-
+1,2.1s,"O Gran Camiño, Stage 4 : Punteareas - Tui (prov.)",42541,VINGEGAARD HANSEN Jonas,25740,0.2,0,2024-02-25,Arjan
+1,2.1s,"Tour du Rwanda, Stage 8 : Kigali - Kigali (prov.)",42527,BLACKMORE Joseph,34973,0.2,0,2024-02-25,-
 1,1.WT2,Omloop Het Nieuwsblad,42425,TRATNIK Jan,12748,10,50,2024-02-24,-
 2,1.WT2,Omloop Het Nieuwsblad,42425,POLITT Nils,20847,3,35,2024-02-24,Kees
 3,1.WT2,Omloop Het Nieuwsblad,42425,VAN AERT Wout,20730,1,25,2024-02-24,Bram

@@ -11,16 +11,6 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
 10,2.WT3,"UAE Tour, General classification",42536,LEMMEN Bart,32252,0.0,0,2024-02-25
 1,2.WT3s,"UAE Tour, Stage 7 : Al Ain - Jebel Hafeet",42535,VAN EETVELT Lennert,32225,0.0,0,2024-02-25
 1,2.WT3r,"UAE Tour, Points classification",42537,MERLIER Tim,17988,0.0,0,2024-02-25
-1,1.PS,Kuurne - Brussel - Kuurne,42428,VAN AERT Wout,20730,0.0,0,2024-02-25
-2,1.PS,Kuurne - Brussel - Kuurne,42428,WELLENS Tim,16722,0.0,0,2024-02-25
-3,1.PS,Kuurne - Brussel - Kuurne,42428,LAZKANO LOPEZ Oier,30595,0.0,0,2024-02-25
-4,1.PS,Kuurne - Brussel - Kuurne,42428,LAPORTE Christophe,19953,0.0,0,2024-02-25
-5,1.PS,Kuurne - Brussel - Kuurne,42428,EEKHOFF Nils,26429,0.0,0,2024-02-25
-6,1.PS,Kuurne - Brussel - Kuurne,42428,JEANNIERE Emilien,29288,0.0,0,2024-02-25
-7,1.PS,Kuurne - Brussel - Kuurne,42428,LAMPERTI Luke,31833,0.0,0,2024-02-25
-8,1.PS,Kuurne - Brussel - Kuurne,42428,TAMINIAUX Lionel,23416,0.0,0,2024-02-25
-9,1.PS,Kuurne - Brussel - Kuurne,42428,MAYRHOFER Marius,29192,0.0,0,2024-02-25
-10,1.PS,Kuurne - Brussel - Kuurne,42428,STUYVEN Jasper,18233,0.0,0,2024-02-25
 1,1.PS,Faun Drôme Classic,42427,HIRSCHI Marc,26509,0.0,0,2024-02-25
 2,1.PS,Faun Drôme Classic,42427,AYUSO PESQUERA Juan,31654,0.0,0,2024-02-25
 3,1.PS,Faun Drôme Classic,42427,VAN GILS Maxim,28521,0.0,0,2024-02-25
@@ -31,12 +21,22 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
 8,1.PS,Faun Drôme Classic,42427,STRONG Corbin,29492,0.0,0,2024-02-25
 9,1.PS,Faun Drôme Classic,42427,COSNEFROY Benoît,24189,0.0,0,2024-02-25
 10,1.PS,Faun Drôme Classic,42427,GODON Dorian,25704,0.0,0,2024-02-25
-1,2.1,"Tour du Rwanda, General classification",42528,BLACKMORE Joseph,34973,0.0,0,2024-02-25
-2,2.1,"Tour du Rwanda, General classification",42528,DOSTIYEV Ilkhan,31966,0.0,0,2024-02-25
-3,2.1,"Tour du Rwanda, General classification",42528,RESTREPO VALENCIA Jhonatan,24720,0.0,0,2024-02-25
+1,1.PS,Kuurne - Brussel - Kuurne,42428,VAN AERT Wout,20730,0.0,0,2024-02-25
+2,1.PS,Kuurne - Brussel - Kuurne,42428,WELLENS Tim,16722,0.0,0,2024-02-25
+3,1.PS,Kuurne - Brussel - Kuurne,42428,LAZKANO LOPEZ Oier,30595,0.0,0,2024-02-25
+4,1.PS,Kuurne - Brussel - Kuurne,42428,LAPORTE Christophe,19953,0.0,0,2024-02-25
+5,1.PS,Kuurne - Brussel - Kuurne,42428,EEKHOFF Nils,26429,0.0,0,2024-02-25
+6,1.PS,Kuurne - Brussel - Kuurne,42428,JEANNIERE Emilien,29288,0.0,0,2024-02-25
+7,1.PS,Kuurne - Brussel - Kuurne,42428,LAMPERTI Luke,31833,0.0,0,2024-02-25
+8,1.PS,Kuurne - Brussel - Kuurne,42428,TAMINIAUX Lionel,23416,0.0,0,2024-02-25
+9,1.PS,Kuurne - Brussel - Kuurne,42428,MAYRHOFER Marius,29192,0.0,0,2024-02-25
+10,1.PS,Kuurne - Brussel - Kuurne,42428,STUYVEN Jasper,18233,0.0,0,2024-02-25
 1,2.1,"O Gran Camiño, General classification",42542,VINGEGAARD HANSEN Jonas,25740,0.0,0,2024-02-25
 2,2.1,"O Gran Camiño, General classification",42542,MARTINEZ Lenny,32721,0.0,0,2024-02-25
 3,2.1,"O Gran Camiño, General classification",42542,BERNAL GOMEZ Egan Arley,24926,0.0,0,2024-02-25
+1,2.1,"Tour du Rwanda, General classification",42528,BLACKMORE Joseph,34973,0.0,0,2024-02-25
+2,2.1,"Tour du Rwanda, General classification",42528,DOSTIYEV Ilkhan,31966,0.0,0,2024-02-25
+3,2.1,"Tour du Rwanda, General classification",42528,RESTREPO VALENCIA Jhonatan,24720,0.0,0,2024-02-25
 1,2.1s,"Tour du Rwanda, Stage 8 : Kigali - Kigali",42527,BLACKMORE Joseph,34973,0.0,0,2024-02-25
 1,2.1s,"O Gran Camiño, Stage 4 : Punteareas - Tui",42541,VINGEGAARD HANSEN Jonas,25740,0.0,0,2024-02-25
 1,1.WT2,Omloop Het Nieuwsblad,42425,TRATNIK Jan,12748,0.0,0,2024-02-24

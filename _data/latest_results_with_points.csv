@@ -31,14 +31,14 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 8,1.PS,Faun Drôme Classic,42427,STRONG Corbin,29492,0,12,2024-02-25,PB
 9,1.PS,Faun Drôme Classic,42427,COSNEFROY Benoît,24189,0,10,2024-02-25,Bram
 10,1.PS,Faun Drôme Classic,42427,GODON Dorian,25704,0,8,2024-02-25,PB
-1,2.1,"O Gran Camiño, General classification",42542,VINGEGAARD HANSEN Jonas,25740,2,0,2024-02-25,Arjan
-2,2.1,"O Gran Camiño, General classification",42542,MARTINEZ Lenny,32721,0.3,0,2024-02-25,Kees
-3,2.1,"O Gran Camiño, General classification",42542,BERNAL GOMEZ Egan Arley,24926,0.1,0,2024-02-25,Arjan
 1,2.1,"Tour du Rwanda, General classification",42528,BLACKMORE Joseph,34973,2,0,2024-02-25,-
 2,2.1,"Tour du Rwanda, General classification",42528,DOSTIYEV Ilkhan,31966,0.3,0,2024-02-25,-
 3,2.1,"Tour du Rwanda, General classification",42528,RESTREPO VALENCIA Jhonatan,24720,0.1,0,2024-02-25,-
-1,2.1s,"O Gran Camiño, Stage 4 : Punteareas - Tui",42541,VINGEGAARD HANSEN Jonas,25740,0.2,0,2024-02-25,Arjan
+1,2.1,"O Gran Camiño, General classification",42542,VINGEGAARD HANSEN Jonas,25740,2,0,2024-02-25,Arjan
+2,2.1,"O Gran Camiño, General classification",42542,MARTINEZ Lenny,32721,0.3,0,2024-02-25,Kees
+3,2.1,"O Gran Camiño, General classification",42542,BERNAL GOMEZ Egan Arley,24926,0.1,0,2024-02-25,Arjan
 1,2.1s,"Tour du Rwanda, Stage 8 : Kigali - Kigali",42527,BLACKMORE Joseph,34973,0.2,0,2024-02-25,-
+1,2.1s,"O Gran Camiño, Stage 4 : Punteareas - Tui",42541,VINGEGAARD HANSEN Jonas,25740,0.2,0,2024-02-25,Arjan
 1,1.WT2,Omloop Het Nieuwsblad,42425,TRATNIK Jan,12748,10,50,2024-02-24,-
 2,1.WT2,Omloop Het Nieuwsblad,42425,POLITT Nils,20847,3,35,2024-02-24,Kees
 3,1.WT2,Omloop Het Nieuwsblad,42425,VAN AERT Wout,20730,1,25,2024-02-24,Bram
@@ -60,10 +60,10 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 8,1.PS,Faun Ardèche Classic,42426,JEGAT Jordan,32860,0,12,2024-02-24,-
 9,1.PS,Faun Ardèche Classic,42426,PARET PEINTRE Aurélien,24110,0,10,2024-02-24,Jan
 10,1.PS,Faun Ardèche Classic,42426,ARRIETA LIZARRAGA Igor,32611,0,8,2024-02-24,-
-1,2.1s,"O Gran Camiño, Stage 3 : Xinzo de Limia - Castelo de Ribadavia",42540,VINGEGAARD HANSEN Jonas,25740,0.2,0,2024-02-24,Arjan
 1,2.1s,"Tour du Rwanda, Stage 7 : Rukomo - Kayonza",42526,EINHORN Itamar,27315,0.2,0,2024-02-24,-
+1,2.1s,"O Gran Camiño, Stage 3 : Xinzo de Limia - Castelo de Ribadavia",42540,VINGEGAARD HANSEN Jonas,25740,0.2,0,2024-02-24,Arjan
 1,2.WT3s,"UAE Tour, Stage 5 : Al Aqah - Umm al Quwain",42533,KOOIJ Olav,30643,0.5,0,2024-02-23,Roy
-1,2.1s,"O Gran Camiño, Stage 2 : Taboada - Chantada",42539,VINGEGAARD HANSEN Jonas,25740,0.2,0,2024-02-23,Arjan
 1,2.1s,"Tour du Rwanda, Stage 6 : Musanze - Mount Kigali",42525,BLACKMORE Joseph,34973,0.2,0,2024-02-23,-
+1,2.1s,"O Gran Camiño, Stage 2 : Taboada - Chantada",42539,VINGEGAARD HANSEN Jonas,25740,0.2,0,2024-02-23,Arjan
 1,2.WT3s,"UAE Tour, Stage 4 : Dubai - Dubai",42532,MERLIER Tim,17988,0.5,0,2024-02-22,Frank
 1,2.1s,"O Gran Camiño, Stage 1 : A Coruña - A Coruña I.T.T.",42538,TARLING Joshua,34297,0.2,0,2024-02-22,Kaspar

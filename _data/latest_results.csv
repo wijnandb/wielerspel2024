@@ -1,4 +1,14 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
+1,1.PS,Trofeo Laigueglia (prov.),42432,MARTINEZ Lenny,32721,0.0,0,2024-02-28
+2,1.PS,Trofeo Laigueglia (prov.),42432,VENDRAME Andrea,22170,0.0,0,2024-02-28
+3,1.PS,Trofeo Laigueglia (prov.),42432,AYUSO PESQUERA Juan,31654,0.0,0,2024-02-28
+4,1.PS,Trofeo Laigueglia (prov.),42432,SCARONI Christian,27002,0.0,0,2024-02-28
+5,1.PS,Trofeo Laigueglia (prov.),42432,CHRISTEN Jan,34430,0.0,0,2024-02-28
+6,1.PS,Trofeo Laigueglia (prov.),42432,RAFFERTY Darren,31511,0.0,0,2024-02-28
+7,1.PS,Trofeo Laigueglia (prov.),42432,BARRE Louis,30055,0.0,0,2024-02-28
+8,1.PS,Trofeo Laigueglia (prov.),42432,VELASCO Simone,22662,0.0,0,2024-02-28
+9,1.PS,Trofeo Laigueglia (prov.),42432,LAPEIRA Paul,30615,0.0,0,2024-02-28
+10,1.PS,Trofeo Laigueglia (prov.),42432,ROTA Lorenzo,21958,0.0,0,2024-02-28
 1,1.1,Le Samyn,42430,REX Laurenz,28442,0.0,0,2024-02-27
 2,1.1,Le Samyn,42430,MORGADO Antonio Tomas,34222,0.0,0,2024-02-27
 3,1.1,Le Samyn,42430,BIERMANS Jenthe,22010,0.0,0,2024-02-27
@@ -67,5 +77,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
 1,2.1s,"O Gran Camiño, Stage 3 : Xinzo de Limia - Castelo de Ribadavia",42540,VINGEGAARD HANSEN Jonas,25740,0.0,0,2024-02-24
 1,2.WT3s,"UAE Tour, Stage 5 : Al Aqah - Umm al Quwain",42533,KOOIJ Olav,30643,0.0,0,2024-02-23
 1,2.1s,"Tour du Rwanda, Stage 6 : Musanze - Mount Kigali",42525,BLACKMORE Joseph,34973,0.0,0,2024-02-23
-1,2.1s,"O Gran Camiño, Stage 2 : Taboada - Chantada",42539,VINGEGAARD HANSEN Jonas,25740,0.0,0,2024-02-23
-1,2.WT3s,"UAE Tour, Stage 4 : Dubai - Dubai",42532,MERLIER Tim,17988,0.0,0,2024-02-22

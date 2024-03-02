@@ -9,9 +9,9 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 8,1.WT2,Strade Bianche,42551,MARTINEZ Lenny,32721,0,12,2024-03-02,Kees
 9,1.WT2,Strade Bianche,42551,ZANA Filippo,27749,0,10,2024-03-02,Jan
 10,1.WT2,Strade Bianche,42551,LAPORTE Christophe,19953,0,8,2024-03-02,Paul
-1,1.1,GP Criquielion (prov.),42547,SEGAERT Alec,33567,2,0,2024-03-02,Albert
-2,1.1,GP Criquielion (prov.),42547,BITTNER Pavel,31555,0.3,0,2024-03-02,-
-3,1.1,GP Criquielion (prov.),42547,BIERMANS Jenthe,22010,0.1,0,2024-03-02,Frank
+1,1.1,GP Criquielion,42547,SEGAERT Alec,33567,2,0,2024-03-02,Albert
+2,1.1,GP Criquielion,42547,BITTNER Pavel,31555,0.3,0,2024-03-02,-
+3,1.1,GP Criquielion,42547,BIERMANS Jenthe,22010,0.1,0,2024-03-02,Frank
 1,1.PS,Trofeo Laigueglia,42432,MARTINEZ Lenny,32721,4,50,2024-02-28,Kees
 2,1.PS,Trofeo Laigueglia,42432,VENDRAME Andrea,22170,1,35,2024-02-28,-
 3,1.PS,Trofeo Laigueglia,42432,AYUSO PESQUERA Juan,31654,0.5,25,2024-02-28,Frank

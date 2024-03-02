@@ -3,12 +3,15 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
 2,1.WT2,Strade Bianche (prov.),42551,SKUJINS Toms,16739,0.0,0,2024-03-02
 3,1.WT2,Strade Bianche (prov.),42551,VAN GILS Maxim,28521,0.0,0,2024-03-02
 4,1.WT2,Strade Bianche (prov.),42551,PIDCOCK Thomas,27708,0.0,0,2024-03-02
-5,1.WT2,Strade Bianche (prov.),42551,MOHAMED HEGAZY Aly,34813,0.0,0,2024-03-02
+5,1.WT2,Strade Bianche (prov.),42551,MOHORIC Matej,21145,0.0,0,2024-03-02
 6,1.WT2,Strade Bianche (prov.),42551,COSNEFROY Benoît,24189,0.0,0,2024-03-02
 7,1.WT2,Strade Bianche (prov.),42551,FORMOLO Davide,18749,0.0,0,2024-03-02
 8,1.WT2,Strade Bianche (prov.),42551,MARTINEZ Lenny,32721,0.0,0,2024-03-02
 9,1.WT2,Strade Bianche (prov.),42551,ZANA Filippo,27749,0.0,0,2024-03-02
 10,1.WT2,Strade Bianche (prov.),42551,LAPORTE Christophe,19953,0.0,0,2024-03-02
+1,1.1,GP Criquielion (prov.),42547,SEGAERT Alec,33567,0.0,0,2024-03-02
+2,1.1,GP Criquielion (prov.),42547,BITTNER Pavel,31555,0.0,0,2024-03-02
+3,1.1,GP Criquielion (prov.),42547,BIERMANS Jenthe,22010,0.0,0,2024-03-02
 1,1.PS,Trofeo Laigueglia,42432,MARTINEZ Lenny,32721,0.0,0,2024-02-28
 2,1.PS,Trofeo Laigueglia,42432,VENDRAME Andrea,22170,0.0,0,2024-02-28
 3,1.PS,Trofeo Laigueglia,42432,AYUSO PESQUERA Juan,31654,0.0,0,2024-02-28
@@ -72,14 +75,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
 8,1.WT2,Omloop Het Nieuwsblad,42425,PIDCOCK Thomas,27708,0.0,0,2024-02-24
 9,1.WT2,Omloop Het Nieuwsblad,42425,TRENTIN Matteo,13270,0.0,0,2024-02-24
 10,1.WT2,Omloop Het Nieuwsblad,42425,DE LIE Arnaud,32221,0.0,0,2024-02-24
-1,2.WT3s,"UAE Tour, Stage 6 : Abu Dhabi - Abu Dhabi",42534,MERLIER Tim,17988,0.0,0,2024-02-24
-1,1.PS,Faun Ardèche Classic,42426,AYUSO PESQUERA Juan,31654,0.0,0,2024-02-24
-2,1.PS,Faun Ardèche Classic,42426,GREGOIRE Romain,32766,0.0,0,2024-02-24
-3,1.PS,Faun Ardèche Classic,42426,SKJELMOSE JENSEN Mattias,30166,0.0,0,2024-02-24
-4,1.PS,Faun Ardèche Classic,42426,GALL Felix,26383,0.0,0,2024-02-24
-5,1.PS,Faun Ardèche Classic,42426,VAN GILS Maxim,28521,0.0,0,2024-02-24
-6,1.PS,Faun Ardèche Classic,42426,VERMAERKE Kevin,29332,0.0,0,2024-02-24
-7,1.PS,Faun Ardèche Classic,42426,ROTA Lorenzo,21958,0.0,0,2024-02-24
-8,1.PS,Faun Ardèche Classic,42426,JEGAT Jordan,32860,0.0,0,2024-02-24
-9,1.PS,Faun Ardèche Classic,42426,PARET PEINTRE Aurélien,24110,0.0,0,2024-02-24
-10,1.PS,Faun Ardèche Classic,42426,ARRIETA LIZARRAGA Igor,32611,0.0,0,2024-02-24

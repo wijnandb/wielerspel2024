@@ -24,7 +24,7 @@ renner_id,renner,rider,ploegleider,kosten,team,nationality,age,punten,JPP
 32225,VAN EETVELT Lennert,VAN EETVELT Lennert,Albert,2,LTD,BEL,22,7.5,50
 28521,VAN GILS Maxim,VAN GILS Maxim,Albert,2,LTD,BEL,24,1.8,68
 19242,VAN POPPEL Danny,VAN POPPEL Danny,Albert,2,BOH,NED,30,0,0
-33567,SEGAERT Alec,SEGAERT Alec,Albert,1,LTD,BEL,20,0,0
+33567,SEGAERT Alec,SEGAERT Alec,Albert,1,LTD,BEL,20,2,0
 15171,KELDERMAN Wilco,KELDERMAN Wilco,Albert,1,TJV,NED,32,0,0
 20777,GAVIRIA RENDON Fernando,GAVIRIA RENDON Fernando,Albert,1,MOV,COL,29,0.2,0
 32809,POOLE Max,POOLE Max,Albert,1,DSM,GBR,20,0,14
@@ -60,7 +60,7 @@ renner_id,renner,rider,ploegleider,kosten,team,nationality,age,punten,JPP
 18608,BYSTROM Sven Erik,BYSTROM Sven Erik,Frank,1,FDJ,NOR,31,0,0
 22703,PETERS Nans,PETERS Nans,Frank,1,A2R,FRA,29,0,0
 19274,DE BUYST Jasper,DE BUYST Jasper,Frank,1,LTD,BEL,30,0,0
-22010,BIERMANS Jenthe,BIERMANS Jenthe,Frank,0,ARK,BEL,28,0.1,0
+22010,BIERMANS Jenthe,BIERMANS Jenthe,Frank,0,ARK,BEL,28,0.2,0
 21971,VAN DER POEL Mathieu,VAN DER POEL Mathieu,Harry,70,ADC,NED,28,0,0
 24902,POWLESS Neilson,POWLESS Neilson,Harry,10,EFE,USA,27,0,0
 23940,ARANBURU DEBA Alex,ARANBURU DEBA Alex,Harry,4,MOV,ESP,28,0.1,0
@@ -184,7 +184,7 @@ renner_id,renner,rider,ploegleider,kosten,team,nationality,age,punten,JPP
 21244,BENOOT Tiesj,BENOOT Tiesj,Paul,1,TJV,BEL,29,0,0
 25552,FORTUNATO Lorenzo,FORTUNATO Lorenzo,Paul,0,AST,ITA,27,0,0
 32221,DE LIE Arnaud,DE LIE Arnaud,PB,24,LTD,BEL,21,0,28
-21145,MOHORIC Matej,MOHORIC Matej,PB,13,TBV,SLO,29,0.3,0
+21145,MOHORIC Matej,MOHORIC Matej,PB,13,TBV,SLO,29,0.5,18
 28452,BAGIOLI Andrea,BAGIOLI Andrea,PB,11,LTK,ITA,24,0,0
 24255,GAUDU David,GAUDU David,PB,8,FDJ,FRA,27,0,0
 23503,MARTINEZ POVEDA Daniel Felipe,MARTINEZ POVEDA Daniel Felipe,PB,6,BOH,COL,27,3.6,35

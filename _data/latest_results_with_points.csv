@@ -1,4 +1,14 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
+1,1.WT2,Strade Bianche (prov.),42551,POGACAR Tadej,26526,10,50,2024-03-02,Wijnand
+2,1.WT2,Strade Bianche (prov.),42551,SKUJINS Toms,16739,3,35,2024-03-02,-
+3,1.WT2,Strade Bianche (prov.),42551,VAN GILS Maxim,28521,1,25,2024-03-02,Albert
+4,1.WT2,Strade Bianche (prov.),42551,PIDCOCK Thomas,27708,0.5,20,2024-03-02,Vel
+5,1.WT2,Strade Bianche (prov.),42551,MOHAMED HEGAZY Aly,34813,0.2,18,2024-03-02,-
+6,1.WT2,Strade Bianche (prov.),42551,COSNEFROY Benoît,24189,0,16,2024-03-02,Bram
+7,1.WT2,Strade Bianche (prov.),42551,FORMOLO Davide,18749,0,14,2024-03-02,Nicky
+8,1.WT2,Strade Bianche (prov.),42551,MARTINEZ Lenny,32721,0,12,2024-03-02,Kees
+9,1.WT2,Strade Bianche (prov.),42551,ZANA Filippo,27749,0,10,2024-03-02,Jan
+10,1.WT2,Strade Bianche (prov.),42551,LAPORTE Christophe,19953,0,8,2024-03-02,Paul
 1,1.PS,Trofeo Laigueglia,42432,MARTINEZ Lenny,32721,4,50,2024-02-28,Kees
 2,1.PS,Trofeo Laigueglia,42432,VENDRAME Andrea,22170,1,35,2024-02-28,-
 3,1.PS,Trofeo Laigueglia,42432,AYUSO PESQUERA Juan,31654,0.5,25,2024-02-28,Frank
@@ -73,5 +83,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 8,1.PS,Faun Ardèche Classic,42426,JEGAT Jordan,32860,0,12,2024-02-24,-
 9,1.PS,Faun Ardèche Classic,42426,PARET PEINTRE Aurélien,24110,0,10,2024-02-24,Jan
 10,1.PS,Faun Ardèche Classic,42426,ARRIETA LIZARRAGA Igor,32611,0,8,2024-02-24,-
-1,2.1s,"Tour du Rwanda, Stage 7 : Rukomo - Kayonza",42526,EINHORN Itamar,27315,0.2,0,2024-02-24,-
-1,2.1s,"O Gran Camiño, Stage 3 : Xinzo de Limia - Castelo de Ribadavia",42540,VINGEGAARD HANSEN Jonas,25740,0.2,0,2024-02-24,Arjan

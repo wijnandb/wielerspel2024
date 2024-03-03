@@ -1,8 +1,8 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
 1,2.WT1s,"Paris - Nice, Stage 1 : Les Mureaux - Les Mureaux (prov.)",42584,KOOIJ Olav,30643,0.0,0,2024-03-03
-1,1.1,GP Jean-Pierre Monseré (prov.),42552,VAN DE PAAR Jarne,29798,0.0,0,2024-03-03
-2,1.1,GP Jean-Pierre Monseré (prov.),42552,DUPONT Timothy,7948,0.0,0,2024-03-03
-3,1.1,GP Jean-Pierre Monseré (prov.),42552,DEKKER David,27083,0.0,0,2024-03-03
+1,1.1,GP Jean-Pierre Monseré,42552,VAN DE PAAR Jarne,29798,0.0,0,2024-03-03
+2,1.1,GP Jean-Pierre Monseré,42552,DUPONT Timothy,7948,0.0,0,2024-03-03
+3,1.1,GP Jean-Pierre Monseré,42552,DEKKER David,27083,0.0,0,2024-03-03
 1,1.WT2,Strade Bianche,42551,POGACAR Tadej,26526,0.0,0,2024-03-02
 2,1.WT2,Strade Bianche,42551,SKUJINS Toms,16739,0.0,0,2024-03-02
 3,1.WT2,Strade Bianche,42551,VAN GILS Maxim,28521,0.0,0,2024-03-02

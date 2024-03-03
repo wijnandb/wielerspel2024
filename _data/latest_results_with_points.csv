@@ -1,4 +1,7 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
+1,1.1,GP Jean-Pierre Monseré (prov.),42552,VAN DE PAAR Jarne,29798,2,0,2024-03-03,-
+2,1.1,GP Jean-Pierre Monseré (prov.),42552,DUPONT Timothy,7948,0.3,0,2024-03-03,-
+3,1.1,GP Jean-Pierre Monseré (prov.),42552,DEKKER David,27083,0.1,0,2024-03-03,-
 1,1.WT2,Strade Bianche,42551,POGACAR Tadej,26526,10,50,2024-03-02,Wijnand
 2,1.WT2,Strade Bianche,42551,SKUJINS Toms,16739,3,35,2024-03-02,-
 3,1.WT2,Strade Bianche,42551,VAN GILS Maxim,28521,1,25,2024-03-02,Albert
@@ -64,14 +67,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 2,2.1,"Tour du Rwanda, General classification",42528,DOSTIYEV Ilkhan,31966,0.3,0,2024-02-25,-
 3,2.1,"Tour du Rwanda, General classification",42528,RESTREPO VALENCIA Jhonatan,24720,0.1,0,2024-02-25,-
 1,2.1s,"Tour du Rwanda, Stage 8 : Kigali - Kigali",42527,BLACKMORE Joseph,34973,0.2,0,2024-02-25,-
-1,2.1s,"O Gran Camiño, Stage 4 : Punteareas - Tui",42541,VINGEGAARD HANSEN Jonas,25740,0.2,0,2024-02-25,Arjan
-1,1.WT2,Omloop Het Nieuwsblad,42425,TRATNIK Jan,12748,10,50,2024-02-24,-
-2,1.WT2,Omloop Het Nieuwsblad,42425,POLITT Nils,20847,3,35,2024-02-24,Kees
-3,1.WT2,Omloop Het Nieuwsblad,42425,VAN AERT Wout,20730,1,25,2024-02-24,Bram
-4,1.WT2,Omloop Het Nieuwsblad,42425,NAESEN Oliver,21392,0.5,20,2024-02-24,-
-5,1.WT2,Omloop Het Nieuwsblad,42425,LAPORTE Christophe,19953,0.2,18,2024-02-24,Paul
-6,1.WT2,Omloop Het Nieuwsblad,42425,REX Laurenz,28442,0,16,2024-02-24,-
-7,1.WT2,Omloop Het Nieuwsblad,42425,STUYVEN Jasper,18233,0,14,2024-02-24,Jan
-8,1.WT2,Omloop Het Nieuwsblad,42425,PIDCOCK Thomas,27708,0,12,2024-02-24,Vel
-9,1.WT2,Omloop Het Nieuwsblad,42425,TRENTIN Matteo,13270,0,10,2024-02-24,Jan
-10,1.WT2,Omloop Het Nieuwsblad,42425,DE LIE Arnaud,32221,0,8,2024-02-24,PB

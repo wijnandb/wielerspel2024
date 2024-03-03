@@ -1,4 +1,5 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
+1,2.WT1s,"Paris - Nice, Stage 1 : Les Mureaux - Les Mureaux (prov.)",42584,KOOIJ Olav,30643,1,0,2024-03-03,Roy
 1,1.1,GP Jean-Pierre Monseré (prov.),42552,VAN DE PAAR Jarne,29798,2,0,2024-03-03,-
 2,1.1,GP Jean-Pierre Monseré (prov.),42552,DUPONT Timothy,7948,0.3,0,2024-03-03,-
 3,1.1,GP Jean-Pierre Monseré (prov.),42552,DEKKER David,27083,0.1,0,2024-03-03,-
@@ -66,4 +67,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 1,2.1,"Tour du Rwanda, General classification",42528,BLACKMORE Joseph,34973,2,0,2024-02-25,-
 2,2.1,"Tour du Rwanda, General classification",42528,DOSTIYEV Ilkhan,31966,0.3,0,2024-02-25,-
 3,2.1,"Tour du Rwanda, General classification",42528,RESTREPO VALENCIA Jhonatan,24720,0.1,0,2024-02-25,-
-1,2.1s,"Tour du Rwanda, Stage 8 : Kigali - Kigali",42527,BLACKMORE Joseph,34973,0.2,0,2024-02-25,-

@@ -1,4 +1,5 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
+1,2.WT1s,"Paris - Nice, Stage 2 : Thoiry - Montargis (prov.)",42585,DE KLEIJN Arvid,22596,0.0,0,2024-03-04
 1,2.WT1s,"Tirreno - Adriatico, Stage 1 : Lido di Camaiore - Lido di Camaiore I.T.T. (prov.)",42595,AYUSO PESQUERA Juan,31654,0.0,0,2024-03-04
 1,2.WT1s,"Paris - Nice, Stage 1 : Les Mureaux - Les Mureaux (prov.)",42584,KOOIJ Olav,30643,0.0,0,2024-03-03
 1,1.1,GP Jean-Pierre Monseré,42552,VAN DE PAAR Jarne,29798,0.0,0,2024-03-03
@@ -42,13 +43,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
 10,2.WT3,"UAE Tour, General classification",42536,LEMMEN Bart,32252,0.0,0,2024-02-25
 1,2.WT3s,"UAE Tour, Stage 7 : Al Ain - Jebel Hafeet",42535,VAN EETVELT Lennert,32225,0.0,0,2024-02-25
 1,2.WT3r,"UAE Tour, Points classification",42537,MERLIER Tim,17988,0.0,0,2024-02-25
-1,1.PS,Faun Drôme Classic,42427,HIRSCHI Marc,26509,0.0,0,2024-02-25
-2,1.PS,Faun Drôme Classic,42427,AYUSO PESQUERA Juan,31654,0.0,0,2024-02-25
-3,1.PS,Faun Drôme Classic,42427,VAN GILS Maxim,28521,0.0,0,2024-02-25
-4,1.PS,Faun Drôme Classic,42427,BARGUIL Warren,17627,0.0,0,2024-02-25
-5,1.PS,Faun Drôme Classic,42427,SKJELMOSE JENSEN Mattias,30166,0.0,0,2024-02-25
-6,1.PS,Faun Drôme Classic,42427,TRONCHON Bastien,32134,0.0,0,2024-02-25
-7,1.PS,Faun Drôme Classic,42427,LAPEIRA Paul,30615,0.0,0,2024-02-25
-8,1.PS,Faun Drôme Classic,42427,STRONG Corbin,29492,0.0,0,2024-02-25
-9,1.PS,Faun Drôme Classic,42427,COSNEFROY Benoît,24189,0.0,0,2024-02-25
-10,1.PS,Faun Drôme Classic,42427,GODON Dorian,25704,0.0,0,2024-02-25

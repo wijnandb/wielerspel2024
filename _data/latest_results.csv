@@ -1,4 +1,5 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
+1,2.WT1s,"Tirreno - Adriatico, Stage 1 : Lido di Camaiore - Lido di Camaiore I.T.T. (prov.)",42595,AYUSO PESQUERA Juan,31654,0.0,0,2024-03-04
 1,2.WT1s,"Paris - Nice, Stage 1 : Les Mureaux - Les Mureaux (prov.)",42584,KOOIJ Olav,30643,0.0,0,2024-03-03
 1,1.1,GP Jean-Pierre Monseré,42552,VAN DE PAAR Jarne,29798,0.0,0,2024-03-03
 2,1.1,GP Jean-Pierre Monseré,42552,DUPONT Timothy,7948,0.0,0,2024-03-03
@@ -51,13 +52,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
 8,1.PS,Faun Drôme Classic,42427,STRONG Corbin,29492,0.0,0,2024-02-25
 9,1.PS,Faun Drôme Classic,42427,COSNEFROY Benoît,24189,0.0,0,2024-02-25
 10,1.PS,Faun Drôme Classic,42427,GODON Dorian,25704,0.0,0,2024-02-25
-1,1.PS,Kuurne - Brussel - Kuurne,42428,VAN AERT Wout,20730,0.0,0,2024-02-25
-2,1.PS,Kuurne - Brussel - Kuurne,42428,WELLENS Tim,16722,0.0,0,2024-02-25
-3,1.PS,Kuurne - Brussel - Kuurne,42428,LAZKANO LOPEZ Oier,30595,0.0,0,2024-02-25
-4,1.PS,Kuurne - Brussel - Kuurne,42428,LAPORTE Christophe,19953,0.0,0,2024-02-25
-5,1.PS,Kuurne - Brussel - Kuurne,42428,EEKHOFF Nils,26429,0.0,0,2024-02-25
-6,1.PS,Kuurne - Brussel - Kuurne,42428,JEANNIERE Emilien,29288,0.0,0,2024-02-25
-7,1.PS,Kuurne - Brussel - Kuurne,42428,LAMPERTI Luke,31833,0.0,0,2024-02-25
-8,1.PS,Kuurne - Brussel - Kuurne,42428,TAMINIAUX Lionel,23416,0.0,0,2024-02-25
-9,1.PS,Kuurne - Brussel - Kuurne,42428,MAYRHOFER Marius,29192,0.0,0,2024-02-25
-10,1.PS,Kuurne - Brussel - Kuurne,42428,STUYVEN Jasper,18233,0.0,0,2024-02-25

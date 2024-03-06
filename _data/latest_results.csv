@@ -1,4 +1,5 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
+1,2.WT1s,"Tirreno - Adriatico, Stage 3 : Volterra - Gualdo Tadino (prov.)",42597,BAUHAUS Phil,20861,0.0,0,2024-03-06
 1,2.WT1s,"Paris - Nice, Stage 4 : Chalon-sur-Saône - Mont Brouilly (prov.)",42587,BUITRAGO SANCHEZ Santiago,29699,0.0,0,2024-03-06
 1,2.WT1s,"Tirreno - Adriatico, Stage 2 : Camaiore - Follonica (prov.)",42596,PHILIPSEN Jasper,26392,0.0,0,2024-03-05
 1,2.WT1s,"Paris - Nice, Stage 2 : Thoiry - Montargis (prov.)",42585,DE KLEIJN Arvid,22596,0.0,0,2024-03-04
@@ -30,6 +31,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
 8,1.PS,Trofeo Laigueglia,42432,VELASCO Simone,22662,0.0,0,2024-02-28
 9,1.PS,Trofeo Laigueglia,42432,LAPEIRA Paul,30615,0.0,0,2024-02-28
 10,1.PS,Trofeo Laigueglia,42432,ROTA Lorenzo,21958,0.0,0,2024-02-28
-1,1.1,Le Samyn,42430,REX Laurenz,28442,0.0,0,2024-02-27
-2,1.1,Le Samyn,42430,MORGADO Antonio Tomas,34222,0.0,0,2024-02-27
-3,1.1,Le Samyn,42430,BIERMANS Jenthe,22010,0.0,0,2024-02-27

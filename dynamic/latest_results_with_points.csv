@@ -1,4 +1,5 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
+1,2.WT1s,"Paris - Nice, Stage 7 : Nice- Madone d'Utelle (prov.)",42590,VLASOV Aleksandr,24316,1,0,2024-03-09,Paul
 1,2.WT1s,"Tirreno - Adriatico, Stage 5 : Torricella Sicura - Valle Castellana (prov.)",42599,VINGEGAARD HANSEN Jonas,25740,1,0,2024-03-08,Arjan
 1,2.WT1s,"Paris - Nice, Stage 6 : Sisteron - La-Colle-sur-Loup (prov.)",42589,SKJELMOSE JENSEN Mattias,30166,1,0,2024-03-08,Kaspar
 1,2.WT1s,"Tirreno - Adriatico, Stage 4 : Arrone - Giulianova (prov.)",42598,MILAN Jonathan,29359,1,0,2024-03-07,Albert
@@ -12,16 +13,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 1,1.1,GP Jean-Pierre Monseré,42552,VAN DE PAAR Jarne,29798,2,0,2024-03-03,-
 2,1.1,GP Jean-Pierre Monseré,42552,DUPONT Timothy,7948,0.3,0,2024-03-03,-
 3,1.1,GP Jean-Pierre Monseré,42552,DEKKER David,27083,0.1,0,2024-03-03,-
-1,1.WT2,Strade Bianche,42551,POGACAR Tadej,26526,10,50,2024-03-02,Wijnand
-2,1.WT2,Strade Bianche,42551,SKUJINS Toms,16739,3,35,2024-03-02,-
-3,1.WT2,Strade Bianche,42551,VAN GILS Maxim,28521,1,25,2024-03-02,Albert
-4,1.WT2,Strade Bianche,42551,PIDCOCK Thomas,27708,0.5,20,2024-03-02,Vel
-5,1.WT2,Strade Bianche,42551,MOHORIC Matej,21145,0.2,18,2024-03-02,PB
-6,1.WT2,Strade Bianche,42551,COSNEFROY Benoît,24189,0,16,2024-03-02,Bram
-7,1.WT2,Strade Bianche,42551,FORMOLO Davide,18749,0,14,2024-03-02,Nicky
-8,1.WT2,Strade Bianche,42551,MARTINEZ Lenny,32721,0,12,2024-03-02,Kees
-9,1.WT2,Strade Bianche,42551,ZANA Filippo,27749,0,10,2024-03-02,Jan
-10,1.WT2,Strade Bianche,42551,LAPORTE Christophe,19953,0,8,2024-03-02,Paul
-1,1.1,GP Criquielion,42547,SEGAERT Alec,33567,2,0,2024-03-02,Albert
-2,1.1,GP Criquielion,42547,BITTNER Pavel,31555,0.3,0,2024-03-02,-
-3,1.1,GP Criquielion,42547,BIERMANS Jenthe,22010,0.1,0,2024-03-02,Frank

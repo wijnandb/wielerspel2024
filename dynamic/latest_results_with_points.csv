@@ -1,34 +1,34 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
-1,2.WT1,"Tirreno - Adriatico, General classification (prov.)",42602,VINGEGAARD HANSEN Jonas,25740,10,50,2024-03-10,Arjan
-2,2.WT1,"Tirreno - Adriatico, General classification (prov.)",42602,AYUSO PESQUERA Juan,31654,3,35,2024-03-10,Frank
-3,2.WT1,"Tirreno - Adriatico, General classification (prov.)",42602,HINDLEY Jai,23948,1,25,2024-03-10,Kaspar
-4,2.WT1,"Tirreno - Adriatico, General classification (prov.)",42602,DEL TORO ROMERO Isaac,33556,0.5,20,2024-03-10,Kees
-5,2.WT1,"Tirreno - Adriatico, General classification (prov.)",42602,O'CONNOR Ben,23763,0.2,18,2024-03-10,Nicky
-6,2.WT1,"Tirreno - Adriatico, General classification (prov.)",42602,ARENSMAN Thymen,27716,0,16,2024-03-10,Kees
-7,2.WT1,"Tirreno - Adriatico, General classification (prov.)",42602,UIJTDEBROEKS Cian,31803,0,14,2024-03-10,Vel
-8,2.WT1,"Tirreno - Adriatico, General classification (prov.)",42602,KÄMNA Lennard,23427,0,12,2024-03-10,Jan
-9,2.WT1,"Tirreno - Adriatico, General classification (prov.)",42602,PIDCOCK Thomas,27708,0,10,2024-03-10,Vel
-10,2.WT1,"Tirreno - Adriatico, General classification (prov.)",42602,VAUQUELIN Kévin,31264,0,8,2024-03-10,Albert
-1,2.WT1,"Paris - Nice, General classification (prov.)",42592,JORGENSON Matteo,28057,10,50,2024-03-10,Paul
-2,2.WT1,"Paris - Nice, General classification (prov.)",42592,EVENEPOEL Remco,28377,3,35,2024-03-10,Roy
-3,2.WT1,"Paris - Nice, General classification (prov.)",42592,MCNULTY Brandon,26508,1,25,2024-03-10,Kees
-4,2.WT1,"Paris - Nice, General classification (prov.)",42592,SKJELMOSE JENSEN Mattias,30166,0.5,20,2024-03-10,Kaspar
-5,2.WT1,"Paris - Nice, General classification (prov.)",42592,VLASOV Aleksandr,24316,0.2,18,2024-03-10,Paul
-6,2.WT1,"Paris - Nice, General classification (prov.)",42592,PLAPP Lucas,29787,0,16,2024-03-10,Albert
-7,2.WT1,"Paris - Nice, General classification (prov.)",42592,BERNAL GOMEZ Egan Arley,24926,0,14,2024-03-10,Arjan
-8,2.WT1,"Paris - Nice, General classification (prov.)",42592,KELDERMAN Wilco,15171,0,12,2024-03-10,Albert
-9,2.WT1,"Paris - Nice, General classification (prov.)",42592,GALL Felix,26383,0,10,2024-03-10,Jan
-10,2.WT1,"Paris - Nice, General classification (prov.)",42592,ROGLIC Primoz,20719,0,8,2024-03-10,Frank
-1,2.WT1s,"Tirreno - Adriatico, Stage 7 : San Benedetto del Tronto - San Benedetto del Tronto (prov.)",42601,MILAN Jonathan,29359,1,0,2024-03-10,Albert
-1,2.WT1s,"Paris - Nice, Stage 8 : Nice - Nice (prov.)",42591,EVENEPOEL Remco,28377,1,0,2024-03-10,Roy
-1,2.WT1r,"Tirreno - Adriatico, Mountains classification (prov.)",42604,VINGEGAARD HANSEN Jonas,25740,0.0,0,2024-03-10,Arjan
-1,2.WT1r,"Tirreno - Adriatico, Points classification (prov.)",42603,MILAN Jonathan,29359,0.0,0,2024-03-10,Albert
-1,2.WT1r,"Paris - Nice, Mountains classification (prov.)",42594,EVENEPOEL Remco,28377,0.0,0,2024-03-10,Roy
-1,2.WT1r,"Paris - Nice, Points classification (prov.)",42593,EVENEPOEL Remco,28377,0.0,0,2024-03-10,Roy
+1,2.WT1,"Tirreno - Adriatico, General classification",42602,VINGEGAARD HANSEN Jonas,25740,10,50,2024-03-10,Arjan
+2,2.WT1,"Tirreno - Adriatico, General classification",42602,AYUSO PESQUERA Juan,31654,3,35,2024-03-10,Frank
+3,2.WT1,"Tirreno - Adriatico, General classification",42602,HINDLEY Jai,23948,1,25,2024-03-10,Kaspar
+4,2.WT1,"Tirreno - Adriatico, General classification",42602,DEL TORO ROMERO Isaac,33556,0.5,20,2024-03-10,Kees
+5,2.WT1,"Tirreno - Adriatico, General classification",42602,O'CONNOR Ben,23763,0.2,18,2024-03-10,Nicky
+6,2.WT1,"Tirreno - Adriatico, General classification",42602,ARENSMAN Thymen,27716,0,16,2024-03-10,Kees
+7,2.WT1,"Tirreno - Adriatico, General classification",42602,UIJTDEBROEKS Cian,31803,0,14,2024-03-10,Vel
+8,2.WT1,"Tirreno - Adriatico, General classification",42602,KÄMNA Lennard,23427,0,12,2024-03-10,Jan
+9,2.WT1,"Tirreno - Adriatico, General classification",42602,PIDCOCK Thomas,27708,0,10,2024-03-10,Vel
+10,2.WT1,"Tirreno - Adriatico, General classification",42602,VAUQUELIN Kévin,31264,0,8,2024-03-10,Albert
+1,2.WT1,"Paris - Nice, General classification",42592,JORGENSON Matteo,28057,10,50,2024-03-10,Paul
+2,2.WT1,"Paris - Nice, General classification",42592,EVENEPOEL Remco,28377,3,35,2024-03-10,Roy
+3,2.WT1,"Paris - Nice, General classification",42592,MCNULTY Brandon,26508,1,25,2024-03-10,Kees
+4,2.WT1,"Paris - Nice, General classification",42592,SKJELMOSE JENSEN Mattias,30166,0.5,20,2024-03-10,Kaspar
+5,2.WT1,"Paris - Nice, General classification",42592,VLASOV Aleksandr,24316,0.2,18,2024-03-10,Paul
+6,2.WT1,"Paris - Nice, General classification",42592,PLAPP Lucas,29787,0,16,2024-03-10,Albert
+7,2.WT1,"Paris - Nice, General classification",42592,BERNAL GOMEZ Egan Arley,24926,0,14,2024-03-10,Arjan
+8,2.WT1,"Paris - Nice, General classification",42592,KELDERMAN Wilco,15171,0,12,2024-03-10,Albert
+9,2.WT1,"Paris - Nice, General classification",42592,GALL Felix,26383,0,10,2024-03-10,Jan
+10,2.WT1,"Paris - Nice, General classification",42592,ROGLIC Primoz,20719,0,8,2024-03-10,Frank
+1,2.WT1s,"Tirreno - Adriatico, Stage 7 : San Benedetto del Tronto - San Benedetto del Tronto",42601,MILAN Jonathan,29359,1,0,2024-03-10,Albert
+1,2.WT1s,"Paris - Nice, Stage 8 : Nice - Nice",42591,EVENEPOEL Remco,28377,1,0,2024-03-10,Roy
+1,2.WT1r,"Tirreno - Adriatico, Mountains classification",42604,VINGEGAARD HANSEN Jonas,25740,0.0,0,2024-03-10,Arjan
+1,2.WT1r,"Tirreno - Adriatico, Points classification",42603,MILAN Jonathan,29359,0.0,0,2024-03-10,Albert
+1,2.WT1r,"Paris - Nice, Mountains classification",42594,EVENEPOEL Remco,28377,0.0,0,2024-03-10,Roy
+1,2.WT1r,"Paris - Nice, Points classification",42593,EVENEPOEL Remco,28377,0.0,0,2024-03-10,Roy
 1,2.1s,"Tour de Taiwan, Stage 1 : Taipei - Taipei (prov.)",42610,EINHORN Itamar,27315,0.2,0,2024-03-10,-
-1,NC5,National Championships Malaysia (Kuala Kubu Baharu) R.R. (prov.),42424,MAZUKI Nur Amirull Fakhruddin,18131,0.0,0,2024-03-10,-
-1,2.WT1s,"Tirreno - Adriatico, Stage 6 : Sassoferrato - Cagli (prov.)",42600,VINGEGAARD HANSEN Jonas,25740,1,0,2024-03-09,Arjan
-1,2.WT1s,"Paris - Nice, Stage 7 : Nice - Madone d'Utelle (prov.)",42590,VLASOV Aleksandr,24316,1,0,2024-03-09,Paul
-1,NC5,National Championships Bahrain () R.R. (prov.),42545,NASER Ahmed Ali,30993,0.0,0,2024-03-09,-
-1,2.WT1s,"Tirreno - Adriatico, Stage 5 : Torricella Sicura - Valle Castellana (prov.)",42599,VINGEGAARD HANSEN Jonas,25740,1,0,2024-03-08,Arjan
-1,2.WT1s,"Paris - Nice, Stage 6 : Sisteron - La-Colle-sur-Loup (prov.)",42589,SKJELMOSE JENSEN Mattias,30166,1,0,2024-03-08,Kaspar
+1,NC5,National Championships Malaysia (Kuala Kubu Baharu) R.R.,42424,MAZUKI Nur Amirull Fakhruddin,18131,0.0,0,2024-03-10,-
+1,2.WT1s,"Tirreno - Adriatico, Stage 6 : Sassoferrato - Cagli",42600,VINGEGAARD HANSEN Jonas,25740,1,0,2024-03-09,Arjan
+1,2.WT1s,"Paris - Nice, Stage 7 : Nice - Madone d'Utelle",42590,VLASOV Aleksandr,24316,1,0,2024-03-09,Paul
+1,NC5,National Championships Bahrain () R.R.,42545,NASER Ahmed Ali,30993,0.0,0,2024-03-09,-
+1,2.WT1s,"Tirreno - Adriatico, Stage 5 : Torricella Sicura - Valle Castellana",42599,VINGEGAARD HANSEN Jonas,25740,1,0,2024-03-08,Arjan
+1,2.WT1s,"Paris - Nice, Stage 6 : Sisteron - La-Colle-sur-Loup",42589,SKJELMOSE JENSEN Mattias,30166,1,0,2024-03-08,Kaspar

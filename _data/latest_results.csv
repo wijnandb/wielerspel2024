@@ -1,16 +1,25 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
+1,2.WT1,"Paris - Nice, General classification (prov.)",42592,JORGENSON Matteo,28057,0.0,0,2024-03-10
+2,2.WT1,"Paris - Nice, General classification (prov.)",42592,EVENEPOEL Remco,28377,0.0,0,2024-03-10
+3,2.WT1,"Paris - Nice, General classification (prov.)",42592,MCNULTY Brandon,26508,0.0,0,2024-03-10
+4,2.WT1,"Paris - Nice, General classification (prov.)",42592,SKJELMOSE JENSEN Mattias,30166,0.0,0,2024-03-10
+5,2.WT1,"Paris - Nice, General classification (prov.)",42592,VLASOV Aleksandr,24316,0.0,0,2024-03-10
+6,2.WT1,"Paris - Nice, General classification (prov.)",42592,PLAPP Lucas,29787,0.0,0,2024-03-10
+7,2.WT1,"Paris - Nice, General classification (prov.)",42592,BERNAL GOMEZ Egan Arley,24926,0.0,0,2024-03-10
+8,2.WT1,"Paris - Nice, General classification (prov.)",42592,KELDERMAN Wilco,15171,0.0,0,2024-03-10
+9,2.WT1,"Paris - Nice, General classification (prov.)",42592,GALL Felix,26383,0.0,0,2024-03-10
+10,2.WT1,"Paris - Nice, General classification (prov.)",42592,ROGLIC Primoz,20719,0.0,0,2024-03-10
+1,2.WT1s,"Settimana Coppi e Bartali, Stage 8 : Nice - Nice (prov.)",42591,EVENEPOEL Remco,28377,0.0,0,2024-03-10
+1,2.WT1r,"Paris - Nice, Mountains classification (prov.)",42594,EVENEPOEL Remco,28377,0.0,0,2024-03-10
+1,2.WT1r,"Paris - Nice, Points classification (prov.)",42593,EVENEPOEL Remco,28377,0.0,0,2024-03-10
+1,2.1s,"Tour de Taiwan, Stage 1 : Taipei - Taipei (prov.)",42610,EINHORN Itamar,27315,0.0,0,2024-03-10
 1,2.WT1s,"Tirreno - Adriatico, Stage 6 : Sassoferrato - Cagli (prov.)",42600,VINGEGAARD HANSEN Jonas,25740,0.0,0,2024-03-09
 1,2.WT1s,"Paris - Nice, Stage 7 : Nice - Madone d'Utelle (prov.)",42590,VLASOV Aleksandr,24316,0.0,0,2024-03-09
+1,NC5,National Championships Bahrain () R.R. (prov.),42545,NASER Ahmed Ali,30993,0.0,0,2024-03-09
 1,2.WT1s,"Tirreno - Adriatico, Stage 5 : Torricella Sicura - Valle Castellana (prov.)",42599,VINGEGAARD HANSEN Jonas,25740,0.0,0,2024-03-08
 1,2.WT1s,"Paris - Nice, Stage 6 : Sisteron - La-Colle-sur-Loup (prov.)",42589,SKJELMOSE JENSEN Mattias,30166,0.0,0,2024-03-08
+1,NCT5,National Championships Bahrain () I.T.T. (prov.),42546,NASER Ahmed Ali,30993,0.0,0,2024-03-08
 1,2.WT1s,"Tirreno - Adriatico, Stage 4 : Arrone - Giulianova (prov.)",42598,MILAN Jonathan,29359,0.0,0,2024-03-07
 1,2.WT1s,"Paris - Nice, Stage 5 : Saint-Sauveur-de-Montagut - Sisteron (prov.)",42588,KOOIJ Olav,30643,0.0,0,2024-03-07
 1,2.WT1s,"Tirreno - Adriatico, Stage 3 : Volterra - Gualdo Tadino (prov.)",42597,BAUHAUS Phil,20861,0.0,0,2024-03-06
 1,2.WT1s,"Paris - Nice, Stage 4 : Chalon-sur-Saône - Mont Brouilly (prov.)",42587,BUITRAGO SANCHEZ Santiago,29699,0.0,0,2024-03-06
-1,2.WT1s,"Tirreno - Adriatico, Stage 2 : Camaiore - Follonica (prov.)",42596,PHILIPSEN Jasper,26392,0.0,0,2024-03-05
-1,2.WT1s,"Paris - Nice, Stage 2 : Thoiry - Montargis (prov.)",42585,DE KLEIJN Arvid,22596,0.0,0,2024-03-04
-1,2.WT1s,"Tirreno - Adriatico, Stage 1 : Lido di Camaiore - Lido di Camaiore I.T.T. (prov.)",42595,AYUSO PESQUERA Juan,31654,0.0,0,2024-03-04
-1,2.WT1s,"Paris - Nice, Stage 1 : Les Mureaux - Les Mureaux (prov.)",42584,KOOIJ Olav,30643,0.0,0,2024-03-03
-1,1.1,GP Jean-Pierre Monseré,42552,VAN DE PAAR Jarne,29798,0.0,0,2024-03-03
-2,1.1,GP Jean-Pierre Monseré,42552,DUPONT Timothy,7948,0.0,0,2024-03-03
-3,1.1,GP Jean-Pierre Monseré,42552,DEKKER David,27083,0.0,0,2024-03-03

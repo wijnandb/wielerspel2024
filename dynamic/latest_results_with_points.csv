@@ -9,7 +9,7 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 8,2.WT1,"Paris - Nice, General classification (prov.)",42592,KELDERMAN Wilco,15171,0,12,2024-03-10,Albert
 9,2.WT1,"Paris - Nice, General classification (prov.)",42592,GALL Felix,26383,0,10,2024-03-10,Jan
 10,2.WT1,"Paris - Nice, General classification (prov.)",42592,ROGLIC Primoz,20719,0,8,2024-03-10,Frank
-1,2.WT1s,"Settimana Coppi e Bartali, Stage 8 : Nice - Nice (prov.)",42591,EVENEPOEL Remco,28377,1,0,2024-03-10,Roy
+1,2.WT1s,"Paris - Nice, Stage 8 : Nice - Nice (prov.)",42591,EVENEPOEL Remco,28377,1,0,2024-03-10,Roy
 1,2.WT1r,"Paris - Nice, Mountains classification (prov.)",42594,EVENEPOEL Remco,28377,0.0,0,2024-03-10,Roy
 1,2.WT1r,"Paris - Nice, Points classification (prov.)",42593,EVENEPOEL Remco,28377,0.0,0,2024-03-10,Roy
 1,2.1s,"Tour de Taiwan, Stage 1 : Taipei - Taipei (prov.)",42610,EINHORN Itamar,27315,0.2,0,2024-03-10,-
@@ -22,4 +22,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 1,2.WT1s,"Tirreno - Adriatico, Stage 4 : Arrone - Giulianova (prov.)",42598,MILAN Jonathan,29359,1,0,2024-03-07,Albert
 1,2.WT1s,"Paris - Nice, Stage 5 : Saint-Sauveur-de-Montagut - Sisteron (prov.)",42588,KOOIJ Olav,30643,1,0,2024-03-07,Roy
 1,2.WT1s,"Tirreno - Adriatico, Stage 3 : Volterra - Gualdo Tadino (prov.)",42597,BAUHAUS Phil,20861,1,0,2024-03-06,Nicky
-1,2.WT1s,"Paris - Nice, Stage 4 : Chalon-sur-Saône - Mont Brouilly (prov.)",42587,BUITRAGO SANCHEZ Santiago,29699,1,0,2024-03-06,PB

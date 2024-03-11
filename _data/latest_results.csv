@@ -1,4 +1,5 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
+1,2.1s,"Tour de Taiwan, Stage 2 : Taoyuan - Jiaobanshan Park (prov.)",42611,HOLLYMAN Mason,29836,0.0,0,2024-03-11
 1,2.WT1,"Tirreno - Adriatico, General classification",42602,VINGEGAARD HANSEN Jonas,25740,0.0,0,2024-03-10
 2,2.WT1,"Tirreno - Adriatico, General classification",42602,AYUSO PESQUERA Juan,31654,0.0,0,2024-03-10
 3,2.WT1,"Tirreno - Adriatico, General classification",42602,HINDLEY Jai,23948,0.0,0,2024-03-10
@@ -31,4 +32,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
 1,2.WT1s,"Paris - Nice, Stage 7 : Nice - Madone d'Utelle",42590,VLASOV Aleksandr,24316,0.0,0,2024-03-09
 1,NC5,National Championships Bahrain () R.R.,42545,NASER Ahmed Ali,30993,0.0,0,2024-03-09
 1,2.WT1s,"Tirreno - Adriatico, Stage 5 : Torricella Sicura - Valle Castellana",42599,VINGEGAARD HANSEN Jonas,25740,0.0,0,2024-03-08
-1,2.WT1s,"Paris - Nice, Stage 6 : Sisteron - La-Colle-sur-Loup",42589,SKJELMOSE JENSEN Mattias,30166,0.0,0,2024-03-08

@@ -1,4 +1,14 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
+1,1.PS,Nokere Koerse (prov.),42556,MERLIER Tim,17988,4,50,2024-03-13,Frank
+2,1.PS,Nokere Koerse (prov.),42556,JAKOBSEN Fabio,23426,1,35,2024-03-13,Kaspar
+3,1.PS,Nokere Koerse (prov.),42556,PHILIPSEN Jasper,26392,0.5,25,2024-03-13,Nicky
+4,1.PS,Nokere Koerse (prov.),42556,ACKERMANN Pascal,20917,0,20,2024-03-13,Jan
+5,1.PS,Nokere Koerse (prov.),42556,CONSONNI Simone,22681,0,18,2024-03-13,-
+6,1.PS,Nokere Koerse (prov.),42556,VAN ASBROECK Tom,18504,0,16,2024-03-13,-
+7,1.PS,Nokere Koerse (prov.),42556,ZIJLAARD Maikel,27649,0,14,2024-03-13,-
+8,1.PS,Nokere Koerse (prov.),42556,MENTEN Milan,24180,0,12,2024-03-13,Kees
+9,1.PS,Nokere Koerse (prov.),42556,HOFSTETTER Hugo,22702,0,10,2024-03-13,PB
+10,1.PS,Nokere Koerse (prov.),42556,BITTNER Pavel,31555,0,8,2024-03-13,-
 1,1.PS,Milano - Torino (prov.),42555,BETTIOL Alberto,20697,4,50,2024-03-13,PB
 2,1.PS,Milano - Torino (prov.),42555,CHRISTEN Jan,34430,1,35,2024-03-13,-
 3,1.PS,Milano - Torino (prov.),42555,HIRSCHI Marc,26509,0.5,25,2024-03-13,Bram

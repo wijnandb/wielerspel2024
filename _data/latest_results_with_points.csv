@@ -1,4 +1,18 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
+1,1.PS,GP de Denain - Porte du Hainaut (prov.),42557,STEIMLE Jannik,25081,4,50,2024-03-14,-
+2,1.PS,GP de Denain - Porte du Hainaut (prov.),42557,DESAL Cériel,29273,1,35,2024-03-14,-
+3,1.PS,GP de Denain - Porte du Hainaut (prov.),42557,VAN GESTEL Dries,21952,0.5,25,2024-03-14,Roy
+4,1.PS,GP de Denain - Porte du Hainaut (prov.),42557,DE LIE Arnaud,32221,0,20,2024-03-14,PB
+5,1.PS,GP de Denain - Porte du Hainaut (prov.),42557,PAGE Hugo,30663,0,18,2024-03-14,Jan
+6,1.PS,GP de Denain - Porte du Hainaut (prov.),42557,JARNET Maxime,28630,0,16,2024-03-14,-
+7,1.PS,GP de Denain - Porte du Hainaut (prov.),42557,VAN MOER Brent,28448,0,14,2024-03-14,Kaspar
+8,1.PS,GP de Denain - Porte du Hainaut (prov.),42557,DE GENDT Aimé,21998,0,12,2024-03-14,-
+9,1.PS,GP de Denain - Porte du Hainaut (prov.),42557,DEHAIRS Simon,32634,0,10,2024-03-14,-
+10,1.PS,GP de Denain - Porte du Hainaut (prov.),42557,CAPIOT Amaury,22669,0,8,2024-03-14,-
+1,2.1,"Tour de Taiwan, General classification (prov.)",42615,BLACKMORE Joseph,34973,2,0,2024-03-14,-
+2,2.1,"Tour de Taiwan, General classification (prov.)",42615,KOISHI Yuma,21852,0.3,0,2024-03-14,-
+3,2.1,"Tour de Taiwan, General classification (prov.)",42615,BETTLES Carter,29531,0.1,0,2024-03-14,-
+1,2.1s,"Tour de Taiwan, Stage 5 : Kaohsiung - Kaohsiung (prov.)",42614,EINHORN Itamar,27315,0.2,0,2024-03-14,-
 1,1.PS,Nokere Koerse,42556,MERLIER Tim,17988,4,50,2024-03-13,Frank
 2,1.PS,Nokere Koerse,42556,JAKOBSEN Fabio,23426,1,35,2024-03-13,Kaspar
 3,1.PS,Nokere Koerse,42556,PHILIPSEN Jasper,26392,0.5,25,2024-03-13,Nicky
@@ -49,6 +63,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 1,2.WT1r,"Paris - Nice, Mountains classification",42594,EVENEPOEL Remco,28377,0.0,0,2024-03-10,Roy
 1,2.WT1r,"Paris - Nice, Points classification",42593,EVENEPOEL Remco,28377,0.0,0,2024-03-10,Roy
 1,2.1s,"Tour de Taiwan, Stage 1 : Taipei - Taipei (prov.)",42610,EINHORN Itamar,27315,0.2,0,2024-03-10,-
-1,NC5,National Championships Malaysia (Kuala Kubu Bharu) R.R.,42424,MAZUKI Nur Amirull Fakhruddin,18131,0.0,0,2024-03-10,-
-1,2.WT1s,"Tirreno - Adriatico, Stage 6 : Sassoferrato - Cagli",42600,VINGEGAARD HANSEN Jonas,25740,1,0,2024-03-09,Arjan
-1,2.WT1s,"Paris - Nice, Stage 7 : Nice - Madone d'Utelle",42590,VLASOV Aleksandr,24316,1,0,2024-03-09,Paul

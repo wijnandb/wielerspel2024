@@ -1,4 +1,14 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
+1,1.PS,Bredene Koksijde Classic (prov.),42558,MOZZATO Luca,28037,4,50,2024-03-15,Nicky
+2,1.PS,Bredene Koksijde Classic (prov.),42558,GROENEWEGEN Dylan,19238,1,35,2024-03-15,Albert
+3,1.PS,Bredene Koksijde Classic (prov.),42558,THIJSSEN Gerben,27085,0.5,25,2024-03-15,Vel
+4,1.PS,Bredene Koksijde Classic (prov.),42558,CONSONNI Simone,22681,0,20,2024-03-15,-
+5,1.PS,Bredene Koksijde Classic (prov.),42558,DE LIE Arnaud,32221,0,18,2024-03-15,PB
+6,1.PS,Bredene Koksijde Classic (prov.),42558,LIEPINS Emils,18296,0,16,2024-03-15,-
+7,1.PS,Bredene Koksijde Classic (prov.),42558,DE KLEIJN Arvid,22596,0,14,2024-03-15,Wijnand
+8,1.PS,Bredene Koksijde Classic (prov.),42558,DUPONT Timothy,7948,0,12,2024-03-15,-
+9,1.PS,Bredene Koksijde Classic (prov.),42558,HOFSTETTER Hugo,22702,0,10,2024-03-15,PB
+10,1.PS,Bredene Koksijde Classic (prov.),42558,VAN GESTEL Dries,21952,0,8,2024-03-15,Roy
 1,1.PS,GP de Denain - Porte du Hainaut,42557,STEIMLE Jannik,25081,4,50,2024-03-14,-
 2,1.PS,GP de Denain - Porte du Hainaut,42557,DESAL Cériel,29273,1,35,2024-03-14,-
 3,1.PS,GP de Denain - Porte du Hainaut,42557,VAN GESTEL Dries,21952,0.5,25,2024-03-14,Roy
@@ -61,4 +71,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 1,2.WT1r,"Tirreno - Adriatico, Mountains classification",42604,VINGEGAARD HANSEN Jonas,25740,0.0,0,2024-03-10,Arjan
 1,2.WT1r,"Tirreno - Adriatico, Points classification",42603,MILAN Jonathan,29359,0.0,0,2024-03-10,Albert
 1,2.WT1r,"Paris - Nice, Mountains classification",42594,EVENEPOEL Remco,28377,0.0,0,2024-03-10,Roy
-1,2.WT1r,"Paris - Nice, Points classification",42593,EVENEPOEL Remco,28377,0.0,0,2024-03-10,Roy

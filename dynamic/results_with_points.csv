@@ -1,4 +1,17 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
+1,1.WT1,Milano - Sanremo (prov.),42560,PHILIPSEN Jasper,26392,15,50,2024-03-16,Nicky
+2,1.WT1,Milano - Sanremo (prov.),42560,MATTHEWS Michael,13066,3,35,2024-03-16,PB
+3,1.WT1,Milano - Sanremo (prov.),42560,POGACAR Tadej,26526,2,25,2024-03-16,Wijnand
+4,1.WT1,Milano - Sanremo (prov.),42560,PEDERSEN Mads,21992,1,20,2024-03-16,Kees
+5,1.WT1,Milano - Sanremo (prov.),42560,BETTIOL Alberto,20697,0.5,18,2024-03-16,PB
+6,1.WT1,Milano - Sanremo (prov.),42560,MOHORIC Matej,21145,0,16,2024-03-16,PB
+7,1.WT1,Milano - Sanremo (prov.),42560,VAN GILS Maxim,28521,0,14,2024-03-16,Albert
+8,1.WT1,Milano - Sanremo (prov.),42560,STUYVEN Jasper,18233,0,12,2024-03-16,Jan
+9,1.WT1,Milano - Sanremo (prov.),42560,ALAPHILIPPE Julian,18610,0,10,2024-03-16,Kaspar
+10,1.WT1,Milano - Sanremo (prov.),42560,VAN DER POEL Mathieu,21971,0,8,2024-03-16,Harry
+1,1.1,Classic Loire Atlantique (prov.),42561,LAPEIRA Paul,30615,2,0,2024-03-16,-
+2,1.1,Classic Loire Atlantique (prov.),42561,VAN ASBROECK Tom,18504,0.3,0,2024-03-16,-
+3,1.1,Classic Loire Atlantique (prov.),42561,MORIN Emmanuel,24880,0.1,0,2024-03-16,-
 1,1.PS,Bredene Koksijde Classic,42558,MOZZATO Luca,28037,4,50,2024-03-15,Nicky
 2,1.PS,Bredene Koksijde Classic,42558,GROENEWEGEN Dylan,19238,1,35,2024-03-15,Albert
 3,1.PS,Bredene Koksijde Classic,42558,THIJSSEN Gerben,27085,0.5,25,2024-03-15,Vel

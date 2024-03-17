@@ -1,4 +1,7 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
+1,1.1,Cholet Agglo Tour (prov.),42564,LAPEIRA Paul,30615,2,0,2024-03-17,-
+2,1.1,Cholet Agglo Tour (prov.),42564,RENARD Alexis,29969,0.3,0,2024-03-17,-
+3,1.1,Cholet Agglo Tour (prov.),42564,VAN ASBROECK Tom,18504,0.1,0,2024-03-17,-
 1,1.WT1,Milano - Sanremo (prov.),42560,PHILIPSEN Jasper,26392,15,50,2024-03-16,Nicky
 2,1.WT1,Milano - Sanremo (prov.),42560,MATTHEWS Michael,13066,3,35,2024-03-16,PB
 3,1.WT1,Milano - Sanremo (prov.),42560,POGACAR Tadej,26526,2,25,2024-03-16,Wijnand
@@ -58,14 +61,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 10,1.PS,Milano - Torino,42555,WANDAHL Frederik,30710,0,8,2024-03-13,-
 1,2.1s,"Tour de Taiwan, Stage 4 : Nantou - Sun Moon Lake",42613,BETTLES Carter,29531,0.2,0,2024-03-13,-
 1,2.1s,"Tour de Taiwan, Stage 3 : Xinpu - Shigang",42612,NIQUET-OLDEN Bentley,28423,0.2,0,2024-03-12,-
-1,2.1s,"Tour de Taiwan, Stage 2 : Taoyuan - Jiaobanshan Park",42611,HOLLYMAN Mason,29836,0.2,0,2024-03-11,-
-1,2.WT1,"Tirreno - Adriatico, General classification",42602,VINGEGAARD HANSEN Jonas,25740,10,50,2024-03-10,Arjan
-2,2.WT1,"Tirreno - Adriatico, General classification",42602,AYUSO PESQUERA Juan,31654,3,35,2024-03-10,Frank
-3,2.WT1,"Tirreno - Adriatico, General classification",42602,HINDLEY Jai,23948,1,25,2024-03-10,Kaspar
-4,2.WT1,"Tirreno - Adriatico, General classification",42602,DEL TORO ROMERO Isaac,33556,0.5,20,2024-03-10,Kees
-5,2.WT1,"Tirreno - Adriatico, General classification",42602,O'CONNOR Ben,23763,0.2,18,2024-03-10,Nicky
-6,2.WT1,"Tirreno - Adriatico, General classification",42602,ARENSMAN Thymen,27716,0,16,2024-03-10,Kees
-7,2.WT1,"Tirreno - Adriatico, General classification",42602,UIJTDEBROEKS Cian,31803,0,14,2024-03-10,Vel
-8,2.WT1,"Tirreno - Adriatico, General classification",42602,KÄMNA Lennard,23427,0,12,2024-03-10,Jan
-9,2.WT1,"Tirreno - Adriatico, General classification",42602,PIDCOCK Thomas,27708,0,10,2024-03-10,Vel
-10,2.WT1,"Tirreno - Adriatico, General classification",42602,VAUQUELIN Kévin,31264,0,8,2024-03-10,Albert

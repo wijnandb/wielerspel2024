@@ -1,4 +1,5 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
+1,2.WT1s,"Volta a Catalunya, Stage 3 : Sant Joan de les Abadesses - Port Ainé (prov.)",42623,POGACAR Tadej,26526,0.0,0,2024-03-20
 1,2.WT1s,"Volta a Catalunya, Stage 2 : Mataro - Vallter/Setcases (prov.)",42622,POGACAR Tadej,26526,0.0,0,2024-03-19
 1,2.1s,"Settimana Coppi e Bartali, Stage 1 : Pesaro - Pesaro (prov.)",42631,BRENNER Marco,31323,0.0,0,2024-03-19
 1,2.WT1s,"Volta a Catalunya, Stage 1 : Sant Feliu de Guixols - Sant Feliu de Guixols (prov.)",42621,SCHULTZ Nicholas,22744,0.0,0,2024-03-18
@@ -28,16 +29,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
 8,1.PS,Bredene Koksijde Classic,42558,DUPONT Timothy,7948,0.0,0,2024-03-15
 9,1.PS,Bredene Koksijde Classic,42558,HOFSTETTER Hugo,22702,0.0,0,2024-03-15
 10,1.PS,Bredene Koksijde Classic,42558,VAN GESTEL Dries,21952,0.0,0,2024-03-15
-1,1.PS,GP de Denain - Porte du Hainaut,42557,STEIMLE Jannik,25081,0.0,0,2024-03-14
-2,1.PS,GP de Denain - Porte du Hainaut,42557,DESAL Cériel,29273,0.0,0,2024-03-14
-3,1.PS,GP de Denain - Porte du Hainaut,42557,VAN GESTEL Dries,21952,0.0,0,2024-03-14
-4,1.PS,GP de Denain - Porte du Hainaut,42557,DE LIE Arnaud,32221,0.0,0,2024-03-14
-5,1.PS,GP de Denain - Porte du Hainaut,42557,PAGE Hugo,30663,0.0,0,2024-03-14
-6,1.PS,GP de Denain - Porte du Hainaut,42557,JARNET Maxime,28630,0.0,0,2024-03-14
-7,1.PS,GP de Denain - Porte du Hainaut,42557,VAN MOER Brent,28448,0.0,0,2024-03-14
-8,1.PS,GP de Denain - Porte du Hainaut,42557,DE GENDT Aimé,21998,0.0,0,2024-03-14
-9,1.PS,GP de Denain - Porte du Hainaut,42557,DEHAIRS Simon,32634,0.0,0,2024-03-14
-10,1.PS,GP de Denain - Porte du Hainaut,42557,CAPIOT Amaury,22669,0.0,0,2024-03-14
-1,2.1,"Tour de Taiwan, General classification",42615,BLACKMORE Joseph,34973,0.0,0,2024-03-14
-2,2.1,"Tour de Taiwan, General classification",42615,KOISHI Yuma,21852,0.0,0,2024-03-14
-3,2.1,"Tour de Taiwan, General classification",42615,BETTLES Carter,29531,0.0,0,2024-03-14

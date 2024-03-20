@@ -1,5 +1,5 @@
 renner_id,renner,rider,ploegleider,kosten,team,nationality,age,punten,JPP
-26392,PHILIPSEN Jasper,PHILIPSEN Jasper,Nicky,28,ADC,BEL,25,16.5,75
+26392,PHILIPSEN Jasper,PHILIPSEN Jasper,Nicky,28,ADC,BEL,25,21.5,125
 24758,MADOUAS Valentin,MADOUAS Valentin,Nicky,11,FDJ,FRA,27,0,0
 29474,GIRMAY HAILU Biniam,GIRMAY HAILU Biniam,Nicky,10,ICW,ERI,23,2,0
 23558,ASGREEN Kasper,ASGREEN Kasper,Nicky,7,SOQ,DEN,28,0,0
@@ -8,7 +8,7 @@ renner_id,renner,rider,ploegleider,kosten,team,nationality,age,punten,JPP
 23763,O'CONNOR Ben,O'CONNOR Ben,Nicky,4,A2R,AUS,28,4.7,53
 19448,CORT NIELSEN Magnus,CORT NIELSEN Magnus,Nicky,3,UXT,DEN,30,0,0
 19994,MARTIN Guillaume,MARTIN Guillaume,Nicky,3,COF,FRA,30,0,0
-20861,BAUHAUS Phil,BAUHAUS Phil,Nicky,2,TBV,GER,29,1,0
+20861,BAUHAUS Phil,BAUHAUS Phil,Nicky,2,TBV,GER,29,1,12
 25157,NARVAEZ PRADO Jhonatan Manuel,NARVAEZ PRADO Jhonatan Manuel,Nicky,2,IGD,ECU,26,4,53
 21930,BOL Cees,BOL Cees,Nicky,2,AST,NED,28,0,0
 29332,VERMAERKE Kevin,VERMAERKE Kevin,Nicky,2,DSM,USA,23,0,34
@@ -21,5 +21,5 @@ renner_id,renner,rider,ploegleider,kosten,team,nationality,age,punten,JPP
 26775,CEPEDA ORTIZ Jefferson Alexander,CEPEDA ORTIZ Jefferson Alexander,Nicky,1,EFE,ECU,25,0,0
 17627,BARGUIL Warren,BARGUIL Warren,Nicky,1,DSM,FRA,32,0,36
 17794,VAN BAARLE Dylan,VAN BAARLE Dylan,Nicky,1,TJV,NED,31,0,0
-28037,MOZZATO Luca,MOZZATO Luca,Nicky,1,ARK,ITA,25,4,50
+28037,MOZZATO Luca,MOZZATO Luca,Nicky,1,ARK,ITA,25,4,58
 23429,PEDERSEN Casper Phillip,PEDERSEN Casper Phillip,Nicky,0,SOQ,DEN,27,0,0

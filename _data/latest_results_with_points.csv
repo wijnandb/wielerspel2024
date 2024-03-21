@@ -1,4 +1,5 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
+1,2.WT1s,"Volta a Catalunya, Stage 4 : Sort - Lleida (prov.)",42624,VAN DEN BERG Marijn,27674,1,0,2024-03-21,Roy
 1,1.WT3,Classic Brugge - De Panne,42567,PHILIPSEN Jasper,26392,5,50,2024-03-20,Nicky
 2,1.WT3,Classic Brugge - De Panne,42567,MERLIER Tim,17988,2,35,2024-03-20,Frank
 3,1.WT3,Classic Brugge - De Panne,42567,VAN POPPEL Danny,19242,1,25,2024-03-20,Albert
@@ -30,13 +31,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 1,1.1,Classic Loire Atlantique,42561,LAPEIRA Paul,30615,2,0,2024-03-16,-
 2,1.1,Classic Loire Atlantique,42561,VAN ASBROECK Tom,18504,0.3,0,2024-03-16,-
 3,1.1,Classic Loire Atlantique,42561,MORIN Emmanuel,24880,0.1,0,2024-03-16,-
-1,1.PS,Bredene Koksijde Classic,42558,MOZZATO Luca,28037,4,50,2024-03-15,Nicky
-2,1.PS,Bredene Koksijde Classic,42558,GROENEWEGEN Dylan,19238,1,35,2024-03-15,Albert
-3,1.PS,Bredene Koksijde Classic,42558,THIJSSEN Gerben,27085,0.5,25,2024-03-15,Vel
-4,1.PS,Bredene Koksijde Classic,42558,CONSONNI Simone,22681,0,20,2024-03-15,-
-5,1.PS,Bredene Koksijde Classic,42558,DE LIE Arnaud,32221,0,18,2024-03-15,PB
-6,1.PS,Bredene Koksijde Classic,42558,LIEPINS Emils,18296,0,16,2024-03-15,-
-7,1.PS,Bredene Koksijde Classic,42558,DE KLEIJN Arvid,22596,0,14,2024-03-15,Wijnand
-8,1.PS,Bredene Koksijde Classic,42558,DUPONT Timothy,7948,0,12,2024-03-15,-
-9,1.PS,Bredene Koksijde Classic,42558,HOFSTETTER Hugo,22702,0,10,2024-03-15,PB
-10,1.PS,Bredene Koksijde Classic,42558,VAN GESTEL Dries,21952,0,8,2024-03-15,Roy

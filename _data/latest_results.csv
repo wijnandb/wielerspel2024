@@ -1,6 +1,9 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
 1,2.WT1s,"Volta a Catalunya, Stage 6 : Berga - Queralt (prov.)",42626,POGACAR Tadej,26526,0.0,0,2024-03-23
-1,2.1s,"Settimana Coppi e Bartali, Stage 5 : Forli - Forli (prov.)",42649,BERCKMOES Jenno,32588,0.0,0,2024-03-23
+1,2.1,"Settimana Coppi e Bartali, General classification",42636,BOUWMAN Koen,20770,0.0,0,2024-03-23
+2,2.1,"Settimana Coppi e Bartali, General classification",42636,RYAN Archie,30565,0.0,0,2024-03-23
+3,2.1,"Settimana Coppi e Bartali, General classification",42636,ULISSI Diego,10023,0.0,0,2024-03-23
+1,2.1s,"Settimana Coppi e Bartali, Stage 5 : Forli - Forli",42649,BERCKMOES Jenno,32588,0.0,0,2024-03-23
 1,1.WT2,E3 Saxo Classic,42570,VAN DER POEL Mathieu,21971,0.0,0,2024-03-22
 2,1.WT2,E3 Saxo Classic,42570,STUYVEN Jasper,18233,0.0,0,2024-03-22
 3,1.WT2,E3 Saxo Classic,42570,VAN AERT Wout,20730,0.0,0,2024-03-22
@@ -12,9 +15,9 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
 9,1.WT2,E3 Saxo Classic,42570,ALBANESE Vincenzo,24139,0.0,0,2024-03-22
 10,1.WT2,E3 Saxo Classic,42570,KIRSCH Alex,19545,0.0,0,2024-03-22
 1,2.WT1s,"Volta a Catalunya, Stage 5 : Altafula - Viladecans (prov.)",42625,LAURANCE Axel,31621,0.0,0,2024-03-22
-1,2.1s,"Settimana Coppi e Bartali, Stage 4 : Brisighella - Brisighella (prov.)",42635,RYAN Archie,30565,0.0,0,2024-03-22
+1,2.1s,"Settimana Coppi e Bartali, Stage 4 : Brisighella - Brisighella",42635,RYAN Archie,30565,0.0,0,2024-03-22
 1,2.WT1s,"Volta a Catalunya, Stage 4 : Sort - Lleida (prov.)",42624,VAN DEN BERG Marijn,27674,0.0,0,2024-03-21
-1,2.1s,"Settimana Coppi e Bartali, Stage 3 : Riccione - Riccione (prov.)",42634,BOUWMAN Koen,20770,0.0,0,2024-03-21
+1,2.1s,"Settimana Coppi e Bartali, Stage 3 : Riccione - Riccione",42634,BOUWMAN Koen,20770,0.0,0,2024-03-21
 1,1.WT3,Classic Brugge - De Panne,42567,PHILIPSEN Jasper,26392,0.0,0,2024-03-20
 2,1.WT3,Classic Brugge - De Panne,42567,MERLIER Tim,17988,0.0,0,2024-03-20
 3,1.WT3,Classic Brugge - De Panne,42567,VAN POPPEL Danny,19242,0.0,0,2024-03-20
@@ -26,5 +29,4 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
 9,1.WT3,Classic Brugge - De Panne,42567,JEANNIERE Emilien,29288,0.0,0,2024-03-20
 10,1.WT3,Classic Brugge - De Panne,42567,MOZZATO Luca,28037,0.0,0,2024-03-20
 1,2.WT1s,"Volta a Catalunya, Stage 3 : Sant Joan de les Abadesses - Port Ainé (prov.)",42623,POGACAR Tadej,26526,0.0,0,2024-03-20
-1,2.1s,"Settimana Coppi e Bartali, Stage 2 : Riccione - Sogliano sul Rubicone (prov.)",42633,ULISSI Diego,10023,0.0,0,2024-03-20
-1,2.WT1s,"Volta a Catalunya, Stage 2 : Mataro - Vallter/Setcases (prov.)",42622,POGACAR Tadej,26526,0.0,0,2024-03-19
+1,2.1s,"Settimana Coppi e Bartali, Stage 2 : Riccione - Sogliano sul Rubicone",42633,ULISSI Diego,10023,0.0,0,2024-03-20

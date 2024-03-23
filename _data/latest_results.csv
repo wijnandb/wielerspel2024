@@ -1,4 +1,5 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
+1,2.WT1s,"Volta a Catalunya, Stage 6 : Berga - Queralt (prov.)",42626,POGACAR Tadej,26526,0.0,0,2024-03-23
 1,1.WT2,E3 Saxo Classic,42570,VAN DER POEL Mathieu,21971,0.0,0,2024-03-22
 2,1.WT2,E3 Saxo Classic,42570,STUYVEN Jasper,18233,0.0,0,2024-03-22
 3,1.WT2,E3 Saxo Classic,42570,VAN AERT Wout,20730,0.0,0,2024-03-22
@@ -27,7 +28,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
 1,2.1s,"Settimana Coppi e Bartali, Stage 2 : Riccione - Sogliano sul Rubicone (prov.)",42633,ULISSI Diego,10023,0.0,0,2024-03-20
 1,2.WT1s,"Volta a Catalunya, Stage 2 : Mataro - Vallter/Setcases (prov.)",42622,POGACAR Tadej,26526,0.0,0,2024-03-19
 1,2.1s,"Settimana Coppi e Bartali, Stage 1 : Pesaro - Pesaro (prov.)",42631,BRENNER Marco,31323,0.0,0,2024-03-19
-1,2.WT1s,"Volta a Catalunya, Stage 1 : Sant Feliu de Guixols - Sant Feliu de Guixols (prov.)",42621,SCHULTZ Nicholas,22744,0.0,0,2024-03-18
-1,1.1,Cholet Agglo Tour,42564,LAPEIRA Paul,30615,0.0,0,2024-03-17
-2,1.1,Cholet Agglo Tour,42564,RENARD Alexis,29969,0.0,0,2024-03-17
-3,1.1,Cholet Agglo Tour,42564,VAN ASBROECK Tom,18504,0.0,0,2024-03-17

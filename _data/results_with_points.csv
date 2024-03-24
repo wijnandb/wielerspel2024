@@ -9,6 +9,16 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 8,2.WT1,"Volta a Catalunya, General classification (prov.)",42628,TIBERI Antonio,30649,0,12,2024-03-24,-
 9,2.WT1,"Volta a Catalunya, General classification (prov.)",42628,ALMEIDA Joao Pedro Gonçalves,26482,0,10,2024-03-24,Kaspar
 10,2.WT1,"Volta a Catalunya, General classification (prov.)",42628,FORTUNATO Lorenzo,25552,0,8,2024-03-24,Paul
+1,1.WT2,Gent - Wevelgem (prov.),42572,PEDERSEN Mads,21992,10,50,2024-03-24,Kees
+2,1.WT2,Gent - Wevelgem (prov.),42572,VAN DER POEL Mathieu,21971,3,35,2024-03-24,Harry
+3,1.WT2,Gent - Wevelgem (prov.),42572,MEEUS Jordi,26421,1,25,2024-03-24,Vel
+4,1.WT2,Gent - Wevelgem (prov.),42572,PHILIPSEN Jasper,26392,0.5,20,2024-03-24,Nicky
+5,1.WT2,Gent - Wevelgem (prov.),42572,MILAN Jonathan,29359,0.2,18,2024-03-24,Albert
+6,1.WT2,Gent - Wevelgem (prov.),42572,KOOIJ Olav,30643,0,16,2024-03-24,Roy
+7,1.WT2,Gent - Wevelgem (prov.),42572,GIRMAY HAILU Biniam,29474,0,14,2024-03-24,Nicky
+8,1.WT2,Gent - Wevelgem (prov.),42572,MERLIER Tim,17988,0,12,2024-03-24,Frank
+9,1.WT2,Gent - Wevelgem (prov.),42572,GROENEWEGEN Dylan,19238,0,10,2024-03-24,Albert
+10,1.WT2,Gent - Wevelgem (prov.),42572,TRENTIN Matteo,13270,0,8,2024-03-24,Jan
 1,2.WT1s,"Volta a Catalunya, Stage 7 : Barcelona - Barcelona (prov.)",42627,POGACAR Tadej,26526,1,0,2024-03-24,Wijnand
 1,2.WT2r,"Volta a Catalunya, Points classification (prov.)",42629,POGACAR Tadej,26526,0.0,0,2024-03-24,Wijnand
 1,2.WT2r,"Volta a Catalunya, Mountains classification (prov.)",42630,POGACAR Tadej,26526,0.0,0,2024-03-24,Wijnand

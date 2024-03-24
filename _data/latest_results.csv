@@ -1,4 +1,17 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
+1,2.WT1,"Volta a Catalunya, General classification (prov.)",42628,POGACAR Tadej,26526,0.0,0,2024-03-24
+2,2.WT1,"Volta a Catalunya, General classification (prov.)",42628,LANDA MEANA Mikel,14319,0.0,0,2024-03-24
+3,2.WT1,"Volta a Catalunya, General classification (prov.)",42628,BERNAL GOMEZ Egan Arley,24926,0.0,0,2024-03-24
+4,2.WT1,"Volta a Catalunya, General classification (prov.)",42628,VLASOV Aleksandr,24316,0.0,0,2024-03-24
+5,2.WT1,"Volta a Catalunya, General classification (prov.)",42628,MAS NICOLAU Enric,22794,0.0,0,2024-03-24
+6,2.WT1,"Volta a Catalunya, General classification (prov.)",42628,HARPER Chris,25066,0.0,0,2024-03-24
+7,2.WT1,"Volta a Catalunya, General classification (prov.)",42628,MARTINEZ Lenny,32721,0.0,0,2024-03-24
+8,2.WT1,"Volta a Catalunya, General classification (prov.)",42628,TIBERI Antonio,30649,0.0,0,2024-03-24
+9,2.WT1,"Volta a Catalunya, General classification (prov.)",42628,ALMEIDA Joao Pedro Gonçalves,26482,0.0,0,2024-03-24
+10,2.WT1,"Volta a Catalunya, General classification (prov.)",42628,FORTUNATO Lorenzo,25552,0.0,0,2024-03-24
+1,2.WT1s,"Volta a Catalunya, Stage 7 : Barcelona - Barcelona (prov.)",42627,POGACAR Tadej,26526,0.0,0,2024-03-24
+1,2.WT2r,"Volta a Catalunya, Points classification (prov.)",42629,POGACAR Tadej,26526,0.0,0,2024-03-24
+1,2.WT2r,"Volta a Catalunya, Mountains classification (prov.)",42630,POGACAR Tadej,26526,0.0,0,2024-03-24
 1,2.WT1s,"Volta a Catalunya, Stage 6 : Berga - Queralt (prov.)",42626,POGACAR Tadej,26526,0.0,0,2024-03-23
 1,2.1,"Settimana Coppi e Bartali, General classification",42636,BOUWMAN Koen,20770,0.0,0,2024-03-23
 2,2.1,"Settimana Coppi e Bartali, General classification",42636,RYAN Archie,30565,0.0,0,2024-03-23
@@ -28,5 +41,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
 8,1.WT3,Classic Brugge - De Panne,42567,BAUHAUS Phil,20861,0.0,0,2024-03-20
 9,1.WT3,Classic Brugge - De Panne,42567,JEANNIERE Emilien,29288,0.0,0,2024-03-20
 10,1.WT3,Classic Brugge - De Panne,42567,MOZZATO Luca,28037,0.0,0,2024-03-20
-1,2.WT1s,"Volta a Catalunya, Stage 3 : Sant Joan de les Abadesses - Port Ainé (prov.)",42623,POGACAR Tadej,26526,0.0,0,2024-03-20
-1,2.1s,"Settimana Coppi e Bartali, Stage 2 : Riccione - Sogliano sul Rubicone",42633,ULISSI Diego,10023,0.0,0,2024-03-20

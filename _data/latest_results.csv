@@ -1,28 +1,31 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
-1,2.WT1,"Volta a Catalunya, General classification (prov.)",42628,POGACAR Tadej,26526,0.0,0,2024-03-24
-2,2.WT1,"Volta a Catalunya, General classification (prov.)",42628,LANDA MEANA Mikel,14319,0.0,0,2024-03-24
-3,2.WT1,"Volta a Catalunya, General classification (prov.)",42628,BERNAL GOMEZ Egan Arley,24926,0.0,0,2024-03-24
-4,2.WT1,"Volta a Catalunya, General classification (prov.)",42628,VLASOV Aleksandr,24316,0.0,0,2024-03-24
-5,2.WT1,"Volta a Catalunya, General classification (prov.)",42628,MAS NICOLAU Enric,22794,0.0,0,2024-03-24
-6,2.WT1,"Volta a Catalunya, General classification (prov.)",42628,HARPER Chris,25066,0.0,0,2024-03-24
-7,2.WT1,"Volta a Catalunya, General classification (prov.)",42628,MARTINEZ Lenny,32721,0.0,0,2024-03-24
-8,2.WT1,"Volta a Catalunya, General classification (prov.)",42628,TIBERI Antonio,30649,0.0,0,2024-03-24
-9,2.WT1,"Volta a Catalunya, General classification (prov.)",42628,ALMEIDA Joao Pedro Gonçalves,26482,0.0,0,2024-03-24
-10,2.WT1,"Volta a Catalunya, General classification (prov.)",42628,FORTUNATO Lorenzo,25552,0.0,0,2024-03-24
-1,1.WT2,Gent - Wevelgem (prov.),42572,PEDERSEN Mads,21992,0.0,0,2024-03-24
-2,1.WT2,Gent - Wevelgem (prov.),42572,VAN DER POEL Mathieu,21971,0.0,0,2024-03-24
-3,1.WT2,Gent - Wevelgem (prov.),42572,MEEUS Jordi,26421,0.0,0,2024-03-24
-4,1.WT2,Gent - Wevelgem (prov.),42572,PHILIPSEN Jasper,26392,0.0,0,2024-03-24
-5,1.WT2,Gent - Wevelgem (prov.),42572,MILAN Jonathan,29359,0.0,0,2024-03-24
-6,1.WT2,Gent - Wevelgem (prov.),42572,KOOIJ Olav,30643,0.0,0,2024-03-24
-7,1.WT2,Gent - Wevelgem (prov.),42572,GIRMAY HAILU Biniam,29474,0.0,0,2024-03-24
-8,1.WT2,Gent - Wevelgem (prov.),42572,MERLIER Tim,17988,0.0,0,2024-03-24
-9,1.WT2,Gent - Wevelgem (prov.),42572,GROENEWEGEN Dylan,19238,0.0,0,2024-03-24
-10,1.WT2,Gent - Wevelgem (prov.),42572,TRENTIN Matteo,13270,0.0,0,2024-03-24
-1,2.WT1s,"Volta a Catalunya, Stage 7 : Barcelona - Barcelona (prov.)",42627,POGACAR Tadej,26526,0.0,0,2024-03-24
-1,2.WT2r,"Volta a Catalunya, Points classification (prov.)",42629,POGACAR Tadej,26526,0.0,0,2024-03-24
-1,2.WT2r,"Volta a Catalunya, Mountains classification (prov.)",42630,POGACAR Tadej,26526,0.0,0,2024-03-24
-1,2.WT1s,"Volta a Catalunya, Stage 6 : Berga - Queralt (prov.)",42626,POGACAR Tadej,26526,0.0,0,2024-03-23
+1,2.WT1,"Volta a Catalunya, General classification",42628,POGACAR Tadej,26526,0.0,0,2024-03-24
+2,2.WT1,"Volta a Catalunya, General classification",42628,LANDA MEANA Mikel,14319,0.0,0,2024-03-24
+3,2.WT1,"Volta a Catalunya, General classification",42628,BERNAL GOMEZ Egan Arley,24926,0.0,0,2024-03-24
+4,2.WT1,"Volta a Catalunya, General classification",42628,VLASOV Aleksandr,24316,0.0,0,2024-03-24
+5,2.WT1,"Volta a Catalunya, General classification",42628,MAS NICOLAU Enric,22794,0.0,0,2024-03-24
+6,2.WT1,"Volta a Catalunya, General classification",42628,HARPER Chris,25066,0.0,0,2024-03-24
+7,2.WT1,"Volta a Catalunya, General classification",42628,MARTINEZ Lenny,32721,0.0,0,2024-03-24
+8,2.WT1,"Volta a Catalunya, General classification",42628,TIBERI Antonio,30649,0.0,0,2024-03-24
+9,2.WT1,"Volta a Catalunya, General classification",42628,ALMEIDA Joao Pedro Gonçalves,26482,0.0,0,2024-03-24
+10,2.WT1,"Volta a Catalunya, General classification",42628,FORTUNATO Lorenzo,25552,0.0,0,2024-03-24
+1,1.WT2,Gent - Wevelgem,42572,PEDERSEN Mads,21992,0.0,0,2024-03-24
+2,1.WT2,Gent - Wevelgem,42572,VAN DER POEL Mathieu,21971,0.0,0,2024-03-24
+3,1.WT2,Gent - Wevelgem,42572,MEEUS Jordi,26421,0.0,0,2024-03-24
+4,1.WT2,Gent - Wevelgem,42572,PHILIPSEN Jasper,26392,0.0,0,2024-03-24
+5,1.WT2,Gent - Wevelgem,42572,MILAN Jonathan,29359,0.0,0,2024-03-24
+6,1.WT2,Gent - Wevelgem,42572,KOOIJ Olav,30643,0.0,0,2024-03-24
+7,1.WT2,Gent - Wevelgem,42572,GIRMAY HAILU Biniam,29474,0.0,0,2024-03-24
+8,1.WT2,Gent - Wevelgem,42572,MERLIER Tim,17988,0.0,0,2024-03-24
+9,1.WT2,Gent - Wevelgem,42572,GROENEWEGEN Dylan,19238,0.0,0,2024-03-24
+10,1.WT2,Gent - Wevelgem,42572,TRENTIN Matteo,13270,0.0,0,2024-03-24
+1,2.WT1s,"Volta a Catalunya, Stage 7 : Barcelona - Barcelona",42627,POGACAR Tadej,26526,0.0,0,2024-03-24
+1,2.WT2r,"Volta a Catalunya, Points classification",42629,POGACAR Tadej,26526,0.0,0,2024-03-24
+1,2.WT2r,"Volta a Catalunya, Mountains classification",42630,POGACAR Tadej,26526,0.0,0,2024-03-24
+1,1.1,La Roue Tourangelle (prov.),42573,TESSON Jason,29883,0.0,0,2024-03-24
+2,1.1,La Roue Tourangelle (prov.),42573,THIJSSEN Gerben,27085,0.0,0,2024-03-24
+3,1.1,La Roue Tourangelle (prov.),42573,BIERMANS Jenthe,22010,0.0,0,2024-03-24
+1,2.WT1s,"Volta a Catalunya, Stage 6 : Berga - Queralt",42626,POGACAR Tadej,26526,0.0,0,2024-03-23
 1,2.1,"Settimana Coppi e Bartali, General classification",42636,BOUWMAN Koen,20770,0.0,0,2024-03-23
 2,2.1,"Settimana Coppi e Bartali, General classification",42636,RYAN Archie,30565,0.0,0,2024-03-23
 3,2.1,"Settimana Coppi e Bartali, General classification",42636,ULISSI Diego,10023,0.0,0,2024-03-23
@@ -37,5 +40,5 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
 8,1.WT2,E3 Saxo Classic,42570,SKUJINS Toms,16739,0.0,0,2024-03-22
 9,1.WT2,E3 Saxo Classic,42570,ALBANESE Vincenzo,24139,0.0,0,2024-03-22
 10,1.WT2,E3 Saxo Classic,42570,KIRSCH Alex,19545,0.0,0,2024-03-22
-1,2.WT1s,"Volta a Catalunya, Stage 5 : Altafula - Viladecans (prov.)",42625,LAURANCE Axel,31621,0.0,0,2024-03-22
+1,2.WT1s,"Volta a Catalunya, Stage 5 : Altafula - Viladecans",42625,LAURANCE Axel,31621,0.0,0,2024-03-22
 1,2.1s,"Settimana Coppi e Bartali, Stage 4 : Brisighella - Brisighella",42635,RYAN Archie,30565,0.0,0,2024-03-22

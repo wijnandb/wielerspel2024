@@ -1,6 +1,6 @@
 renner_id,renner,rider,ploegleider,kosten,team,nationality,age,punten,JPP
 24934,SIVAKOV Pavel,SIVAKOV Pavel,Albert,7,UAD,FRA,26,0,0
-29359,MILAN Jonathan,MILAN Jonathan,Albert,6,LTK,ITA,23,2.5,18
+29359,MILAN Jonathan,MILAN Jonathan,Albert,6,LTK,ITA,23,2.5,32
 19238,GROENEWEGEN Dylan,GROENEWEGEN Dylan,Albert,6,JAY,NED,30,3,45
 17881,BILBAO LOPEZ DE ARMENTIA Pello,BILBAO LOPEZ DE ARMENTIA Pello,Albert,6,TBV,ESP,33,1,41
 14319,LANDA MEANA Mikel,LANDA MEANA Mikel,Albert,6,SOQ,ESP,34,3,35
@@ -108,7 +108,7 @@ renner_id,renner,rider,ploegleider,kosten,team,nationality,age,punten,JPP
 18610,ALAPHILIPPE Julian,ALAPHILIPPE Julian,Kaspar,18,SOQ,FRA,31,0,26
 30166,SKJELMOSE JENSEN Mattias,SKJELMOSE JENSEN Mattias,Kaspar,18,LTK,DEN,23,2.0,63
 23426,JAKOBSEN Fabio,JAKOBSEN Fabio,Kaspar,14,DSM,NED,27,1,35
-34297,TARLING Joshua,TARLING Joshua,Kaspar,11,IGD,GBR,19,0.2,0
+34297,TARLING Joshua,TARLING Joshua,Kaspar,11,IGD,GBR,19,0.2,16
 23948,HINDLEY Jai,HINDLEY Jai,Kaspar,9,BOH,AUS,27,1,43
 30442,HAGENES Per Strand,HAGENES Per Strand,Kaspar,5,TJV,NOR,20,0,0
 10023,ULISSI Diego,ULISSI Diego,Kaspar,4,UAD,ITA,34,0.3,40
@@ -165,7 +165,7 @@ renner_id,renner,rider,ploegleider,kosten,team,nationality,age,punten,JPP
 21342,CARAPAZ MONTENEGRO Richard Antonio,CARAPAZ MONTENEGRO Richard Antonio,Paul,16,EFE,ECU,30,1.0,0
 19953,LAPORTE Christophe,LAPORTE Christophe,Paul,11,TJV,FRA,31,0.2,46
 24316,VLASOV Alexander,VLASOV Alexander,Paul,10,BOH,RUS,27,2.9,63
-28057,JORGENSON Matteo,JORGENSON Matteo,Paul,10,TJV,USA,24,10.2,68
+28057,JORGENSON Matteo,JORGENSON Matteo,Paul,10,TJV,USA,24,15.2,118
 26637,GROVES Kaden,GROVES Kaden,Paul,9,ADC,AUS,25,0,0
 19651,EWAN Caleb,EWAN Caleb,Paul,7,JAY,AUS,29,0.3,0
 18455,LUTSENKO Alexey,LUTSENKO Alexey,Paul,7,AST,KAZ,31,0,0
@@ -181,7 +181,7 @@ renner_id,renner,rider,ploegleider,kosten,team,nationality,age,punten,JPP
 23765,DUNBAR Eddie,DUNBAR Eddie,Paul,1,JAY,IRL,27,0,0
 29297,ENGELHARDT Felix,ENGELHARDT Felix,Paul,1,JAY,GER,23,0,0
 21212,HAIG Jack,HAIG Jack,Paul,1,TBV,AUS,30,0,8
-21244,BENOOT Tiesj,BENOOT Tiesj,Paul,1,TJV,BEL,29,0,0
+21244,BENOOT Tiesj,BENOOT Tiesj,Paul,1,TJV,BEL,29,0,20
 25552,FORTUNATO Lorenzo,FORTUNATO Lorenzo,Paul,0,AST,ITA,27,0,8
 32221,DE LIE Arnaud,DE LIE Arnaud,PB,24,LTD,BEL,21,0,66
 21145,MOHORIC Matej,MOHORIC Matej,PB,13,TBV,SLO,29,0.5,34
@@ -193,7 +193,7 @@ renner_id,renner,rider,ploegleider,kosten,team,nationality,age,punten,JPP
 25704,GODON Dorian,GODON Dorian,PB,3,A2R,FRA,27,0,8
 23463,MOLANO BENAVIDES Juan Sebastian,MOLANO BENAVIDES Juan Sebastian,PB,3,UAD,COL,29,0,14
 13066,MATTHEWS Michael,MATTHEWS Michael,PB,3,JAY,AUS,33,5,35
-18123,VALGREN ANDERSEN Michael,VALGREN ANDERSEN Michael,PB,2,EFE,DEN,31,0,0
+18123,VALGREN ANDERSEN Michael,VALGREN ANDERSEN Michael,PB,2,EFE,DEN,31,0,12
 28298,COVI Alessandro,COVI Alessandro,PB,2,UAD,ITA,25,0,0
 30010,CARR Simon,CARR Simon,PB,2,EFE,GBR,25,2,0
 12923,KWIATKOWSKI Michal,KWIATKOWSKI Michal,PB,2,IGD,POL,33,0,0
@@ -231,7 +231,7 @@ renner_id,renner,rider,ploegleider,kosten,team,nationality,age,punten,JPP
 22662,VELASCO Simone,VELASCO Simone,Vel,1,AST,ITA,28,0.5,37
 28392,HERREGODTS Rune,HERREGODTS Rune,Vel,0,ICW,BEL,25,0,0
 26526,POGACAR Tadej,POGACAR Tadej,Wijnand,85,UAD,SLO,25,26.0,125
-20960,KUNG Stefan,KUNG Stefan,Wijnand,8,FDJ,SUI,30,0,10
+20960,KUNG Stefan,KUNG Stefan,Wijnand,8,FDJ,SUI,30,1,35
 30635,HAYTER Leo,HAYTER Leo,Wijnand,1,IGD,GBR,22,0,0
 28451,ALEOTTI Giovanni,ALEOTTI Giovanni,Wijnand,1,BOH,ITA,24,0,0
 18413,MEINTJES Louis,MEINTJES Louis,Wijnand,1,ICW,RSA,31,0,0

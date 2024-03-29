@@ -1,7 +1,7 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
-1,1.1,Route Adélie de Vitré (prov.),42575,BIERMANS Jenthe,22010,2,0,2024-03-29,Frank
-2,1.1,Route Adélie de Vitré (prov.),42575,DUJARDIN Sandy,28583,0.3,0,2024-03-29,-
-3,1.1,Route Adélie de Vitré (prov.),42575,DELETTRE Alexandre,30519,0.1,0,2024-03-29,-
+1,1.1,Route Adélie de Vitré,42575,BIERMANS Jenthe,22010,2,0,2024-03-29,Frank
+2,1.1,Route Adélie de Vitré,42575,DUJARDIN Sandy,28583,0.3,0,2024-03-29,-
+3,1.1,Route Adélie de Vitré,42575,DELETTRE Alexandre,30519,0.1,0,2024-03-29,-
 1,1.WT3,Dwars door Vlaanderen,42574,JORGENSON Matteo,28057,5,50,2024-03-27,Paul
 2,1.WT3,Dwars door Vlaanderen,42574,ABRAHAMSEN Jonas,22233,2,35,2024-03-27,-
 3,1.WT3,Dwars door Vlaanderen,42574,KÜNG Stefan,20960,1,25,2024-03-27,Wijnand

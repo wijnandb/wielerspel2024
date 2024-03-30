@@ -1,4 +1,17 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
+1,1.PS,GP Miguel Indurain (prov.),42577,MCNULTY Brandon,26508,4,50,2024-03-30,Kees
+2,1.PS,GP Miguel Indurain (prov.),42577,VAN GILS Maxim,28521,1,35,2024-03-30,Albert
+3,1.PS,GP Miguel Indurain (prov.),42577,ONLEY Oscar,31724,0.5,25,2024-03-30,Albert
+4,1.PS,GP Miguel Indurain (prov.),42577,IZAGIRRE INSAUSTI Ion,14321,0,20,2024-03-30,PB
+5,1.PS,GP Miguel Indurain (prov.),42577,RYAN Archie,30565,0,18,2024-03-30,-
+6,1.PS,GP Miguel Indurain (prov.),42577,BATTISTELLA Samuele,28450,0,16,2024-03-30,-
+7,1.PS,GP Miguel Indurain (prov.),42577,CHAMPOUSSIN Clément,27153,0,14,2024-03-30,Harry
+8,1.PS,GP Miguel Indurain (prov.),42577,CRAS Steff,24257,0,12,2024-03-30,-
+9,1.PS,GP Miguel Indurain (prov.),42577,SCHACHMANN Maximilian,20798,0,10,2024-03-30,Albert
+10,1.PS,GP Miguel Indurain (prov.),42577,BARCELO ARAGON Fernando,27079,0,8,2024-03-30,-
+1,1.1,Volta Limburg Classic (prov.),42576,KIELICH Timo,28189,2,0,2024-03-30,-
+2,1.1,Volta Limburg Classic (prov.),42576,EENKHOORN Pascal,24932,0.3,0,2024-03-30,Harry
+3,1.1,Volta Limburg Classic (prov.),42576,UHLIG Henri,30827,0.1,0,2024-03-30,-
 1,1.1,Route Adélie de Vitré,42575,BIERMANS Jenthe,22010,2,0,2024-03-29,Frank
 2,1.1,Route Adélie de Vitré,42575,DUJARDIN Sandy,28583,0.3,0,2024-03-29,-
 3,1.1,Route Adélie de Vitré,42575,DELETTRE Alexandre,30519,0.1,0,2024-03-29,-

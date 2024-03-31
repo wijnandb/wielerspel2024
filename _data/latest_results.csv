@@ -1,4 +1,14 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
+1,1.WT1,Ronde van Vlaanderen (prov.),42578,VAN DER POEL Mathieu,21971,0.0,0,2024-03-31
+2,1.WT1,Ronde van Vlaanderen (prov.),42578,MOZZATO Luca,28037,0.0,0,2024-03-31
+3,1.WT1,Ronde van Vlaanderen (prov.),42578,POLITT Nils,20847,0.0,0,2024-03-31
+4,1.WT1,Ronde van Vlaanderen (prov.),42578,BJERG Mikkel Norsgaard,26388,0.0,0,2024-03-31
+5,1.WT1,Ronde van Vlaanderen (prov.),42578,MORGADO Antonio Tomas,34222,0.0,0,2024-03-31
+6,1.WT1,Ronde van Vlaanderen (prov.),42578,SHEFFIELD Magnus,31598,0.0,0,2024-03-31
+7,1.WT1,Ronde van Vlaanderen (prov.),42578,NAESEN Oliver,21392,0.0,0,2024-03-31
+8,1.WT1,Ronde van Vlaanderen (prov.),42578,TEUNS Dylan,17908,0.0,0,2024-03-31
+9,1.WT1,Ronde van Vlaanderen (prov.),42578,BETTIOL Alberto,20697,0.0,0,2024-03-31
+10,1.WT1,Ronde van Vlaanderen (prov.),42578,SKUJINS Toms,16739,0.0,0,2024-03-31
 1,1.PS,GP Miguel Indurain,42577,MCNULTY Brandon,26508,0.0,0,2024-03-30
 2,1.PS,GP Miguel Indurain,42577,VAN GILS Maxim,28521,0.0,0,2024-03-30
 3,1.PS,GP Miguel Indurain,42577,ONLEY Oscar,31724,0.0,0,2024-03-30
@@ -58,4 +68,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
 1,2.1,"Settimana Coppi e Bartali, General classification",42636,BOUWMAN Koen,20770,0.0,0,2024-03-23
 2,2.1,"Settimana Coppi e Bartali, General classification",42636,RYAN Archie,30565,0.0,0,2024-03-23
 3,2.1,"Settimana Coppi e Bartali, General classification",42636,ULISSI Diego,10023,0.0,0,2024-03-23
-1,2.1s,"Settimana Coppi e Bartali, Stage 5 : Forli - Forli",42649,BERCKMOES Jenno,32588,0.0,0,2024-03-23

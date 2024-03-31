@@ -8,8 +8,8 @@ renner_id,renner,rider,ploegleider,kosten,team,nationality,age,punten,JPP
 27716,ARENSMAN Thymen,ARENSMAN Thymen,Kees,5,IGD,NED,24,0,34
 26508,MCNULTY Brandon,MCNULTY Brandon,Kees,4,UAD,USA,25,10.0,125
 24873,FOSS Tobias Svendsen,FOSS Tobias Svendsen,Kees,2,IGD,NOR,26,0,0
-20847,POLITT Nils,POLITT Nils,Kees,2,UAD,GER,29,3,49
-26388,BJERG Mikkel,BJERG Mikkel,Kees,2,UAD,DEN,25,0,0
+20847,POLITT Nils,POLITT Nils,Kees,2,UAD,GER,29,5,74
+26388,BJERG Mikkel,BJERG Mikkel,Kees,2,UAD,DEN,25,1,20
 27126,MOSCHETTI Matteo,MOSCHETTI Matteo,Kees,2,Q36,ITA,27,1,35
 26197,LAFAY Victor,LAFAY Victor,Kees,2,A2R,FRA,27,0,0
 24180,MENTEN Milan,MENTEN Milan,Kees,2,LTD,BEL,27,0,12
@@ -19,7 +19,7 @@ renner_id,renner,rider,ploegleider,kosten,team,nationality,age,punten,JPP
 32834,COSTIOU Ewen,COSTIOU Ewen,Kees,1,ARK,FRA,21,0,0
 21504,DENZ Nico,DENZ Nico,Kees,1,BOH,GER,29,0,0
 16941,CHAVES RUBIO Jhoan Esteban,CHAVES RUBIO Jhoan Esteban,Kees,1,EFE,COL,33,0,0
-17908,TEUNS Dylan,TEUNS Dylan,Kees,1,IPT,BEL,31,0,0
+17908,TEUNS Dylan,TEUNS Dylan,Kees,1,IPT,BEL,31,0,12
 16697,THEUNS Edward,THEUNS Edward,Kees,1,LTK,BEL,32,0,0
 14310,MAJKA Rafal,MAJKA Rafal,Kees,1,UAD,POL,34,0,0
 29419,BARONCINI Filippo,BARONCINI Filippo,Kees,0,UAD,ITA,23,0,0

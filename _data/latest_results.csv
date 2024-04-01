@@ -1,4 +1,5 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
+1,2.WT1s,"Itzulia Basque Country, Stage 1 : Irun - Irun I.T.T. (prov.)",42690,ROGLIC Primoz,20719,0.0,0,2024-04-01
 1,2.1s,"Tour of Thailand, Stage 1 : Phitsanulok - Sukhothai (prov.)",42683,CARSTENSEN Lucas,22704,0.0,0,2024-04-01
 1,1.WT1,Ronde van Vlaanderen,42578,VAN DER POEL Mathieu,21971,0.0,0,2024-03-31
 2,1.WT1,Ronde van Vlaanderen,42578,MOZZATO Luca,28037,0.0,0,2024-03-31
@@ -65,4 +66,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
 1,1.1,La Roue Tourangelle,42573,TESSON Jason,29883,0.0,0,2024-03-24
 2,1.1,La Roue Tourangelle,42573,THIJSSEN Gerben,27085,0.0,0,2024-03-24
 3,1.1,La Roue Tourangelle,42573,BIERMANS Jenthe,22010,0.0,0,2024-03-24
-1,2.WT1s,"Volta a Catalunya, Stage 6 : Berga - Queralt",42626,POGACAR Tadej,26526,0.0,0,2024-03-23

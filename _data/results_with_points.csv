@@ -1,15 +1,15 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 1,2.WT1s,"Itzulia Basque Country, Stage 3 : Ezpeleta - Altsasu (prov.)",42692,HERMANS Quinten,22077,1,0,2024-04-03,-
-1,1.PS,Scheldeprijs (prov.),42655,MERLIER Tim,17988,4,50,2024-04-03,Frank
-2,1.PS,Scheldeprijs (prov.),42655,PHILIPSEN Jasper,26392,1,35,2024-04-03,Nicky
-3,1.PS,Scheldeprijs (prov.),42655,GROENEWEGEN Dylan,19238,0.5,25,2024-04-03,Albert
-4,1.PS,Scheldeprijs (prov.),42655,BOL Cees,21930,0,20,2024-04-03,Nicky
-5,1.PS,Scheldeprijs (prov.),42655,HOFSTETTER Hugo,22702,0,18,2024-04-03,PB
-6,1.PS,Scheldeprijs (prov.),42655,WAERENSKJOLD Søren,29187,0,16,2024-04-03,Albert
-7,1.PS,Scheldeprijs (prov.),42655,WELSFORD Sam,23517,0,14,2024-04-03,Albert
-8,1.PS,Scheldeprijs (prov.),42655,MOSCHETTI Matteo,27126,0,12,2024-04-03,Kees
-9,1.PS,Scheldeprijs (prov.),42655,MIHKELS Madis,32946,0,10,2024-04-03,Jan
-10,1.PS,Scheldeprijs (prov.),42655,TRENTIN Matteo,13270,0,8,2024-04-03,Jan
+1,1.PS,Scheldeprijs,42655,MERLIER Tim,17988,4,50,2024-04-03,Frank
+2,1.PS,Scheldeprijs,42655,PHILIPSEN Jasper,26392,1,35,2024-04-03,Nicky
+3,1.PS,Scheldeprijs,42655,GROENEWEGEN Dylan,19238,0.5,25,2024-04-03,Albert
+4,1.PS,Scheldeprijs,42655,BOL Cees,21930,0,20,2024-04-03,Nicky
+5,1.PS,Scheldeprijs,42655,HOFSTETTER Hugo,22702,0,18,2024-04-03,PB
+6,1.PS,Scheldeprijs,42655,WAERENSKJOLD Søren,29187,0,16,2024-04-03,Albert
+7,1.PS,Scheldeprijs,42655,WELSFORD Sam,23517,0,14,2024-04-03,Albert
+8,1.PS,Scheldeprijs,42655,MOSCHETTI Matteo,27126,0,12,2024-04-03,Kees
+9,1.PS,Scheldeprijs,42655,MIHKELS Madis,32946,0,10,2024-04-03,Jan
+10,1.PS,Scheldeprijs,42655,TRENTIN Matteo,13270,0,8,2024-04-03,Jan
 1,2.1s,"Région Pays de la Loire Tour, Stage 2 : Châteaubriant - Saumur (prov.)",42700,COSTIOU Ewen,32834,0.2,0,2024-04-03,Kees
 1,2.1s,"Tour of Thailand, Stage 3 : Sukhothai - Baan Rak Thai (prov.)",42685,CHAWCHIANGKWANG Peerapol,11810,0.2,0,2024-04-03,-
 1,2.WT1s,"Itzulia Basque Country, Stage 2 : Irun - Kanbo (prov.)",42691,LAPEIRA Paul,30615,1,0,2024-04-02,-

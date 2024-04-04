@@ -1,4 +1,5 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
+1,2.1s,"Tour of Thailand, Stage 4 : Phitsanulok - Phetchabun (prov.)",42686,EWART Jesse,22568,0.0,0,2024-04-04
 1,2.WT1s,"Itzulia Basque Country, Stage 3 : Ezpeleta - Altsasu (prov.)",42692,HERMANS Quinten,22077,0.0,0,2024-04-03
 1,1.PS,Scheldeprijs,42655,MERLIER Tim,17988,0.0,0,2024-04-03
 2,1.PS,Scheldeprijs,42655,PHILIPSEN Jasper,26392,0.0,0,2024-04-03
@@ -56,23 +57,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
 1,1.1,Paris - Camembert,42579,COSNEFROY Benoît,24189,0.0,0,2024-03-27
 2,1.1,Paris - Camembert,42579,VENTURINI Clément,21428,0.0,0,2024-03-27
 3,1.1,Paris - Camembert,42579,DELETTRE Alexandre,30519,0.0,0,2024-03-27
-1,2.WT1,"Volta a Catalunya, General classification",42628,POGACAR Tadej,26526,0.0,0,2024-03-24
-2,2.WT1,"Volta a Catalunya, General classification",42628,LANDA MEANA Mikel,14319,0.0,0,2024-03-24
-3,2.WT1,"Volta a Catalunya, General classification",42628,BERNAL GOMEZ Egan Arley,24926,0.0,0,2024-03-24
-4,2.WT1,"Volta a Catalunya, General classification",42628,VLASOV Aleksandr,24316,0.0,0,2024-03-24
-5,2.WT1,"Volta a Catalunya, General classification",42628,MAS NICOLAU Enric,22794,0.0,0,2024-03-24
-6,2.WT1,"Volta a Catalunya, General classification",42628,HARPER Chris,25066,0.0,0,2024-03-24
-7,2.WT1,"Volta a Catalunya, General classification",42628,MARTINEZ Lenny,32721,0.0,0,2024-03-24
-8,2.WT1,"Volta a Catalunya, General classification",42628,TIBERI Antonio,30649,0.0,0,2024-03-24
-9,2.WT1,"Volta a Catalunya, General classification",42628,ALMEIDA Joao Pedro Gonçalves,26482,0.0,0,2024-03-24
-10,2.WT1,"Volta a Catalunya, General classification",42628,FORTUNATO Lorenzo,25552,0.0,0,2024-03-24
-1,1.WT2,Gent - Wevelgem,42572,PEDERSEN Mads,21992,0.0,0,2024-03-24
-2,1.WT2,Gent - Wevelgem,42572,VAN DER POEL Mathieu,21971,0.0,0,2024-03-24
-3,1.WT2,Gent - Wevelgem,42572,MEEUS Jordi,26421,0.0,0,2024-03-24
-4,1.WT2,Gent - Wevelgem,42572,PHILIPSEN Jasper,26392,0.0,0,2024-03-24
-5,1.WT2,Gent - Wevelgem,42572,MILAN Jonathan,29359,0.0,0,2024-03-24
-6,1.WT2,Gent - Wevelgem,42572,KOOIJ Olav,30643,0.0,0,2024-03-24
-7,1.WT2,Gent - Wevelgem,42572,GIRMAY HAILU Biniam,29474,0.0,0,2024-03-24
-8,1.WT2,Gent - Wevelgem,42572,MERLIER Tim,17988,0.0,0,2024-03-24
-9,1.WT2,Gent - Wevelgem,42572,GROENEWEGEN Dylan,19238,0.0,0,2024-03-24
-10,1.WT2,Gent - Wevelgem,42572,TRENTIN Matteo,13270,0.0,0,2024-03-24

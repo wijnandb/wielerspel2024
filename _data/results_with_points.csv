@@ -1,12 +1,12 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 1,2.WT1s,"Itzulia Basque Country, Stage 5 : Vitoria - Amorebieta (prov.)",42694,GREGOIRE Romain,32766,1,0,2024-04-05,Jan
-1,2.1,"Région Pays de la Loire Tour, General classification (prov.)",42703,VAN DEN BERG Marijn,27674,2,0,2024-04-05,Roy
-2,2.1,"Région Pays de la Loire Tour, General classification (prov.)",42703,COSTIOU Ewen,32834,0.3,0,2024-04-05,Kees
-3,2.1,"Région Pays de la Loire Tour, General classification (prov.)",42703,DVERSNES Fredrik,28553,0.1,0,2024-04-05,Jan
-1,2.1s,"Région Pays de la Loire Tour, Stage 4 : Marolles-les-Braults - Le Mans (prov.)",42702,VAN DEN BERG Marijn,27674,0.2,0,2024-04-05,Roy
+1,2.1,"Région Pays de la Loire Tour, General classification",42703,VAN DEN BERG Marijn,27674,2,0,2024-04-05,Roy
+2,2.1,"Région Pays de la Loire Tour, General classification",42703,COSTIOU Ewen,32834,0.3,0,2024-04-05,Kees
+3,2.1,"Région Pays de la Loire Tour, General classification",42703,DVERSNES Fredrik,28553,0.1,0,2024-04-05,Jan
+1,2.1s,"Région Pays de la Loire Tour, Stage 4 : Marolles-les-Braults - Le Mans",42702,VAN DEN BERG Marijn,27674,0.2,0,2024-04-05,Roy
 1,2.1s,"Tour of Thailand, Stage 5 : Phitsanulok - Phichit (prov.)",42687,SAMANSANTI Nati,31618,0.2,0,2024-04-05,-
 1,2.WT1s,"Itzulia Basque Country, Stage 4 : Etxarri Aranatz - Legutio (prov.)",42693,MEINTJES Louis,18413,1,0,2024-04-04,Wijnand
-1,2.1s,"Région Pays de la Loire Tour, Stage 3 : Segré-en-Anjou Bleu - Château-Gontier (prov.)",42701,DAINESE Alberto,26965,0.2,0,2024-04-04,Jan
+1,2.1s,"Région Pays de la Loire Tour, Stage 3 : Segré-en-Anjou Bleu - Château-Gontier",42701,DAINESE Alberto,26965,0.2,0,2024-04-04,Jan
 1,2.1s,"Tour of Thailand, Stage 4 : Phitsanulok - Phetchabun (prov.)",42686,EWART Jesse,22568,0.2,0,2024-04-04,-
 1,2.WT1s,"Itzulia Basque Country, Stage 3 : Ezpeleta - Altsasu (prov.)",42692,HERMANS Quinten,22077,1,0,2024-04-03,-
 1,1.PS,Scheldeprijs,42655,MERLIER Tim,17988,4,50,2024-04-03,Frank
@@ -19,10 +19,10 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 8,1.PS,Scheldeprijs,42655,MOSCHETTI Matteo,27126,0,12,2024-04-03,Kees
 9,1.PS,Scheldeprijs,42655,MIHKELS Madis,32946,0,10,2024-04-03,Jan
 10,1.PS,Scheldeprijs,42655,TRENTIN Matteo,13270,0,8,2024-04-03,Jan
-1,2.1s,"Région Pays de la Loire Tour, Stage 2 : Châteaubriant - Saumur (prov.)",42700,COSTIOU Ewen,32834,0.2,0,2024-04-03,Kees
+1,2.1s,"Région Pays de la Loire Tour, Stage 2 : Châteaubriant - Saumur",42700,COSTIOU Ewen,32834,0.2,0,2024-04-03,Kees
 1,2.1s,"Tour of Thailand, Stage 3 : Sukhothai - Baan Rak Thai (prov.)",42685,CHAWCHIANGKWANG Peerapol,11810,0.2,0,2024-04-03,-
 1,2.WT1s,"Itzulia Basque Country, Stage 2 : Irun - Kanbo (prov.)",42691,LAPEIRA Paul,30615,1,0,2024-04-02,-
-1,2.1s,"Région Pays de la Loire Tour, Stage 1 : Fontenay-le-Comte - Saint-Jean-de-Monts (prov.)",42699,VAN DEN BERG Marijn,27674,0.2,0,2024-04-02,Roy
+1,2.1s,"Région Pays de la Loire Tour, Stage 1 : Fontenay-le-Comte - Saint-Jean-de-Monts",42699,VAN DEN BERG Marijn,27674,0.2,0,2024-04-02,Roy
 1,2.1s,"Tour of Thailand, Stage 2 : Sukhothai - Sukhothai (prov.)",42684,ROSLI Muhammad Nur Aiman,29594,0.2,0,2024-04-02,-
 1,2.WT1s,"Itzulia Basque Country, Stage 1 : Irun - Irun I.T.T. (prov.)",42690,ROGLIC Primoz,20719,1,0,2024-04-01,Frank
 1,2.1s,"Tour of Thailand, Stage 1 : Phitsanulok - Sukhothai (prov.)",42683,CARSTENSEN Lucas,22704,0.2,0,2024-04-01,-

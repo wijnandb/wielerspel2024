@@ -1,27 +1,27 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
-1,2.WT1,"Itzulia Basque Country, General classification (prov.)",42696,AYUSO PESQUERA Juan,31654,0.0,0,2024-04-06
-2,2.WT1,"Itzulia Basque Country, General classification (prov.)",42696,RODRIGUEZ CANO Carlos,30836,0.0,0,2024-04-06
-3,2.WT1,"Itzulia Basque Country, General classification (prov.)",42696,SKJELMOSE JENSEN Mattias,30166,0.0,0,2024-04-06
-4,2.WT1,"Itzulia Basque Country, General classification (prov.)",42696,SOLER GIMENEZ Marc,23299,0.0,0,2024-04-06
-5,2.WT1,"Itzulia Basque Country, General classification (prov.)",42696,MCNULTY Brandon,26508,0.0,0,2024-04-06
-6,2.WT1,"Itzulia Basque Country, General classification (prov.)",42696,BILBAO LOPEZ DE ARMENTIA Pello,17881,0.0,0,2024-04-06
-7,2.WT1,"Itzulia Basque Country, General classification (prov.)",42696,DEL TORO ROMERO Isaac,33556,0.0,0,2024-04-06
-8,2.WT1,"Itzulia Basque Country, General classification (prov.)",42696,VAUQUELIN Kévin,31264,0.0,0,2024-04-06
-9,2.WT1,"Itzulia Basque Country, General classification (prov.)",42696,IZAGIRRE INSAUSTI Ion,14321,0.0,0,2024-04-06
-10,2.WT1,"Itzulia Basque Country, General classification (prov.)",42696,BAUDIN Alex,32146,0.0,0,2024-04-06
-1,2.WT1s,"Itzulia Basque Country, Stage 6 : Eibar - Eibar (prov.)",42695,RODRIGUEZ CANO Carlos,30836,0.0,0,2024-04-06
-1,2.WT2r,"Itzulia Basque Country, Mountains classification (prov.)",42698,KUSS Sepp,25653,0.0,0,2024-04-06
-1,2.WT2r,"Itzulia Basque Country, Points classification (prov.)",42697,ARANBURU DEBA Alexander,23940,0.0,0,2024-04-06
-1,2.1,"Tour of Thailand, General classification (prov.)",42689,VAN ENGELEN Adne,24796,0.0,0,2024-04-06
-2,2.1,"Tour of Thailand, General classification (prov.)",42689,CHAIYASOMBAT Thanakhan,28399,0.0,0,2024-04-06
-3,2.1,"Tour of Thailand, General classification (prov.)",42689,BUDYAK Anatoliy,22337,0.0,0,2024-04-06
-1,2.1s,"Tour of Thailand, Stage 6 : Phichit - Si Thep (prov.)",42688,KERGOZOU DE LA BOESSIERE Nicholas,23977,0.0,0,2024-04-06
-1,2.WT1s,"Itzulia Basque Country, Stage 5 : Vitoria - Amorebieta (prov.)",42694,GREGOIRE Romain,32766,0.0,0,2024-04-05
+1,2.WT1,"Itzulia Basque Country, General classification",42696,AYUSO PESQUERA Juan,31654,0.0,0,2024-04-06
+2,2.WT1,"Itzulia Basque Country, General classification",42696,RODRIGUEZ CANO Carlos,30836,0.0,0,2024-04-06
+3,2.WT1,"Itzulia Basque Country, General classification",42696,SKJELMOSE JENSEN Mattias,30166,0.0,0,2024-04-06
+4,2.WT1,"Itzulia Basque Country, General classification",42696,SOLER GIMENEZ Marc,23299,0.0,0,2024-04-06
+5,2.WT1,"Itzulia Basque Country, General classification",42696,MCNULTY Brandon,26508,0.0,0,2024-04-06
+6,2.WT1,"Itzulia Basque Country, General classification",42696,BILBAO LOPEZ DE ARMENTIA Pello,17881,0.0,0,2024-04-06
+7,2.WT1,"Itzulia Basque Country, General classification",42696,DEL TORO ROMERO Isaac,33556,0.0,0,2024-04-06
+8,2.WT1,"Itzulia Basque Country, General classification",42696,VAUQUELIN Kévin,31264,0.0,0,2024-04-06
+9,2.WT1,"Itzulia Basque Country, General classification",42696,IZAGIRRE INSAUSTI Ion,14321,0.0,0,2024-04-06
+10,2.WT1,"Itzulia Basque Country, General classification",42696,BAUDIN Alex,32146,0.0,0,2024-04-06
+1,2.WT1s,"Itzulia Basque Country, Stage 6 : Eibar - Eibar",42695,RODRIGUEZ CANO Carlos,30836,0.0,0,2024-04-06
+1,2.WT2r,"Itzulia Basque Country, Mountains classification",42698,KUSS Sepp,25653,0.0,0,2024-04-06
+1,2.WT2r,"Itzulia Basque Country, Points classification",42697,ARANBURU DEBA Alexander,23940,0.0,0,2024-04-06
+1,2.1,"Tour of Thailand, General classification",42689,VAN ENGELEN Adne,24796,0.0,0,2024-04-06
+2,2.1,"Tour of Thailand, General classification",42689,CHAIYASOMBAT Thanakhan,28399,0.0,0,2024-04-06
+3,2.1,"Tour of Thailand, General classification",42689,BUDYAK Anatoliy,22337,0.0,0,2024-04-06
+1,2.1s,"Tour of Thailand, Stage 6 : Phichit - Si Thep",42688,KERGOZOU DE LA BOESSIERE Nicholas,23977,0.0,0,2024-04-06
+1,2.WT1s,"Itzulia Basque Country, Stage 5 : Vitoria - Amorebieta",42694,GREGOIRE Romain,32766,0.0,0,2024-04-05
 1,2.1,"Région Pays de la Loire Tour, General classification",42703,VAN DEN BERG Marijn,27674,0.0,0,2024-04-05
 2,2.1,"Région Pays de la Loire Tour, General classification",42703,COSTIOU Ewen,32834,0.0,0,2024-04-05
 3,2.1,"Région Pays de la Loire Tour, General classification",42703,DVERSNES Fredrik,28553,0.0,0,2024-04-05
 1,2.1s,"Région Pays de la Loire Tour, Stage 4 : Marolles-les-Braults - Le Mans",42702,VAN DEN BERG Marijn,27674,0.0,0,2024-04-05
-1,2.1s,"Tour of Thailand, Stage 5 : Phitsanulok - Phichit (prov.)",42687,SAMANSANTI Nati,31618,0.0,0,2024-04-05
-1,2.WT1s,"Itzulia Basque Country, Stage 4 : Etxarri Aranatz - Legutio (prov.)",42693,MEINTJES Louis,18413,0.0,0,2024-04-04
+1,2.1s,"Tour of Thailand, Stage 5 : Phitsanulok - Phichit",42687,SAMANSANTI Nati,31618,0.0,0,2024-04-05
+1,2.WT1s,"Itzulia Basque Country, Stage 4 : Etxarri Aranatz - Legutio",42693,MEINTJES Louis,18413,0.0,0,2024-04-04
 1,2.1s,"Région Pays de la Loire Tour, Stage 3 : Segré-en-Anjou Bleu - Château-Gontier",42701,DAINESE Alberto,26965,0.0,0,2024-04-04
-1,2.1s,"Tour of Thailand, Stage 4 : Phitsanulok - Phetchabun (prov.)",42686,EWART Jesse,22568,0.0,0,2024-04-04
+1,2.1s,"Tour of Thailand, Stage 4 : Phitsanulok - Phetchabun",42686,EWART Jesse,22568,0.0,0,2024-04-04

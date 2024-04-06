@@ -1,4 +1,15 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
+1,2.WT1,"Itzulia Basque Country, General classification (prov.)",42696,AYUSO PESQUERA Juan,31654,10,50,2024-04-06,Frank
+2,2.WT1,"Itzulia Basque Country, General classification (prov.)",42696,RODRIGUEZ CANO Carlos,30836,3,35,2024-04-06,Vel
+3,2.WT1,"Itzulia Basque Country, General classification (prov.)",42696,SKJELMOSE JENSEN Mattias,30166,1,25,2024-04-06,Kaspar
+4,2.WT1,"Itzulia Basque Country, General classification (prov.)",42696,SOLER GIMENEZ Marc,23299,0.5,20,2024-04-06,Jan
+5,2.WT1,"Itzulia Basque Country, General classification (prov.)",42696,MCNULTY Brandon,26508,0.2,18,2024-04-06,Kees
+6,2.WT1,"Itzulia Basque Country, General classification (prov.)",42696,BILBAO LOPEZ DE ARMENTIA Pello,17881,0,16,2024-04-06,Albert
+7,2.WT1,"Itzulia Basque Country, General classification (prov.)",42696,DEL TORO ROMERO Isaac,33556,0,14,2024-04-06,Kees
+8,2.WT1,"Itzulia Basque Country, General classification (prov.)",42696,VAUQUELIN Kévin,31264,0,12,2024-04-06,Albert
+9,2.WT1,"Itzulia Basque Country, General classification (prov.)",42696,IZAGIRRE INSAUSTI Ion,14321,0,10,2024-04-06,PB
+10,2.WT1,"Itzulia Basque Country, General classification (prov.)",42696,BAUDIN Alex,32146,0,8,2024-04-06,-
+1,2.WT1s,"Itzulia Basque Country, Stage 6 : Eibar - Eibar (prov.)",42695,RODRIGUEZ CANO Carlos,30836,1,0,2024-04-06,Vel
 1,2.1,"Tour of Thailand, General classification (prov.)",42689,VAN ENGELEN Adne,24796,2,0,2024-04-06,-
 2,2.1,"Tour of Thailand, General classification (prov.)",42689,CHAIYASOMBAT Thanakhan,28399,0.3,0,2024-04-06,-
 3,2.1,"Tour of Thailand, General classification (prov.)",42689,BUDYAK Anatoliy,22337,0.1,0,2024-04-06,-

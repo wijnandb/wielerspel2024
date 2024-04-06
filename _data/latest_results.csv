@@ -10,6 +10,8 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
 9,2.WT1,"Itzulia Basque Country, General classification (prov.)",42696,IZAGIRRE INSAUSTI Ion,14321,0.0,0,2024-04-06
 10,2.WT1,"Itzulia Basque Country, General classification (prov.)",42696,BAUDIN Alex,32146,0.0,0,2024-04-06
 1,2.WT1s,"Itzulia Basque Country, Stage 6 : Eibar - Eibar (prov.)",42695,RODRIGUEZ CANO Carlos,30836,0.0,0,2024-04-06
+1,2.WT2r,"Itzulia Basque Country, Mountains classification (prov.)",42698,KUSS Sepp,25653,0.0,0,2024-04-06
+1,2.WT2r,"Itzulia Basque Country, Points classification (prov.)",42697,ARANBURU DEBA Alexander,23940,0.0,0,2024-04-06
 1,2.1,"Tour of Thailand, General classification (prov.)",42689,VAN ENGELEN Adne,24796,0.0,0,2024-04-06
 2,2.1,"Tour of Thailand, General classification (prov.)",42689,CHAIYASOMBAT Thanakhan,28399,0.0,0,2024-04-06
 3,2.1,"Tour of Thailand, General classification (prov.)",42689,BUDYAK Anatoliy,22337,0.0,0,2024-04-06
@@ -24,14 +26,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
 1,2.1s,"Région Pays de la Loire Tour, Stage 3 : Segré-en-Anjou Bleu - Château-Gontier",42701,DAINESE Alberto,26965,0.0,0,2024-04-04
 1,2.1s,"Tour of Thailand, Stage 4 : Phitsanulok - Phetchabun (prov.)",42686,EWART Jesse,22568,0.0,0,2024-04-04
 1,2.WT1s,"Itzulia Basque Country, Stage 3 : Ezpeleta - Altsasu (prov.)",42692,HERMANS Quinten,22077,0.0,0,2024-04-03
-1,1.PS,Scheldeprijs,42655,MERLIER Tim,17988,0.0,0,2024-04-03
-2,1.PS,Scheldeprijs,42655,PHILIPSEN Jasper,26392,0.0,0,2024-04-03
-3,1.PS,Scheldeprijs,42655,GROENEWEGEN Dylan,19238,0.0,0,2024-04-03
-4,1.PS,Scheldeprijs,42655,BOL Cees,21930,0.0,0,2024-04-03
-5,1.PS,Scheldeprijs,42655,HOFSTETTER Hugo,22702,0.0,0,2024-04-03
-6,1.PS,Scheldeprijs,42655,WAERENSKJOLD Søren,29187,0.0,0,2024-04-03
-7,1.PS,Scheldeprijs,42655,WELSFORD Sam,23517,0.0,0,2024-04-03
-8,1.PS,Scheldeprijs,42655,MOSCHETTI Matteo,27126,0.0,0,2024-04-03
-9,1.PS,Scheldeprijs,42655,MIHKELS Madis,32946,0.0,0,2024-04-03
-10,1.PS,Scheldeprijs,42655,TRENTIN Matteo,13270,0.0,0,2024-04-03
-1,2.1s,"Région Pays de la Loire Tour, Stage 2 : Châteaubriant - Saumur",42700,COSTIOU Ewen,32834,0.0,0,2024-04-03

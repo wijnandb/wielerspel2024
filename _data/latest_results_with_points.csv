@@ -1,4 +1,5 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
+1,2.1s,"Giro dAbruzzo, Stage 1 : Vasto - Pescara (prov.)",42722,ZANONCELLO Enrico,28364,0.2,0,2024-04-09,-
 1,1.WT1,Paris - Roubaix,42659,VAN DER POEL Mathieu,21971,15,50,2024-04-07,Harry
 2,1.WT1,Paris - Roubaix,42659,PHILIPSEN Jasper,26392,3,35,2024-04-07,Nicky
 3,1.WT1,Paris - Roubaix,42659,PEDERSEN Mads,21992,2,25,2024-04-07,Kees
@@ -27,4 +28,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 2,2.1,"Tour of Thailand, General classification",42689,CHAIYASOMBAT Thanakhan,28399,0.3,0,2024-04-06,-
 3,2.1,"Tour of Thailand, General classification",42689,BUDYAK Anatoliy,22337,0.1,0,2024-04-06,-
 1,2.1s,"Tour of Thailand, Stage 6 : Phichit - Si Thep",42688,KERGOZOU DE LA BOESSIERE Nicholas,23977,0.2,0,2024-04-06,-
-1,NCT5,National Championships Paraguay (Costanera Sur) I.T.T.,42656,RIVEROS DIARTE Francisco Daniel,21625,0.0,0,2024-04-06,-

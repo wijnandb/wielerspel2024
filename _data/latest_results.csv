@@ -1,22 +1,22 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
-1,2.1,"Giro dAbruzzo, General classification (prov.)",42726,LUTSENKO Alexey,18455,0.0,0,2024-04-12
-2,2.1,"Giro dAbruzzo, General classification (prov.)",42726,SIVAKOV Pavel,24934,0.0,0,2024-04-12
-3,2.1,"Giro dAbruzzo, General classification (prov.)",42726,BENNETT George,12254,0.0,0,2024-04-12
-1,1.1,Classic Grand Besançon Doubs (prov.),42661,MARTINEZ Lenny,32721,0.0,0,2024-04-12
-2,1.1,Classic Grand Besançon Doubs (prov.),42661,LANGELLOTTI Victor,26397,0.0,0,2024-04-12
-3,1.1,Classic Grand Besançon Doubs (prov.),42661,GAUDU David,24255,0.0,0,2024-04-12
-1,2.1s,"Giro dAbruzzo, Stage 4 : Montorio al Vomano - LAquila (prov.)",42725,SIVAKOV Pavel,24934,0.0,0,2024-04-12
-1,CC2,Oceania Cycling Championships (Brisbane) R.R. (prov.),42678,CAVANAGH Ryan,23904,0.0,0,2024-04-12
-2,CC2,Oceania Cycling Championships (Brisbane) R.R. (prov.),42678,GREENWOOD Matthew,33593,0.0,0,2024-04-12
-3,CC2,Oceania Cycling Championships (Brisbane) R.R. (prov.),42678,GATE Aaron,13153,0.0,0,2024-04-12
-4,CC2,Oceania Cycling Championships (Brisbane) R.R. (prov.),42678,METCALFE Ben,29479,0.0,0,2024-04-12
-5,CC2,Oceania Cycling Championships (Brisbane) R.R. (prov.),42678,MEDWAY Jackson,35042,0.0,0,2024-04-12
-6,CC2,Oceania Cycling Championships (Brisbane) R.R. (prov.),42678,BETTLES Carter,29531,0.0,0,2024-04-12
-7,CC2,Oceania Cycling Championships (Brisbane) R.R. (prov.),42678,MOREY Drew,25476,0.0,0,2024-04-12
-8,CC2,Oceania Cycling Championships (Brisbane) R.R. (prov.),42678,JENNER Samuel,25337,0.0,0,2024-04-12
-9,CC2,Oceania Cycling Championships (Brisbane) R.R. (prov.),42678,WARD Jack,36000,0.0,0,2024-04-12
-10,CC2,Oceania Cycling Championships (Brisbane) R.R. (prov.),42678,BURNS Luke,33367,0.0,0,2024-04-12
-1,2.1s,"Giro dAbruzzo, Stage 3 : Pratola Peligna - Prati di Tivo (prov.)",42724,LUTSENKO Alexey,18455,0.0,0,2024-04-11
+1,2.1,"Giro dAbruzzo, General classification",42726,LUTSENKO Alexey,18455,0.0,0,2024-04-12
+2,2.1,"Giro dAbruzzo, General classification",42726,SIVAKOV Pavel,24934,0.0,0,2024-04-12
+3,2.1,"Giro dAbruzzo, General classification",42726,BENNETT George,12254,0.0,0,2024-04-12
+1,1.1,Classic Grand Besançon Doubs,42661,MARTINEZ Lenny,32721,0.0,0,2024-04-12
+2,1.1,Classic Grand Besançon Doubs,42661,LANGELLOTTI Victor,26397,0.0,0,2024-04-12
+3,1.1,Classic Grand Besançon Doubs,42661,GAUDU David,24255,0.0,0,2024-04-12
+1,2.1s,"Giro dAbruzzo, Stage 4 : Montorio al Vomano - LAquila",42725,SIVAKOV Pavel,24934,0.0,0,2024-04-12
+1,CC2,Oceania Cycling Championships (Brisbane) R.R.,42678,CAVANAGH Ryan,23904,0.0,0,2024-04-12
+2,CC2,Oceania Cycling Championships (Brisbane) R.R.,42678,GREENWOOD Matthew,33593,0.0,0,2024-04-12
+3,CC2,Oceania Cycling Championships (Brisbane) R.R.,42678,GATE Aaron,13153,0.0,0,2024-04-12
+4,CC2,Oceania Cycling Championships (Brisbane) R.R.,42678,METCALFE Ben,29479,0.0,0,2024-04-12
+5,CC2,Oceania Cycling Championships (Brisbane) R.R.,42678,MEDWAY Jackson,35042,0.0,0,2024-04-12
+6,CC2,Oceania Cycling Championships (Brisbane) R.R.,42678,BETTLES Carter,29531,0.0,0,2024-04-12
+7,CC2,Oceania Cycling Championships (Brisbane) R.R.,42678,MOREY Drew,25476,0.0,0,2024-04-12
+8,CC2,Oceania Cycling Championships (Brisbane) R.R.,42678,JENNER Samuel,25337,0.0,0,2024-04-12
+9,CC2,Oceania Cycling Championships (Brisbane) R.R.,42678,WARD Jack,36000,0.0,0,2024-04-12
+10,CC2,Oceania Cycling Championships (Brisbane) R.R.,42678,BURNS Luke,33367,0.0,0,2024-04-12
+1,2.1s,"Giro dAbruzzo, Stage 3 : Pratola Peligna - Prati di Tivo",42724,LUTSENKO Alexey,18455,0.0,0,2024-04-11
 1,1.PS,Brabantse Pijl,42660,COSNEFROY Benoît,24189,0.0,0,2024-04-10
 2,1.PS,Brabantse Pijl,42660,TEUNS Dylan,17908,0.0,0,2024-04-10
 3,1.PS,Brabantse Pijl,42660,WELLENS Tim,16722,0.0,0,2024-04-10
@@ -27,8 +27,8 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
 8,1.PS,Brabantse Pijl,42660,MATTHEWS Michael,13066,0.0,0,2024-04-10
 9,1.PS,Brabantse Pijl,42660,BRAET Vito,29801,0.0,0,2024-04-10
 10,1.PS,Brabantse Pijl,42660,STRONG Corbin,29492,0.0,0,2024-04-10
-1,2.1s,"Giro dAbruzzo, Stage 2 : Alanno - Magliano de Marsi (prov.)",42723,CHRISTEN Jan,34430,0.0,0,2024-04-10
-1,2.1s,"Giro dAbruzzo, Stage 1 : Vasto - Pescara (prov.)",42722,ZANONCELLO Enrico,28364,0.0,0,2024-04-09
+1,2.1s,"Giro dAbruzzo, Stage 2 : Alanno - Magliano de Marsi",42723,CHRISTEN Jan,34430,0.0,0,2024-04-10
+1,2.1s,"Giro dAbruzzo, Stage 1 : Vasto - Pescara",42722,ZANONCELLO Enrico,28364,0.0,0,2024-04-09
 1,1.WT1,Paris - Roubaix,42659,VAN DER POEL Mathieu,21971,0.0,0,2024-04-07
 2,1.WT1,Paris - Roubaix,42659,PHILIPSEN Jasper,26392,0.0,0,2024-04-07
 3,1.WT1,Paris - Roubaix,42659,PEDERSEN Mads,21992,0.0,0,2024-04-07
@@ -39,4 +39,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
 8,1.WT1,Paris - Roubaix,42659,MEEUS Jordi,26421,0.0,0,2024-04-07
 9,1.WT1,Paris - Roubaix,42659,WAERENSKJOLD Søren,29187,0.0,0,2024-04-07
 10,1.WT1,Paris - Roubaix,42659,MIHKELS Madis,32946,0.0,0,2024-04-07
-1,NC5,National Championships Paraguay (Costanera Norte) R.R.,42657,FERREIRO PACHECO Fernando Andres,31793,0.0,0,2024-04-07

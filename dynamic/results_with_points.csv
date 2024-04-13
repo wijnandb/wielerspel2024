@@ -1,4 +1,8 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
+1,1.1,Tour du Jura (prov.),42663,GAUDU David,24255,2,0,2024-04-13,PB
+2,1.1,Tour du Jura (prov.),42663,JEGAT Jordan,32860,0.3,0,2024-04-13,-
+3,1.1,Tour du Jura (prov.),42663,MARTIN Guillaume,19994,0.1,0,2024-04-13,Nicky
+1,CCT2,Oceania Cycling Championships (Brisbane) I.T.T. (prov.),42679,GATE Aaron,13153,0.5,0,2024-04-13,-
 1,2.1,"Giro dAbruzzo, General classification",42726,LUTSENKO Alexey,18455,2,0,2024-04-12,Paul
 2,2.1,"Giro dAbruzzo, General classification",42726,SIVAKOV Pavel,24934,0.3,0,2024-04-12,Albert
 3,2.1,"Giro dAbruzzo, General classification",42726,BENNETT George,12254,0.1,0,2024-04-12,Nicky
@@ -16,6 +20,7 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 8,CC2,Oceania Cycling Championships (Brisbane) R.R.,42678,JENNER Samuel,25337,0.0,0,2024-04-12,-
 9,CC2,Oceania Cycling Championships (Brisbane) R.R.,42678,WARD Jack,36000,0.0,0,2024-04-12,-
 10,CC2,Oceania Cycling Championships (Brisbane) R.R.,42678,BURNS Luke,33367,0.0,0,2024-04-12,-
+1,NCT5,National Championships Argentina (Alta Gracia) I.T.T. (prov.),42789,FREDES Sergio Omar,24168,0.0,0,2024-04-12,-
 1,2.1s,"Giro dAbruzzo, Stage 3 : Pratola Peligna - Prati di Tivo",42724,LUTSENKO Alexey,18455,0.2,0,2024-04-11,Paul
 1,1.PS,Brabantse Pijl,42660,COSNEFROY Benoît,24189,4,50,2024-04-10,Bram
 2,1.PS,Brabantse Pijl,42660,TEUNS Dylan,17908,1,35,2024-04-10,Kees

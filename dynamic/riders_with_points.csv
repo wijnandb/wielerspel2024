@@ -146,7 +146,7 @@ renner_id,renner,rider,ploegleider,kosten,team,nationality,age,punten,JPP
 18749,FORMOLO Davide,FORMOLO Davide,Nicky,6,MOV,ITA,31,0,14
 23763,O'CONNOR Ben,O'CONNOR Ben,Nicky,4,A2R,AUS,28,4.7,53
 19448,CORT NIELSEN Magnus,CORT NIELSEN Magnus,Nicky,3,UXT,DEN,30,0,0
-19994,MARTIN Guillaume,MARTIN Guillaume,Nicky,3,COF,FRA,30,0,0
+19994,MARTIN Guillaume,MARTIN Guillaume,Nicky,3,COF,FRA,30,0.1,0
 20861,BAUHAUS Phil,BAUHAUS Phil,Nicky,2,TBV,GER,29,1,12
 25157,NARVAEZ PRADO Jhonatan Manuel,NARVAEZ PRADO Jhonatan Manuel,Nicky,2,IGD,ECU,26,4,69
 21930,BOL Cees,BOL Cees,Nicky,2,AST,NED,28,0,20
@@ -186,7 +186,7 @@ renner_id,renner,rider,ploegleider,kosten,team,nationality,age,punten,JPP
 32221,DE LIE Arnaud,DE LIE Arnaud,PB,24,LTD,BEL,21,0,66
 21145,MOHORIC Matej,MOHORIC Matej,PB,13,TBV,SLO,29,0.5,34
 28452,BAGIOLI Andrea,BAGIOLI Andrea,PB,11,LTK,ITA,24,0,0
-24255,GAUDU David,GAUDU David,PB,8,FDJ,FRA,27,0.1,0
+24255,GAUDU David,GAUDU David,PB,8,FDJ,FRA,27,2.1,0
 23503,MARTINEZ POVEDA Daniel Felipe,MARTINEZ POVEDA Daniel Felipe,PB,6,BOH,COL,27,3.6,35
 29492,STRONG Corbin,STRONG Corbin,PB,6,IPT,NZL,23,0.4,40
 29699,BUITRAGO SANCHEZ Santiago,BUITRAGO SANCHEZ Santiago,PB,5,TBV,COL,24,2,35

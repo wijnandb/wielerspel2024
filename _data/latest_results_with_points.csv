@@ -1,14 +1,14 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
-1,1.WT2,Flèche Wallonne (prov.),42669,WILLIAMS Stephen,24346,10,50,2024-04-17,PB
-2,1.WT2,Flèche Wallonne (prov.),42669,VAUQUELIN Kévin,31264,3,35,2024-04-17,Albert
-3,1.WT2,Flèche Wallonne (prov.),42669,VAN GILS Maxim,28521,1,25,2024-04-17,Albert
-4,1.WT2,Flèche Wallonne (prov.),42669,COSNEFROY Benoît,24189,0.5,20,2024-04-17,Bram
-5,1.WT2,Flèche Wallonne (prov.),42669,BUITRAGO SANCHEZ Santiago,29699,0.2,18,2024-04-17,PB
-6,1.WT2,Flèche Wallonne (prov.),42669,JOHANNESSEN Tobias Halland,31567,0,16,2024-04-17,Albert
-7,1.WT2,Flèche Wallonne (prov.),42669,GREGOIRE Romain,32766,0,14,2024-04-17,Jan
-8,1.WT2,Flèche Wallonne (prov.),42669,GODON Dorian,25704,0,12,2024-04-17,PB
-9,1.WT2,Flèche Wallonne (prov.),42669,BENOOT Tiesj,21244,0,10,2024-04-17,Paul
-10,1.WT2,Flèche Wallonne (prov.),42669,MARTIN Guillaume,19994,0,8,2024-04-17,Nicky
+1,1.WT2,Flèche Wallonne,42669,WILLIAMS Stephen,24346,10,50,2024-04-17,PB
+2,1.WT2,Flèche Wallonne,42669,VAUQUELIN Kévin,31264,3,35,2024-04-17,Albert
+3,1.WT2,Flèche Wallonne,42669,VAN GILS Maxim,28521,1,25,2024-04-17,Albert
+4,1.WT2,Flèche Wallonne,42669,COSNEFROY Benoît,24189,0.5,20,2024-04-17,Bram
+5,1.WT2,Flèche Wallonne,42669,BUITRAGO SANCHEZ Santiago,29699,0.2,18,2024-04-17,PB
+6,1.WT2,Flèche Wallonne,42669,JOHANNESSEN Tobias Halland,31567,0,16,2024-04-17,Albert
+7,1.WT2,Flèche Wallonne,42669,GREGOIRE Romain,32766,0,14,2024-04-17,Jan
+8,1.WT2,Flèche Wallonne,42669,GODON Dorian,25704,0,12,2024-04-17,PB
+9,1.WT2,Flèche Wallonne,42669,BENOOT Tiesj,21244,0,10,2024-04-17,Paul
+10,1.WT2,Flèche Wallonne,42669,MARTIN Guillaume,19994,0,8,2024-04-17,Nicky
 1,2.PSs,"Tour of the Alps, Stage 3 : Schwaz - Schwaz (prov.)",42735,LOPEZ PEREZ Juan Pedro,27132,0.3,0,2024-04-17,-
 1,2.PSs,"Tour of the Alps, Stage 2 : Salurn - Stans (prov.)",42734,DE MARCHI Alessandro,7268,0.3,0,2024-04-16,-
 1,2.PSs,"Tour of the Alps, Stage 1 : Neumarkt - Kurtinig (prov.)",42733,FOSS Tobias Svendsen,24873,0.3,0,2024-04-15,Kees

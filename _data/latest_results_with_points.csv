@@ -1,18 +1,18 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
-1,1.WT1,Liège - Bastogne - Liège (prov.),42670,POGACAR Tadej,26526,15,50,2024-04-21,Wijnand
-2,1.WT1,Liège - Bastogne - Liège (prov.),42670,BARDET Romain,13566,3,35,2024-04-21,Nicky
-3,1.WT1,Liège - Bastogne - Liège (prov.),42670,VAN DER POEL Mathieu,21971,2,25,2024-04-21,Harry
-4,1.WT1,Liège - Bastogne - Liège (prov.),42670,VAN GILS Maxim,28521,1,20,2024-04-21,Albert
-5,1.WT1,Liège - Bastogne - Liège (prov.),42670,PARET PEINTRE Aurélien,24110,0.5,18,2024-04-21,Jan
-6,1.WT1,Liège - Bastogne - Liège (prov.),42670,VANSEVENANT Mauri,28580,0,16,2024-04-21,Jan
-7,1.WT1,Liège - Bastogne - Liège (prov.),42670,MADOUAS Valentin,24758,0,14,2024-04-21,Nicky
-8,1.WT1,Liège - Bastogne - Liège (prov.),42670,LUTSENKO Alexey,18455,0,12,2024-04-21,Paul
-9,1.WT1,Liège - Bastogne - Liège (prov.),42670,BILBAO LOPEZ DE ARMENTIA Pello,17881,0,10,2024-04-21,Albert
-10,1.WT1,Liège - Bastogne - Liège (prov.),42670,PIDCOCK Thomas,27708,0,8,2024-04-21,Vel
+1,1.WT1,Liège - Bastogne - Liège,42670,POGACAR Tadej,26526,15,50,2024-04-21,Wijnand
+2,1.WT1,Liège - Bastogne - Liège,42670,BARDET Romain,13566,3,35,2024-04-21,Nicky
+3,1.WT1,Liège - Bastogne - Liège,42670,VAN DER POEL Mathieu,21971,2,25,2024-04-21,Harry
+4,1.WT1,Liège - Bastogne - Liège,42670,VAN GILS Maxim,28521,1,20,2024-04-21,Albert
+5,1.WT1,Liège - Bastogne - Liège,42670,PARET PEINTRE Aurélien,24110,0.5,18,2024-04-21,Jan
+6,1.WT1,Liège - Bastogne - Liège,42670,VANSEVENANT Mauri,28580,0,16,2024-04-21,Jan
+7,1.WT1,Liège - Bastogne - Liège,42670,MADOUAS Valentin,24758,0,14,2024-04-21,Nicky
+8,1.WT1,Liège - Bastogne - Liège,42670,LUTSENKO Alexey,18455,0,12,2024-04-21,Paul
+9,1.WT1,Liège - Bastogne - Liège,42670,BILBAO LOPEZ DE ARMENTIA Pello,17881,0,10,2024-04-21,Albert
+10,1.WT1,Liège - Bastogne - Liège,42670,PIDCOCK Thomas,27708,0,8,2024-04-21,Vel
 1,2.PSs,"Presidential Tour of Turkey, Stage 1 : Antalya - Antalya (prov.)",42739,JAKOBSEN Fabio,23426,0.3,0,2024-04-21,Kaspar
-1,1.1,Giro della Romagna (prov.),42671,MORGADO Antonio Tomas,34222,2,0,2024-04-21,-
-2,1.1,Giro della Romagna (prov.),42671,BOU COMPANY Joan,27598,0.3,0,2024-04-21,-
-3,1.1,Giro della Romagna (prov.),42671,BAIS Mattia,26241,0.1,0,2024-04-21,-
+1,1.1,Giro della Romagna,42671,MORGADO Antonio Tomas,34222,2,0,2024-04-21,-
+2,1.1,Giro della Romagna,42671,BOU COMPANY Joan,27598,0.3,0,2024-04-21,-
+3,1.1,Giro della Romagna,42671,BAIS Mattia,26241,0.1,0,2024-04-21,-
 1,2.PS,"Tour of the Alps, General classification",42738,LOPEZ PEREZ Juan Pedro,27132,4,50,2024-04-19,-
 2,2.PS,"Tour of the Alps, General classification",42738,O'CONNOR Ben,23763,1,35,2024-04-19,Nicky
 3,2.PS,"Tour of the Alps, General classification",42738,TIBERI Antonio,30649,0.5,25,2024-04-19,-

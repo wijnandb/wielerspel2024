@@ -1,4 +1,5 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
+1,2.WT1s,"Tour de Romandie, Prologue : Payerne I.T.T. (prov.)",42748,ZIJLAARD Maikel,27649,1,0,2024-04-23,-
 1,2.PSs,"Presidential Tour of Turkey, Stage 3 : Fethiye - Marmaris (prov.)",42741,LONARDI Giovanni,25634,0.3,0,2024-04-23,-
 1,2.PSs,"Presidential Tour of Turkey, Stage 2 : Kemer - Kas (prov.)",42740,KANTER Max,24961,0.3,0,2024-04-22,-
 1,1.WT1,Liège - Bastogne - Liège,42670,POGACAR Tadej,26526,15,50,2024-04-21,Wijnand
@@ -40,13 +41,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 1,2.PSs,"Tour of the Alps, Stage 3 : Schwaz - Schwaz",42735,LOPEZ PEREZ Juan Pedro,27132,0.3,0,2024-04-17,-
 1,2.PSs,"Tour of the Alps, Stage 2 : Salurn - Stans",42734,DE MARCHI Alessandro,7268,0.3,0,2024-04-16,-
 1,2.PSs,"Tour of the Alps, Stage 1 : Neumarkt - Kurtinig",42733,FOSS Tobias Svendsen,24873,0.3,0,2024-04-15,Kees
-1,1.WT1,Amstel Gold Race,42668,PIDCOCK Thomas,27708,15,50,2024-04-14,Vel
-2,1.WT1,Amstel Gold Race,42668,HIRSCHI Marc,26509,3,35,2024-04-14,Bram
-3,1.WT1,Amstel Gold Race,42668,BENOOT Tiesj,21244,2,25,2024-04-14,Paul
-4,1.WT1,Amstel Gold Race,42668,VANSEVENANT Mauri,28580,1,20,2024-04-14,Jan
-5,1.WT1,Amstel Gold Race,42668,LAPEIRA Paul,30615,0.5,18,2024-04-14,-
-6,1.WT1,Amstel Gold Race,42668,MADOUAS Valentin,24758,0,16,2024-04-14,Nicky
-7,1.WT1,Amstel Gold Race,42668,MOLLEMA Bauke,5139,0,14,2024-04-14,-
-8,1.WT1,Amstel Gold Race,42668,PACHER Quentin,20163,0,12,2024-04-14,-
-9,1.WT1,Amstel Gold Race,42668,BILBAO LOPEZ DE ARMENTIA Pello,17881,0,10,2024-04-14,Albert
-10,1.WT1,Amstel Gold Race,42668,MATTHEWS Michael,13066,0,8,2024-04-14,PB

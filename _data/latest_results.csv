@@ -1,4 +1,5 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
+1,2.PSs,"Presidential Tour of Turkey, Stage 4 : Marmaris - Bodrum (prov.)",42742,LUND ANDRESEN Tobias,31657,0.0,0,2024-04-24
 1,2.WT1s,"Tour de Romandie, Prologue : Payerne I.T.T. (prov.)",42748,ZIJLAARD Maikel,27649,0.0,0,2024-04-23
 1,2.PSs,"Presidential Tour of Turkey, Stage 3 : Fethiye - Marmaris (prov.)",42741,LONARDI Giovanni,25634,0.0,0,2024-04-23
 1,2.PSs,"Presidential Tour of Turkey, Stage 2 : Kemer - Kas (prov.)",42740,KANTER Max,24961,0.0,0,2024-04-22
@@ -40,4 +41,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
 10,1.WT2,Flèche Wallonne,42669,MARTIN Guillaume,19994,0.0,0,2024-04-17
 1,2.PSs,"Tour of the Alps, Stage 3 : Schwaz - Schwaz",42735,LOPEZ PEREZ Juan Pedro,27132,0.0,0,2024-04-17
 1,2.PSs,"Tour of the Alps, Stage 2 : Salurn - Stans",42734,DE MARCHI Alessandro,7268,0.0,0,2024-04-16
-1,2.PSs,"Tour of the Alps, Stage 1 : Neumarkt - Kurtinig",42733,FOSS Tobias Svendsen,24873,0.0,0,2024-04-15

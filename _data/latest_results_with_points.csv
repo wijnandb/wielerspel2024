@@ -1,4 +1,5 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
+1,2.PSs,"Presidential Tour of Turkey, Stage 5 : Bodrum - Kusadasi (prov.)",42743,LUND ANDRESEN Tobias,31657,0.3,0,2024-04-25,PB
 1,2.WT1s,"Tour de Romandie, Stage 1 : Château d'Oex - Fribourg (prov.)",42749,GODON Dorian,25704,1,0,2024-04-24,PB
 1,2.PSs,"Presidential Tour of Turkey, Stage 4 : Marmaris - Bodrum (prov.)",42742,LUND ANDRESEN Tobias,31657,0.3,0,2024-04-24,PB
 1,2.WT1s,"Tour de Romandie, Prologue : Payerne I.T.T. (prov.)",42748,ZIJLAARD Maikel,27649,1,0,2024-04-23,-
@@ -30,14 +31,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 10,2.PS,"Tour of the Alps, General classification",42738,PIGANZOLI Davide,32232,0,8,2024-04-19,-
 1,2.PSs,"Tour of the Alps, Stage 5 : Levico Terme - Levico Terme",42737,PARET PEINTRE Aurélien,24110,0.3,0,2024-04-19,Jan
 1,2.PSs,"Tour of the Alps, Stage 4 : Leifers - Borgo Valsugana",42736,CARR Simon,30010,0.3,0,2024-04-18,PB
-1,1.WT2,Flèche Wallonne,42669,WILLIAMS Stephen,24346,10,50,2024-04-17,PB
-2,1.WT2,Flèche Wallonne,42669,VAUQUELIN Kévin,31264,3,35,2024-04-17,Albert
-3,1.WT2,Flèche Wallonne,42669,VAN GILS Maxim,28521,1,25,2024-04-17,Albert
-4,1.WT2,Flèche Wallonne,42669,COSNEFROY Benoît,24189,0.5,20,2024-04-17,Bram
-5,1.WT2,Flèche Wallonne,42669,BUITRAGO SANCHEZ Santiago,29699,0.2,18,2024-04-17,PB
-6,1.WT2,Flèche Wallonne,42669,JOHANNESSEN Tobias Halland,31567,0,16,2024-04-17,Albert
-7,1.WT2,Flèche Wallonne,42669,GREGOIRE Romain,32766,0,14,2024-04-17,Jan
-8,1.WT2,Flèche Wallonne,42669,GODON Dorian,25704,0,12,2024-04-17,PB
-9,1.WT2,Flèche Wallonne,42669,BENOOT Tiesj,21244,0,10,2024-04-17,Paul
-10,1.WT2,Flèche Wallonne,42669,MARTIN Guillaume,19994,0,8,2024-04-17,Nicky
-1,2.PSs,"Tour of the Alps, Stage 3 : Schwaz - Schwaz",42735,LOPEZ PEREZ Juan Pedro,27132,0.3,0,2024-04-17,-

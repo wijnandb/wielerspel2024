@@ -1,4 +1,5 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
+1,2.PSs,"Presidential Tour of Turkey, Stage 6 : Kusadasi - Manisa (prov.)",42744,VAN DEN BROEK Frank,33648,0.3,0,2024-04-26,-
 1,2.WT1s,"Tour de Romandie, Stage 2 : Fribourg - Salvan Les Marécottes (prov.)",42750,NYS Thibau,32185,1,0,2024-04-25,Jan
 1,2.PSs,"Presidential Tour of Turkey, Stage 5 : Bodrum - Kusadasi (prov.)",42743,LUND ANDRESEN Tobias,31657,0.3,0,2024-04-25,PB
 1,2.WT1s,"Tour de Romandie, Stage 1 : Château d'Oex - Fribourg (prov.)",42749,GODON Dorian,25704,1,0,2024-04-24,PB
@@ -20,14 +21,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 1,1.1,Giro della Romagna,42671,MORGADO Antonio Tomas,34222,2,0,2024-04-21,-
 2,1.1,Giro della Romagna,42671,BOU COMPANY Joan,27598,0.3,0,2024-04-21,-
 3,1.1,Giro della Romagna,42671,BAIS Mattia,26241,0.1,0,2024-04-21,-
-1,2.PS,"Tour of the Alps, General classification",42738,LOPEZ PEREZ Juan Pedro,27132,4,50,2024-04-19,-
-2,2.PS,"Tour of the Alps, General classification",42738,O'CONNOR Ben,23763,1,35,2024-04-19,Nicky
-3,2.PS,"Tour of the Alps, General classification",42738,TIBERI Antonio,30649,0.5,25,2024-04-19,-
-4,2.PS,"Tour of the Alps, General classification",42738,PARET PEINTRE Valentin,31495,0,20,2024-04-19,Jan
-5,2.PS,"Tour of the Alps, General classification",42738,BARDET Romain,13566,0,18,2024-04-19,Nicky
-6,2.PS,"Tour of the Alps, General classification",42738,POELS Wout,7751,0,16,2024-04-19,Roy
-7,2.PS,"Tour of the Alps, General classification",42738,STORER Michael,25335,0,14,2024-04-19,Albert
-8,2.PS,"Tour of the Alps, General classification",42738,PELLIZZARI Giulio,33100,0,12,2024-04-19,Kees
-9,2.PS,"Tour of the Alps, General classification",42738,SOSA CUERVO Ivan Ramiro,26378,0,10,2024-04-19,Albert
-10,2.PS,"Tour of the Alps, General classification",42738,PIGANZOLI Davide,32232,0,8,2024-04-19,-
-1,2.PSs,"Tour of the Alps, Stage 5 : Levico Terme - Levico Terme",42737,PARET PEINTRE Aurélien,24110,0.3,0,2024-04-19,Jan

@@ -1,4 +1,30 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
+1,2.WT1,"Tour de Romandie, General classification (prov.)",42754,RODRIGUEZ CANO Carlos,30836,0.0,0,2024-04-28
+2,2.WT1,"Tour de Romandie, General classification (prov.)",42754,VLASOV Aleksandr,24316,0.0,0,2024-04-28
+3,2.WT1,"Tour de Romandie, General classification (prov.)",42754,LIPOWITZ Florian,30805,0.0,0,2024-04-28
+4,2.WT1,"Tour de Romandie, General classification (prov.)",42754,VAN WILDER Ilan,29828,0.0,0,2024-04-28
+5,2.WT1,"Tour de Romandie, General classification (prov.)",42754,AYUSO PESQUERA Juan,31654,0.0,0,2024-04-28
+6,2.WT1,"Tour de Romandie, General classification (prov.)",42754,MAS NICOLAU Enric,22794,0.0,0,2024-04-28
+7,2.WT1,"Tour de Romandie, General classification (prov.)",42754,CARAPAZ MONTENEGRO Richard Antonio,21342,0.0,0,2024-04-28
+8,2.WT1,"Tour de Romandie, General classification (prov.)",42754,MARTINEZ Lenny,32721,0.0,0,2024-04-28
+9,2.WT1,"Tour de Romandie, General classification (prov.)",42754,GEOGHEGAN HART Tao,22018,0.0,0,2024-04-28
+10,2.WT1,"Tour de Romandie, General classification (prov.)",42754,BERNAL GOMEZ Egan Arley,24926,0.0,0,2024-04-28
+1,2.WT1s,"Tour de Romandie, Stage 5 : Vernier - Vernier (prov.)",42753,GODON Dorian,25704,0.0,0,2024-04-28
+1,2.WT1r,"Tour de Romandie, Mountains classification (prov.)",42756,HOLLMANN Juri,27818,0.0,0,2024-04-28
+1,2.WT1r,"Tour de Romandie, Points classification (prov.)",42755,GODON Dorian,25704,0.0,0,2024-04-28
+1,2.PS,"Presidential Tour of Turkey, General classification (prov.)",42747,VAN DEN BROEK Frank,33648,0.0,0,2024-04-28
+2,2.PS,"Presidential Tour of Turkey, General classification (prov.)",42747,KUDUS Merhawi Gebremedhin,20784,0.0,0,2024-04-28
+3,2.PS,"Presidential Tour of Turkey, General classification (prov.)",42747,DOUBLE Paul,27721,0.0,0,2024-04-28
+4,2.PS,"Presidential Tour of Turkey, General classification (prov.)",42747,EYOB Metkel,20904,0.0,0,2024-04-28
+5,2.PS,"Presidential Tour of Turkey, General classification (prov.)",42747,LOPEZ GRANIZO Harold Martin,29525,0.0,0,2024-04-28
+6,2.PS,"Presidential Tour of Turkey, General classification (prov.)",42747,LOOCKX Lander,28470,0.0,0,2024-04-28
+7,2.PS,"Presidential Tour of Turkey, General classification (prov.)",42747,HAJEK Alexander,33111,0.0,0,2024-04-28
+8,2.PS,"Presidential Tour of Turkey, General classification (prov.)",42747,APARICIO MUÑOZ Mario,31664,0.0,0,2024-04-28
+9,2.PS,"Presidential Tour of Turkey, General classification (prov.)",42747,HAGEN Carl Fredrik,23436,0.0,0,2024-04-28
+10,2.PS,"Presidential Tour of Turkey, General classification (prov.)",42747,LANGELLOTTI Victor,26397,0.0,0,2024-04-28
+1,2.PSs,"Presidential Tour of Turkey, Stage 8 : Istanbul - Istanbul (prov.)",42746,no result,13543,0.0,0,2024-04-28
+1,2.1s,"Vuelta a Asturias, Stage 3 : Benia - Oviedo (prov.)",42773,FISHER-BLACK Finn,30562,0.0,0,2024-04-28
+1,NC5,National Championships United Arab Emirates (Nazwa) R.R. (prov.),42665,MAYOUF Khalid,25314,0.0,0,2024-04-28
 1,2.WT1s,"Tour de Romandie, Stage 4 : Saillon - Leysin (prov.)",42752,CARAPAZ MONTENEGRO Richard Antonio,21342,0.0,0,2024-04-27
 1,2.PSs,"Presidential Tour of Turkey, Stage 7 : Izmir - Izmir (prov.)",42745,LUND ANDRESEN Tobias,31657,0.0,0,2024-04-27
 1,2.1s,"Vuelta a Asturias, Stage 2 : Ribera - Ribadesella (prov.)",42772,MORGADO Antonio Tomas,34222,0.0,0,2024-04-27
@@ -6,9 +32,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
 1,2.PSs,"Presidential Tour of Turkey, Stage 6 : Kusadasi - Manisa (prov.)",42744,VAN DEN BROEK Frank,33648,0.0,0,2024-04-26
 1,2.1s,"Vuelta a Asturias, Stage 1 : Oviedo - Pola de Lena (prov.)",42771,DEL TORO ROMERO Isaac,33556,0.0,0,2024-04-26
 1,NCT5,National Championships Panama (Gamboa) I.T.T. (prov.),42793,ARCHIBOLD CASTILLO Franklin Erasmo,26075,0.0,0,2024-04-26
-1,NCT5,National Championships Chile (Casablanca) I.T.T.,42658,RODRIGUEZ AGUILAR Jose Luis,21349,0.0,0,2024-04-26
-1,2.WT1s,"Tour de Romandie, Stage 2 : Fribourg - Salvan Les Marécottes (prov.)",42750,NYS Thibau,32185,0.0,0,2024-04-25
-1,2.PSs,"Presidential Tour of Turkey, Stage 5 : Bodrum - Kusadasi (prov.)",42743,LUND ANDRESEN Tobias,31657,0.0,0,2024-04-25
-1,2.WT1s,"Tour de Romandie, Stage 1 : Château d'Oex - Fribourg (prov.)",42749,GODON Dorian,25704,0.0,0,2024-04-24
-1,2.PSs,"Presidential Tour of Turkey, Stage 4 : Marmaris - Bodrum (prov.)",42742,LUND ANDRESEN Tobias,31657,0.0,0,2024-04-24
-1,2.WT1s,"Tour de Romandie, Prologue : Payerne I.T.T. (prov.)",42748,ZIJLAARD Maikel,27649,0.0,0,2024-04-23

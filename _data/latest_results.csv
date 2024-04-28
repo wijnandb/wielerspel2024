@@ -23,6 +23,12 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
 9,2.PS,"Presidential Tour of Turkey, General classification (prov.)",42747,HAGEN Carl Fredrik,23436,0.0,0,2024-04-28
 10,2.PS,"Presidential Tour of Turkey, General classification (prov.)",42747,LANGELLOTTI Victor,26397,0.0,0,2024-04-28
 1,2.PSs,"Presidential Tour of Turkey, Stage 8 : Istanbul - Istanbul (prov.)",42746,no result,13543,0.0,0,2024-04-28
+1,2.1,"Vuelta a Asturias, General classification (prov.)",42774,DEL TORO ROMERO Isaac,33556,0.0,0,2024-04-28
+2,2.1,"Vuelta a Asturias, General classification (prov.)",42774,MAJKA Rafal,14310,0.0,0,2024-04-28
+3,2.1,"Vuelta a Asturias, General classification (prov.)",42774,FAGUNDEZ LIMA Antonio Eric,28445,0.0,0,2024-04-28
+1,1.1,Famenne Ardenne Classic (prov.),43012,DE LIE Arnaud,32221,0.0,0,2024-04-28
+2,1.1,Famenne Ardenne Classic (prov.),43012,ZINGLE Axel,31263,0.0,0,2024-04-28
+3,1.1,Famenne Ardenne Classic (prov.),43012,VAN GILS Maxim,28521,0.0,0,2024-04-28
 1,2.1s,"Vuelta a Asturias, Stage 3 : Benia - Oviedo (prov.)",42773,FISHER-BLACK Finn,30562,0.0,0,2024-04-28
 1,NC5,National Championships United Arab Emirates (Nazwa) R.R. (prov.),42665,MAYOUF Khalid,25314,0.0,0,2024-04-28
 1,2.WT1s,"Tour de Romandie, Stage 4 : Saillon - Leysin (prov.)",42752,CARAPAZ MONTENEGRO Richard Antonio,21342,0.0,0,2024-04-27
@@ -30,5 +36,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
 1,2.1s,"Vuelta a Asturias, Stage 2 : Ribera - Ribadesella (prov.)",42772,MORGADO Antonio Tomas,34222,0.0,0,2024-04-27
 1,2.WT1s,"Tour de Romandie, Stage 3 : Oron - Oron I.T.T. (prov.)",42751,MCNULTY Brandon,26508,0.0,0,2024-04-26
 1,2.PSs,"Presidential Tour of Turkey, Stage 6 : Kusadasi - Manisa (prov.)",42744,VAN DEN BROEK Frank,33648,0.0,0,2024-04-26
-1,2.1s,"Vuelta a Asturias, Stage 1 : Oviedo - Pola de Lena (prov.)",42771,DEL TORO ROMERO Isaac,33556,0.0,0,2024-04-26
-1,NCT5,National Championships Panama (Gamboa) I.T.T. (prov.),42793,ARCHIBOLD CASTILLO Franklin Erasmo,26075,0.0,0,2024-04-26

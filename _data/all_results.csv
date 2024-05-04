@@ -4,16 +4,16 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
 -2,GT2s,"Puntentrui na Giro dItalia, Stage 1 : Venaria Reale - Torino (prov.)",42853,Narvaez Jhonnatan,25157,0.0,0,2024-05-04
 -3,GT2s,"Bergtrui na Giro dItalia, Stage 1 : Venaria Reale - Torino (prov.)",42853,Calmejane Lilian,21439,0.0,0,2024-05-04
 1,GT2s,"Giro dItalia, Stage 1 : Venaria Reale - Torino (prov.)",42853,NARVAEZ PRADO Jhonatan Manuel,25157,0.0,0,2024-05-04
-1,1.PS,GP du Morbihan (prov.),42800,COSNEFROY Benoît,24189,0.0,0,2024-05-04
-2,1.PS,GP du Morbihan (prov.),42800,ZINGLE Axel,31263,0.0,0,2024-05-04
-3,1.PS,GP du Morbihan (prov.),42800,DE LIE Arnaud,32221,0.0,0,2024-05-04
-4,1.PS,GP du Morbihan (prov.),42800,VENTURINI Clément,21428,0.0,0,2024-05-04
-5,1.PS,GP du Morbihan (prov.),42800,DVERSNES Fredrik,28553,0.0,0,2024-05-04
-6,1.PS,GP du Morbihan (prov.),42800,VAN BOVEN Luca,31597,0.0,0,2024-05-04
-7,1.PS,GP du Morbihan (prov.),42800,ALBANESE Vincenzo,24139,0.0,0,2024-05-04
-8,1.PS,GP du Morbihan (prov.),42800,EIKING Odd Christian,21405,0.0,0,2024-05-04
-9,1.PS,GP du Morbihan (prov.),42800,BERASATEGI GARMENDIA Xabier,33745,0.0,0,2024-05-04
-10,1.PS,GP du Morbihan (prov.),42800,GONZALEZ LOPEZ David,28647,0.0,0,2024-05-04
+1,1.PS,GP du Morbihan,42800,COSNEFROY Benoît,24189,0.0,0,2024-05-04
+2,1.PS,GP du Morbihan,42800,ZINGLE Axel,31263,0.0,0,2024-05-04
+3,1.PS,GP du Morbihan,42800,DE LIE Arnaud,32221,0.0,0,2024-05-04
+4,1.PS,GP du Morbihan,42800,VENTURINI Clément,21428,0.0,0,2024-05-04
+5,1.PS,GP du Morbihan,42800,DVERSNES Fredrik,28553,0.0,0,2024-05-04
+6,1.PS,GP du Morbihan,42800,VAN BOVEN Luca,31597,0.0,0,2024-05-04
+7,1.PS,GP du Morbihan,42800,ALBANESE Vincenzo,24139,0.0,0,2024-05-04
+8,1.PS,GP du Morbihan,42800,EIKING Odd Christian,21405,0.0,0,2024-05-04
+9,1.PS,GP du Morbihan,42800,BERASATEGI GARMENDIA Xabier,33745,0.0,0,2024-05-04
+10,1.PS,GP du Morbihan,42800,GONZALEZ LOPEZ David,28647,0.0,0,2024-05-04
 1,1.WT3,Eschborn - Frankfurt,42794,VAN GILS Maxim,28521,0.0,0,2024-05-01
 2,1.WT3,Eschborn - Frankfurt,42794,ARANBURU DEBA Alexander,23940,0.0,0,2024-05-01
 3,1.WT3,Eschborn - Frankfurt,42794,SHEEHAN Riley,29301,0.0,0,2024-05-01

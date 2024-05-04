@@ -1,4 +1,9 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
+-4,GT2s,"Leiderstrui na Giro dItalia, Stage 1 : Venaria Reale - Torino (prov.)",42853,Narvaez Jhonnatan,25157,1,0,2024-05-04,Nicky
+-1,GT2s,"Jongerentrui na Giro dItalia, Stage 1 : Venaria Reale - Torino (prov.)",42853,Baudin Alex,32146,0.1,0,2024-05-04,-
+-2,GT2s,"Puntentrui na Giro dItalia, Stage 1 : Venaria Reale - Torino (prov.)",42853,Narvaez Jhonnatan,25157,0.2,0,2024-05-04,Nicky
+-3,GT2s,"Bergtrui na Giro dItalia, Stage 1 : Venaria Reale - Torino (prov.)",42853,Calmejane Lilian,21439,0.2,0,2024-05-04,-
+1,GT2s,"Giro dItalia, Stage 1 : Venaria Reale - Torino (prov.)",42853,NARVAEZ PRADO Jhonatan Manuel,25157,2,0,2024-05-04,Nicky
 1,1.WT3,Eschborn - Frankfurt,42794,VAN GILS Maxim,28521,5,50,2024-05-01,Albert
 2,1.WT3,Eschborn - Frankfurt,42794,ARANBURU DEBA Alexander,23940,2,35,2024-05-01,Harry
 3,1.WT3,Eschborn - Frankfurt,42794,SHEEHAN Riley,29301,1,25,2024-05-01,-

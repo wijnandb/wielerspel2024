@@ -4,16 +4,16 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 -2,GT2s,"Puntentrui na Giro dItalia, Stage 1 : Venaria Reale - Torino (prov.)",42853,Narvaez Jhonnatan,25157,0.2,0,2024-05-04,Nicky
 -3,GT2s,"Bergtrui na Giro dItalia, Stage 1 : Venaria Reale - Torino (prov.)",42853,Calmejane Lilian,21439,0.2,0,2024-05-04,-
 1,GT2s,"Giro dItalia, Stage 1 : Venaria Reale - Torino (prov.)",42853,NARVAEZ PRADO Jhonatan Manuel,25157,2,0,2024-05-04,Nicky
-1,1.PS,GP du Morbihan (prov.),42800,COSNEFROY Benoît,24189,4,50,2024-05-04,Bram
-2,1.PS,GP du Morbihan (prov.),42800,ZINGLE Axel,31263,1,35,2024-05-04,Paul
-3,1.PS,GP du Morbihan (prov.),42800,DE LIE Arnaud,32221,0.5,25,2024-05-04,PB
-4,1.PS,GP du Morbihan (prov.),42800,VENTURINI Clément,21428,0,20,2024-05-04,-
-5,1.PS,GP du Morbihan (prov.),42800,DVERSNES Fredrik,28553,0,18,2024-05-04,Jan
-6,1.PS,GP du Morbihan (prov.),42800,VAN BOVEN Luca,31597,0,16,2024-05-04,-
-7,1.PS,GP du Morbihan (prov.),42800,ALBANESE Vincenzo,24139,0,14,2024-05-04,-
-8,1.PS,GP du Morbihan (prov.),42800,EIKING Odd Christian,21405,0,12,2024-05-04,-
-9,1.PS,GP du Morbihan (prov.),42800,BERASATEGI GARMENDIA Xabier,33745,0,10,2024-05-04,-
-10,1.PS,GP du Morbihan (prov.),42800,GONZALEZ LOPEZ David,28647,0,8,2024-05-04,-
+1,1.PS,GP du Morbihan,42800,COSNEFROY Benoît,24189,4,50,2024-05-04,Bram
+2,1.PS,GP du Morbihan,42800,ZINGLE Axel,31263,1,35,2024-05-04,Paul
+3,1.PS,GP du Morbihan,42800,DE LIE Arnaud,32221,0.5,25,2024-05-04,PB
+4,1.PS,GP du Morbihan,42800,VENTURINI Clément,21428,0,20,2024-05-04,-
+5,1.PS,GP du Morbihan,42800,DVERSNES Fredrik,28553,0,18,2024-05-04,Jan
+6,1.PS,GP du Morbihan,42800,VAN BOVEN Luca,31597,0,16,2024-05-04,-
+7,1.PS,GP du Morbihan,42800,ALBANESE Vincenzo,24139,0,14,2024-05-04,-
+8,1.PS,GP du Morbihan,42800,EIKING Odd Christian,21405,0,12,2024-05-04,-
+9,1.PS,GP du Morbihan,42800,BERASATEGI GARMENDIA Xabier,33745,0,10,2024-05-04,-
+10,1.PS,GP du Morbihan,42800,GONZALEZ LOPEZ David,28647,0,8,2024-05-04,-
 1,1.WT3,Eschborn - Frankfurt,42794,VAN GILS Maxim,28521,5,50,2024-05-01,Albert
 2,1.WT3,Eschborn - Frankfurt,42794,ARANBURU DEBA Alexander,23940,2,35,2024-05-01,Harry
 3,1.WT3,Eschborn - Frankfurt,42794,SHEEHAN Riley,29301,1,25,2024-05-01,-

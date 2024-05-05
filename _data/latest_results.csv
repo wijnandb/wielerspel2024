@@ -1,4 +1,8 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
+-4,GT2s,"Leiderstrui na Giro dItalia, Stage 2 : San Francesco al Campo - Santuario di Oropa (prov.)",42854,Pogacar Tadej,26526,0.0,0,2024-05-05
+-1,GT2s,"Jongerentrui na Giro dItalia, Stage 2 : San Francesco al Campo - Santuario di Oropa (prov.)",42854,Uijtdebroeks Cian,31803,0.0,0,2024-05-05
+-2,GT2s,"Puntentrui na Giro dItalia, Stage 2 : San Francesco al Campo - Santuario di Oropa (prov.)",42854,Fiorelli Filippo,24152,0.0,0,2024-05-05
+-3,GT2s,"Bergtrui na Giro dItalia, Stage 2 : San Francesco al Campo - Santuario di Oropa (prov.)",42854,Pogacar Tadej,26526,0.0,0,2024-05-05
 1,GT2s,"Giro dItalia, Stage 2 : San Francesco al Campo - Santuario di Oropa (prov.)",42854,POGACAR Tadej,26526,0.0,0,2024-05-05
 1,1.PS,Tro-Bro Léon (prov.),42802,DE LIE Arnaud,32221,0.0,0,2024-05-05
 2,1.PS,Tro-Bro Léon (prov.),42802,VENTURINI Clément,21428,0.0,0,2024-05-05
@@ -18,7 +22,7 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
 -2,GT2s,"Puntentrui na Giro dItalia, Stage 1 : Venaria Reale - Torino (prov.)",42853,Narvaez Jhonnatan,25157,0.0,0,2024-05-04
 -3,GT2s,"Bergtrui na Giro dItalia, Stage 1 : Venaria Reale - Torino (prov.)",42853,Calmejane Lilian,21439,0.0,0,2024-05-04
 1,GT2s,"Giro dItalia, Stage 1 : Venaria Reale - Torino (prov.)",42853,NARVAEZ PRADO Jhonatan Manuel,25157,0.0,0,2024-05-04
-1,1.PS,GP du Morbihan,42800,COSNEFROY Benoît,24189,0.0,0,2024-05-04
+1,1.PS,GP du Morbihan,42800,COSNEFROY Benoit,24189,0.0,0,2024-05-04
 2,1.PS,GP du Morbihan,42800,ZINGLE Axel,31263,0.0,0,2024-05-04
 3,1.PS,GP du Morbihan,42800,DE LIE Arnaud,32221,0.0,0,2024-05-04
 4,1.PS,GP du Morbihan,42800,VENTURINI Clément,21428,0.0,0,2024-05-04

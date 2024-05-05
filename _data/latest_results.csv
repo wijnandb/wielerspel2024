@@ -1,4 +1,18 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
+1,GT2s,"Giro dItalia, Stage 2 : San Francesco al Campo - Santuario di Oropa (prov.)",42854,POGACAR Tadej,26526,0.0,0,2024-05-05
+1,1.PS,Tro-Bro Léon (prov.),42802,DE LIE Arnaud,32221,0.0,0,2024-05-05
+2,1.PS,Tro-Bro Léon (prov.),42802,VENTURINI Clément,21428,0.0,0,2024-05-05
+3,1.PS,Tro-Bro Léon (prov.),42802,GAUTHERAT Pierre,33533,0.0,0,2024-05-05
+4,1.PS,Tro-Bro Léon (prov.),42802,SHEEHAN Riley,29301,0.0,0,2024-05-05
+5,1.PS,Tro-Bro Léon (prov.),42802,ABRAHAMSEN Jonas,22233,0.0,0,2024-05-05
+6,1.PS,Tro-Bro Léon (prov.),42802,VAN NIEKERK Morne,22519,0.0,0,2024-05-05
+7,1.PS,Tro-Bro Léon (prov.),42802,MOZZATO Luca,28037,0.0,0,2024-05-05
+8,1.PS,Tro-Bro Léon (prov.),42802,GACHIGNARD Thomas,32640,0.0,0,2024-05-05
+9,1.PS,Tro-Bro Léon (prov.),42802,HOELGAARD Markus,20760,0.0,0,2024-05-05
+10,1.PS,Tro-Bro Léon (prov.),42802,VAN ASBROECK Tom,18504,0.0,0,2024-05-05
+1,1.1,Elfstedenronde - Brugge (prov.),42804,KRISTOFF Alexander,4179,0.0,0,2024-05-05
+2,1.1,Elfstedenronde - Brugge (prov.),42804,VAN DE PAAR Jarne,29798,0.0,0,2024-05-05
+3,1.1,Elfstedenronde - Brugge (prov.),42804,BARBIER Pierre,25501,0.0,0,2024-05-05
 -4,GT2s,"Leiderstrui na Giro dItalia, Stage 1 : Venaria Reale - Torino (prov.)",42853,Narvaez Jhonnatan,25157,0.0,0,2024-05-04
 -1,GT2s,"Jongerentrui na Giro dItalia, Stage 1 : Venaria Reale - Torino (prov.)",42853,Baudin Alex,32146,0.0,0,2024-05-04
 -2,GT2s,"Puntentrui na Giro dItalia, Stage 1 : Venaria Reale - Torino (prov.)",42853,Narvaez Jhonnatan,25157,0.0,0,2024-05-04
@@ -14,13 +28,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
 8,1.PS,GP du Morbihan,42800,EIKING Odd Christian,21405,0.0,0,2024-05-04
 9,1.PS,GP du Morbihan,42800,BERASATEGI GARMENDIA Xabier,33745,0.0,0,2024-05-04
 10,1.PS,GP du Morbihan,42800,GONZALEZ LOPEZ David,28647,0.0,0,2024-05-04
-1,1.WT3,Eschborn - Frankfurt,42794,VAN GILS Maxim,28521,0.0,0,2024-05-01
-2,1.WT3,Eschborn - Frankfurt,42794,ARANBURU DEBA Alexander,23940,0.0,0,2024-05-01
-3,1.WT3,Eschborn - Frankfurt,42794,SHEEHAN Riley,29301,0.0,0,2024-05-01
-4,1.WT3,Eschborn - Frankfurt,42794,NERURKAR Lukas,33158,0.0,0,2024-05-01
-5,1.WT3,Eschborn - Frankfurt,42794,ADRIA OLIVERAS Roger,27469,0.0,0,2024-05-01
-6,1.WT3,Eschborn - Frankfurt,42794,GOOSSENS Kobe,23771,0.0,0,2024-05-01
-7,1.WT3,Eschborn - Frankfurt,42794,VERMAERKE Kevin,29332,0.0,0,2024-05-01
-8,1.WT3,Eschborn - Frankfurt,42794,KRAGH ANDERSEN Søren,20793,0.0,0,2024-05-01
-9,1.WT3,Eschborn - Frankfurt,42794,HIRSCHI Marc,26509,0.0,0,2024-05-01
-10,1.WT3,Eschborn - Frankfurt,42794,HOELGAARD Markus,20760,0.0,0,2024-05-01

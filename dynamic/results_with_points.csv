@@ -1,4 +1,9 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
+-4,GT2s,"Leiderstrui na Giro dItalia, Stage 5 : Genoa - Lucca (prov.)",42857,Pogacar Tadej,26526,1,0,2024-05-08,Wijnand
+-1,GT2s,"Jongerentrui na Giro dItalia, Stage 5 : Genoa - Lucca (prov.)",42857,Uijtdebroeks Cian,31803,0.1,0,2024-05-08,Vel
+-2,GT2s,"Puntentrui na Giro dItalia, Stage 5 : Genoa - Lucca (prov.)",42857,Milan Jonathan,29359,0.2,0,2024-05-08,Albert
+-3,GT2s,"Bergtrui na Giro dItalia, Stage 5 : Genoa - Lucca (prov.)",42857,Pogacar Tadej,26526,0.2,0,2024-05-08,Wijnand
+1,GT2s,"Giro dItalia, Stage 5 : Genoa - Lucca (prov.)",42857,THOMAS Benjamin,23641,2,0,2024-05-08,-
 1,2.PSs,"Tour de Hongrie, Stage 1 : Karcag - Hajduszoboszlo (prov.)",42883,WELSFORD Sam,23517,0.3,0,2024-05-08,Albert
 -4,GT2s,"Leiderstrui na Giro dItalia, Stage 4 : Acqui Terme - Andora (prov.)",42856,Pogacar Tadej,26526,1,0,2024-05-07,Wijnand
 -1,GT2s,"Jongerentrui na Giro dItalia, Stage 4 : Acqui Terme - Andora (prov.)",42856,Uijtdebroeks Cian,31803,0.1,0,2024-05-07,Vel

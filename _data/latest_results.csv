@@ -1,13 +1,14 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
+1,2.PSs,"Tour de Hongrie, Stage 3 : Kazincbarcika - Gyongyos-Kekesteto (prov.)",42885,NYS Thibau,32185,0.0,0,2024-05-10
 -4,GT2s,"Leiderstrui na Giro dItalia, Stage 6 : Viareggio - Rapolano Terme (prov.)",42858,Pogacar Tadej,26526,0.0,0,2024-05-09
 -1,GT2s,"Jongerentrui na Giro dItalia, Stage 6 : Viareggio - Rapolano Terme (prov.)",42858,Uijtdebroeks Cian,31803,0.0,0,2024-05-09
 -2,GT2s,"Puntentrui na Giro dItalia, Stage 6 : Viareggio - Rapolano Terme (prov.)",42858,Milan Jonathan,29359,0.0,0,2024-05-09
 -3,GT2s,"Bergtrui na Giro dItalia, Stage 6 : Viareggio - Rapolano Terme (prov.)",42858,Pogacar Tadej,26526,0.0,0,2024-05-09
 1,GT2s,"Giro dItalia, Stage 6 : Viareggio - Rapolano Terme (prov.)",42858,SANCHEZ MAYO Pelayo,31655,0.0,0,2024-05-09
 1,2.PSs,"Tour de Hongrie, Stage 2 : Tokaj - Kazincbarcika (prov.)",42884,CAVENDISH Mark,3448,0.0,0,2024-05-09
-1,1.1,Circuit de Wallonie (prov.),42805,DE LIE Arnaud,32221,0.0,0,2024-05-09
-2,1.1,Circuit de Wallonie (prov.),42805,ZINGLE Axel,31263,0.0,0,2024-05-09
-3,1.1,Circuit de Wallonie (prov.),42805,BRENNAN Matthew,35227,0.0,0,2024-05-09
+1,1.1,Circuit de Wallonie,42805,DE LIE Arnaud,32221,0.0,0,2024-05-09
+2,1.1,Circuit de Wallonie,42805,ZINGLE Axel,31263,0.0,0,2024-05-09
+3,1.1,Circuit de Wallonie,42805,BRENNAN Matthew,35227,0.0,0,2024-05-09
 -4,GT2s,"Leiderstrui na Giro dItalia, Stage 5 : Genoa - Lucca (prov.)",42857,Pogacar Tadej,26526,0.0,0,2024-05-08
 -1,GT2s,"Jongerentrui na Giro dItalia, Stage 5 : Genoa - Lucca (prov.)",42857,Uijtdebroeks Cian,31803,0.0,0,2024-05-08
 -2,GT2s,"Puntentrui na Giro dItalia, Stage 5 : Genoa - Lucca (prov.)",42857,Milan Jonathan,29359,0.0,0,2024-05-08

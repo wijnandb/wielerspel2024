@@ -1,4 +1,9 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
+-4,GT2s,"Leiderstrui na Giro dItalia, Stage 7 : Foligno - Perugia I.T.T. (prov.)",42859,Pogacar Tadej,26526,1,0,2024-05-10,Wijnand
+-1,GT2s,"Jongerentrui na Giro dItalia, Stage 7 : Foligno - Perugia I.T.T. (prov.)",42859,Plapp Lucas,29787,0.1,0,2024-05-10,Albert
+-2,GT2s,"Puntentrui na Giro dItalia, Stage 7 : Foligno - Perugia I.T.T. (prov.)",42859,Milan Jonathan,29359,0.2,0,2024-05-10,Albert
+-3,GT2s,"Bergtrui na Giro dItalia, Stage 7 : Foligno - Perugia I.T.T. (prov.)",42859,Pogacar Tadej,26526,0.2,0,2024-05-10,Wijnand
+1,GT2s,"Giro dItalia, Stage 7 : Foligno - Perugia I.T.T. (prov.)",42859,POGACAR Tadej,26526,2,0,2024-05-10,Wijnand
 1,2.PSs,"Tour de Hongrie, Stage 3 : Kazincbarcika - Gyongyos-Kekesteto (prov.)",42885,NYS Thibau,32185,0.3,0,2024-05-10,Jan
 -4,GT2s,"Leiderstrui na Giro dItalia, Stage 6 : Viareggio - Rapolano Terme (prov.)",42858,Pogacar Tadej,26526,1,0,2024-05-09,Wijnand
 -1,GT2s,"Jongerentrui na Giro dItalia, Stage 6 : Viareggio - Rapolano Terme (prov.)",42858,Uijtdebroeks Cian,31803,0.1,0,2024-05-09,Vel

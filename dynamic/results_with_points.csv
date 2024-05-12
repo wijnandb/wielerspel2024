@@ -1,4 +1,9 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
+-4,GT2s,"Leiderstrui na Giro dItalia, Stage 9 : Avezzano - Napoli (prov.)",42861,Pogacar Tadej,26526,1,0,2024-05-12,Wijnand
+-1,GT2s,"Jongerentrui na Giro dItalia, Stage 9 : Avezzano - Napoli (prov.)",42861,Uijtdebroeks Cian,31803,0.1,0,2024-05-12,Vel
+-2,GT2s,"Puntentrui na Giro dItalia, Stage 9 : Avezzano - Napoli (prov.)",42861,Milan Jonathan,29359,0.2,0,2024-05-12,Albert
+-3,GT2s,"Bergtrui na Giro dItalia, Stage 9 : Avezzano - Napoli (prov.)",42861,Pogacar Tadej,26526,0.2,0,2024-05-12,Wijnand
+1,GT2s,"Giro dItalia, Stage 9 : Avezzano - Napoli (prov.)",42861,KOOIJ Olav,30643,2,0,2024-05-12,Roy
 1,2.PS,"Tour de Hongrie, General classification (prov.)",42888,NYS Thibau,32185,4,50,2024-05-12,Jan
 2,2.PS,"Tour de Hongrie, General classification (prov.)",42888,BUCHMANN Emanuel,18739,1,35,2024-05-12,Paul
 3,2.PS,"Tour de Hongrie, General classification (prov.)",42888,POELS Wout,7751,0.5,25,2024-05-12,Roy
@@ -10,6 +15,9 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 9,2.PS,"Tour de Hongrie, General classification (prov.)",42888,RODRIGUEZ GARAICOECHEA Oscar,26216,0,10,2024-05-12,-
 10,2.PS,"Tour de Hongrie, General classification (prov.)",42888,VOISARD Yannis,27977,0,8,2024-05-12,-
 1,2.PSs,"Tour de Hongrie, Stage 5 : Siofok - Pecs (prov.)",42887,POELS Wout,7751,0.3,0,2024-05-12,Roy
+1,1.1,Boucles de l'Aulne - Châteaulin (prov.),42811,ZINGLE Axel,31263,2,0,2024-05-12,Paul
+2,1.1,Boucles de l'Aulne - Châteaulin (prov.),42811,DELETTRE Alexandre,30519,0.3,0,2024-05-12,-
+3,1.1,Boucles de l'Aulne - Châteaulin (prov.),42811,WÜRTZ SCHMIDT Mads,20818,0.1,0,2024-05-12,-
 -4,GT2s,"Leiderstrui na Giro dItalia, Stage 8 : Spoletto - Prati di Tivo (prov.)",42860,Pogacar Tadej,26526,1,0,2024-05-11,Wijnand
 -1,GT2s,"Jongerentrui na Giro dItalia, Stage 8 : Spoletto - Prati di Tivo (prov.)",42860,Uijtdebroeks Cian,31803,0.1,0,2024-05-11,Vel
 -2,GT2s,"Puntentrui na Giro dItalia, Stage 8 : Spoletto - Prati di Tivo (prov.)",42860,Milan Jonathan,29359,0.2,0,2024-05-11,Albert

@@ -1,13 +1,24 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
+1,2.PS,"Tour de Hongrie, General classification (prov.)",42888,NYS Thibau,32185,0.0,0,2024-05-12
+2,2.PS,"Tour de Hongrie, General classification (prov.)",42888,BUCHMANN Emanuel,18739,0.0,0,2024-05-12
+3,2.PS,"Tour de Hongrie, General classification (prov.)",42888,POELS Wout,7751,0.0,0,2024-05-12
+4,2.PS,"Tour de Hongrie, General classification (prov.)",42888,ULISSI Diego,10023,0.0,0,2024-05-12
+5,2.PS,"Tour de Hongrie, General classification (prov.)",42888,HIRSCHI Marc,26509,0.0,0,2024-05-12
+6,2.PS,"Tour de Hongrie, General classification (prov.)",42888,VANHOUCKE Harm,25652,0.0,0,2024-05-12
+7,2.PS,"Tour de Hongrie, General classification (prov.)",42888,SCOTSON Callum,25164,0.0,0,2024-05-12
+8,2.PS,"Tour de Hongrie, General classification (prov.)",42888,HOWSON Damien,18239,0.0,0,2024-05-12
+9,2.PS,"Tour de Hongrie, General classification (prov.)",42888,RODRIGUEZ GARAICOECHEA Oscar,26216,0.0,0,2024-05-12
+10,2.PS,"Tour de Hongrie, General classification (prov.)",42888,VOISARD Yannis,27977,0.0,0,2024-05-12
+1,2.PSs,"Tour de Hongrie, Stage 5 : Siofok - Pecs (prov.)",42887,POELS Wout,7751,0.0,0,2024-05-12
 -4,GT2s,"Leiderstrui na Giro dItalia, Stage 8 : Spoletto - Prati di Tivo (prov.)",42860,Pogacar Tadej,26526,0.0,0,2024-05-11
 -1,GT2s,"Jongerentrui na Giro dItalia, Stage 8 : Spoletto - Prati di Tivo (prov.)",42860,Uijtdebroeks Cian,31803,0.0,0,2024-05-11
 -2,GT2s,"Puntentrui na Giro dItalia, Stage 8 : Spoletto - Prati di Tivo (prov.)",42860,Milan Jonathan,29359,0.0,0,2024-05-11
 -3,GT2s,"Bergtrui na Giro dItalia, Stage 8 : Spoletto - Prati di Tivo (prov.)",42860,Pogacar Tadej,26526,0.0,0,2024-05-11
 1,GT2s,"Giro dItalia, Stage 8 : Spoletto - Prati di Tivo (prov.)",42860,POGACAR Tadej,26526,0.0,0,2024-05-11
 1,2.PSs,"Tour de Hongrie, Stage 4 : Budapest - Etyek (prov.)",42886,NYS Thibau,32185,0.0,0,2024-05-11
-1,1.1,Tour du Finistère (prov.),42808,COSNEFROY Benoit,24189,0.0,0,2024-05-11
-2,1.1,Tour du Finistère (prov.),42808,STRONG Corbin,29492,0.0,0,2024-05-11
-3,1.1,Tour du Finistère (prov.),42808,MOLARD Rudy,11818,0.0,0,2024-05-11
+1,1.1,Tour du Finistère,42808,COSNEFROY Benoit,24189,0.0,0,2024-05-11
+2,1.1,Tour du Finistère,42808,STRONG Corbin,29492,0.0,0,2024-05-11
+3,1.1,Tour du Finistère,42808,MOLARD Rudy,11818,0.0,0,2024-05-11
 -4,GT2s,"Leiderstrui na Giro dItalia, Stage 7 : Foligno - Perugia I.T.T. (prov.)",42859,Pogacar Tadej,26526,0.0,0,2024-05-10
 -1,GT2s,"Jongerentrui na Giro dItalia, Stage 7 : Foligno - Perugia I.T.T. (prov.)",42859,Plapp Lucas,29787,0.0,0,2024-05-10
 -2,GT2s,"Puntentrui na Giro dItalia, Stage 7 : Foligno - Perugia I.T.T. (prov.)",42859,Milan Jonathan,29359,0.0,0,2024-05-10

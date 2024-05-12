@@ -1,13 +1,24 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
+1,2.PS,"Tour de Hongrie, General classification (prov.)",42888,NYS Thibau,32185,4,50,2024-05-12,Jan
+2,2.PS,"Tour de Hongrie, General classification (prov.)",42888,BUCHMANN Emanuel,18739,1,35,2024-05-12,Paul
+3,2.PS,"Tour de Hongrie, General classification (prov.)",42888,POELS Wout,7751,0.5,25,2024-05-12,Roy
+4,2.PS,"Tour de Hongrie, General classification (prov.)",42888,ULISSI Diego,10023,0,20,2024-05-12,Kaspar
+5,2.PS,"Tour de Hongrie, General classification (prov.)",42888,HIRSCHI Marc,26509,0,18,2024-05-12,Bram
+6,2.PS,"Tour de Hongrie, General classification (prov.)",42888,VANHOUCKE Harm,25652,0,16,2024-05-12,-
+7,2.PS,"Tour de Hongrie, General classification (prov.)",42888,SCOTSON Callum,25164,0,14,2024-05-12,-
+8,2.PS,"Tour de Hongrie, General classification (prov.)",42888,HOWSON Damien,18239,0,12,2024-05-12,-
+9,2.PS,"Tour de Hongrie, General classification (prov.)",42888,RODRIGUEZ GARAICOECHEA Oscar,26216,0,10,2024-05-12,-
+10,2.PS,"Tour de Hongrie, General classification (prov.)",42888,VOISARD Yannis,27977,0,8,2024-05-12,-
+1,2.PSs,"Tour de Hongrie, Stage 5 : Siofok - Pecs (prov.)",42887,POELS Wout,7751,0.3,0,2024-05-12,Roy
 -4,GT2s,"Leiderstrui na Giro dItalia, Stage 8 : Spoletto - Prati di Tivo (prov.)",42860,Pogacar Tadej,26526,1,0,2024-05-11,Wijnand
 -1,GT2s,"Jongerentrui na Giro dItalia, Stage 8 : Spoletto - Prati di Tivo (prov.)",42860,Uijtdebroeks Cian,31803,0.1,0,2024-05-11,Vel
 -2,GT2s,"Puntentrui na Giro dItalia, Stage 8 : Spoletto - Prati di Tivo (prov.)",42860,Milan Jonathan,29359,0.2,0,2024-05-11,Albert
 -3,GT2s,"Bergtrui na Giro dItalia, Stage 8 : Spoletto - Prati di Tivo (prov.)",42860,Pogacar Tadej,26526,0.2,0,2024-05-11,Wijnand
 1,GT2s,"Giro dItalia, Stage 8 : Spoletto - Prati di Tivo (prov.)",42860,POGACAR Tadej,26526,2,0,2024-05-11,Wijnand
 1,2.PSs,"Tour de Hongrie, Stage 4 : Budapest - Etyek (prov.)",42886,NYS Thibau,32185,0.3,0,2024-05-11,Jan
-1,1.1,Tour du Finistère (prov.),42808,COSNEFROY Benoit,24189,2,0,2024-05-11,Bram
-2,1.1,Tour du Finistère (prov.),42808,STRONG Corbin,29492,0.3,0,2024-05-11,PB
-3,1.1,Tour du Finistère (prov.),42808,MOLARD Rudy,11818,0.1,0,2024-05-11,-
+1,1.1,Tour du Finistère,42808,COSNEFROY Benoit,24189,2,0,2024-05-11,Bram
+2,1.1,Tour du Finistère,42808,STRONG Corbin,29492,0.3,0,2024-05-11,PB
+3,1.1,Tour du Finistère,42808,MOLARD Rudy,11818,0.1,0,2024-05-11,-
 -4,GT2s,"Leiderstrui na Giro dItalia, Stage 7 : Foligno - Perugia I.T.T. (prov.)",42859,Pogacar Tadej,26526,1,0,2024-05-10,Wijnand
 -1,GT2s,"Jongerentrui na Giro dItalia, Stage 7 : Foligno - Perugia I.T.T. (prov.)",42859,Plapp Lucas,29787,0.1,0,2024-05-10,Albert
 -2,GT2s,"Puntentrui na Giro dItalia, Stage 7 : Foligno - Perugia I.T.T. (prov.)",42859,Milan Jonathan,29359,0.2,0,2024-05-10,Albert
@@ -28,14 +39,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 -2,GT2s,"Puntentrui na Giro dItalia, Stage 5 : Genoa - Lucca (prov.)",42857,Milan Jonathan,29359,0.2,0,2024-05-08,Albert
 -3,GT2s,"Bergtrui na Giro dItalia, Stage 5 : Genoa - Lucca (prov.)",42857,Pogacar Tadej,26526,0.2,0,2024-05-08,Wijnand
 1,GT2s,"Giro dItalia, Stage 5 : Genoa - Lucca (prov.)",42857,THOMAS Benjamin,23641,2,0,2024-05-08,-
-1,2.PSs,"Tour de Hongrie, Stage 1 : Karcag - Hajduszoboszlo (prov.)",42883,WELSFORD Sam,23517,0.3,0,2024-05-08,Albert
--4,GT2s,"Leiderstrui na Giro dItalia, Stage 4 : Acqui Terme - Andora (prov.)",42856,Pogacar Tadej,26526,1,0,2024-05-07,Wijnand
--1,GT2s,"Jongerentrui na Giro dItalia, Stage 4 : Acqui Terme - Andora (prov.)",42856,Uijtdebroeks Cian,31803,0.1,0,2024-05-07,Vel
--2,GT2s,"Puntentrui na Giro dItalia, Stage 4 : Acqui Terme - Andora (prov.)",42856,Milan Jonathan,29359,0.2,0,2024-05-07,Albert
--3,GT2s,"Bergtrui na Giro dItalia, Stage 4 : Acqui Terme - Andora (prov.)",42856,Pogacar Tadej,26526,0.2,0,2024-05-07,Wijnand
-1,GT2s,"Giro dItalia, Stage 4 : Acqui Terme - Andora (prov.)",42856,MILAN Jonathan,29359,2,0,2024-05-07,Albert
--4,GT2s,"Leiderstrui na Giro dItalia, Stage 3 : Novara - Fossano (prov.)",42855,Pogacar Tadej,26526,1,0,2024-05-06,Wijnand
--1,GT2s,"Jongerentrui na Giro dItalia, Stage 3 : Novara - Fossano (prov.)",42855,Uijtdebroeks Cian,31803,0.1,0,2024-05-06,Vel
--2,GT2s,"Puntentrui na Giro dItalia, Stage 3 : Novara - Fossano (prov.)",42855,Merlier Tim,17988,0.2,0,2024-05-06,Frank
--3,GT2s,"Bergtrui na Giro dItalia, Stage 3 : Novara - Fossano (prov.)",42855,Pogacar Tadej,26526,0.2,0,2024-05-06,Wijnand
-1,GT2s,"Giro dItalia, Stage 3 : Novara - Fossano (prov.)",42855,MERLIER Tim,17988,2,0,2024-05-06,Frank

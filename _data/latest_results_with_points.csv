@@ -1,4 +1,10 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
+-4,GT2s,"Leiderstrui na Giro dItalia, Stage 10 : Pompei - Cusano Mutri (prov.)",42862,Pogacar Tadej,26526,1,0,2024-05-14,Wijnand
+-1,GT2s,"Jongerentrui na Giro dItalia, Stage 10 : Pompei - Cusano Mutri (prov.)",42862,Uijtdebroeks Cian,31803,0.1,0,2024-05-14,Vel
+-2,GT2s,"Puntentrui na Giro dItalia, Stage 10 : Pompei - Cusano Mutri (prov.)",42862,Milan Jonathan,29359,0.2,0,2024-05-14,Albert
+-3,GT2s,"Bergtrui na Giro dItalia, Stage 10 : Pompei - Cusano Mutri (prov.)",42862,Pogacar Tadej,26526,0.2,0,2024-05-14,Wijnand
+1,GT2s,"Giro dItalia, Stage 10 : Pompei - Cusano Mutri (prov.)",42862,PARET PEINTRE Valentin,31495,2,0,2024-05-14,Jan
+1,2.PSs,"4 Jours de Dunkerque, Stage 1 : Dunkerque - Le Touquet (prov.)",42904,FRETIN Milan,32617,0.3,0,2024-05-14,-
 -4,GT2s,"Leiderstrui na Giro dItalia, Stage 9 : Avezzano - Napoli (prov.)",42861,Pogacar Tadej,26526,1,0,2024-05-12,Wijnand
 -1,GT2s,"Jongerentrui na Giro dItalia, Stage 9 : Avezzano - Napoli (prov.)",42861,Uijtdebroeks Cian,31803,0.1,0,2024-05-12,Vel
 -2,GT2s,"Puntentrui na Giro dItalia, Stage 9 : Avezzano - Napoli (prov.)",42861,Milan Jonathan,29359,0.2,0,2024-05-12,Albert
@@ -27,8 +33,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 1,1.1,Tour du Finistère,42808,COSNEFROY Benoit,24189,2,0,2024-05-11,Bram
 2,1.1,Tour du Finistère,42808,STRONG Corbin,29492,0.3,0,2024-05-11,PB
 3,1.1,Tour du Finistère,42808,MOLARD Rudy,11818,0.1,0,2024-05-11,-
--4,GT2s,"Leiderstrui na Giro dItalia, Stage 7 : Foligno - Perugia I.T.T. (prov.)",42859,Pogacar Tadej,26526,1,0,2024-05-10,Wijnand
--1,GT2s,"Jongerentrui na Giro dItalia, Stage 7 : Foligno - Perugia I.T.T. (prov.)",42859,Plapp Lucas,29787,0.1,0,2024-05-10,Albert
--2,GT2s,"Puntentrui na Giro dItalia, Stage 7 : Foligno - Perugia I.T.T. (prov.)",42859,Milan Jonathan,29359,0.2,0,2024-05-10,Albert
--3,GT2s,"Bergtrui na Giro dItalia, Stage 7 : Foligno - Perugia I.T.T. (prov.)",42859,Pogacar Tadej,26526,0.2,0,2024-05-10,Wijnand
-1,GT2s,"Giro dItalia, Stage 7 : Foligno - Perugia I.T.T. (prov.)",42859,POGACAR Tadej,26526,2,0,2024-05-10,Wijnand

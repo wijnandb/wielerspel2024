@@ -1,4 +1,10 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
+-4,GT2s,"Leiderstrui na Giro dItalia, Stage 13 : Riccione - Cento (prov.)",42865,Pogacar Tadej,26526,0.0,0,2024-05-17
+-1,GT2s,"Jongerentrui na Giro dItalia, Stage 13 : Riccione - Cento (prov.)",42865,Tiberi Antonio,30649,0.0,0,2024-05-17
+-2,GT2s,"Puntentrui na Giro dItalia, Stage 13 : Riccione - Cento (prov.)",42865,Milan Jonathan,29359,0.0,0,2024-05-17
+-3,GT2s,"Bergtrui na Giro dItalia, Stage 13 : Riccione - Cento (prov.)",42865,Pogacar Tadej,26526,0.0,0,2024-05-17
+1,GT2s,"Giro dItalia, Stage 13 : Riccione - Cento (prov.)",42865,MILAN Jonathan,29359,0.0,0,2024-05-17
+1,2.PSs,"4 Jours de Dunkerque, Stage 4 : Mazingarbe - Pont-à-Marcq (prov.)",42907,VANGHELUWE Warre,31233,0.0,0,2024-05-17
 1,2.1s,"Tour of Hellas, Stage 3 : Karditsa - Karpenisi (prov.)",42913,ZOIDL Riccardo,6828,0.0,0,2024-05-17
 1,2.NCs,"Orlen Nations GP, Stage 3 : Tvrdosin - Strbske Pleso (prov.)",42919,KOCKELMANN Mathieu,34217,0.0,0,2024-05-17
 -4,GT2s,"Leiderstrui na Giro dItalia, Stage 12 : Martiniscuro - Fano (prov.)",42864,Pogacar Tadej,26526,0.0,0,2024-05-16
@@ -24,4 +30,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
 -2,GT2s,"Puntentrui na Giro dItalia, Stage 10 : Pompei - Cusano Mutri (prov.)",42862,Milan Jonathan,29359,0.0,0,2024-05-14
 -3,GT2s,"Bergtrui na Giro dItalia, Stage 10 : Pompei - Cusano Mutri (prov.)",42862,Pogacar Tadej,26526,0.0,0,2024-05-14
 1,GT2s,"Giro dItalia, Stage 10 : Pompei - Cusano Mutri (prov.)",42862,PARET PEINTRE Valentin,31495,0.0,0,2024-05-14
-1,2.PSs,"4 Jours de Dunkerque, Stage 1 : Dunkerque - Le Touquet (prov.)",42904,FRETIN Milan,32617,0.0,0,2024-05-14

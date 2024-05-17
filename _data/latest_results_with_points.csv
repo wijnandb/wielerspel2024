@@ -1,4 +1,6 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
+1,2.1s,"Tour of Hellas, Stage 3 : Karditsa - Karpenisi (prov.)",42913,ZOIDL Riccardo,6828,0.2,0,2024-05-17,-
+1,2.NCs,"Orlen Nations GP, Stage 3 : Tvrdosin - Strbske Pleso (prov.)",42919,KOCKELMANN Mathieu,34217,0.0,0,2024-05-17,-
 -4,GT2s,"Leiderstrui na Giro dItalia, Stage 12 : Martiniscuro - Fano (prov.)",42864,Pogacar Tadej,26526,1,0,2024-05-16,Wijnand
 -1,GT2s,"Jongerentrui na Giro dItalia, Stage 12 : Martiniscuro - Fano (prov.)",42864,Tiberi Antonio,30649,0.1,0,2024-05-16,-
 -2,GT2s,"Puntentrui na Giro dItalia, Stage 12 : Martiniscuro - Fano (prov.)",42864,Milan Jonathan,29359,0.2,0,2024-05-16,Albert
@@ -23,19 +25,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 -3,GT2s,"Bergtrui na Giro dItalia, Stage 10 : Pompei - Cusano Mutri (prov.)",42862,Pogacar Tadej,26526,0.2,0,2024-05-14,Wijnand
 1,GT2s,"Giro dItalia, Stage 10 : Pompei - Cusano Mutri (prov.)",42862,PARET PEINTRE Valentin,31495,2,0,2024-05-14,Jan
 1,2.PSs,"4 Jours de Dunkerque, Stage 1 : Dunkerque - Le Touquet (prov.)",42904,FRETIN Milan,32617,0.3,0,2024-05-14,-
--4,GT2s,"Leiderstrui na Giro dItalia, Stage 9 : Avezzano - Napoli (prov.)",42861,Pogacar Tadej,26526,1,0,2024-05-12,Wijnand
--1,GT2s,"Jongerentrui na Giro dItalia, Stage 9 : Avezzano - Napoli (prov.)",42861,Uijtdebroeks Cian,31803,0.1,0,2024-05-12,Vel
--2,GT2s,"Puntentrui na Giro dItalia, Stage 9 : Avezzano - Napoli (prov.)",42861,Milan Jonathan,29359,0.2,0,2024-05-12,Albert
--3,GT2s,"Bergtrui na Giro dItalia, Stage 9 : Avezzano - Napoli (prov.)",42861,Pogacar Tadej,26526,0.2,0,2024-05-12,Wijnand
-1,GT2s,"Giro dItalia, Stage 9 : Avezzano - Napoli (prov.)",42861,KOOIJ Olav,30643,2,0,2024-05-12,Roy
-1,2.PS,"Tour de Hongrie, General classification",42888,NYS Thibau,32185,4,50,2024-05-12,Jan
-2,2.PS,"Tour de Hongrie, General classification",42888,BUCHMANN Emanuel,18739,1,35,2024-05-12,Paul
-3,2.PS,"Tour de Hongrie, General classification",42888,POELS Wout,7751,0.5,25,2024-05-12,Roy
-4,2.PS,"Tour de Hongrie, General classification",42888,ULISSI Diego,10023,0,20,2024-05-12,Kaspar
-5,2.PS,"Tour de Hongrie, General classification",42888,HIRSCHI Marc,26509,0,18,2024-05-12,Bram
-6,2.PS,"Tour de Hongrie, General classification",42888,VANHOUCKE Harm,25652,0,16,2024-05-12,-
-7,2.PS,"Tour de Hongrie, General classification",42888,SCOTSON Callum,25164,0,14,2024-05-12,-
-8,2.PS,"Tour de Hongrie, General classification",42888,HOWSON Damien,18239,0,12,2024-05-12,-
-9,2.PS,"Tour de Hongrie, General classification",42888,RODRIGUEZ GARAICOECHEA Oscar,26216,0,10,2024-05-12,-
-10,2.PS,"Tour de Hongrie, General classification",42888,VOISARD Yannis,27977,0,8,2024-05-12,-
-1,2.PSs,"Tour de Hongrie, Stage 5 : Siofok - Pecs",42887,POELS Wout,7751,0.3,0,2024-05-12,Roy

@@ -1,4 +1,8 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
+1,2.PSs,"4 Jours de Dunkerque, Stage 5 : Arques - Cassel (prov.)",42908,BENNETT Sam,13362,0.0,0,2024-05-18
+1,2.1s,"Tour of Hellas, Stage 4 : Spercheiada - Chalkida (prov.)",42914,HICKS Dylan,34554,0.0,0,2024-05-18
+1,2.NCs,"Orlen Nations GP, Stage 4 : Bukiniva Resort - Jaslo (prov.)",42920,HANSEN Peter Øxenberg,36268,0.0,0,2024-05-18
+1,NC5,National Championships Egypt () R.R. (prov.),42816,EL SAIFY Hassan,29430,0.0,0,2024-05-18
 -4,GT2s,"Leiderstrui na Giro dItalia, Stage 13 : Riccione - Cento (prov.)",42865,Pogacar Tadej,26526,0.0,0,2024-05-17
 -1,GT2s,"Jongerentrui na Giro dItalia, Stage 13 : Riccione - Cento (prov.)",42865,Tiberi Antonio,30649,0.0,0,2024-05-17
 -2,GT2s,"Puntentrui na Giro dItalia, Stage 13 : Riccione - Cento (prov.)",42865,Milan Jonathan,29359,0.0,0,2024-05-17
@@ -22,11 +26,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
 1,GT2s,"Giro dItalia, Stage 11 : Foiano di Valfortore - Francavilla Al Mare (prov.)",42863,MILAN Jonathan,29359,0.0,0,2024-05-15
 1,2.PSs,"4 Jours de Dunkerque, Stage 2 : Wimereux - Abbeville (prov.)",42905,BENNETT Sam,13362,0.0,0,2024-05-15
 1,2.1s,"Tour of Hellas, Stage 1b : Thessaloniki - Katerini (prov.)",42911,MARECZKO Jakub,22713,0.0,0,2024-05-15
-1,2.1s,"Tour of Hellas, Stage 1a : Thessaloniki I.T.T. (prov.)",42664,LEITAO Iuri Gabriel Dantas,31829,0.0,0,2024-05-15
-1,NCT3,National Championships United States (Charleston) I.T.T. (prov.),42813,MCNULTY Brandon,26508,0.0,0,2024-05-15
-1,2.NCs,"Orlen Nations GP, Stage 1 : Prostejov - Bouzov (prov.)",42917,EGHOLM Kristian,34393,0.0,0,2024-05-15
--4,GT2s,"Leiderstrui na Giro dItalia, Stage 10 : Pompei - Cusano Mutri (prov.)",42862,Pogacar Tadej,26526,0.0,0,2024-05-14
--1,GT2s,"Jongerentrui na Giro dItalia, Stage 10 : Pompei - Cusano Mutri (prov.)",42862,Uijtdebroeks Cian,31803,0.0,0,2024-05-14
--2,GT2s,"Puntentrui na Giro dItalia, Stage 10 : Pompei - Cusano Mutri (prov.)",42862,Milan Jonathan,29359,0.0,0,2024-05-14
--3,GT2s,"Bergtrui na Giro dItalia, Stage 10 : Pompei - Cusano Mutri (prov.)",42862,Pogacar Tadej,26526,0.0,0,2024-05-14
-1,GT2s,"Giro dItalia, Stage 10 : Pompei - Cusano Mutri (prov.)",42862,PARET PEINTRE Valentin,31495,0.0,0,2024-05-14

@@ -27,8 +27,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
 1,2.PSs,"4 Jours de Dunkerque, Stage 3 : St-Laurent-Blangy - Bouchain (prov.)",42906,BENNETT Sam,13362,0.0,0,2024-05-16
 1,2.1s,"Tour of Hellas, Stage 2 : Katerini - Karditsa (prov.)",42912,RITZINGER Felix,27270,0.0,0,2024-05-16
 1,2.NCs,"Orlen Nations GP, Stage 2 : Prerov - Kohutka (prov.)",42918,RONDEL Mathys,34305,0.0,0,2024-05-16
--4,GT2s,"Leiderstrui na Giro dItalia, Stage 11 : Foiano di Valfortore - Francavilla Al Mare (prov.)",42863,Pogacar Tadej,26526,0.0,0,2024-05-15
--1,GT2s,"Jongerentrui na Giro dItalia, Stage 11 : Foiano di Valfortore - Francavilla Al Mare (prov.)",42863,Tiberi Antonio,30649,0.0,0,2024-05-15
--2,GT2s,"Puntentrui na Giro dItalia, Stage 11 : Foiano di Valfortore - Francavilla Al Mare (prov.)",42863,Milan Jonathan,29359,0.0,0,2024-05-15
--3,GT2s,"Bergtrui na Giro dItalia, Stage 11 : Foiano di Valfortore - Francavilla Al Mare (prov.)",42863,Pogacar Tadej,26526,0.0,0,2024-05-15
-1,GT2s,"Giro dItalia, Stage 11 : Foiano di Valfortore - Francavilla Al Mare (prov.)",42863,MILAN Jonathan,29359,0.0,0,2024-05-15

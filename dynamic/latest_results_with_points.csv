@@ -1,6 +1,8 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 -4,GT2s,"Leiderstrui na Giro dItalia, Stage 15 : Manerba del Garda - Livigno (prov.)",42867,Pogacar Tadej,26526,1,0,2024-05-19,Wijnand
 -1,GT2s,"Jongerentrui na Giro dItalia, Stage 15 : Manerba del Garda - Livigno (prov.)",42867,Tiberi Antonio,30649,0.1,0,2024-05-19,-
+-2,GT2s,"Puntentrui na Giro dItalia, Stage 15 : Manerba del Garda - Livigno (prov.)",42867,Milan Jonathan,29359,0.2,0,2024-05-19,Albert
+-3,GT2s,"Bergtrui na Giro dItalia, Stage 15 : Manerba del Garda - Livigno (prov.)",42867,Pogacar Tadej,26526,0.2,0,2024-05-19,Wijnand
 1,GT2s,"Giro dItalia, Stage 15 : Manerba del Garda - Livigno (prov.)",42867,POGACAR Tadej,26526,2,0,2024-05-19,Wijnand
 1,2.PS,"4 Jours de Dunkerque, General classification (prov.)",42910,BENNETT Sam,13362,4,50,2024-05-19,Bram
 2,2.PS,"4 Jours de Dunkerque, General classification (prov.)",42910,PENHOËT Paul,30686,1,35,2024-05-19,Jan
@@ -20,6 +22,16 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 2,1.1,Antwerp Port Epic (prov.),42818,JEANNIERE Emilien,29288,0.3,0,2024-05-19,-
 3,1.1,Antwerp Port Epic (prov.),42818,KOGUT Oded,31902,0.1,0,2024-05-19,-
 1,2.1s,"Tour of Hellas, Stage 5 : Athens - Athens (prov.)",42915,RUDYK Bartosz,27241,0.2,0,2024-05-19,-
+1,2.NC,"Orlen Nations GP, General classification (prov.)",42922,RONDEL Mathys,34305,0.0,0,2024-05-19,-
+2,2.NC,"Orlen Nations GP, General classification (prov.)",42922,ROLLAND Brieuc,33756,0.0,0,2024-05-19,-
+3,2.NC,"Orlen Nations GP, General classification (prov.)",42922,WALLENBORN Arno,33835,0.0,0,2024-05-19,-
+4,2.NC,"Orlen Nations GP, General classification (prov.)",42922,BRENNAN Matthew,35227,0.0,0,2024-05-19,-
+5,2.NC,"Orlen Nations GP, General classification (prov.)",42922,VERSTRYNGE Emiel,33562,0.0,0,2024-05-19,-
+6,2.NC,"Orlen Nations GP, General classification (prov.)",42922,WEISS Fabian,32845,0.0,0,2024-05-19,-
+7,2.NC,"Orlen Nations GP, General classification (prov.)",42922,DOSTIYEV Ilkhan,31966,0.0,0,2024-05-19,-
+8,2.NC,"Orlen Nations GP, General classification (prov.)",42922,ORINS Robin,32677,0.0,0,2024-05-19,-
+9,2.NC,"Orlen Nations GP, General classification (prov.)",42922,DOCKX Aaron,34689,0.0,0,2024-05-19,-
+10,2.NC,"Orlen Nations GP, General classification (prov.)",42922,GUARDEÑO ROMA Jaume,35509,0.0,0,2024-05-19,-
 1,2.NCs,"Orlen Nations GP, Stage 5 : Lesko - Hotel Arlamov (prov.)",42921,DOSTIYEV Ilkhan,31966,0.0,0,2024-05-19,-
 -4,GT2s,"Leiderstrui na Giro dItalia, Stage 14 : Castiglione delle Stivere - Desenzano del Garda I.T.T. (prov.)",42866,Pogacar Tadej,26526,1,0,2024-05-18,Wijnand
 -1,GT2s,"Jongerentrui na Giro dItalia, Stage 14 : Castiglione delle Stivere - Desenzano del Garda I.T.T. (prov.)",42866,Tiberi Antonio,30649,0.1,0,2024-05-18,-
@@ -38,5 +50,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 -2,GT2s,"Puntentrui na Giro dItalia, Stage 13 : Riccione - Cento (prov.)",42865,Milan Jonathan,29359,0.2,0,2024-05-17,Albert
 -3,GT2s,"Bergtrui na Giro dItalia, Stage 13 : Riccione - Cento (prov.)",42865,Pogacar Tadej,26526,0.2,0,2024-05-17,Wijnand
 1,GT2s,"Giro dItalia, Stage 13 : Riccione - Cento (prov.)",42865,MILAN Jonathan,29359,2,0,2024-05-17,Albert
-1,2.PSs,"4 Jours de Dunkerque, Stage 4 : Mazingarbe - Pont-à-Marcq (prov.)",42907,VANGHELUWE Warre,31233,0.3,0,2024-05-17,-
-1,2.1s,"Tour of Hellas, Stage 3 : Karditsa - Karpenisi (prov.)",42913,ZOIDL Riccardo,6828,0.2,0,2024-05-17,-

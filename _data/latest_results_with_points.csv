@@ -1,4 +1,9 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
+1,2.1,"Tour of Hellas, General classification (prov.)",42916,ZOIDL Riccardo,6828,2,0,2024-05-19,-
+2,2.1,"Tour of Hellas, General classification (prov.)",42916,PERNSTEINER Hermann,25790,0.3,0,2024-05-19,-
+3,2.1,"Tour of Hellas, General classification (prov.)",42916,CONTI Valerio,21295,0.1,0,2024-05-19,-
+1,2.1s,"Tour of Hellas, Stage 5 : Athens - Athens (prov.)",42915,RUDYK Bartosz,27241,0.2,0,2024-05-19,-
+1,2.NCs,"Orlen Nations GP, Stage 5 : Lesko - Hotel Arlamov (prov.)",42921,DOSTIYEV Ilkhan,31966,0.0,0,2024-05-19,-
 -4,GT2s,"Leiderstrui na Giro dItalia, Stage 14 : Castiglione delle Stivere - Desenzano del Garda I.T.T. (prov.)",42866,Pogacar Tadej,26526,1,0,2024-05-18,Wijnand
 -1,GT2s,"Jongerentrui na Giro dItalia, Stage 14 : Castiglione delle Stivere - Desenzano del Garda I.T.T. (prov.)",42866,Tiberi Antonio,30649,0.1,0,2024-05-18,-
 -2,GT2s,"Puntentrui na Giro dItalia, Stage 14 : Castiglione delle Stivere - Desenzano del Garda I.T.T. (prov.)",42866,Milan Jonathan,29359,0.2,0,2024-05-18,Albert
@@ -25,5 +30,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 -3,GT2s,"Bergtrui na Giro dItalia, Stage 12 : Martiniscuro - Fano (prov.)",42864,Pogacar Tadej,26526,0.2,0,2024-05-16,Wijnand
 1,GT2s,"Giro dItalia, Stage 12 : Martiniscuro - Fano (prov.)",42864,ALAPHILIPPE Julian,18610,2,0,2024-05-16,Kaspar
 1,2.PSs,"4 Jours de Dunkerque, Stage 3 : St-Laurent-Blangy - Bouchain (prov.)",42906,BENNETT Sam,13362,0.3,0,2024-05-16,Bram
-1,2.1s,"Tour of Hellas, Stage 2 : Katerini - Karditsa (prov.)",42912,RITZINGER Felix,27270,0.2,0,2024-05-16,-
-1,2.NCs,"Orlen Nations GP, Stage 2 : Prerov - Kohutka (prov.)",42918,RONDEL Mathys,34305,0.0,0,2024-05-16,-

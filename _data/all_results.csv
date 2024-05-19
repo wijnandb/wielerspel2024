@@ -1,4 +1,9 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
+1,2.1,"Tour of Hellas, General classification (prov.)",42916,ZOIDL Riccardo,6828,0.0,0,2024-05-19
+2,2.1,"Tour of Hellas, General classification (prov.)",42916,PERNSTEINER Hermann,25790,0.0,0,2024-05-19
+3,2.1,"Tour of Hellas, General classification (prov.)",42916,CONTI Valerio,21295,0.0,0,2024-05-19
+1,2.1s,"Tour of Hellas, Stage 5 : Athens - Athens (prov.)",42915,RUDYK Bartosz,27241,0.0,0,2024-05-19
+1,2.NCs,"Orlen Nations GP, Stage 5 : Lesko - Hotel Arlamov (prov.)",42921,DOSTIYEV Ilkhan,31966,0.0,0,2024-05-19
 -4,GT2s,"Leiderstrui na Giro dItalia, Stage 14 : Castiglione delle Stivere - Desenzano del Garda I.T.T. (prov.)",42866,Pogacar Tadej,26526,0.0,0,2024-05-18
 -1,GT2s,"Jongerentrui na Giro dItalia, Stage 14 : Castiglione delle Stivere - Desenzano del Garda I.T.T. (prov.)",42866,Tiberi Antonio,30649,0.0,0,2024-05-18
 -2,GT2s,"Puntentrui na Giro dItalia, Stage 14 : Castiglione delle Stivere - Desenzano del Garda I.T.T. (prov.)",42866,Milan Jonathan,29359,0.0,0,2024-05-18

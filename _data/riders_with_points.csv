@@ -62,7 +62,7 @@ renner_id,renner,rider,ploegleider,kosten,team,nationality,age,punten,JPP
 19274,DE BUYST Jasper,DE BUYST Jasper,Frank,1,LTD,BEL,30,0,0
 22010,BIERMANS Jenthe,BIERMANS Jenthe,Frank,0,ARK,BEL,28,2.3,0
 21971,VAN DER POEL Mathieu,VAN DER POEL Mathieu,Harry,70,ADC,NED,28,45,218
-24902,POWLESS Neilson,POWLESS Neilson,Harry,10,EFE,USA,27,0,0
+24902,POWLESS Neilson,POWLESS Neilson,Harry,10,EFE,USA,27,0.1,0
 23940,ARANBURU DEBA Alex,ARANBURU DEBA Alex,Harry,4,MOV,ESP,28,2.1,35
 22020,BALLERINI Davide,BALLERINI Davide,Harry,3,AST,ITA,29,0,0
 30642,VAN DIJKE Tim,VAN DIJKE Tim,Harry,2,TJV,NED,23,0,0
@@ -121,7 +121,7 @@ renner_id,renner,rider,ploegleider,kosten,team,nationality,age,punten,JPP
 29828,VAN WILDER Ilan,VAN WILDER Ilan,Kees,7,SOQ,BEL,23,0.5,40
 22018,GEOGHEGAN HART Tao,GEOGHEGAN HART Tao,Kees,6,LTK,GBR,28,0,10
 27716,ARENSMAN Thymen,ARENSMAN Thymen,Kees,5,IGD,NED,24,0,34
-26508,MCNULTY Brandon,MCNULTY Brandon,Kees,4,UAD,USA,25,12.2,143
+26508,MCNULTY Brandon,MCNULTY Brandon,Kees,4,UAD,USA,25,12.5,143
 24873,FOSS Tobias Svendsen,FOSS Tobias Svendsen,Kees,2,IGD,NOR,26,0.3,0
 20847,POLITT Nils,POLITT Nils,Kees,2,UAD,GER,29,6,94
 26388,BJERG Mikkel,BJERG Mikkel,Kees,2,UAD,DEN,25,1,20

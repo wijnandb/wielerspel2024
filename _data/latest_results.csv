@@ -1,4 +1,7 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
+1,1.1,Ronde van Limburg (prov.),42821,GROENEWEGEN Dylan,19238,0.0,0,2024-05-20
+2,1.1,Ronde van Limburg (prov.),42821,BALLERSTEDT Maurice,30560,0.0,0,2024-05-20
+3,1.1,Ronde van Limburg (prov.),42821,DE LIE Arnaud,32221,0.0,0,2024-05-20
 -4,GT2s,"Leiderstrui na Giro dItalia, Stage 15 : Manerba del Garda - Livigno (prov.)",42867,Pogacar Tadej,26526,0.0,0,2024-05-19
 -1,GT2s,"Jongerentrui na Giro dItalia, Stage 15 : Manerba del Garda - Livigno (prov.)",42867,Tiberi Antonio,30649,0.0,0,2024-05-19
 -2,GT2s,"Puntentrui na Giro dItalia, Stage 15 : Manerba del Garda - Livigno (prov.)",42867,Milan Jonathan,29359,0.0,0,2024-05-19
@@ -41,7 +44,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
 -2,GT2s,"Puntentrui na Giro dItalia, Stage 14 : Castiglione delle Stivere - Desenzano del Garda I.T.T. (prov.)",42866,Milan Jonathan,29359,0.0,0,2024-05-18
 -3,GT2s,"Bergtrui na Giro dItalia, Stage 14 : Castiglione delle Stivere - Desenzano del Garda I.T.T. (prov.)",42866,Pogacar Tadej,26526,0.0,0,2024-05-18
 1,GT2s,"Giro dItalia, Stage 14 : Castiglione delle Stivere - Desenzano del Garda I.T.T. (prov.)",42866,GANNA Filippo,24057,0.0,0,2024-05-18
-1,2.PSs,"4 Jours de Dunkerque, Stage 5 : Arques - Cassel",42908,BENNETT Sam,13362,0.0,0,2024-05-18
-1,1.1,Veenendaal - Veenendaal Classic,42817,GUDMESTAD Tord,30776,0.0,0,2024-05-18
-2,1.1,Veenendaal - Veenendaal Classic,42817,DEHAIRS Simon,32634,0.0,0,2024-05-18
-3,1.1,Veenendaal - Veenendaal Classic,42817,GROENEWEGEN Dylan,19238,0.0,0,2024-05-18

@@ -1,7 +1,9 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
+-4,GT2s,"Leiderstrui na Giro dItalia, Stage 17 : Selva di Val Gardena - Passo dei Brocon (prov.)",42869,Pogacar Tadej,26526,0.0,0,2024-05-22
+-1,GT2s,"Jongerentrui na Giro dItalia, Stage 17 : Selva di Val Gardena - Passo dei Brocon (prov.)",42869,Tiberi Antonio,30649,0.0,0,2024-05-22
+1,GT2s,"Giro dItalia, Stage 17 : Selva di Val Gardena - Passo dei Brocon (prov.)",42869,STEINHAUSER Georg,30721,0.0,0,2024-05-22
 -4,GT2s,"Leiderstrui na Giro dItalia, Stage 16 : Laas - Santa Cristina Val Gardena (prov.)",42868,Pogacar Tadej,26526,0.0,0,2024-05-21
 -1,GT2s,"Jongerentrui na Giro dItalia, Stage 16 : Laas - Santa Cristina Val Gardena (prov.)",42868,Tiberi Antonio,30649,0.0,0,2024-05-21
--2,GT2s,"Puntentrui na Giro dItalia, Stage 16 : Laas - Santa Cristina Val Gardena (prov.)",42868,Milan Jonathan,29359,0.0,0,2024-05-21
 -3,GT2s,"Bergtrui na Giro dItalia, Stage 16 : Laas - Santa Cristina Val Gardena (prov.)",42868,Pogacar Tadej,26526,0.0,0,2024-05-21
 1,GT2s,"Giro dItalia, Stage 16 : Laas - Santa Cristina Val Gardena (prov.)",42868,POGACAR Tadej,26526,0.0,0,2024-05-21
 1,1.1,Ronde van Limburg,42821,GROENEWEGEN Dylan,19238,0.0,0,2024-05-20
@@ -29,6 +31,7 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
 1,1.1,Antwerp Port Epic,42818,KRISTOFF Alexander,4179,0.0,0,2024-05-19
 2,1.1,Antwerp Port Epic,42818,JEANNIERE Emilien,29288,0.0,0,2024-05-19
 3,1.1,Antwerp Port Epic,42818,KOGUT Oded,31902,0.0,0,2024-05-19
+-2,GT2s,"Puntentrui na Giro dItalia, Stage 16 : Laas - Santa Cristina Val Gardena (prov.)",42868,Milan Jonathan,29359,0.0,0,2024-05-21
 1,2.1s,"Tour of Hellas, Stage 5 : Athens - Athens",42915,RUDYK Bartosz,27241,0.0,0,2024-05-19
 1,1.1,National Championships United States (Charleston) R.R.,42814,QUINN Sean,29331,0.0,0,2024-05-19
 2,1.1,National Championships United States (Charleston) R.R.,42814,MCNULTY Brandon,26508,0.0,0,2024-05-19

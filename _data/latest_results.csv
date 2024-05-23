@@ -1,4 +1,5 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
+1,GT2s,"Giro dItalia, Stage 18 : Fiera di Primiero - Padova (prov.)",42870,MERLIER Tim,17988,0.0,0,2024-05-23
 -4,GT2s,"Leiderstrui na Giro dItalia, Stage 17 : Selva di Val Gardena - Passo dei Brocon (prov.)",42869,Pogacar Tadej,26526,0.0,0,2024-05-22
 -1,GT2s,"Jongerentrui na Giro dItalia, Stage 17 : Selva di Val Gardena - Passo dei Brocon (prov.)",42869,Tiberi Antonio,30649,0.0,0,2024-05-22
 -2,GT2s,"Puntentrui na Giro dItalia, Stage 17 : Selva di Val Gardena - Passo dei Brocon (prov.)",42869,Milan Jonathan,29359,0.0,0,2024-05-22
@@ -12,25 +13,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
 1,1.1,Ronde van Limburg,42821,GROENEWEGEN Dylan,19238,0.0,0,2024-05-20
 2,1.1,Ronde van Limburg,42821,BALLERSTEDT Maurice,30560,0.0,0,2024-05-20
 3,1.1,Ronde van Limburg,42821,DE LIE Arnaud,32221,0.0,0,2024-05-20
--4,GT2s,"Leiderstrui na Giro dItalia, Stage 15 : Manerba del Garda - Livigno (prov.)",42867,Pogacar Tadej,26526,0.0,0,2024-05-19
--1,GT2s,"Jongerentrui na Giro dItalia, Stage 15 : Manerba del Garda - Livigno (prov.)",42867,Tiberi Antonio,30649,0.0,0,2024-05-19
--2,GT2s,"Puntentrui na Giro dItalia, Stage 15 : Manerba del Garda - Livigno (prov.)",42867,Milan Jonathan,29359,0.0,0,2024-05-19
--3,GT2s,"Bergtrui na Giro dItalia, Stage 15 : Manerba del Garda - Livigno (prov.)",42867,Pogacar Tadej,26526,0.0,0,2024-05-19
-1,GT2s,"Giro dItalia, Stage 15 : Manerba del Garda - Livigno (prov.)",42867,POGACAR Tadej,26526,0.0,0,2024-05-19
-1,2.PS,"4 Jours de Dunkerque, General classification",42910,BENNETT Sam,13362,0.0,0,2024-05-19
-2,2.PS,"4 Jours de Dunkerque, General classification",42910,PENHOËT Paul,30686,0.0,0,2024-05-19
-3,2.PS,"4 Jours de Dunkerque, General classification",42910,BERCKMOES Jenno,32588,0.0,0,2024-05-19
-4,2.PS,"4 Jours de Dunkerque, General classification",42910,VAN BOVEN Luca,31597,0.0,0,2024-05-19
-5,2.PS,"4 Jours de Dunkerque, General classification",42910,DELETTRE Alexandre,30519,0.0,0,2024-05-19
-6,2.PS,"4 Jours de Dunkerque, General classification",42910,FRETIN Milan,32617,0.0,0,2024-05-19
-7,2.PS,"4 Jours de Dunkerque, General classification",42910,KOPECKY Tomas,30677,0.0,0,2024-05-19
-8,2.PS,"4 Jours de Dunkerque, General classification",42910,NAESEN Oliver,21392,0.0,0,2024-05-19
-9,2.PS,"4 Jours de Dunkerque, General classification",42910,GACHIGNARD Thomas,32640,0.0,0,2024-05-19
-10,2.PS,"4 Jours de Dunkerque, General classification",42910,DE GENDT Aimé,21998,0.0,0,2024-05-19
-1,2.PSs,"4 Jours de Dunkerque, Stage 6 : Loon-Plage - Dunkerque",42909,BENNETT Sam,13362,0.0,0,2024-05-19
-1,2.1,"Tour of Hellas, General classification",42916,ZOIDL Riccardo,6828,0.0,0,2024-05-19
-2,2.1,"Tour of Hellas, General classification",42916,PERNSTEINER Hermann,25790,0.0,0,2024-05-19
-3,2.1,"Tour of Hellas, General classification",42916,CONTI Valerio,21295,0.0,0,2024-05-19
-1,1.1,Antwerp Port Epic,42818,KRISTOFF Alexander,4179,0.0,0,2024-05-19
-2,1.1,Antwerp Port Epic,42818,JEANNIERE Emilien,29288,0.0,0,2024-05-19
-3,1.1,Antwerp Port Epic,42818,KOGUT Oded,31902,0.0,0,2024-05-19

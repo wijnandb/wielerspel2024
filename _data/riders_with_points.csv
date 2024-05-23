@@ -1,6 +1,6 @@
 renner_id,renner,rider,ploegleider,kosten,team,nationality,age,punten,JPP
 24934,SIVAKOV Pavel,SIVAKOV Pavel,Albert,7,UAD,FRA,26,0.5,0
-29359,MILAN Jonathan,MILAN Jonathan,Albert,6,LTK,ITA,23,11.3,32
+29359,MILAN Jonathan,MILAN Jonathan,Albert,6,LTK,ITA,23,11.5,32
 19238,GROENEWEGEN Dylan,GROENEWEGEN Dylan,Albert,6,JAY,NED,30,5.6,70
 17881,BILBAO LOPEZ DE ARMENTIA Pello,BILBAO LOPEZ DE ARMENTIA Pello,Albert,6,TBV,ESP,33,1,77
 14319,LANDA MEANA Mikel,LANDA MEANA Mikel,Albert,6,SOQ,ESP,34,3,35
@@ -89,7 +89,7 @@ renner_id,renner,rider,ploegleider,kosten,team,nationality,age,punten,JPP
 28580,VANSEVENANT Mauri,VANSEVENANT Mauri,Jan,2,SOQ,BEL,24,1,50
 25671,SERRANO RODRIGUEZ Gonzalo,SERRANO RODRIGUEZ Gonzalo,Jan,2,MOV,ESP,29,0,0
 30663,PAGE Hugo,PAGE Hugo,Jan,2,ICW,FRA,22,0,18
-32185,NYS Thibau,NYS Thibau,Jan,2,LTK,BEL,21,5.6,50
+32185,NYS Thibau,NYS Thibau,Jan,2,LTK,BEL,21,5.9,50
 26965,DAINESE Alberto,DAINESE Alberto,Jan,2,TUD,ITA,25,0.5,0
 20917,ACKERMANN Pascal,ACKERMANN Pascal,Jan,2,IPT,GER,29,0,20
 28553,DVERSNES Fredrik,DVERSNES Fredrik,Jan,2,UXT,NOR,26,0.1,18
@@ -230,7 +230,7 @@ renner_id,renner,rider,ploegleider,kosten,team,nationality,age,punten,JPP
 20257,WOODS Michael,WOODS Michael,Vel,2,IPT,CAN,37,0,0
 22662,VELASCO Simone,VELASCO Simone,Vel,1,AST,ITA,28,0.5,37
 28392,HERREGODTS Rune,HERREGODTS Rune,Vel,0,ICW,BEL,25,0,0
-26526,POGACAR Tadej,POGACAR Tadej,Wijnand,85,UAD,SLO,25,70.2,175
+26526,POGACAR Tadej,POGACAR Tadej,Wijnand,85,UAD,SLO,25,71.4,175
 20960,KUNG Stefan,KUNG Stefan,Wijnand,8,FDJ,SUI,30,1.5,53
 30635,HAYTER Leo,HAYTER Leo,Wijnand,1,IGD,GBR,22,0,0
 28451,ALEOTTI Giovanni,ALEOTTI Giovanni,Wijnand,1,BOH,ITA,24,0,0

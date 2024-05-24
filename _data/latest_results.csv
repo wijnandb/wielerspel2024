@@ -1,4 +1,5 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
+1,2.1s,"Tour of Estonia, Stage 1 : Tallinn - Tartu (prov.)",42956,VAHTRA Norman,24200,0.0,0,2024-05-24
 -4,GT2s,"Leiderstrui na Giro dItalia, Stage 18 : Fiera di Primiero - Padova (prov.)",42870,Pogacar Tadej,26526,0.0,0,2024-05-23
 -1,GT2s,"Jongerentrui na Giro dItalia, Stage 18 : Fiera di Primiero - Padova (prov.)",42870,Tiberi Antonio,30649,0.0,0,2024-05-23
 -2,GT2s,"Puntentrui na Giro dItalia, Stage 18 : Fiera di Primiero - Padova (prov.)",42870,Milan Jonathan,29359,0.0,0,2024-05-23
@@ -6,14 +7,9 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
 1,GT2s,"Giro dItalia, Stage 18 : Fiera di Primiero - Padova (prov.)",42870,MERLIER Tim,17988,0.0,0,2024-05-23
 1,2.PSs,"Boucles de la Mayenne, Prologue : Laval I.T.T. (prov.)",42968,COSNEFROY Benoit,24189,0.0,0,2024-05-23
 1,2.PSs,"Tour of Norway, Stage 1 : Voss - Voss Resort (prov.)",42963,NYS Thibau,32185,0.0,0,2024-05-23
-1,CCT2,Pan-American Championships (Sao Jose dos Campos) I.T.T. (prov.),42835,VARGAS ALZATE Walter Alejandro,23536,0.0,0,2024-05-23
+1,CCT2,Pan-American Championships (Sao Jose dos Campos) I.T.T.,42835,VARGAS ALZATE Walter Alejandro,23536,0.0,0,2024-05-23
 -4,GT2s,"Leiderstrui na Giro dItalia, Stage 17 : Selva di Val Gardena - Passo dei Brocon (prov.)",42869,Pogacar Tadej,26526,0.0,0,2024-05-22
 -1,GT2s,"Jongerentrui na Giro dItalia, Stage 17 : Selva di Val Gardena - Passo dei Brocon (prov.)",42869,Tiberi Antonio,30649,0.0,0,2024-05-22
 -2,GT2s,"Puntentrui na Giro dItalia, Stage 17 : Selva di Val Gardena - Passo dei Brocon (prov.)",42869,Milan Jonathan,29359,0.0,0,2024-05-22
 -3,GT2s,"Bergtrui na Giro dItalia, Stage 17 : Selva di Val Gardena - Passo dei Brocon (prov.)",42869,Pogacar Tadej,26526,0.0,0,2024-05-22
 1,GT2s,"Giro dItalia, Stage 17 : Selva di Val Gardena - Passo dei Brocon (prov.)",42869,STEINHAUSER Georg,30721,0.0,0,2024-05-22
--4,GT2s,"Leiderstrui na Giro dItalia, Stage 16 : Laas - Santa Cristina Val Gardena (prov.)",42868,Pogacar Tadej,26526,0.0,0,2024-05-21
--1,GT2s,"Jongerentrui na Giro dItalia, Stage 16 : Laas - Santa Cristina Val Gardena (prov.)",42868,Tiberi Antonio,30649,0.0,0,2024-05-21
--2,GT2s,"Puntentrui na Giro dItalia, Stage 16 : Laas - Santa Cristina Val Gardena (prov.)",42868,Milan Jonathan,29359,0.0,0,2024-05-21
--3,GT2s,"Bergtrui na Giro dItalia, Stage 16 : Laas - Santa Cristina Val Gardena (prov.)",42868,Pogacar Tadej,26526,0.0,0,2024-05-21
-1,GT2s,"Giro dItalia, Stage 16 : Laas - Santa Cristina Val Gardena (prov.)",42868,POGACAR Tadej,26526,0.0,0,2024-05-21

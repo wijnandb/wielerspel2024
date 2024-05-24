@@ -1,9 +1,11 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
 -4,GT2s,"Leiderstrui na Giro dItalia, Stage 19 : Mortegliano - Sappada (prov.)",42871,Pogacar Tadej,26526,0.0,0,2024-05-24
 -1,GT2s,"Jongerentrui na Giro dItalia, Stage 19 : Mortegliano - Sappada (prov.)",42871,Tiberi Antonio,30649,0.0,0,2024-05-24
+-2,GT2s,"Puntentrui na Giro dItalia, Stage 19 : Mortegliano - Sappada (prov.)",42871,Milan Jonathan,29359,0.0,0,2024-05-24
+-3,GT2s,"Bergtrui na Giro dItalia, Stage 19 : Mortegliano - Sappada (prov.)",42871,Pogacar Tadej,26526,0.0,0,2024-05-24
 1,GT2s,"Giro dItalia, Stage 19 : Mortegliano - Sappada (prov.)",42871,VENDRAME Andrea,22170,0.0,0,2024-05-24
-1,2.PSs,"Boucles de la Mayenne, Stage 1 : Saint-Berthevin - Ernée (prov.)",42969,JEANNIERE Emilien,29288,0.0,0,2024-05-24
 1,2.PSs,"Tour of Norway, Stage 2 : Odda - Gullingen (prov.)",42964,LAURANCE Axel,31621,0.0,0,2024-05-24
+1,2.PSs,"Boucles de la Mayenne, Stage 1 : Saint-Berthevin - Ernée (prov.)",42969,JEANNIERE Emilien,29288,0.0,0,2024-05-24
 1,2.1s,"Tour of Estonia, Stage 1 : Tallinn - Tartu (prov.)",42956,VAHTRA Norman,24200,0.0,0,2024-05-24
 -4,GT2s,"Leiderstrui na Giro dItalia, Stage 18 : Fiera di Primiero - Padova (prov.)",42870,Pogacar Tadej,26526,0.0,0,2024-05-23
 -1,GT2s,"Jongerentrui na Giro dItalia, Stage 18 : Fiera di Primiero - Padova (prov.)",42870,Tiberi Antonio,30649,0.0,0,2024-05-23

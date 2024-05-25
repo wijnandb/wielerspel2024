@@ -1,4 +1,10 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
+-4,GT2s,"Leiderstrui na Giro dItalia, Stage 20 : Alpago - Bassano del Grappa (prov.)",42872,Pogacar Tadej,26526,1,0,2024-05-25,Wijnand
+-1,GT2s,"Jongerentrui na Giro dItalia, Stage 20 : Alpago - Bassano del Grappa (prov.)",42872,Tiberi Antonio,30649,0.1,0,2024-05-25,-
+1,GT2s,"Giro dItalia, Stage 20 : Alpago - Bassano del Grappa (prov.)",42872,POGACAR Tadej,26526,2,0,2024-05-25,Wijnand
+1,2.PSs,"Tour of Norway, Stage 3 : Sola - Egersund (prov.)",42965,MEEUS Jordi,26421,0.3,0,2024-05-25,Vel
+1,2.PSs,"Boucles de la Mayenne, Stage 2 : Le Ham - Villaines-la-Juhel (prov.)",42970,BETTIOL Alberto,20697,0.3,0,2024-05-25,PB
+1,2.1s,"Tour of Estonia, Stage 2 : Tartu - Tartu (prov.)",42957,KISKONEN Siim,26040,0.2,0,2024-05-25,-
 -4,GT2s,"Leiderstrui na Giro dItalia, Stage 19 : Mortegliano - Sappada (prov.)",42871,Pogacar Tadej,26526,1,0,2024-05-24,Wijnand
 -1,GT2s,"Jongerentrui na Giro dItalia, Stage 19 : Mortegliano - Sappada (prov.)",42871,Tiberi Antonio,30649,0.1,0,2024-05-24,-
 -2,GT2s,"Puntentrui na Giro dItalia, Stage 19 : Mortegliano - Sappada (prov.)",42871,Milan Jonathan,29359,0.2,0,2024-05-24,Albert

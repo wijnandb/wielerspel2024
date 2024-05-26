@@ -1,4 +1,27 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
+1,GT2,"Giro dItalia, General classification (prov.)",42874,POGACAR Tadej,26526,25,50,2024-05-26,Wijnand
+2,GT2,"Giro dItalia, General classification (prov.)",42874,MARTINEZ POVEDA Daniel Felipe,23503,10,35,2024-05-26,PB
+3,GT2,"Giro dItalia, General classification (prov.)",42874,THOMAS Geraint,3891,7,25,2024-05-26,Arjan
+4,GT2,"Giro dItalia, General classification (prov.)",42874,O'CONNOR Ben,23763,5,20,2024-05-26,Nicky
+5,GT2,"Giro dItalia, General classification (prov.)",42874,TIBERI Antonio,30649,4,18,2024-05-26,-
+6,GT2,"Giro dItalia, General classification (prov.)",42874,ARENSMAN Thymen,27716,3,16,2024-05-26,Kees
+7,GT2,"Giro dItalia, General classification (prov.)",42874,RUBIO REYES Einer Augusto,27024,3,14,2024-05-26,Frank
+8,GT2,"Giro dItalia, General classification (prov.)",42874,HIRT Jan,17078,2,12,2024-05-26,-
+9,GT2,"Giro dItalia, General classification (prov.)",42874,BARDET Romain,13566,2,10,2024-05-26,Nicky
+10,GT2,"Giro dItalia, General classification (prov.)",42874,STORER Michael,25335,2,8,2024-05-26,Albert
+11,GT2,"Giro dItalia, General classification (prov.)",42874,ZANA Filippo,27749,1,0,2024-05-26,Jan
+12,GT2,"Giro dItalia, General classification (prov.)",42874,FORTUNATO Lorenzo,25552,1,0,2024-05-26,Paul
+13,GT2,"Giro dItalia, General classification (prov.)",42874,PIGANZOLI Davide,32232,1,0,2024-05-26,-
+14,GT2,"Giro dItalia, General classification (prov.)",42874,GESCHKE Simon,4742,1,0,2024-05-26,-
+15,GT2,"Giro dItalia, General classification (prov.)",42874,MAJKA Rafal,14310,1,0,2024-05-26,Kees
+0,GT2c,Correctie dragen jongerentrui in Giro d'Italia,42873,Tiberi Antonio,30649,-1.0,0,2024-05-26,-
+0,GT2c,Correctie dragen leiderstrui in Giro d'Italia,42874,Pogacar Tadej,26526,-19.0,0,2024-05-26,Wijnand
+0,GT2c,Correctie dragen puntentrui in Giro d'Italia,42875,Milan Jonathan,29359,-3.4,0,2024-05-26,Albert
+0,GT2c,Correctie dragen bergtrui in Giro d'Italia,42876,Pogacar Tadej,26526,-3.8,0,2024-05-26,Wijnand
+-1,GT2,"Winnaar jongerentrui Giro dItalia,",42873,Tiberi Antonio,30649,2,0,2024-05-26,-
+1,GT2s,"Giro dItalia, Stage 21 : Roma - Roma (prov.)",42873,MERLIER Tim,17988,2,0,2024-05-26,Frank
+1,GT2r,"Giro dItalia, Mountains classification (prov.)",42876,POGACAR Tadej,26526,5,0,2024-05-26,Wijnand
+1,GT2r,"Giro dItalia, Points classification (prov.)",42875,MILAN Jonathan,29359,5,0,2024-05-26,Albert
 1,2.PS,"Boucles de la Mayenne, General classification (prov.)",42972,BETTIOL Alberto,20697,4,50,2024-05-26,PB
 2,2.PS,"Boucles de la Mayenne, General classification (prov.)",42972,COSNEFROY Benoit,24189,1,35,2024-05-26,Bram
 3,2.PS,"Boucles de la Mayenne, General classification (prov.)",42972,ZINGLE Axel,31263,0.5,25,2024-05-26,Paul

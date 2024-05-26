@@ -5,7 +5,7 @@ renner_id,renner,rider,ploegleider,kosten,team,nationality,age,punten,JPP
 32721,MARTINEZ Lenny,MARTINEZ Lenny,Kees,7,FDJ,FRA,20,10.3,88
 29828,VAN WILDER Ilan,VAN WILDER Ilan,Kees,7,SOQ,BEL,23,0.5,40
 22018,GEOGHEGAN HART Tao,GEOGHEGAN HART Tao,Kees,6,LTK,GBR,28,0,10
-27716,ARENSMAN Thymen,ARENSMAN Thymen,Kees,5,IGD,NED,24,0,34
+27716,ARENSMAN Thymen,ARENSMAN Thymen,Kees,5,IGD,NED,24,3,50
 26508,MCNULTY Brandon,MCNULTY Brandon,Kees,4,UAD,USA,25,12.5,143
 24873,FOSS Tobias Svendsen,FOSS Tobias Svendsen,Kees,2,IGD,NOR,26,0.3,0
 20847,POLITT Nils,POLITT Nils,Kees,2,UAD,GER,29,6,94
@@ -21,5 +21,5 @@ renner_id,renner,rider,ploegleider,kosten,team,nationality,age,punten,JPP
 16941,CHAVES RUBIO Jhoan Esteban,CHAVES RUBIO Jhoan Esteban,Kees,1,EFE,COL,33,0,0
 17908,TEUNS Dylan,TEUNS Dylan,Kees,1,IPT,BEL,31,1,47
 16697,THEUNS Edward,THEUNS Edward,Kees,1,LTK,BEL,32,0,0
-14310,MAJKA Rafal,MAJKA Rafal,Kees,1,UAD,POL,34,0.3,0
+14310,MAJKA Rafal,MAJKA Rafal,Kees,1,UAD,POL,34,1.3,0
 29419,BARONCINI Filippo,BARONCINI Filippo,Kees,0,UAD,ITA,23,0,0

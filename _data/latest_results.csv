@@ -1,4 +1,19 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
+1,2.PS,"Tour of Norway, General classification (prov.)",42967,LAURANCE Axel,31621,0.0,0,2024-05-26
+2,2.PS,"Tour of Norway, General classification (prov.)",42967,LEMMEN Bart,32252,0.0,0,2024-05-26
+3,2.PS,"Tour of Norway, General classification (prov.)",42967,HOLTER Aadne,30167,0.0,0,2024-05-26
+4,2.PS,"Tour of Norway, General classification (prov.)",42967,VACEK Mathias,31713,0.0,0,2024-05-26
+5,2.PS,"Tour of Norway, General classification (prov.)",42967,BRENNER Marco,31323,0.0,0,2024-05-26
+6,2.PS,"Tour of Norway, General classification (prov.)",42967,RODRIGUEZ GARAICOECHEA Oscar,26216,0.0,0,2024-05-26
+7,2.PS,"Tour of Norway, General classification (prov.)",42967,HAYTER Ethan,27025,0.0,0,2024-05-26
+8,2.PS,"Tour of Norway, General classification (prov.)",42967,CORT NIELSEN Magnus,19448,0.0,0,2024-05-26
+9,2.PS,"Tour of Norway, General classification (prov.)",42967,BONNEU Kamiel,32584,0.0,0,2024-05-26
+10,2.PS,"Tour of Norway, General classification (prov.)",42967,HAGEN Carl Fredrik,23436,0.0,0,2024-05-26
+1,2.PSs,"Boucles de la Mayenne, Stage 3 : Quelaines-Saint-Gault - Laval (prov.)",42971,RETAILLEAU Valentin,29868,0.0,0,2024-05-26
+1,2.PSs,"Tour of Norway, Stage 4 : Stavanger - Stavanger (prov.)",42966,KRISTOFF Alexander,4179,0.0,0,2024-05-26
+1,1.1,Rund um Köln (prov.),42829,VAN UDEN Casper,30636,0.0,0,2024-05-26
+2,1.1,Rund um Köln (prov.),42829,GIRMAY HAILU Biniam,29474,0.0,0,2024-05-26
+3,1.1,Rund um Köln (prov.),42829,BLOUWE Louis,29120,0.0,0,2024-05-26
 -4,GT2s,"Leiderstrui na Giro dItalia, Stage 20 : Alpago - Bassano del Grappa (prov.)",42872,Pogacar Tadej,26526,0.0,0,2024-05-25
 -1,GT2s,"Jongerentrui na Giro dItalia, Stage 20 : Alpago - Bassano del Grappa (prov.)",42872,Tiberi Antonio,30649,0.0,0,2024-05-25
 -2,GT2s,"Puntentrui na Giro dItalia, Stage 20 : Alpago - Bassano del Grappa (prov.)",42872,Milan Jonathan,29359,0.0,0,2024-05-25
@@ -6,15 +21,7 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
 1,GT2s,"Giro dItalia, Stage 20 : Alpago - Bassano del Grappa (prov.)",42872,POGACAR Tadej,26526,0.0,0,2024-05-25
 1,2.PSs,"Boucles de la Mayenne, Stage 2 : Le Ham - Villaines-la-Juhel (prov.)",42970,BETTIOL Alberto,20697,0.0,0,2024-05-25
 1,2.PSs,"Tour of Norway, Stage 3 : Sola - Egersund (prov.)",42965,MEEUS Jordi,26421,0.0,0,2024-05-25
-1,2.1,"Tour of Estonia, General classification (prov.)",42958,KISKONEN Siim,26040,0.0,0,2024-05-25
-2,2.1,"Tour of Estonia, General classification (prov.)",42958,LAUK Karl Patrick,25669,0.0,0,2024-05-25
-3,2.1,"Tour of Estonia, General classification (prov.)",42958,ÄRM Rait,29780,0.0,0,2024-05-25
-1,2.1s,"Tour of Estonia, Stage 2 : Tartu - Tartu (prov.)",42957,KISKONEN Siim,26040,0.0,0,2024-05-25
--4,GT2s,"Leiderstrui na Giro dItalia, Stage 19 : Mortegliano - Sappada (prov.)",42871,Pogacar Tadej,26526,0.0,0,2024-05-24
--1,GT2s,"Jongerentrui na Giro dItalia, Stage 19 : Mortegliano - Sappada (prov.)",42871,Tiberi Antonio,30649,0.0,0,2024-05-24
--2,GT2s,"Puntentrui na Giro dItalia, Stage 19 : Mortegliano - Sappada (prov.)",42871,Milan Jonathan,29359,0.0,0,2024-05-24
--3,GT2s,"Bergtrui na Giro dItalia, Stage 19 : Mortegliano - Sappada (prov.)",42871,Pogacar Tadej,26526,0.0,0,2024-05-24
-1,GT2s,"Giro dItalia, Stage 19 : Mortegliano - Sappada (prov.)",42871,VENDRAME Andrea,22170,0.0,0,2024-05-24
-1,2.PSs,"Tour of Norway, Stage 2 : Odda - Gullingen (prov.)",42964,LAURANCE Axel,31621,0.0,0,2024-05-24
-1,2.PSs,"Boucles de la Mayenne, Stage 1 : Saint-Berthevin - Ernée (prov.)",42969,JEANNIERE Emilien,29288,0.0,0,2024-05-24
-1,2.1s,"Tour of Estonia, Stage 1 : Tallinn - Tartu (prov.)",42956,VAHTRA Norman,24200,0.0,0,2024-05-24
+1,2.1,"Tour of Estonia, General classification",42958,KISKONEN Siim,26040,0.0,0,2024-05-25
+2,2.1,"Tour of Estonia, General classification",42958,LAUK Karl Patrick,25669,0.0,0,2024-05-25
+3,2.1,"Tour of Estonia, General classification",42958,ÄRM Rait,29780,0.0,0,2024-05-25
+1,2.1s,"Tour of Estonia, Stage 2 : Tartu - Tartu",42957,KISKONEN Siim,26040,0.0,0,2024-05-25

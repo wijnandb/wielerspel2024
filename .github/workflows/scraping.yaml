@@ -3,7 +3,7 @@ on:
   #   branches:
   #     - main
   schedule:
-    - cron: '05 */6 * * *'
+    - cron: '05 15,16,17,18,19,20,21 * * *'
 
   workflow_dispatch:
 
@@ -13,7 +13,7 @@ jobs:
     permissions: write-all
 
     steps:
-      - uses: actions/checkout@v3.3.0
+      - uses: actions/checkout@v4
 
       - name: set user
         run: |
@@ -39,7 +39,7 @@ jobs:
     permissions: write-all
     needs: scraping
     steps:
-      - uses: actions/checkout@v3.3.0
+      - uses: actions/checkout@v4
 
       - name: set user
         run: |

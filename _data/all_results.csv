@@ -1,4 +1,976 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
+1,GT2,"Giro dItalia, General classification",42874,POGACAR Tadej,26526,0.0,0,2024-05-26
+2,GT2,"Giro dItalia, General classification",42874,MARTINEZ POVEDA Daniel Felipe,23503,0.0,0,2024-05-26
+3,GT2,"Giro dItalia, General classification",42874,THOMAS Geraint,3891,0.0,0,2024-05-26
+4,GT2,"Giro dItalia, General classification",42874,O'CONNOR Ben,23763,0.0,0,2024-05-26
+5,GT2,"Giro dItalia, General classification",42874,TIBERI Antonio,30649,0.0,0,2024-05-26
+6,GT2,"Giro dItalia, General classification",42874,ARENSMAN Thymen,27716,0.0,0,2024-05-26
+7,GT2,"Giro dItalia, General classification",42874,RUBIO REYES Einer Augusto,27024,0.0,0,2024-05-26
+8,GT2,"Giro dItalia, General classification",42874,HIRT Jan,17078,0.0,0,2024-05-26
+9,GT2,"Giro dItalia, General classification",42874,BARDET Romain,13566,0.0,0,2024-05-26
+10,GT2,"Giro dItalia, General classification",42874,STORER Michael,25335,0.0,0,2024-05-26
+11,GT2,"Giro dItalia, General classification",42874,ZANA Filippo,27749,0.0,0,2024-05-26
+12,GT2,"Giro dItalia, General classification",42874,FORTUNATO Lorenzo,25552,0.0,0,2024-05-26
+13,GT2,"Giro dItalia, General classification",42874,PIGANZOLI Davide,32232,0.0,0,2024-05-26
+14,GT2,"Giro dItalia, General classification",42874,GESCHKE Simon,4742,0.0,0,2024-05-26
+15,GT2,"Giro dItalia, General classification",42874,MAJKA Rafal,14310,0.0,0,2024-05-26
+0,GT2c,Correctie dragen jongerentrui in Giro d'Italia,42873,Tiberi Antonio,30649,-1.0,0,2024-05-26
+0,GT2c,Correctie dragen leiderstrui in Giro d'Italia,42874,Pogacar Tadej,26526,-19.0,0,2024-05-26
+0,GT2c,Correctie dragen puntentrui in Giro d'Italia,42875,Milan Jonathan,29359,-3.4,0,2024-05-26
+0,GT2c,Correctie dragen bergtrui in Giro d'Italia,42876,Pogacar Tadej,26526,-3.8,0,2024-05-26
+-1,GT2,"Winnaar jongerentrui Giro dItalia,",42873,Tiberi Antonio,30649,0,0,2024-05-26
+1,GT2s,"Giro dItalia, Stage 21 : Roma - Roma",42873,MERLIER Tim,17988,0.0,0,2024-05-26
+1,GT2r,"Giro dItalia, Mountains classification",42876,POGACAR Tadej,26526,0.0,0,2024-05-26
+1,GT2r,"Giro dItalia, Points classification",42875,MILAN Jonathan,29359,0.0,0,2024-05-26
+1,2.PS,"Boucles de la Mayenne, General classification",42972,BETTIOL Alberto,20697,0.0,0,2024-05-26
+2,2.PS,"Boucles de la Mayenne, General classification",42972,COSNEFROY Benoit,24189,0.0,0,2024-05-26
+3,2.PS,"Boucles de la Mayenne, General classification",42972,ZINGLE Axel,31263,0.0,0,2024-05-26
+4,2.PS,"Boucles de la Mayenne, General classification",42972,WATSON Samuel,32161,0.0,0,2024-05-26
+5,2.PS,"Boucles de la Mayenne, General classification",42972,JEANNIERE Emilien,29288,0.0,0,2024-05-26
+6,2.PS,"Boucles de la Mayenne, General classification",42972,HIRSCHI Marc,26509,0.0,0,2024-05-26
+7,2.PS,"Boucles de la Mayenne, General classification",42972,GODON Dorian,25704,0.0,0,2024-05-26
+8,2.PS,"Boucles de la Mayenne, General classification",42972,O'BRIEN Kelland,27113,0.0,0,2024-05-26
+9,2.PS,"Boucles de la Mayenne, General classification",42972,PENHOËT Paul,30686,0.0,0,2024-05-26
+10,2.PS,"Boucles de la Mayenne, General classification",42972,VAN DEN BERG Marijn,27674,0.0,0,2024-05-26
+1,2.PS,"Tour of Norway, General classification",42967,LAURANCE Axel,31621,0.0,0,2024-05-26
+2,2.PS,"Tour of Norway, General classification",42967,LEMMEN Bart,32252,0.0,0,2024-05-26
+3,2.PS,"Tour of Norway, General classification",42967,HOLTER Aadne,30167,0.0,0,2024-05-26
+4,2.PS,"Tour of Norway, General classification",42967,VACEK Mathias,31713,0.0,0,2024-05-26
+5,2.PS,"Tour of Norway, General classification",42967,BRENNER Marco,31323,0.0,0,2024-05-26
+6,2.PS,"Tour of Norway, General classification",42967,RODRIGUEZ GARAICOECHEA Oscar,26216,0.0,0,2024-05-26
+7,2.PS,"Tour of Norway, General classification",42967,HAYTER Ethan,27025,0.0,0,2024-05-26
+8,2.PS,"Tour of Norway, General classification",42967,CORT NIELSEN Magnus,19448,0.0,0,2024-05-26
+9,2.PS,"Tour of Norway, General classification",42967,BONNEU Kamiel,32584,0.0,0,2024-05-26
+10,2.PS,"Tour of Norway, General classification",42967,HAGEN Carl Fredrik,23436,0.0,0,2024-05-26
+1,2.PSs,"Boucles de la Mayenne, Stage 3 : Quelaines-Saint-Gault - Laval",42971,RETAILLEAU Valentin,29868,0.0,0,2024-05-26
+1,2.PSs,"Tour of Norway, Stage 4 : Stavanger - Stavanger",42966,KRISTOFF Alexander,4179,0.0,0,2024-05-26
+1,1.1,Rund um Köln,42829,VAN UDEN Casper,30636,0.0,0,2024-05-26
+2,1.1,Rund um Köln,42829,GIRMAY HAILU Biniam,29474,0.0,0,2024-05-26
+3,1.1,Rund um Köln,42829,BLOUWE Louis,29120,0.0,0,2024-05-26
+1,CC2,Pan-American Championships (Sao Jose dos Campos) R.R.,42834,LINAREZ MENESES Leangel Ruben,30518,0.0,0,2024-05-26
+2,CC2,Pan-American Championships (Sao Jose dos Campos) R.R.,42834,WALTERS Red,29355,0.0,0,2024-05-26
+3,CC2,Pan-American Championships (Sao Jose dos Campos) R.R.,42834,PAREDES ZAPATA Wilmar Andres,24876,0.0,0,2024-05-26
+4,CC2,Pan-American Championships (Sao Jose dos Campos) R.R.,42834,AULAR SANABRIA Orluis Alberto,24326,0.0,0,2024-05-26
+5,CC2,Pan-American Championships (Sao Jose dos Campos) R.R.,42834,BRENES MATA Sebastian,34598,0.0,0,2024-05-26
+6,CC2,Pan-American Championships (Sao Jose dos Campos) R.R.,42834,HOPKINS Kaden,30107,0.0,0,2024-05-26
+7,CC2,Pan-American Championships (Sao Jose dos Campos) R.R.,42834,SILVA COUSSAN Guillermo Thomas,32828,0.0,0,2024-05-26
+8,CC2,Pan-American Championships (Sao Jose dos Campos) R.R.,42834,SILVA Kleber Ramos,3166,0.0,0,2024-05-26
+9,CC2,Pan-American Championships (Sao Jose dos Campos) R.R.,42834,CHUMIL GONZALEZ Sergio Geovani,30471,0.0,0,2024-05-26
+10,CC2,Pan-American Championships (Sao Jose dos Campos) R.R.,42834,CASTILLO SOTO Ulises Alfredo,19739,0.0,0,2024-05-26
+-4,GT2s,"Leiderstrui na Giro dItalia, Stage 20 : Alpago - Bassano del Grappa (prov.)",42872,Pogacar Tadej,26526,0.0,0,2024-05-25
+-1,GT2s,"Jongerentrui na Giro dItalia, Stage 20 : Alpago - Bassano del Grappa (prov.)",42872,Tiberi Antonio,30649,0.0,0,2024-05-25
+-2,GT2s,"Puntentrui na Giro dItalia, Stage 20 : Alpago - Bassano del Grappa (prov.)",42872,Milan Jonathan,29359,0.0,0,2024-05-25
+-3,GT2s,"Bergtrui na Giro dItalia, Stage 20 : Alpago - Bassano del Grappa (prov.)",42872,Pogacar Tadej,26526,0.0,0,2024-05-25
+1,GT2s,"Giro dItalia, Stage 20 : Alpago - Bassano del Grappa (prov.)",42872,POGACAR Tadej,26526,0.0,0,2024-05-25
+1,2.PSs,"Boucles de la Mayenne, Stage 2 : Le Ham - Villaines-la-Juhel (prov.)",42970,BETTIOL Alberto,20697,0.0,0,2024-05-25
+1,2.PSs,"Tour of Norway, Stage 3 : Sola - Egersund (prov.)",42965,MEEUS Jordi,26421,0.0,0,2024-05-25
+1,2.1,"Tour of Estonia, General classification",42958,KISKONEN Siim,26040,0.0,0,2024-05-25
+2,2.1,"Tour of Estonia, General classification",42958,LAUK Karl Patrick,25669,0.0,0,2024-05-25
+3,2.1,"Tour of Estonia, General classification",42958,ÄRM Rait,29780,0.0,0,2024-05-25
+1,2.1s,"Tour of Estonia, Stage 2 : Tartu - Tartu",42957,KISKONEN Siim,26040,0.0,0,2024-05-25
+-4,GT2s,"Leiderstrui na Giro dItalia, Stage 19 : Mortegliano - Sappada (prov.)",42871,Pogacar Tadej,26526,0.0,0,2024-05-24
+-1,GT2s,"Jongerentrui na Giro dItalia, Stage 19 : Mortegliano - Sappada (prov.)",42871,Tiberi Antonio,30649,0.0,0,2024-05-24
+-2,GT2s,"Puntentrui na Giro dItalia, Stage 19 : Mortegliano - Sappada (prov.)",42871,Milan Jonathan,29359,0.0,0,2024-05-24
+-3,GT2s,"Bergtrui na Giro dItalia, Stage 19 : Mortegliano - Sappada (prov.)",42871,Pogacar Tadej,26526,0.0,0,2024-05-24
+1,GT2s,"Giro dItalia, Stage 19 : Mortegliano - Sappada (prov.)",42871,VENDRAME Andrea,22170,0.0,0,2024-05-24
+1,2.PSs,"Tour of Norway, Stage 2 : Odda - Gullingen (prov.)",42964,LAURANCE Axel,31621,0.0,0,2024-05-24
+1,2.PSs,"Boucles de la Mayenne, Stage 1 : Saint-Berthevin - Ernée (prov.)",42969,JEANNIERE Emilien,29288,0.0,0,2024-05-24
+1,2.1s,"Tour of Estonia, Stage 1 : Tallinn - Tartu (prov.)",42956,VAHTRA Norman,24200,0.0,0,2024-05-24
+-4,GT2s,"Leiderstrui na Giro dItalia, Stage 18 : Fiera di Primiero - Padova (prov.)",42870,Pogacar Tadej,26526,0.0,0,2024-05-23
+-1,GT2s,"Jongerentrui na Giro dItalia, Stage 18 : Fiera di Primiero - Padova (prov.)",42870,Tiberi Antonio,30649,0.0,0,2024-05-23
+-2,GT2s,"Puntentrui na Giro dItalia, Stage 18 : Fiera di Primiero - Padova (prov.)",42870,Milan Jonathan,29359,0.0,0,2024-05-23
+-3,GT2s,"Bergtrui na Giro dItalia, Stage 18 : Fiera di Primiero - Padova (prov.)",42870,Pogacar Tadej,26526,0.0,0,2024-05-23
+1,GT2s,"Giro dItalia, Stage 18 : Fiera di Primiero - Padova (prov.)",42870,MERLIER Tim,17988,0.0,0,2024-05-23
+1,2.PSs,"Boucles de la Mayenne, Prologue : Laval I.T.T. (prov.)",42968,COSNEFROY Benoit,24189,0.0,0,2024-05-23
+1,2.PSs,"Tour of Norway, Stage 1 : Voss - Voss Resort (prov.)",42963,NYS Thibau,32185,0.0,0,2024-05-23
+1,CCT2,Pan-American Championships (Sao Jose dos Campos) I.T.T.,42835,VARGAS ALZATE Walter Alejandro,23536,0.0,0,2024-05-23
+-4,GT2s,"Leiderstrui na Giro dItalia, Stage 17 : Selva di Val Gardena - Passo dei Brocon (prov.)",42869,Pogacar Tadej,26526,0.0,0,2024-05-22
+-1,GT2s,"Jongerentrui na Giro dItalia, Stage 17 : Selva di Val Gardena - Passo dei Brocon (prov.)",42869,Tiberi Antonio,30649,0.0,0,2024-05-22
+-2,GT2s,"Puntentrui na Giro dItalia, Stage 17 : Selva di Val Gardena - Passo dei Brocon (prov.)",42869,Milan Jonathan,29359,0.0,0,2024-05-22
+-3,GT2s,"Bergtrui na Giro dItalia, Stage 17 : Selva di Val Gardena - Passo dei Brocon (prov.)",42869,Pogacar Tadej,26526,0.0,0,2024-05-22
+1,GT2s,"Giro dItalia, Stage 17 : Selva di Val Gardena - Passo dei Brocon (prov.)",42869,STEINHAUSER Georg,30721,0.0,0,2024-05-22
+-4,GT2s,"Leiderstrui na Giro dItalia, Stage 16 : Laas - Santa Cristina Val Gardena (prov.)",42868,Pogacar Tadej,26526,0.0,0,2024-05-21
+-1,GT2s,"Jongerentrui na Giro dItalia, Stage 16 : Laas - Santa Cristina Val Gardena (prov.)",42868,Tiberi Antonio,30649,0.0,0,2024-05-21
+-2,GT2s,"Puntentrui na Giro dItalia, Stage 16 : Laas - Santa Cristina Val Gardena (prov.)",42868,Milan Jonathan,29359,0.0,0,2024-05-21
+-3,GT2s,"Bergtrui na Giro dItalia, Stage 16 : Laas - Santa Cristina Val Gardena (prov.)",42868,Pogacar Tadej,26526,0.0,0,2024-05-21
+1,GT2s,"Giro dItalia, Stage 16 : Laas - Santa Cristina Val Gardena (prov.)",42868,POGACAR Tadej,26526,0.0,0,2024-05-21
+1,1.1,Ronde van Limburg,42821,GROENEWEGEN Dylan,19238,0.0,0,2024-05-20
+2,1.1,Ronde van Limburg,42821,BALLERSTEDT Maurice,30560,0.0,0,2024-05-20
+3,1.1,Ronde van Limburg,42821,DE LIE Arnaud,32221,0.0,0,2024-05-20
+-4,GT2s,"Leiderstrui na Giro dItalia, Stage 15 : Manerba del Garda - Livigno (prov.)",42867,Pogacar Tadej,26526,0.0,0,2024-05-19
+-1,GT2s,"Jongerentrui na Giro dItalia, Stage 15 : Manerba del Garda - Livigno (prov.)",42867,Tiberi Antonio,30649,0.0,0,2024-05-19
+-2,GT2s,"Puntentrui na Giro dItalia, Stage 15 : Manerba del Garda - Livigno (prov.)",42867,Milan Jonathan,29359,0.0,0,2024-05-19
+-3,GT2s,"Bergtrui na Giro dItalia, Stage 15 : Manerba del Garda - Livigno (prov.)",42867,Pogacar Tadej,26526,0.0,0,2024-05-19
+1,GT2s,"Giro dItalia, Stage 15 : Manerba del Garda - Livigno (prov.)",42867,POGACAR Tadej,26526,0.0,0,2024-05-19
+1,2.PS,"4 Jours de Dunkerque, General classification",42910,BENNETT Sam,13362,0.0,0,2024-05-19
+2,2.PS,"4 Jours de Dunkerque, General classification",42910,PENHOËT Paul,30686,0.0,0,2024-05-19
+3,2.PS,"4 Jours de Dunkerque, General classification",42910,BERCKMOES Jenno,32588,0.0,0,2024-05-19
+4,2.PS,"4 Jours de Dunkerque, General classification",42910,VAN BOVEN Luca,31597,0.0,0,2024-05-19
+5,2.PS,"4 Jours de Dunkerque, General classification",42910,DELETTRE Alexandre,30519,0.0,0,2024-05-19
+6,2.PS,"4 Jours de Dunkerque, General classification",42910,FRETIN Milan,32617,0.0,0,2024-05-19
+7,2.PS,"4 Jours de Dunkerque, General classification",42910,KOPECKY Tomas,30677,0.0,0,2024-05-19
+8,2.PS,"4 Jours de Dunkerque, General classification",42910,NAESEN Oliver,21392,0.0,0,2024-05-19
+9,2.PS,"4 Jours de Dunkerque, General classification",42910,GACHIGNARD Thomas,32640,0.0,0,2024-05-19
+10,2.PS,"4 Jours de Dunkerque, General classification",42910,DE GENDT Aimé,21998,0.0,0,2024-05-19
+1,2.PSs,"4 Jours de Dunkerque, Stage 6 : Loon-Plage - Dunkerque",42909,BENNETT Sam,13362,0.0,0,2024-05-19
+1,2.1,"Tour of Hellas, General classification",42916,ZOIDL Riccardo,6828,0.0,0,2024-05-19
+2,2.1,"Tour of Hellas, General classification",42916,PERNSTEINER Hermann,25790,0.0,0,2024-05-19
+3,2.1,"Tour of Hellas, General classification",42916,CONTI Valerio,21295,0.0,0,2024-05-19
+1,1.1,Antwerp Port Epic,42818,KRISTOFF Alexander,4179,0.0,0,2024-05-19
+2,1.1,Antwerp Port Epic,42818,JEANNIERE Emilien,29288,0.0,0,2024-05-19
+3,1.1,Antwerp Port Epic,42818,KOGUT Oded,31902,0.0,0,2024-05-19
+1,2.1s,"Tour of Hellas, Stage 5 : Athens - Athens",42915,RUDYK Bartosz,27241,0.0,0,2024-05-19
+1,1.1,National Championships United States (Charleston) R.R.,42814,QUINN Sean,29331,0.0,0,2024-05-19
+2,1.1,National Championships United States (Charleston) R.R.,42814,MCNULTY Brandon,26508,0.0,0,2024-05-19
+3,1.1,National Championships United States (Charleston) R.R.,42814,POWLESS Neilson,24902,0.0,0,2024-05-19
+1,2.NC,"Orlen Nations GP, General classification",42922,RONDEL Mathys,34305,0.0,0,2024-05-19
+2,2.NC,"Orlen Nations GP, General classification",42922,ROLLAND Brieuc,33756,0.0,0,2024-05-19
+3,2.NC,"Orlen Nations GP, General classification",42922,WALLENBORN Arno,33835,0.0,0,2024-05-19
+4,2.NC,"Orlen Nations GP, General classification",42922,BRENNAN Matthew,35227,0.0,0,2024-05-19
+5,2.NC,"Orlen Nations GP, General classification",42922,VERSTRYNGE Emiel,33562,0.0,0,2024-05-19
+6,2.NC,"Orlen Nations GP, General classification",42922,WEISS Fabian,32845,0.0,0,2024-05-19
+7,2.NC,"Orlen Nations GP, General classification",42922,DOSTIYEV Ilkhan,31966,0.0,0,2024-05-19
+8,2.NC,"Orlen Nations GP, General classification",42922,ORINS Robin,32677,0.0,0,2024-05-19
+9,2.NC,"Orlen Nations GP, General classification",42922,DOCKX Aaron,34689,0.0,0,2024-05-19
+10,2.NC,"Orlen Nations GP, General classification",42922,GUARDEÑO ROMA Jaume,35509,0.0,0,2024-05-19
+1,2.NCs,"Orlen Nations GP, Stage 5 : Lesko - Hotel Arlamov",42921,DOSTIYEV Ilkhan,31966,0.0,0,2024-05-19
+1,2.1s,"Tour of Japan, Stage 2 : Inabe - Inabe (prov.)",42930,CARBONI Giovanni,22210,0.0,0,2024-05-21
+-4,GT2s,"Leiderstrui na Giro dItalia, Stage 14 : Castiglione delle Stivere - Desenzano del Garda I.T.T. (prov.)",42866,Pogacar Tadej,26526,0.0,0,2024-05-18
+-1,GT2s,"Jongerentrui na Giro dItalia, Stage 14 : Castiglione delle Stivere - Desenzano del Garda I.T.T. (prov.)",42866,Tiberi Antonio,30649,0.0,0,2024-05-18
+-2,GT2s,"Puntentrui na Giro dItalia, Stage 14 : Castiglione delle Stivere - Desenzano del Garda I.T.T. (prov.)",42866,Milan Jonathan,29359,0.0,0,2024-05-18
+-3,GT2s,"Bergtrui na Giro dItalia, Stage 14 : Castiglione delle Stivere - Desenzano del Garda I.T.T. (prov.)",42866,Pogacar Tadej,26526,0.0,0,2024-05-18
+1,GT2s,"Giro dItalia, Stage 14 : Castiglione delle Stivere - Desenzano del Garda I.T.T. (prov.)",42866,GANNA Filippo,24057,0.0,0,2024-05-18
+1,2.PSs,"4 Jours de Dunkerque, Stage 5 : Arques - Cassel",42908,BENNETT Sam,13362,0.0,0,2024-05-18
+1,1.1,Veenendaal - Veenendaal Classic,42817,GUDMESTAD Tord,30776,0.0,0,2024-05-18
+2,1.1,Veenendaal - Veenendaal Classic,42817,DEHAIRS Simon,32634,0.0,0,2024-05-18
+3,1.1,Veenendaal - Veenendaal Classic,42817,GROENEWEGEN Dylan,19238,0.0,0,2024-05-18
+1,2.1s,"Tour of Hellas, Stage 4 : Spercheiada - Chalkida (prov.)",42914,HICKS Dylan,34554,0.0,0,2024-05-18
+1,2.NCs,"Orlen Nations GP, Stage 4 : Bukiniva Resort - Jaslo (prov.)",42920,HANSEN Peter Øxenberg,36268,0.0,0,2024-05-18
+1,NC5,National Championships Egypt () R.R.,42816,EL SAIFY Hassan,29430,0.0,0,2024-05-18
+-4,GT2s,"Leiderstrui na Giro dItalia, Stage 13 : Riccione - Cento (prov.)",42865,Pogacar Tadej,26526,0.0,0,2024-05-17
+-1,GT2s,"Jongerentrui na Giro dItalia, Stage 13 : Riccione - Cento (prov.)",42865,Tiberi Antonio,30649,0.0,0,2024-05-17
+-2,GT2s,"Puntentrui na Giro dItalia, Stage 13 : Riccione - Cento (prov.)",42865,Milan Jonathan,29359,0.0,0,2024-05-17
+-3,GT2s,"Bergtrui na Giro dItalia, Stage 13 : Riccione - Cento (prov.)",42865,Pogacar Tadej,26526,0.0,0,2024-05-17
+1,GT2s,"Giro dItalia, Stage 13 : Riccione - Cento (prov.)",42865,MILAN Jonathan,29359,0.0,0,2024-05-17
+1,2.PSs,"4 Jours de Dunkerque, Stage 4 : Mazingarbe - Pont-à-Marcq (prov.)",42907,VANGHELUWE Warre,31233,0.0,0,2024-05-17
+1,2.1s,"Tour of Hellas, Stage 3 : Karditsa - Karpenisi (prov.)",42913,ZOIDL Riccardo,6828,0.0,0,2024-05-17
+1,2.NCs,"Orlen Nations GP, Stage 3 : Tvrdosin - Strbske Pleso (prov.)",42919,KOCKELMANN Mathieu,34217,0.0,0,2024-05-17
+-4,GT2s,"Leiderstrui na Giro dItalia, Stage 12 : Martiniscuro - Fano (prov.)",42864,Pogacar Tadej,26526,0.0,0,2024-05-16
+-1,GT2s,"Jongerentrui na Giro dItalia, Stage 12 : Martiniscuro - Fano (prov.)",42864,Tiberi Antonio,30649,0.0,0,2024-05-16
+-2,GT2s,"Puntentrui na Giro dItalia, Stage 12 : Martiniscuro - Fano (prov.)",42864,Milan Jonathan,29359,0.0,0,2024-05-16
+-3,GT2s,"Bergtrui na Giro dItalia, Stage 12 : Martiniscuro - Fano (prov.)",42864,Pogacar Tadej,26526,0.0,0,2024-05-16
+1,GT2s,"Giro dItalia, Stage 12 : Martiniscuro - Fano (prov.)",42864,ALAPHILIPPE Julian,18610,0.0,0,2024-05-16
+1,2.PSs,"4 Jours de Dunkerque, Stage 3 : St-Laurent-Blangy - Bouchain (prov.)",42906,BENNETT Sam,13362,0.0,0,2024-05-16
+1,2.1s,"Tour of Hellas, Stage 2 : Katerini - Karditsa (prov.)",42912,RITZINGER Felix,27270,0.0,0,2024-05-16
+1,2.NCs,"Orlen Nations GP, Stage 2 : Prerov - Kohutka (prov.)",42918,RONDEL Mathys,34305,0.0,0,2024-05-16
+-4,GT2s,"Leiderstrui na Giro dItalia, Stage 11 : Foiano di Valfortore - Francavilla Al Mare (prov.)",42863,Pogacar Tadej,26526,0.0,0,2024-05-15
+-1,GT2s,"Jongerentrui na Giro dItalia, Stage 11 : Foiano di Valfortore - Francavilla Al Mare (prov.)",42863,Tiberi Antonio,30649,0.0,0,2024-05-15
+-2,GT2s,"Puntentrui na Giro dItalia, Stage 11 : Foiano di Valfortore - Francavilla Al Mare (prov.)",42863,Milan Jonathan,29359,0.0,0,2024-05-15
+-3,GT2s,"Bergtrui na Giro dItalia, Stage 11 : Foiano di Valfortore - Francavilla Al Mare (prov.)",42863,Pogacar Tadej,26526,0.0,0,2024-05-15
+1,GT2s,"Giro dItalia, Stage 11 : Foiano di Valfortore - Francavilla Al Mare (prov.)",42863,MILAN Jonathan,29359,0.0,0,2024-05-15
+1,2.PSs,"4 Jours de Dunkerque, Stage 2 : Wimereux - Abbeville (prov.)",42905,BENNETT Sam,13362,0.0,0,2024-05-15
+1,2.1s,"Tour of Hellas, Stage 1b : Thessaloniki - Katerini (prov.)",42911,MARECZKO Jakub,22713,0.0,0,2024-05-15
+1,2.1s,"Tour of Hellas, Stage 1a : Thessaloniki I.T.T. (prov.)",42664,LEITAO Iuri Gabriel Dantas,31829,0.0,0,2024-05-15
+1,NCT3,National Championships United States (Charleston) I.T.T. (prov.),42813,MCNULTY Brandon,26508,0.0,0,2024-05-15
+1,2.NCs,"Orlen Nations GP, Stage 1 : Prostejov - Bouzov (prov.)",42917,EGHOLM Kristian,34393,0.0,0,2024-05-15
+-4,GT2s,"Leiderstrui na Giro dItalia, Stage 10 : Pompei - Cusano Mutri (prov.)",42862,Pogacar Tadej,26526,0.0,0,2024-05-14
+-1,GT2s,"Jongerentrui na Giro dItalia, Stage 10 : Pompei - Cusano Mutri (prov.)",42862,Uijtdebroeks Cian,31803,0.0,0,2024-05-14
+-2,GT2s,"Puntentrui na Giro dItalia, Stage 10 : Pompei - Cusano Mutri (prov.)",42862,Milan Jonathan,29359,0.0,0,2024-05-14
+-3,GT2s,"Bergtrui na Giro dItalia, Stage 10 : Pompei - Cusano Mutri (prov.)",42862,Pogacar Tadej,26526,0.0,0,2024-05-14
+1,GT2s,"Giro dItalia, Stage 10 : Pompei - Cusano Mutri (prov.)",42862,PARET PEINTRE Valentin,31495,0.0,0,2024-05-14
+1,2.PSs,"4 Jours de Dunkerque, Stage 1 : Dunkerque - Le Touquet (prov.)",42904,FRETIN Milan,32617,0.0,0,2024-05-14
+-4,GT2s,"Leiderstrui na Giro dItalia, Stage 9 : Avezzano - Napoli (prov.)",42861,Pogacar Tadej,26526,0.0,0,2024-05-12
+-1,GT2s,"Jongerentrui na Giro dItalia, Stage 9 : Avezzano - Napoli (prov.)",42861,Uijtdebroeks Cian,31803,0.0,0,2024-05-12
+-2,GT2s,"Puntentrui na Giro dItalia, Stage 9 : Avezzano - Napoli (prov.)",42861,Milan Jonathan,29359,0.0,0,2024-05-12
+-3,GT2s,"Bergtrui na Giro dItalia, Stage 9 : Avezzano - Napoli (prov.)",42861,Pogacar Tadej,26526,0.0,0,2024-05-12
+1,GT2s,"Giro dItalia, Stage 9 : Avezzano - Napoli (prov.)",42861,KOOIJ Olav,30643,0.0,0,2024-05-12
+1,2.PS,"Tour de Hongrie, General classification",42888,NYS Thibau,32185,0.0,0,2024-05-12
+2,2.PS,"Tour de Hongrie, General classification",42888,BUCHMANN Emanuel,18739,0.0,0,2024-05-12
+3,2.PS,"Tour de Hongrie, General classification",42888,POELS Wout,7751,0.0,0,2024-05-12
+4,2.PS,"Tour de Hongrie, General classification",42888,ULISSI Diego,10023,0.0,0,2024-05-12
+5,2.PS,"Tour de Hongrie, General classification",42888,HIRSCHI Marc,26509,0.0,0,2024-05-12
+6,2.PS,"Tour de Hongrie, General classification",42888,VANHOUCKE Harm,25652,0.0,0,2024-05-12
+7,2.PS,"Tour de Hongrie, General classification",42888,SCOTSON Callum,25164,0.0,0,2024-05-12
+8,2.PS,"Tour de Hongrie, General classification",42888,HOWSON Damien,18239,0.0,0,2024-05-12
+9,2.PS,"Tour de Hongrie, General classification",42888,RODRIGUEZ GARAICOECHEA Oscar,26216,0.0,0,2024-05-12
+10,2.PS,"Tour de Hongrie, General classification",42888,VOISARD Yannis,27977,0.0,0,2024-05-12
+1,2.PSs,"Tour de Hongrie, Stage 5 : Siofok - Pecs",42887,POELS Wout,7751,0.0,0,2024-05-12
+1,1.1,Boucles de l'Aulne - Châteaulin,42811,ZINGLE Axel,31263,0.0,0,2024-05-12
+2,1.1,Boucles de l'Aulne - Châteaulin,42811,DELETTRE Alexandre,30519,0.0,0,2024-05-12
+3,1.1,Boucles de l'Aulne - Châteaulin,42811,WÜRTZ SCHMIDT Mads,20818,0.0,0,2024-05-12
+-4,GT2s,"Leiderstrui na Giro dItalia, Stage 8 : Spoletto - Prati di Tivo (prov.)",42860,Pogacar Tadej,26526,0.0,0,2024-05-11
+-1,GT2s,"Jongerentrui na Giro dItalia, Stage 8 : Spoletto - Prati di Tivo (prov.)",42860,Uijtdebroeks Cian,31803,0.0,0,2024-05-11
+-2,GT2s,"Puntentrui na Giro dItalia, Stage 8 : Spoletto - Prati di Tivo (prov.)",42860,Milan Jonathan,29359,0.0,0,2024-05-11
+-3,GT2s,"Bergtrui na Giro dItalia, Stage 8 : Spoletto - Prati di Tivo (prov.)",42860,Pogacar Tadej,26526,0.0,0,2024-05-11
+1,GT2s,"Giro dItalia, Stage 8 : Spoletto - Prati di Tivo (prov.)",42860,POGACAR Tadej,26526,0.0,0,2024-05-11
+1,2.PSs,"Tour de Hongrie, Stage 4 : Budapest - Etyek",42886,NYS Thibau,32185,0.0,0,2024-05-11
+1,1.1,Tour du Finistère,42808,COSNEFROY Benoit,24189,0.0,0,2024-05-11
+2,1.1,Tour du Finistère,42808,STRONG Corbin,29492,0.0,0,2024-05-11
+3,1.1,Tour du Finistère,42808,MOLARD Rudy,11818,0.0,0,2024-05-11
+-4,GT2s,"Leiderstrui na Giro dItalia, Stage 7 : Foligno - Perugia I.T.T. (prov.)",42859,Pogacar Tadej,26526,0.0,0,2024-05-10
+-1,GT2s,"Jongerentrui na Giro dItalia, Stage 7 : Foligno - Perugia I.T.T. (prov.)",42859,Plapp Lucas,29787,0.0,0,2024-05-10
+-2,GT2s,"Puntentrui na Giro dItalia, Stage 7 : Foligno - Perugia I.T.T. (prov.)",42859,Milan Jonathan,29359,0.0,0,2024-05-10
+-3,GT2s,"Bergtrui na Giro dItalia, Stage 7 : Foligno - Perugia I.T.T. (prov.)",42859,Pogacar Tadej,26526,0.0,0,2024-05-10
+1,GT2s,"Giro dItalia, Stage 7 : Foligno - Perugia I.T.T. (prov.)",42859,POGACAR Tadej,26526,0.0,0,2024-05-10
+1,2.PSs,"Tour de Hongrie, Stage 3 : Kazincbarcika - Gyongyos-Kekesteto",42885,NYS Thibau,32185,0.0,0,2024-05-10
+-4,GT2s,"Leiderstrui na Giro dItalia, Stage 6 : Viareggio - Rapolano Terme (prov.)",42858,Pogacar Tadej,26526,0.0,0,2024-05-09
+-1,GT2s,"Jongerentrui na Giro dItalia, Stage 6 : Viareggio - Rapolano Terme (prov.)",42858,Uijtdebroeks Cian,31803,0.0,0,2024-05-09
+-2,GT2s,"Puntentrui na Giro dItalia, Stage 6 : Viareggio - Rapolano Terme (prov.)",42858,Milan Jonathan,29359,0.0,0,2024-05-09
+-3,GT2s,"Bergtrui na Giro dItalia, Stage 6 : Viareggio - Rapolano Terme (prov.)",42858,Pogacar Tadej,26526,0.0,0,2024-05-09
+1,GT2s,"Giro dItalia, Stage 6 : Viareggio - Rapolano Terme (prov.)",42858,SANCHEZ MAYO Pelayo,31655,0.0,0,2024-05-09
+1,2.PSs,"Tour de Hongrie, Stage 2 : Tokaj - Kazincbarcika (prov.)",42884,CAVENDISH Mark,3448,0.0,0,2024-05-09
+1,1.1,Circuit de Wallonie,42805,DE LIE Arnaud,32221,0.0,0,2024-05-09
+2,1.1,Circuit de Wallonie,42805,ZINGLE Axel,31263,0.0,0,2024-05-09
+3,1.1,Circuit de Wallonie,42805,BRENNAN Matthew,35227,0.0,0,2024-05-09
+-4,GT2s,"Leiderstrui na Giro dItalia, Stage 5 : Genoa - Lucca (prov.)",42857,Pogacar Tadej,26526,0.0,0,2024-05-08
+-1,GT2s,"Jongerentrui na Giro dItalia, Stage 5 : Genoa - Lucca (prov.)",42857,Uijtdebroeks Cian,31803,0.0,0,2024-05-08
+-2,GT2s,"Puntentrui na Giro dItalia, Stage 5 : Genoa - Lucca (prov.)",42857,Milan Jonathan,29359,0.0,0,2024-05-08
+-3,GT2s,"Bergtrui na Giro dItalia, Stage 5 : Genoa - Lucca (prov.)",42857,Pogacar Tadej,26526,0.0,0,2024-05-08
+1,GT2s,"Giro dItalia, Stage 5 : Genoa - Lucca (prov.)",42857,THOMAS Benjamin,23641,0.0,0,2024-05-08
+1,2.PSs,"Tour de Hongrie, Stage 1 : Karcag - Hajduszoboszlo (prov.)",42883,WELSFORD Sam,23517,0.0,0,2024-05-08
+-4,GT2s,"Leiderstrui na Giro dItalia, Stage 4 : Acqui Terme - Andora (prov.)",42856,Pogacar Tadej,26526,0.0,0,2024-05-07
+-1,GT2s,"Jongerentrui na Giro dItalia, Stage 4 : Acqui Terme - Andora (prov.)",42856,Uijtdebroeks Cian,31803,0.0,0,2024-05-07
+-2,GT2s,"Puntentrui na Giro dItalia, Stage 4 : Acqui Terme - Andora (prov.)",42856,Milan Jonathan,29359,0.0,0,2024-05-07
+-3,GT2s,"Bergtrui na Giro dItalia, Stage 4 : Acqui Terme - Andora (prov.)",42856,Pogacar Tadej,26526,0.0,0,2024-05-07
+1,GT2s,"Giro dItalia, Stage 4 : Acqui Terme - Andora (prov.)",42856,MILAN Jonathan,29359,0.0,0,2024-05-07
+-4,GT2s,"Leiderstrui na Giro dItalia, Stage 3 : Novara - Fossano (prov.)",42855,Pogacar Tadej,26526,0.0,0,2024-05-06
+-1,GT2s,"Jongerentrui na Giro dItalia, Stage 3 : Novara - Fossano (prov.)",42855,Uijtdebroeks Cian,31803,0.0,0,2024-05-06
+-2,GT2s,"Puntentrui na Giro dItalia, Stage 3 : Novara - Fossano (prov.)",42855,Merlier Tim,17988,0.0,0,2024-05-06
+-3,GT2s,"Bergtrui na Giro dItalia, Stage 3 : Novara - Fossano (prov.)",42855,Pogacar Tadej,26526,0.0,0,2024-05-06
+1,GT2s,"Giro dItalia, Stage 3 : Novara - Fossano (prov.)",42855,MERLIER Tim,17988,0.0,0,2024-05-06
+-4,GT2s,"Leiderstrui na Giro dItalia, Stage 2 : San Francesco al Campo - Santuario di Oropa (prov.)",42854,Pogacar Tadej,26526,0.0,0,2024-05-05
+-1,GT2s,"Jongerentrui na Giro dItalia, Stage 2 : San Francesco al Campo - Santuario di Oropa (prov.)",42854,Uijtdebroeks Cian,31803,0.0,0,2024-05-05
+-2,GT2s,"Puntentrui na Giro dItalia, Stage 2 : San Francesco al Campo - Santuario di Oropa (prov.)",42854,Fiorelli Filippo,24152,0.0,0,2024-05-05
+-3,GT2s,"Bergtrui na Giro dItalia, Stage 2 : San Francesco al Campo - Santuario di Oropa (prov.)",42854,Pogacar Tadej,26526,0.0,0,2024-05-05
+1,GT2s,"Giro dItalia, Stage 2 : San Francesco al Campo - Santuario di Oropa (prov.)",42854,POGACAR Tadej,26526,0.0,0,2024-05-05
+1,1.PS,Tro-Bro Léon,42802,DE LIE Arnaud,32221,0.0,0,2024-05-05
+2,1.PS,Tro-Bro Léon,42802,VENTURINI Clément,21428,0.0,0,2024-05-05
+3,1.PS,Tro-Bro Léon,42802,GAUTHERAT Pierre,33533,0.0,0,2024-05-05
+4,1.PS,Tro-Bro Léon,42802,SHEEHAN Riley,29301,0.0,0,2024-05-05
+5,1.PS,Tro-Bro Léon,42802,ABRAHAMSEN Jonas,22233,0.0,0,2024-05-05
+6,1.PS,Tro-Bro Léon,42802,VAN NIEKERK Morne,22519,0.0,0,2024-05-05
+7,1.PS,Tro-Bro Léon,42802,MOZZATO Luca,28037,0.0,0,2024-05-05
+8,1.PS,Tro-Bro Léon,42802,GACHIGNARD Thomas,32640,0.0,0,2024-05-05
+9,1.PS,Tro-Bro Léon,42802,HOELGAARD Markus,20760,0.0,0,2024-05-05
+10,1.PS,Tro-Bro Léon,42802,VAN ASBROECK Tom,18504,0.0,0,2024-05-05
+1,1.1,Elfstedenronde - Brugge,42804,KRISTOFF Alexander,4179,0.0,0,2024-05-05
+2,1.1,Elfstedenronde - Brugge,42804,VAN DE PAAR Jarne,29798,0.0,0,2024-05-05
+3,1.1,Elfstedenronde - Brugge,42804,BARBIER Pierre,25501,0.0,0,2024-05-05
+-4,GT2s,"Leiderstrui na Giro dItalia, Stage 1 : Venaria Reale - Torino (prov.)",42853,Narvaez Jhonnatan,25157,0.0,0,2024-05-04
+-1,GT2s,"Jongerentrui na Giro dItalia, Stage 1 : Venaria Reale - Torino (prov.)",42853,Baudin Alex,32146,0.0,0,2024-05-04
+-2,GT2s,"Puntentrui na Giro dItalia, Stage 1 : Venaria Reale - Torino (prov.)",42853,Narvaez Jhonnatan,25157,0.0,0,2024-05-04
+-3,GT2s,"Bergtrui na Giro dItalia, Stage 1 : Venaria Reale - Torino (prov.)",42853,Calmejane Lilian,21439,0.0,0,2024-05-04
+1,GT2s,"Giro dItalia, Stage 1 : Venaria Reale - Torino (prov.)",42853,NARVAEZ PRADO Jhonatan Manuel,25157,0.0,0,2024-05-04
+1,1.PS,GP du Morbihan,42800,COSNEFROY Benoit,24189,0.0,0,2024-05-04
+2,1.PS,GP du Morbihan,42800,ZINGLE Axel,31263,0.0,0,2024-05-04
+3,1.PS,GP du Morbihan,42800,DE LIE Arnaud,32221,0.0,0,2024-05-04
+4,1.PS,GP du Morbihan,42800,VENTURINI Clément,21428,0.0,0,2024-05-04
+5,1.PS,GP du Morbihan,42800,DVERSNES Fredrik,28553,0.0,0,2024-05-04
+6,1.PS,GP du Morbihan,42800,VAN BOVEN Luca,31597,0.0,0,2024-05-04
+7,1.PS,GP du Morbihan,42800,ALBANESE Vincenzo,24139,0.0,0,2024-05-04
+8,1.PS,GP du Morbihan,42800,EIKING Odd Christian,21405,0.0,0,2024-05-04
+9,1.PS,GP du Morbihan,42800,BERASATEGI GARMENDIA Xabier,33745,0.0,0,2024-05-04
+10,1.PS,GP du Morbihan,42800,GONZALEZ LOPEZ David,28647,0.0,0,2024-05-04
+1,1.WT3,Eschborn - Frankfurt,42794,VAN GILS Maxim,28521,0.0,0,2024-05-01
+2,1.WT3,Eschborn - Frankfurt,42794,ARANBURU DEBA Alexander,23940,0.0,0,2024-05-01
+3,1.WT3,Eschborn - Frankfurt,42794,SHEEHAN Riley,29301,0.0,0,2024-05-01
+4,1.WT3,Eschborn - Frankfurt,42794,NERURKAR Lukas,33158,0.0,0,2024-05-01
+5,1.WT3,Eschborn - Frankfurt,42794,ADRIA OLIVERAS Roger,27469,0.0,0,2024-05-01
+6,1.WT3,Eschborn - Frankfurt,42794,GOOSSENS Kobe,23771,0.0,0,2024-05-01
+7,1.WT3,Eschborn - Frankfurt,42794,VERMAERKE Kevin,29332,0.0,0,2024-05-01
+8,1.WT3,Eschborn - Frankfurt,42794,KRAGH ANDERSEN Søren,20793,0.0,0,2024-05-01
+9,1.WT3,Eschborn - Frankfurt,42794,HIRSCHI Marc,26509,0.0,0,2024-05-01
+10,1.WT3,Eschborn - Frankfurt,42794,HOELGAARD Markus,20760,0.0,0,2024-05-01
+1,2.WT1,"Tour de Romandie, General classification",42754,RODRIGUEZ CANO Carlos,30836,0.0,0,2024-04-28
+2,2.WT1,"Tour de Romandie, General classification",42754,VLASOV Aleksandr,24316,0.0,0,2024-04-28
+3,2.WT1,"Tour de Romandie, General classification",42754,LIPOWITZ Florian,30805,0.0,0,2024-04-28
+4,2.WT1,"Tour de Romandie, General classification",42754,VAN WILDER Ilan,29828,0.0,0,2024-04-28
+5,2.WT1,"Tour de Romandie, General classification",42754,AYUSO PESQUERA Juan,31654,0.0,0,2024-04-28
+6,2.WT1,"Tour de Romandie, General classification",42754,MAS NICOLAU Enric,22794,0.0,0,2024-04-28
+7,2.WT1,"Tour de Romandie, General classification",42754,CARAPAZ MONTENEGRO Richard Antonio,21342,0.0,0,2024-04-28
+8,2.WT1,"Tour de Romandie, General classification",42754,MARTINEZ Lenny,32721,0.0,0,2024-04-28
+9,2.WT1,"Tour de Romandie, General classification",42754,GEOGHEGAN HART Tao,22018,0.0,0,2024-04-28
+10,2.WT1,"Tour de Romandie, General classification",42754,BERNAL GOMEZ Egan Arley,24926,0.0,0,2024-04-28
+1,2.WT1s,"Tour de Romandie, Stage 5 : Vernier - Vernier",42753,GODON Dorian,25704,0.0,0,2024-04-28
+1,2.WT1r,"Tour de Romandie, Mountains classification",42756,HOLLMANN Juri,27818,0.0,0,2024-04-28
+1,2.WT1r,"Tour de Romandie, Points classification",42755,GODON Dorian,25704,0.0,0,2024-04-28
+1,2.PS,"Presidential Tour of Turkey, General classification",42747,VAN DEN BROEK Frank,33648,0.0,0,2024-04-28
+2,2.PS,"Presidential Tour of Turkey, General classification",42747,KUDUS Merhawi Gebremedhin,20784,0.0,0,2024-04-28
+3,2.PS,"Presidential Tour of Turkey, General classification",42747,DOUBLE Paul,27721,0.0,0,2024-04-28
+4,2.PS,"Presidential Tour of Turkey, General classification",42747,EYOB Metkel,20904,0.0,0,2024-04-28
+5,2.PS,"Presidential Tour of Turkey, General classification",42747,LOPEZ GRANIZO Harold Martin,29525,0.0,0,2024-04-28
+6,2.PS,"Presidential Tour of Turkey, General classification",42747,LOOCKX Lander,28470,0.0,0,2024-04-28
+7,2.PS,"Presidential Tour of Turkey, General classification",42747,HAJEK Alexander,33111,0.0,0,2024-04-28
+8,2.PS,"Presidential Tour of Turkey, General classification",42747,APARICIO MUÑOZ Mario,31664,0.0,0,2024-04-28
+9,2.PS,"Presidential Tour of Turkey, General classification",42747,HAGEN Carl Fredrik,23436,0.0,0,2024-04-28
+10,2.PS,"Presidential Tour of Turkey, General classification",42747,LANGELLOTTI Victor,26397,0.0,0,2024-04-28
+1,2.PSs,"Presidential Tour of Turkey, Stage 8 : Istanbul - Istanbul",42746,no result,13543,0.0,0,2024-04-28
+1,2.1,"Vuelta a Asturias, General classification",42774,DEL TORO ROMERO Isaac,33556,0.0,0,2024-04-28
+2,2.1,"Vuelta a Asturias, General classification",42774,MAJKA Rafal,14310,0.0,0,2024-04-28
+3,2.1,"Vuelta a Asturias, General classification",42774,FAGUNDEZ LIMA Antonio Eric,28445,0.0,0,2024-04-28
+1,1.1,Famenne Ardenne Classic,43012,DE LIE Arnaud,32221,0.0,0,2024-04-28
+2,1.1,Famenne Ardenne Classic,43012,ZINGLE Axel,31263,0.0,0,2024-04-28
+3,1.1,Famenne Ardenne Classic,43012,VAN GILS Maxim,28521,0.0,0,2024-04-28
+1,2.1s,"Vuelta a Asturias, Stage 3 : Benia - Oviedo",42773,FISHER-BLACK Finn,30562,0.0,0,2024-04-28
+1,NC5,National Championships Panama (Gamboa) R.R.,42792,ARCHIBOLD CASTILLO Franklin Erasmo,26075,0.0,0,2024-04-28
+1,NC5,National Championships United Arab Emirates (Nazwa) R.R. (prov.),42665,MAYOUF Khalid,25314,0.0,0,2024-04-28
+1,NC5,National Championships Chile (Casablanca) R.R. (prov.),42782,KOTSAKIS LAGOS Francisco,32627,0.0,0,2024-04-28
+1,2.WT1s,"Tour de Romandie, Stage 4 : Saillon - Leysin",42752,CARAPAZ MONTENEGRO Richard Antonio,21342,0.0,0,2024-04-27
+1,2.PSs,"Presidential Tour of Turkey, Stage 7 : Izmir - Izmir",42745,LUND ANDRESEN Tobias,31657,0.0,0,2024-04-27
+1,2.1s,"Vuelta a Asturias, Stage 2 : Ribera - Ribadesella",42772,MORGADO Antonio Tomas,34222,0.0,0,2024-04-27
+1,2.WT1s,"Tour de Romandie, Stage 3 : Oron - Oron I.T.T.",42751,MCNULTY Brandon,26508,0.0,0,2024-04-26
+1,2.PSs,"Presidential Tour of Turkey, Stage 6 : Kusadasi - Manisa",42744,VAN DEN BROEK Frank,33648,0.0,0,2024-04-26
+1,2.1s,"Vuelta a Asturias, Stage 1 : Oviedo - Pola de Lena (prov.)",42771,DEL TORO ROMERO Isaac,33556,0.0,0,2024-04-26
+1,NCT5,National Championships Panama (Gamboa) I.T.T. (prov.),42793,ARCHIBOLD CASTILLO Franklin Erasmo,26075,0.0,0,2024-04-26
+1,NCT5,National Championships Chile (Casablanca) I.T.T.,42658,RODRIGUEZ AGUILAR Jose Luis,21349,0.0,0,2024-04-26
+1,2.WT1s,"Tour de Romandie, Stage 2 : Fribourg - Salvan Les Marécottes (prov.)",42750,NYS Thibau,32185,0.0,0,2024-04-25
+1,2.PSs,"Presidential Tour of Turkey, Stage 5 : Bodrum - Kusadasi (prov.)",42743,LUND ANDRESEN Tobias,31657,0.0,0,2024-04-25
+1,2.WT1s,"Tour de Romandie, Stage 1 : Château d'Oex - Fribourg (prov.)",42749,GODON Dorian,25704,0.0,0,2024-04-24
+1,2.PSs,"Presidential Tour of Turkey, Stage 4 : Marmaris - Bodrum (prov.)",42742,LUND ANDRESEN Tobias,31657,0.0,0,2024-04-24
+1,2.WT1s,"Tour de Romandie, Prologue : Payerne I.T.T. (prov.)",42748,ZIJLAARD Maikel,27649,0.0,0,2024-04-23
+1,2.PSs,"Presidential Tour of Turkey, Stage 3 : Fethiye - Marmaris (prov.)",42741,LONARDI Giovanni,25634,0.0,0,2024-04-23
+1,2.PSs,"Presidential Tour of Turkey, Stage 2 : Kemer - Kas (prov.)",42740,KANTER Max,24961,0.0,0,2024-04-22
+1,1.WT1,Liège - Bastogne - Liège,42670,POGACAR Tadej,26526,0.0,0,2024-04-21
+2,1.WT1,Liège - Bastogne - Liège,42670,BARDET Romain,13566,0.0,0,2024-04-21
+3,1.WT1,Liège - Bastogne - Liège,42670,VAN DER POEL Mathieu,21971,0.0,0,2024-04-21
+4,1.WT1,Liège - Bastogne - Liège,42670,VAN GILS Maxim,28521,0.0,0,2024-04-21
+5,1.WT1,Liège - Bastogne - Liège,42670,PARET PEINTRE Aurélien,24110,0.0,0,2024-04-21
+6,1.WT1,Liège - Bastogne - Liège,42670,VANSEVENANT Mauri,28580,0.0,0,2024-04-21
+7,1.WT1,Liège - Bastogne - Liège,42670,MADOUAS Valentin,24758,0.0,0,2024-04-21
+8,1.WT1,Liège - Bastogne - Liège,42670,LUTSENKO Alexey,18455,0.0,0,2024-04-21
+9,1.WT1,Liège - Bastogne - Liège,42670,BILBAO LOPEZ DE ARMENTIA Pello,17881,0.0,0,2024-04-21
+10,1.WT1,Liège - Bastogne - Liège,42670,PIDCOCK Thomas,27708,0.0,0,2024-04-21
+1,2.PSs,"Presidential Tour of Turkey, Stage 1 : Antalya - Antalya (prov.)",42739,JAKOBSEN Fabio,23426,0.0,0,2024-04-21
+1,1.1,Giro della Romagna,42671,MORGADO Antonio Tomas,34222,0.0,0,2024-04-21
+2,1.1,Giro della Romagna,42671,BOU COMPANY Joan,27598,0.0,0,2024-04-21
+3,1.1,Giro della Romagna,42671,BAIS Mattia,26241,0.0,0,2024-04-21
+1,2.PS,"Tour of the Alps, General classification",42738,LOPEZ PEREZ Juan Pedro,27132,0.0,0,2024-04-19
+2,2.PS,"Tour of the Alps, General classification",42738,O'CONNOR Ben,23763,0.0,0,2024-04-19
+3,2.PS,"Tour of the Alps, General classification",42738,TIBERI Antonio,30649,0.0,0,2024-04-19
+4,2.PS,"Tour of the Alps, General classification",42738,PARET PEINTRE Valentin,31495,0.0,0,2024-04-19
+5,2.PS,"Tour of the Alps, General classification",42738,BARDET Romain,13566,0.0,0,2024-04-19
+6,2.PS,"Tour of the Alps, General classification",42738,POELS Wout,7751,0.0,0,2024-04-19
+7,2.PS,"Tour of the Alps, General classification",42738,STORER Michael,25335,0.0,0,2024-04-19
+8,2.PS,"Tour of the Alps, General classification",42738,PELLIZZARI Giulio,33100,0.0,0,2024-04-19
+9,2.PS,"Tour of the Alps, General classification",42738,SOSA CUERVO Ivan Ramiro,26378,0.0,0,2024-04-19
+10,2.PS,"Tour of the Alps, General classification",42738,PIGANZOLI Davide,32232,0.0,0,2024-04-19
+1,2.PSs,"Tour of the Alps, Stage 5 : Levico Terme - Levico Terme",42737,PARET PEINTRE Aurélien,24110,0.0,0,2024-04-19
+1,2.PSs,"Tour of the Alps, Stage 4 : Leifers - Borgo Valsugana",42736,CARR Simon,30010,0.0,0,2024-04-18
+1,1.WT2,Flèche Wallonne,42669,WILLIAMS Stephen,24346,0.0,0,2024-04-17
+2,1.WT2,Flèche Wallonne,42669,VAUQUELIN Kévin,31264,0.0,0,2024-04-17
+3,1.WT2,Flèche Wallonne,42669,VAN GILS Maxim,28521,0.0,0,2024-04-17
+4,1.WT2,Flèche Wallonne,42669,COSNEFROY Benoît,24189,0.0,0,2024-04-17
+5,1.WT2,Flèche Wallonne,42669,BUITRAGO SANCHEZ Santiago,29699,0.0,0,2024-04-17
+6,1.WT2,Flèche Wallonne,42669,JOHANNESSEN Tobias Halland,31567,0.0,0,2024-04-17
+7,1.WT2,Flèche Wallonne,42669,GREGOIRE Romain,32766,0.0,0,2024-04-17
+8,1.WT2,Flèche Wallonne,42669,GODON Dorian,25704,0.0,0,2024-04-17
+9,1.WT2,Flèche Wallonne,42669,BENOOT Tiesj,21244,0.0,0,2024-04-17
+10,1.WT2,Flèche Wallonne,42669,MARTIN Guillaume,19994,0.0,0,2024-04-17
+1,2.PSs,"Tour of the Alps, Stage 3 : Schwaz - Schwaz",42735,LOPEZ PEREZ Juan Pedro,27132,0.0,0,2024-04-17
+1,2.PSs,"Tour of the Alps, Stage 2 : Salurn - Stans",42734,DE MARCHI Alessandro,7268,0.0,0,2024-04-16
+1,2.PSs,"Tour of the Alps, Stage 1 : Neumarkt - Kurtinig",42733,FOSS Tobias Svendsen,24873,0.0,0,2024-04-15
+1,1.WT1,Amstel Gold Race,42668,PIDCOCK Thomas,27708,0.0,0,2024-04-14
+2,1.WT1,Amstel Gold Race,42668,HIRSCHI Marc,26509,0.0,0,2024-04-14
+3,1.WT1,Amstel Gold Race,42668,BENOOT Tiesj,21244,0.0,0,2024-04-14
+4,1.WT1,Amstel Gold Race,42668,VANSEVENANT Mauri,28580,0.0,0,2024-04-14
+5,1.WT1,Amstel Gold Race,42668,LAPEIRA Paul,30615,0.0,0,2024-04-14
+6,1.WT1,Amstel Gold Race,42668,MADOUAS Valentin,24758,0.0,0,2024-04-14
+7,1.WT1,Amstel Gold Race,42668,MOLLEMA Bauke,5139,0.0,0,2024-04-14
+8,1.WT1,Amstel Gold Race,42668,PACHER Quentin,20163,0.0,0,2024-04-14
+9,1.WT1,Amstel Gold Race,42668,BILBAO LOPEZ DE ARMENTIA Pello,17881,0.0,0,2024-04-14
+10,1.WT1,Amstel Gold Race,42668,MATTHEWS Michael,13066,0.0,0,2024-04-14
+1,1.1,Tour du Doubs,42667,MARTINEZ Lenny,32721,0.0,0,2024-04-14
+2,1.1,Tour du Doubs,42667,BERTHET Clément,31634,0.0,0,2024-04-14
+3,1.1,Tour du Doubs,42667,DIAZ GALLEGO Jose Manuel,24103,0.0,0,2024-04-14
+1,NC5,National Championships Argentina (Alta Gracia) R.R.,42790,ROSAS Laureano,19936,0.0,0,2024-04-14
+1,1.1,Tour du Jura,42663,GAUDU David,24255,0.0,0,2024-04-13
+2,1.1,Tour du Jura,42663,JEGAT Jordan,32860,0.0,0,2024-04-13
+3,1.1,Tour du Jura,42663,MARTIN Guillaume,19994,0.0,0,2024-04-13
+1,CCT2,Oceania Cycling Championships (Brisbane) I.T.T.,42679,GATE Aaron,13153,0.0,0,2024-04-13
+1,2.1,"Giro dAbruzzo, General classification",42726,LUTSENKO Alexey,18455,0.0,0,2024-04-12
+2,2.1,"Giro dAbruzzo, General classification",42726,SIVAKOV Pavel,24934,0.0,0,2024-04-12
+3,2.1,"Giro dAbruzzo, General classification",42726,BENNETT George,12254,0.0,0,2024-04-12
+1,1.1,Classic Grand Besançon Doubs,42661,MARTINEZ Lenny,32721,0.0,0,2024-04-12
+2,1.1,Classic Grand Besançon Doubs,42661,LANGELLOTTI Victor,26397,0.0,0,2024-04-12
+3,1.1,Classic Grand Besançon Doubs,42661,GAUDU David,24255,0.0,0,2024-04-12
+1,2.1s,"Giro dAbruzzo, Stage 4 : Montorio al Vomano - LAquila",42725,SIVAKOV Pavel,24934,0.0,0,2024-04-12
+1,CC2,Oceania Cycling Championships (Brisbane) R.R.,42678,CAVANAGH Ryan,23904,0.0,0,2024-04-12
+2,CC2,Oceania Cycling Championships (Brisbane) R.R.,42678,GREENWOOD Matthew,33593,0.0,0,2024-04-12
+3,CC2,Oceania Cycling Championships (Brisbane) R.R.,42678,GATE Aaron,13153,0.0,0,2024-04-12
+4,CC2,Oceania Cycling Championships (Brisbane) R.R.,42678,METCALFE Ben,29479,0.0,0,2024-04-12
+5,CC2,Oceania Cycling Championships (Brisbane) R.R.,42678,MEDWAY Jackson,35042,0.0,0,2024-04-12
+6,CC2,Oceania Cycling Championships (Brisbane) R.R.,42678,BETTLES Carter,29531,0.0,0,2024-04-12
+7,CC2,Oceania Cycling Championships (Brisbane) R.R.,42678,MOREY Drew,25476,0.0,0,2024-04-12
+8,CC2,Oceania Cycling Championships (Brisbane) R.R.,42678,JENNER Samuel,25337,0.0,0,2024-04-12
+9,CC2,Oceania Cycling Championships (Brisbane) R.R.,42678,WARD Jack,36000,0.0,0,2024-04-12
+10,CC2,Oceania Cycling Championships (Brisbane) R.R.,42678,BURNS Luke,33367,0.0,0,2024-04-12
+1,NCT5,National Championships Argentina (Alta Gracia) I.T.T.,42789,FREDES Sergio Omar,24168,0.0,0,2024-04-12
+1,2.1s,"Giro dAbruzzo, Stage 3 : Pratola Peligna - Prati di Tivo",42724,LUTSENKO Alexey,18455,0.0,0,2024-04-11
+1,1.PS,Brabantse Pijl,42660,COSNEFROY Benoît,24189,0.0,0,2024-04-10
+2,1.PS,Brabantse Pijl,42660,TEUNS Dylan,17908,0.0,0,2024-04-10
+3,1.PS,Brabantse Pijl,42660,WELLENS Tim,16722,0.0,0,2024-04-10
+4,1.PS,Brabantse Pijl,42660,BLACKMORE Joseph,34973,0.0,0,2024-04-10
+5,1.PS,Brabantse Pijl,42660,CEPEDA HERNANDEZ Jefferson Alveiro,23549,0.0,0,2024-04-10
+6,1.PS,Brabantse Pijl,42660,HERMANS Quinten,22077,0.0,0,2024-04-10
+7,1.PS,Brabantse Pijl,42660,VAN DEN BERG Marijn,27674,0.0,0,2024-04-10
+8,1.PS,Brabantse Pijl,42660,MATTHEWS Michael,13066,0.0,0,2024-04-10
+9,1.PS,Brabantse Pijl,42660,BRAET Vito,29801,0.0,0,2024-04-10
+10,1.PS,Brabantse Pijl,42660,STRONG Corbin,29492,0.0,0,2024-04-10
+1,2.1s,"Giro dAbruzzo, Stage 2 : Alanno - Magliano de Marsi",42723,CHRISTEN Jan,34430,0.0,0,2024-04-10
+1,2.1s,"Giro dAbruzzo, Stage 1 : Vasto - Pescara",42722,ZANONCELLO Enrico,28364,0.0,0,2024-04-09
+1,1.WT1,Paris - Roubaix,42659,VAN DER POEL Mathieu,21971,0.0,0,2024-04-07
+2,1.WT1,Paris - Roubaix,42659,PHILIPSEN Jasper,26392,0.0,0,2024-04-07
+3,1.WT1,Paris - Roubaix,42659,PEDERSEN Mads,21992,0.0,0,2024-04-07
+4,1.WT1,Paris - Roubaix,42659,POLITT Nils,20847,0.0,0,2024-04-07
+5,1.WT1,Paris - Roubaix,42659,KÜNG Stefan,20960,0.0,0,2024-04-07
+6,1.WT1,Paris - Roubaix,42659,VERMEERSCH Gianni,18247,0.0,0,2024-04-07
+7,1.WT1,Paris - Roubaix,42659,PITHIE Laurence,31638,0.0,0,2024-04-07
+8,1.WT1,Paris - Roubaix,42659,MEEUS Jordi,26421,0.0,0,2024-04-07
+9,1.WT1,Paris - Roubaix,42659,WAERENSKJOLD Søren,29187,0.0,0,2024-04-07
+10,1.WT1,Paris - Roubaix,42659,MIHKELS Madis,32946,0.0,0,2024-04-07
+1,NC5,National Championships Paraguay (Costanera Norte) R.R.,42657,FERREIRO PACHECO Fernando Andres,31793,0.0,0,2024-04-07
+1,2.WT1,"Itzulia Basque Country, General classification",42696,AYUSO PESQUERA Juan,31654,0.0,0,2024-04-06
+2,2.WT1,"Itzulia Basque Country, General classification",42696,RODRIGUEZ CANO Carlos,30836,0.0,0,2024-04-06
+3,2.WT1,"Itzulia Basque Country, General classification",42696,SKJELMOSE JENSEN Mattias,30166,0.0,0,2024-04-06
+4,2.WT1,"Itzulia Basque Country, General classification",42696,SOLER GIMENEZ Marc,23299,0.0,0,2024-04-06
+5,2.WT1,"Itzulia Basque Country, General classification",42696,MCNULTY Brandon,26508,0.0,0,2024-04-06
+6,2.WT1,"Itzulia Basque Country, General classification",42696,BILBAO LOPEZ DE ARMENTIA Pello,17881,0.0,0,2024-04-06
+7,2.WT1,"Itzulia Basque Country, General classification",42696,DEL TORO ROMERO Isaac,33556,0.0,0,2024-04-06
+8,2.WT1,"Itzulia Basque Country, General classification",42696,VAUQUELIN Kévin,31264,0.0,0,2024-04-06
+9,2.WT1,"Itzulia Basque Country, General classification",42696,IZAGIRRE INSAUSTI Ion,14321,0.0,0,2024-04-06
+10,2.WT1,"Itzulia Basque Country, General classification",42696,BAUDIN Alex,32146,0.0,0,2024-04-06
+1,2.WT1s,"Itzulia Basque Country, Stage 6 : Eibar - Eibar",42695,RODRIGUEZ CANO Carlos,30836,0.0,0,2024-04-06
+1,2.WT2r,"Itzulia Basque Country, Mountains classification",42698,KUSS Sepp,25653,0.0,0,2024-04-06
+1,2.WT2r,"Itzulia Basque Country, Points classification",42697,ARANBURU DEBA Alexander,23940,0.0,0,2024-04-06
+1,2.1,"Tour of Thailand, General classification",42689,VAN ENGELEN Adne,24796,0.0,0,2024-04-06
+2,2.1,"Tour of Thailand, General classification",42689,CHAIYASOMBAT Thanakhan,28399,0.0,0,2024-04-06
+3,2.1,"Tour of Thailand, General classification",42689,BUDYAK Anatoliy,22337,0.0,0,2024-04-06
+1,2.1s,"Tour of Thailand, Stage 6 : Phichit - Si Thep",42688,KERGOZOU DE LA BOESSIERE Nicholas,23977,0.0,0,2024-04-06
+1,NCT5,National Championships Paraguay (Costanera Sur) I.T.T.,42656,RIVEROS DIARTE Francisco Daniel,21625,0.0,0,2024-04-06
+1,2.WT1s,"Itzulia Basque Country, Stage 5 : Vitoria - Amorebieta",42694,GREGOIRE Romain,32766,0.0,0,2024-04-05
+1,2.1,"Région Pays de la Loire Tour, General classification",42703,VAN DEN BERG Marijn,27674,0.0,0,2024-04-05
+2,2.1,"Région Pays de la Loire Tour, General classification",42703,COSTIOU Ewen,32834,0.0,0,2024-04-05
+3,2.1,"Région Pays de la Loire Tour, General classification",42703,DVERSNES Fredrik,28553,0.0,0,2024-04-05
+1,2.1s,"Région Pays de la Loire Tour, Stage 4 : Marolles-les-Braults - Le Mans",42702,VAN DEN BERG Marijn,27674,0.0,0,2024-04-05
+1,2.1s,"Tour of Thailand, Stage 5 : Phitsanulok - Phichit",42687,SAMANSANTI Nati,31618,0.0,0,2024-04-05
+1,2.WT1s,"Itzulia Basque Country, Stage 4 : Etxarri Aranatz - Legutio",42693,MEINTJES Louis,18413,0.0,0,2024-04-04
+1,2.1s,"Région Pays de la Loire Tour, Stage 3 : Segré-en-Anjou Bleu - Château-Gontier",42701,DAINESE Alberto,26965,0.0,0,2024-04-04
+1,2.1s,"Tour of Thailand, Stage 4 : Phitsanulok - Phetchabun",42686,EWART Jesse,22568,0.0,0,2024-04-04
+1,2.WT1s,"Itzulia Basque Country, Stage 3 : Ezpeleta - Altsasu (prov.)",42692,HERMANS Quinten,22077,0.0,0,2024-04-03
+1,1.PS,Scheldeprijs,42655,MERLIER Tim,17988,0.0,0,2024-04-03
+2,1.PS,Scheldeprijs,42655,PHILIPSEN Jasper,26392,0.0,0,2024-04-03
+3,1.PS,Scheldeprijs,42655,GROENEWEGEN Dylan,19238,0.0,0,2024-04-03
+4,1.PS,Scheldeprijs,42655,BOL Cees,21930,0.0,0,2024-04-03
+5,1.PS,Scheldeprijs,42655,HOFSTETTER Hugo,22702,0.0,0,2024-04-03
+6,1.PS,Scheldeprijs,42655,WAERENSKJOLD Søren,29187,0.0,0,2024-04-03
+7,1.PS,Scheldeprijs,42655,WELSFORD Sam,23517,0.0,0,2024-04-03
+8,1.PS,Scheldeprijs,42655,MOSCHETTI Matteo,27126,0.0,0,2024-04-03
+9,1.PS,Scheldeprijs,42655,MIHKELS Madis,32946,0.0,0,2024-04-03
+10,1.PS,Scheldeprijs,42655,TRENTIN Matteo,13270,0.0,0,2024-04-03
+1,2.1s,"Région Pays de la Loire Tour, Stage 2 : Châteaubriant - Saumur",42700,COSTIOU Ewen,32834,0.0,0,2024-04-03
+1,2.1s,"Tour of Thailand, Stage 3 : Sukhothai - Baan Rak Thai (prov.)",42685,CHAWCHIANGKWANG Peerapol,11810,0.0,0,2024-04-03
+1,2.WT1s,"Itzulia Basque Country, Stage 2 : Irun - Kanbo (prov.)",42691,LAPEIRA Paul,30615,0.0,0,2024-04-02
+1,2.1s,"Région Pays de la Loire Tour, Stage 1 : Fontenay-le-Comte - Saint-Jean-de-Monts",42699,VAN DEN BERG Marijn,27674,0.0,0,2024-04-02
+1,2.1s,"Tour of Thailand, Stage 2 : Sukhothai - Sukhothai (prov.)",42684,ROSLI Muhammad Nur Aiman,29594,0.0,0,2024-04-02
+1,2.WT1s,"Itzulia Basque Country, Stage 1 : Irun - Irun I.T.T. (prov.)",42690,ROGLIC Primoz,20719,0.0,0,2024-04-01
+1,2.1s,"Tour of Thailand, Stage 1 : Phitsanulok - Sukhothai (prov.)",42683,CARSTENSEN Lucas,22704,0.0,0,2024-04-01
+1,1.WT1,Ronde van Vlaanderen,42578,VAN DER POEL Mathieu,21971,0.0,0,2024-03-31
+2,1.WT1,Ronde van Vlaanderen,42578,MOZZATO Luca,28037,0.0,0,2024-03-31
+3,1.WT1,Ronde van Vlaanderen,42578,POLITT Nils,20847,0.0,0,2024-03-31
+4,1.WT1,Ronde van Vlaanderen,42578,BJERG Mikkel Norsgaard,26388,0.0,0,2024-03-31
+5,1.WT1,Ronde van Vlaanderen,42578,MORGADO Antonio Tomas,34222,0.0,0,2024-03-31
+6,1.WT1,Ronde van Vlaanderen,42578,SHEFFIELD Magnus,31598,0.0,0,2024-03-31
+7,1.WT1,Ronde van Vlaanderen,42578,NAESEN Oliver,21392,0.0,0,2024-03-31
+8,1.WT1,Ronde van Vlaanderen,42578,TEUNS Dylan,17908,0.0,0,2024-03-31
+9,1.WT1,Ronde van Vlaanderen,42578,BETTIOL Alberto,20697,0.0,0,2024-03-31
+10,1.WT1,Ronde van Vlaanderen,42578,SKUJINS Toms,16739,0.0,0,2024-03-31
+1,1.PS,GP Miguel Indurain,42577,MCNULTY Brandon,26508,0.0,0,2024-03-30
+2,1.PS,GP Miguel Indurain,42577,VAN GILS Maxim,28521,0.0,0,2024-03-30
+3,1.PS,GP Miguel Indurain,42577,ONLEY Oscar,31724,0.0,0,2024-03-30
+4,1.PS,GP Miguel Indurain,42577,IZAGIRRE INSAUSTI Ion,14321,0.0,0,2024-03-30
+5,1.PS,GP Miguel Indurain,42577,RYAN Archie,30565,0.0,0,2024-03-30
+6,1.PS,GP Miguel Indurain,42577,BATTISTELLA Samuele,28450,0.0,0,2024-03-30
+7,1.PS,GP Miguel Indurain,42577,CHAMPOUSSIN Clément,27153,0.0,0,2024-03-30
+8,1.PS,GP Miguel Indurain,42577,CRAS Steff,24257,0.0,0,2024-03-30
+9,1.PS,GP Miguel Indurain,42577,SCHACHMANN Maximilian,20798,0.0,0,2024-03-30
+10,1.PS,GP Miguel Indurain,42577,BARCELO ARAGON Fernando,27079,0.0,0,2024-03-30
+1,1.1,Volta Limburg Classic,42576,KIELICH Timo,28189,0.0,0,2024-03-30
+2,1.1,Volta Limburg Classic,42576,EENKHOORN Pascal,24932,0.0,0,2024-03-30
+3,1.1,Volta Limburg Classic,42576,UHLIG Henri,30827,0.0,0,2024-03-30
+1,1.1,Route Adélie de Vitré,42575,BIERMANS Jenthe,22010,0.0,0,2024-03-29
+2,1.1,Route Adélie de Vitré,42575,DUJARDIN Sandy,28583,0.0,0,2024-03-29
+3,1.1,Route Adélie de Vitré,42575,DELETTRE Alexandre,30519,0.0,0,2024-03-29
+1,1.WT3,Dwars door Vlaanderen,42574,JORGENSON Matteo,28057,0.0,0,2024-03-27
+2,1.WT3,Dwars door Vlaanderen,42574,ABRAHAMSEN Jonas,22233,0.0,0,2024-03-27
+3,1.WT3,Dwars door Vlaanderen,42574,KÜNG Stefan,20960,0.0,0,2024-03-27
+4,1.WT3,Dwars door Vlaanderen,42574,BENOOT Tiesj,21244,0.0,0,2024-03-27
+5,1.WT3,Dwars door Vlaanderen,42574,DE BONDT Dries,22005,0.0,0,2024-03-27
+6,1.WT3,Dwars door Vlaanderen,42574,TARLING Joshua,34297,0.0,0,2024-03-27
+7,1.WT3,Dwars door Vlaanderen,42574,MILAN Jonathan,29359,0.0,0,2024-03-27
+8,1.WT3,Dwars door Vlaanderen,42574,VALGREN HUNDAHL Michael,18123,0.0,0,2024-03-27
+9,1.WT3,Dwars door Vlaanderen,42574,NORSGAARD JØRGENSEN Mathias,24924,0.0,0,2024-03-27
+10,1.WT3,Dwars door Vlaanderen,42574,GACHIGNARD Thomas,32640,0.0,0,2024-03-27
+1,1.1,Paris - Camembert,42579,COSNEFROY Benoît,24189,0.0,0,2024-03-27
+2,1.1,Paris - Camembert,42579,VENTURINI Clément,21428,0.0,0,2024-03-27
+3,1.1,Paris - Camembert,42579,DELETTRE Alexandre,30519,0.0,0,2024-03-27
+1,2.WT1,"Volta a Catalunya, General classification",42628,POGACAR Tadej,26526,0.0,0,2024-03-24
+2,2.WT1,"Volta a Catalunya, General classification",42628,LANDA MEANA Mikel,14319,0.0,0,2024-03-24
+3,2.WT1,"Volta a Catalunya, General classification",42628,BERNAL GOMEZ Egan Arley,24926,0.0,0,2024-03-24
+4,2.WT1,"Volta a Catalunya, General classification",42628,VLASOV Aleksandr,24316,0.0,0,2024-03-24
+5,2.WT1,"Volta a Catalunya, General classification",42628,MAS NICOLAU Enric,22794,0.0,0,2024-03-24
+6,2.WT1,"Volta a Catalunya, General classification",42628,HARPER Chris,25066,0.0,0,2024-03-24
+7,2.WT1,"Volta a Catalunya, General classification",42628,MARTINEZ Lenny,32721,0.0,0,2024-03-24
+8,2.WT1,"Volta a Catalunya, General classification",42628,TIBERI Antonio,30649,0.0,0,2024-03-24
+9,2.WT1,"Volta a Catalunya, General classification",42628,ALMEIDA Joao Pedro Gonçalves,26482,0.0,0,2024-03-24
+10,2.WT1,"Volta a Catalunya, General classification",42628,FORTUNATO Lorenzo,25552,0.0,0,2024-03-24
+1,1.WT2,Gent - Wevelgem,42572,PEDERSEN Mads,21992,0.0,0,2024-03-24
+2,1.WT2,Gent - Wevelgem,42572,VAN DER POEL Mathieu,21971,0.0,0,2024-03-24
+3,1.WT2,Gent - Wevelgem,42572,MEEUS Jordi,26421,0.0,0,2024-03-24
+4,1.WT2,Gent - Wevelgem,42572,PHILIPSEN Jasper,26392,0.0,0,2024-03-24
+5,1.WT2,Gent - Wevelgem,42572,MILAN Jonathan,29359,0.0,0,2024-03-24
+6,1.WT2,Gent - Wevelgem,42572,KOOIJ Olav,30643,0.0,0,2024-03-24
+7,1.WT2,Gent - Wevelgem,42572,GIRMAY HAILU Biniam,29474,0.0,0,2024-03-24
+8,1.WT2,Gent - Wevelgem,42572,MERLIER Tim,17988,0.0,0,2024-03-24
+9,1.WT2,Gent - Wevelgem,42572,GROENEWEGEN Dylan,19238,0.0,0,2024-03-24
+10,1.WT2,Gent - Wevelgem,42572,TRENTIN Matteo,13270,0.0,0,2024-03-24
+1,2.WT1s,"Volta a Catalunya, Stage 7 : Barcelona - Barcelona",42627,POGACAR Tadej,26526,0.0,0,2024-03-24
+1,2.WT2r,"Volta a Catalunya, Points classification",42629,POGACAR Tadej,26526,0.0,0,2024-03-24
+1,2.WT2r,"Volta a Catalunya, Mountains classification",42630,POGACAR Tadej,26526,0.0,0,2024-03-24
+1,1.1,La Roue Tourangelle,42573,TESSON Jason,29883,0.0,0,2024-03-24
+2,1.1,La Roue Tourangelle,42573,THIJSSEN Gerben,27085,0.0,0,2024-03-24
+3,1.1,La Roue Tourangelle,42573,BIERMANS Jenthe,22010,0.0,0,2024-03-24
+1,2.WT1s,"Volta a Catalunya, Stage 6 : Berga - Queralt",42626,POGACAR Tadej,26526,0.0,0,2024-03-23
+1,2.1,"Settimana Coppi e Bartali, General classification",42636,BOUWMAN Koen,20770,0.0,0,2024-03-23
+2,2.1,"Settimana Coppi e Bartali, General classification",42636,RYAN Archie,30565,0.0,0,2024-03-23
+3,2.1,"Settimana Coppi e Bartali, General classification",42636,ULISSI Diego,10023,0.0,0,2024-03-23
+1,2.1s,"Settimana Coppi e Bartali, Stage 5 : Forli - Forli",42649,BERCKMOES Jenno,32588,0.0,0,2024-03-23
+1,1.WT2,E3 Saxo Classic,42570,VAN DER POEL Mathieu,21971,0.0,0,2024-03-22
+2,1.WT2,E3 Saxo Classic,42570,STUYVEN Jasper,18233,0.0,0,2024-03-22
+3,1.WT2,E3 Saxo Classic,42570,VAN AERT Wout,20730,0.0,0,2024-03-22
+4,1.WT2,E3 Saxo Classic,42570,WELLENS Tim,16722,0.0,0,2024-03-22
+5,1.WT2,E3 Saxo Classic,42570,JORGENSON Matteo,28057,0.0,0,2024-03-22
+6,1.WT2,E3 Saxo Classic,42570,NARVAEZ PRADO Jhonatan Manuel,25157,0.0,0,2024-03-22
+7,1.WT2,E3 Saxo Classic,42570,POLITT Nils,20847,0.0,0,2024-03-22
+8,1.WT2,E3 Saxo Classic,42570,SKUJINS Toms,16739,0.0,0,2024-03-22
+9,1.WT2,E3 Saxo Classic,42570,ALBANESE Vincenzo,24139,0.0,0,2024-03-22
+10,1.WT2,E3 Saxo Classic,42570,KIRSCH Alex,19545,0.0,0,2024-03-22
+1,2.WT1s,"Volta a Catalunya, Stage 5 : Altafula - Viladecans",42625,LAURANCE Axel,31621,0.0,0,2024-03-22
+1,2.1s,"Settimana Coppi e Bartali, Stage 4 : Brisighella - Brisighella",42635,RYAN Archie,30565,0.0,0,2024-03-22
+1,2.WT1s,"Volta a Catalunya, Stage 4 : Sort - Lleida (prov.)",42624,VAN DEN BERG Marijn,27674,0.0,0,2024-03-21
+1,2.1s,"Settimana Coppi e Bartali, Stage 3 : Riccione - Riccione",42634,BOUWMAN Koen,20770,0.0,0,2024-03-21
+1,1.WT3,Classic Brugge - De Panne,42567,PHILIPSEN Jasper,26392,0.0,0,2024-03-20
+2,1.WT3,Classic Brugge - De Panne,42567,MERLIER Tim,17988,0.0,0,2024-03-20
+3,1.WT3,Classic Brugge - De Panne,42567,VAN POPPEL Danny,19242,0.0,0,2024-03-20
+4,1.WT3,Classic Brugge - De Panne,42567,TESSON Jason,29883,0.0,0,2024-03-20
+5,1.WT3,Classic Brugge - De Panne,42567,CONSONNI Simone,22681,0.0,0,2024-03-20
+6,1.WT3,Classic Brugge - De Panne,42567,EDVARDSEN-FREDHEIM Stian,32797,0.0,0,2024-03-20
+7,1.WT3,Classic Brugge - De Panne,42567,MOLANO BENAVIDES Juan Sebastian,23463,0.0,0,2024-03-20
+8,1.WT3,Classic Brugge - De Panne,42567,BAUHAUS Phil,20861,0.0,0,2024-03-20
+9,1.WT3,Classic Brugge - De Panne,42567,JEANNIERE Emilien,29288,0.0,0,2024-03-20
+10,1.WT3,Classic Brugge - De Panne,42567,MOZZATO Luca,28037,0.0,0,2024-03-20
+1,2.WT1s,"Volta a Catalunya, Stage 3 : Sant Joan de les Abadesses - Port Ainé (prov.)",42623,POGACAR Tadej,26526,0.0,0,2024-03-20
+1,2.1s,"Settimana Coppi e Bartali, Stage 2 : Riccione - Sogliano sul Rubicone",42633,ULISSI Diego,10023,0.0,0,2024-03-20
+1,2.WT1s,"Volta a Catalunya, Stage 2 : Mataro - Vallter/Setcases (prov.)",42622,POGACAR Tadej,26526,0.0,0,2024-03-19
+1,2.1s,"Settimana Coppi e Bartali, Stage 1 : Pesaro - Pesaro (prov.)",42631,BRENNER Marco,31323,0.0,0,2024-03-19
+1,2.WT1s,"Volta a Catalunya, Stage 1 : Sant Feliu de Guixols - Sant Feliu de Guixols (prov.)",42621,SCHULTZ Nicholas,22744,0.0,0,2024-03-18
+1,1.1,Cholet Agglo Tour,42564,LAPEIRA Paul,30615,0.0,0,2024-03-17
+2,1.1,Cholet Agglo Tour,42564,RENARD Alexis,29969,0.0,0,2024-03-17
+3,1.1,Cholet Agglo Tour,42564,VAN ASBROECK Tom,18504,0.0,0,2024-03-17
+1,1.WT1,Milano - Sanremo,42560,PHILIPSEN Jasper,26392,0.0,0,2024-03-16
+2,1.WT1,Milano - Sanremo,42560,MATTHEWS Michael,13066,0.0,0,2024-03-16
+3,1.WT1,Milano - Sanremo,42560,POGACAR Tadej,26526,0.0,0,2024-03-16
+4,1.WT1,Milano - Sanremo,42560,PEDERSEN Mads,21992,0.0,0,2024-03-16
+5,1.WT1,Milano - Sanremo,42560,BETTIOL Alberto,20697,0.0,0,2024-03-16
+6,1.WT1,Milano - Sanremo,42560,MOHORIC Matej,21145,0.0,0,2024-03-16
+7,1.WT1,Milano - Sanremo,42560,VAN GILS Maxim,28521,0.0,0,2024-03-16
+8,1.WT1,Milano - Sanremo,42560,STUYVEN Jasper,18233,0.0,0,2024-03-16
+9,1.WT1,Milano - Sanremo,42560,ALAPHILIPPE Julian,18610,0.0,0,2024-03-16
+10,1.WT1,Milano - Sanremo,42560,VAN DER POEL Mathieu,21971,0.0,0,2024-03-16
+1,1.1,Classic Loire Atlantique,42561,LAPEIRA Paul,30615,0.0,0,2024-03-16
+2,1.1,Classic Loire Atlantique,42561,VAN ASBROECK Tom,18504,0.0,0,2024-03-16
+3,1.1,Classic Loire Atlantique,42561,MORIN Emmanuel,24880,0.0,0,2024-03-16
+1,1.PS,Bredene Koksijde Classic,42558,MOZZATO Luca,28037,0.0,0,2024-03-15
+2,1.PS,Bredene Koksijde Classic,42558,GROENEWEGEN Dylan,19238,0.0,0,2024-03-15
+3,1.PS,Bredene Koksijde Classic,42558,THIJSSEN Gerben,27085,0.0,0,2024-03-15
+4,1.PS,Bredene Koksijde Classic,42558,CONSONNI Simone,22681,0.0,0,2024-03-15
+5,1.PS,Bredene Koksijde Classic,42558,DE LIE Arnaud,32221,0.0,0,2024-03-15
+6,1.PS,Bredene Koksijde Classic,42558,LIEPINS Emils,18296,0.0,0,2024-03-15
+7,1.PS,Bredene Koksijde Classic,42558,DE KLEIJN Arvid,22596,0.0,0,2024-03-15
+8,1.PS,Bredene Koksijde Classic,42558,DUPONT Timothy,7948,0.0,0,2024-03-15
+9,1.PS,Bredene Koksijde Classic,42558,HOFSTETTER Hugo,22702,0.0,0,2024-03-15
+10,1.PS,Bredene Koksijde Classic,42558,VAN GESTEL Dries,21952,0.0,0,2024-03-15
+1,1.PS,GP de Denain - Porte du Hainaut,42557,STEIMLE Jannik,25081,0.0,0,2024-03-14
+2,1.PS,GP de Denain - Porte du Hainaut,42557,DESAL Cériel,29273,0.0,0,2024-03-14
+3,1.PS,GP de Denain - Porte du Hainaut,42557,VAN GESTEL Dries,21952,0.0,0,2024-03-14
+4,1.PS,GP de Denain - Porte du Hainaut,42557,DE LIE Arnaud,32221,0.0,0,2024-03-14
+5,1.PS,GP de Denain - Porte du Hainaut,42557,PAGE Hugo,30663,0.0,0,2024-03-14
+6,1.PS,GP de Denain - Porte du Hainaut,42557,JARNET Maxime,28630,0.0,0,2024-03-14
+7,1.PS,GP de Denain - Porte du Hainaut,42557,VAN MOER Brent,28448,0.0,0,2024-03-14
+8,1.PS,GP de Denain - Porte du Hainaut,42557,DE GENDT Aimé,21998,0.0,0,2024-03-14
+9,1.PS,GP de Denain - Porte du Hainaut,42557,DEHAIRS Simon,32634,0.0,0,2024-03-14
+10,1.PS,GP de Denain - Porte du Hainaut,42557,CAPIOT Amaury,22669,0.0,0,2024-03-14
+1,2.1,"Tour de Taiwan, General classification",42615,BLACKMORE Joseph,34973,0.0,0,2024-03-14
+2,2.1,"Tour de Taiwan, General classification",42615,KOISHI Yuma,21852,0.0,0,2024-03-14
+3,2.1,"Tour de Taiwan, General classification",42615,BETTLES Carter,29531,0.0,0,2024-03-14
+1,2.1s,"Tour de Taiwan, Stage 5 : Kaohsiung - Kaohsiung",42614,EINHORN Itamar,27315,0.0,0,2024-03-14
+1,1.PS,Nokere Koerse,42556,MERLIER Tim,17988,0.0,0,2024-03-13
+2,1.PS,Nokere Koerse,42556,JAKOBSEN Fabio,23426,0.0,0,2024-03-13
+3,1.PS,Nokere Koerse,42556,PHILIPSEN Jasper,26392,0.0,0,2024-03-13
+4,1.PS,Nokere Koerse,42556,ACKERMANN Pascal,20917,0.0,0,2024-03-13
+5,1.PS,Nokere Koerse,42556,CONSONNI Simone,22681,0.0,0,2024-03-13
+6,1.PS,Nokere Koerse,42556,VAN ASBROECK Tom,18504,0.0,0,2024-03-13
+7,1.PS,Nokere Koerse,42556,ZIJLAARD Maikel,27649,0.0,0,2024-03-13
+8,1.PS,Nokere Koerse,42556,MENTEN Milan,24180,0.0,0,2024-03-13
+9,1.PS,Nokere Koerse,42556,HOFSTETTER Hugo,22702,0.0,0,2024-03-13
+10,1.PS,Nokere Koerse,42556,BITTNER Pavel,31555,0.0,0,2024-03-13
+1,1.PS,Milano - Torino,42555,BETTIOL Alberto,20697,0.0,0,2024-03-13
+2,1.PS,Milano - Torino,42555,CHRISTEN Jan,34430,0.0,0,2024-03-13
+3,1.PS,Milano - Torino,42555,HIRSCHI Marc,26509,0.0,0,2024-03-13
+4,1.PS,Milano - Torino,42555,ULISSI Diego,10023,0.0,0,2024-03-13
+5,1.PS,Milano - Torino,42555,VERMAERKE Kevin,29332,0.0,0,2024-03-13
+6,1.PS,Milano - Torino,42555,BRAMBILLA Gianluca,7279,0.0,0,2024-03-13
+7,1.PS,Milano - Torino,42555,HERZOG Emil,34218,0.0,0,2024-03-13
+8,1.PS,Milano - Torino,42555,MARCELLUSI Martin,29845,0.0,0,2024-03-13
+9,1.PS,Milano - Torino,42555,SCHULTZ Nicholas,22744,0.0,0,2024-03-13
+10,1.PS,Milano - Torino,42555,WANDAHL Frederik,30710,0.0,0,2024-03-13
+1,2.1s,"Tour de Taiwan, Stage 4 : Nantou - Sun Moon Lake",42613,BETTLES Carter,29531,0.0,0,2024-03-13
+1,2.1s,"Tour de Taiwan, Stage 3 : Xinpu - Shigang",42612,NIQUET-OLDEN Bentley,28423,0.0,0,2024-03-12
+1,2.1s,"Tour de Taiwan, Stage 2 : Taoyuan - Jiaobanshan Park",42611,HOLLYMAN Mason,29836,0.0,0,2024-03-11
+1,2.WT1,"Tirreno - Adriatico, General classification",42602,VINGEGAARD HANSEN Jonas,25740,0.0,0,2024-03-10
+2,2.WT1,"Tirreno - Adriatico, General classification",42602,AYUSO PESQUERA Juan,31654,0.0,0,2024-03-10
+3,2.WT1,"Tirreno - Adriatico, General classification",42602,HINDLEY Jai,23948,0.0,0,2024-03-10
+4,2.WT1,"Tirreno - Adriatico, General classification",42602,DEL TORO ROMERO Isaac,33556,0.0,0,2024-03-10
+5,2.WT1,"Tirreno - Adriatico, General classification",42602,O'CONNOR Ben,23763,0.0,0,2024-03-10
+6,2.WT1,"Tirreno - Adriatico, General classification",42602,ARENSMAN Thymen,27716,0.0,0,2024-03-10
+7,2.WT1,"Tirreno - Adriatico, General classification",42602,UIJTDEBROEKS Cian,31803,0.0,0,2024-03-10
+8,2.WT1,"Tirreno - Adriatico, General classification",42602,KÄMNA Lennard,23427,0.0,0,2024-03-10
+9,2.WT1,"Tirreno - Adriatico, General classification",42602,PIDCOCK Thomas,27708,0.0,0,2024-03-10
+10,2.WT1,"Tirreno - Adriatico, General classification",42602,VAUQUELIN Kévin,31264,0.0,0,2024-03-10
+1,2.WT1,"Paris - Nice, General classification",42592,JORGENSON Matteo,28057,0.0,0,2024-03-10
+2,2.WT1,"Paris - Nice, General classification",42592,EVENEPOEL Remco,28377,0.0,0,2024-03-10
+3,2.WT1,"Paris - Nice, General classification",42592,MCNULTY Brandon,26508,0.0,0,2024-03-10
+4,2.WT1,"Paris - Nice, General classification",42592,SKJELMOSE JENSEN Mattias,30166,0.0,0,2024-03-10
+5,2.WT1,"Paris - Nice, General classification",42592,VLASOV Aleksandr,24316,0.0,0,2024-03-10
+6,2.WT1,"Paris - Nice, General classification",42592,PLAPP Lucas,29787,0.0,0,2024-03-10
+7,2.WT1,"Paris - Nice, General classification",42592,BERNAL GOMEZ Egan Arley,24926,0.0,0,2024-03-10
+8,2.WT1,"Paris - Nice, General classification",42592,KELDERMAN Wilco,15171,0.0,0,2024-03-10
+9,2.WT1,"Paris - Nice, General classification",42592,GALL Felix,26383,0.0,0,2024-03-10
+10,2.WT1,"Paris - Nice, General classification",42592,ROGLIC Primoz,20719,0.0,0,2024-03-10
+1,2.WT1s,"Tirreno - Adriatico, Stage 7 : San Benedetto del Tronto - San Benedetto del Tronto",42601,MILAN Jonathan,29359,0.0,0,2024-03-10
+1,2.WT1s,"Paris - Nice, Stage 8 : Nice - Nice",42591,EVENEPOEL Remco,28377,0.0,0,2024-03-10
+1,2.WT1r,"Tirreno - Adriatico, Mountains classification",42604,VINGEGAARD HANSEN Jonas,25740,0.0,0,2024-03-10
+1,2.WT1r,"Tirreno - Adriatico, Points classification",42603,MILAN Jonathan,29359,0.0,0,2024-03-10
+1,2.WT1r,"Paris - Nice, Mountains classification",42594,EVENEPOEL Remco,28377,0.0,0,2024-03-10
+1,2.WT1r,"Paris - Nice, Points classification",42593,EVENEPOEL Remco,28377,0.0,0,2024-03-10
+1,2.1s,"Tour de Taiwan, Stage 1 : Taipei - Taipei",42610,EINHORN Itamar,27315,0.0,0,2024-03-10
+1,NC5,National Championships Malaysia (Kuala Kubu Bharu) R.R.,42424,MAZUKI Nur Amirull Fakhruddin,18131,0.0,0,2024-03-10
+1,2.WT1s,"Tirreno - Adriatico, Stage 6 : Sassoferrato - Cagli",42600,VINGEGAARD HANSEN Jonas,25740,0.0,0,2024-03-09
+1,2.WT1s,"Paris - Nice, Stage 7 : Nice - Madone d'Utelle",42590,VLASOV Aleksandr,24316,0.0,0,2024-03-09
+1,NC5,National Championships Bahrain () R.R.,42545,NASER Ahmed Ali,30993,0.0,0,2024-03-09
+1,2.WT1s,"Tirreno - Adriatico, Stage 5 : Torricella Sicura - Valle Castellana",42599,VINGEGAARD HANSEN Jonas,25740,0.0,0,2024-03-08
+1,2.WT1s,"Paris - Nice, Stage 6 : Sisteron - La-Colle-sur-Loup",42589,SKJELMOSE JENSEN Mattias,30166,0.0,0,2024-03-08
+1,NCT5,National Championships Bahrain () I.T.T. (prov.),42546,NASER Ahmed Ali,30993,0.0,0,2024-03-08
+1,2.WT1s,"Tirreno - Adriatico, Stage 4 : Arrone - Giulianova (prov.)",42598,MILAN Jonathan,29359,0.0,0,2024-03-07
+1,2.WT1s,"Paris - Nice, Stage 5 : Saint-Sauveur-de-Montagut - Sisteron (prov.)",42588,KOOIJ Olav,30643,0.0,0,2024-03-07
+1,2.WT1s,"Tirreno - Adriatico, Stage 3 : Volterra - Gualdo Tadino (prov.)",42597,BAUHAUS Phil,20861,0.0,0,2024-03-06
+1,2.WT1s,"Paris - Nice, Stage 4 : Chalon-sur-Saône - Mont Brouilly (prov.)",42587,BUITRAGO SANCHEZ Santiago,29699,0.0,0,2024-03-06
+1,2.WT1s,"Tirreno - Adriatico, Stage 2 : Camaiore - Follonica (prov.)",42596,PHILIPSEN Jasper,26392,0.0,0,2024-03-05
+1,2.WT1s,"Paris - Nice, Stage 2 : Thoiry - Montargis (prov.)",42585,DE KLEIJN Arvid,22596,0.0,0,2024-03-04
+1,2.WT1s,"Tirreno - Adriatico, Stage 1 : Lido di Camaiore - Lido di Camaiore I.T.T. (prov.)",42595,AYUSO PESQUERA Juan,31654,0.0,0,2024-03-04
+1,2.WT1s,"Paris - Nice, Stage 1 : Les Mureaux - Les Mureaux (prov.)",42584,KOOIJ Olav,30643,0.0,0,2024-03-03
+1,1.1,GP Jean-Pierre Monseré,42552,VAN DE PAAR Jarne,29798,0.0,0,2024-03-03
+2,1.1,GP Jean-Pierre Monseré,42552,DUPONT Timothy,7948,0.0,0,2024-03-03
+3,1.1,GP Jean-Pierre Monseré,42552,DEKKER David,27083,0.0,0,2024-03-03
+1,1.WT2,Strade Bianche,42551,POGACAR Tadej,26526,0.0,0,2024-03-02
+2,1.WT2,Strade Bianche,42551,SKUJINS Toms,16739,0.0,0,2024-03-02
+3,1.WT2,Strade Bianche,42551,VAN GILS Maxim,28521,0.0,0,2024-03-02
+4,1.WT2,Strade Bianche,42551,PIDCOCK Thomas,27708,0.0,0,2024-03-02
+5,1.WT2,Strade Bianche,42551,MOHORIC Matej,21145,0.0,0,2024-03-02
+6,1.WT2,Strade Bianche,42551,COSNEFROY Benoît,24189,0.0,0,2024-03-02
+7,1.WT2,Strade Bianche,42551,FORMOLO Davide,18749,0.0,0,2024-03-02
+8,1.WT2,Strade Bianche,42551,MARTINEZ Lenny,32721,0.0,0,2024-03-02
+9,1.WT2,Strade Bianche,42551,ZANA Filippo,27749,0.0,0,2024-03-02
+10,1.WT2,Strade Bianche,42551,LAPORTE Christophe,19953,0.0,0,2024-03-02
+1,1.1,GP Criquielion,42547,SEGAERT Alec,33567,0.0,0,2024-03-02
+2,1.1,GP Criquielion,42547,BITTNER Pavel,31555,0.0,0,2024-03-02
+3,1.1,GP Criquielion,42547,BIERMANS Jenthe,22010,0.0,0,2024-03-02
+1,1.PS,Trofeo Laigueglia,42432,MARTINEZ Lenny,32721,0.0,0,2024-02-28
+2,1.PS,Trofeo Laigueglia,42432,VENDRAME Andrea,22170,0.0,0,2024-02-28
+3,1.PS,Trofeo Laigueglia,42432,AYUSO PESQUERA Juan,31654,0.0,0,2024-02-28
+4,1.PS,Trofeo Laigueglia,42432,SCARONI Christian,27002,0.0,0,2024-02-28
+5,1.PS,Trofeo Laigueglia,42432,CHRISTEN Jan,34430,0.0,0,2024-02-28
+6,1.PS,Trofeo Laigueglia,42432,RAFFERTY Darren,31511,0.0,0,2024-02-28
+7,1.PS,Trofeo Laigueglia,42432,BARRE Louis,30055,0.0,0,2024-02-28
+8,1.PS,Trofeo Laigueglia,42432,VELASCO Simone,22662,0.0,0,2024-02-28
+9,1.PS,Trofeo Laigueglia,42432,LAPEIRA Paul,30615,0.0,0,2024-02-28
+10,1.PS,Trofeo Laigueglia,42432,ROTA Lorenzo,21958,0.0,0,2024-02-28
+1,1.1,Le Samyn,42430,REX Laurenz,28442,0.0,0,2024-02-27
+2,1.1,Le Samyn,42430,MORGADO Antonio Tomas,34222,0.0,0,2024-02-27
+3,1.1,Le Samyn,42430,BIERMANS Jenthe,22010,0.0,0,2024-02-27
+1,2.WT3,"UAE Tour, General classification",42536,VAN EETVELT Lennert,32225,0.0,0,2024-02-25
+2,2.WT3,"UAE Tour, General classification",42536,O'CONNOR Ben,23763,0.0,0,2024-02-25
+3,2.WT3,"UAE Tour, General classification",42536,BILBAO LOPEZ DE ARMENTIA Pello,17881,0.0,0,2024-02-25
+4,2.WT3,"UAE Tour, General classification",42536,VAN WILDER Ilan,29828,0.0,0,2024-02-25
+5,2.WT3,"UAE Tour, General classification",42536,VALTER Attila,27198,0.0,0,2024-02-25
+6,2.WT3,"UAE Tour, General classification",42536,STORER Michael,25335,0.0,0,2024-02-25
+7,2.WT3,"UAE Tour, General classification",42536,POOLE Max,32809,0.0,0,2024-02-25
+8,2.WT3,"UAE Tour, General classification",42536,RIVERA VARGAS Brandon Smith,26283,0.0,0,2024-02-25
+9,2.WT3,"UAE Tour, General classification",42536,VERONA QUINTANILLA Carlos,17994,0.0,0,2024-02-25
+10,2.WT3,"UAE Tour, General classification",42536,LEMMEN Bart,32252,0.0,0,2024-02-25
+1,2.WT3s,"UAE Tour, Stage 7 : Al Ain - Jebel Hafeet",42535,VAN EETVELT Lennert,32225,0.0,0,2024-02-25
+1,2.WT3r,"UAE Tour, Points classification",42537,MERLIER Tim,17988,0.0,0,2024-02-25
+1,1.PS,Faun Drôme Classic,42427,HIRSCHI Marc,26509,0.0,0,2024-02-25
+2,1.PS,Faun Drôme Classic,42427,AYUSO PESQUERA Juan,31654,0.0,0,2024-02-25
+3,1.PS,Faun Drôme Classic,42427,VAN GILS Maxim,28521,0.0,0,2024-02-25
+4,1.PS,Faun Drôme Classic,42427,BARGUIL Warren,17627,0.0,0,2024-02-25
+5,1.PS,Faun Drôme Classic,42427,SKJELMOSE JENSEN Mattias,30166,0.0,0,2024-02-25
+6,1.PS,Faun Drôme Classic,42427,TRONCHON Bastien,32134,0.0,0,2024-02-25
+7,1.PS,Faun Drôme Classic,42427,LAPEIRA Paul,30615,0.0,0,2024-02-25
+8,1.PS,Faun Drôme Classic,42427,STRONG Corbin,29492,0.0,0,2024-02-25
+9,1.PS,Faun Drôme Classic,42427,COSNEFROY Benoît,24189,0.0,0,2024-02-25
+10,1.PS,Faun Drôme Classic,42427,GODON Dorian,25704,0.0,0,2024-02-25
+1,1.PS,Kuurne - Brussel - Kuurne,42428,VAN AERT Wout,20730,0.0,0,2024-02-25
+2,1.PS,Kuurne - Brussel - Kuurne,42428,WELLENS Tim,16722,0.0,0,2024-02-25
+3,1.PS,Kuurne - Brussel - Kuurne,42428,LAZKANO LOPEZ Oier,30595,0.0,0,2024-02-25
+4,1.PS,Kuurne - Brussel - Kuurne,42428,LAPORTE Christophe,19953,0.0,0,2024-02-25
+5,1.PS,Kuurne - Brussel - Kuurne,42428,EEKHOFF Nils,26429,0.0,0,2024-02-25
+6,1.PS,Kuurne - Brussel - Kuurne,42428,JEANNIERE Emilien,29288,0.0,0,2024-02-25
+7,1.PS,Kuurne - Brussel - Kuurne,42428,LAMPERTI Luke,31833,0.0,0,2024-02-25
+8,1.PS,Kuurne - Brussel - Kuurne,42428,TAMINIAUX Lionel,23416,0.0,0,2024-02-25
+9,1.PS,Kuurne - Brussel - Kuurne,42428,MAYRHOFER Marius,29192,0.0,0,2024-02-25
+10,1.PS,Kuurne - Brussel - Kuurne,42428,STUYVEN Jasper,18233,0.0,0,2024-02-25
+1,2.1,"O Gran Camiño, General classification",42542,VINGEGAARD HANSEN Jonas,25740,0.0,0,2024-02-25
+2,2.1,"O Gran Camiño, General classification",42542,MARTINEZ Lenny,32721,0.0,0,2024-02-25
+3,2.1,"O Gran Camiño, General classification",42542,BERNAL GOMEZ Egan Arley,24926,0.0,0,2024-02-25
+1,2.1,"Tour du Rwanda, General classification",42528,BLACKMORE Joseph,34973,0.0,0,2024-02-25
+2,2.1,"Tour du Rwanda, General classification",42528,DOSTIYEV Ilkhan,31966,0.0,0,2024-02-25
+3,2.1,"Tour du Rwanda, General classification",42528,RESTREPO VALENCIA Jhonatan,24720,0.0,0,2024-02-25
+1,2.1s,"Tour du Rwanda, Stage 8 : Kigali - Kigali",42527,BLACKMORE Joseph,34973,0.0,0,2024-02-25
+1,2.1s,"O Gran Camiño, Stage 4 : Punteareas - Tui",42541,VINGEGAARD HANSEN Jonas,25740,0.0,0,2024-02-25
+1,1.WT2,Omloop Het Nieuwsblad,42425,TRATNIK Jan,12748,0.0,0,2024-02-24
+2,1.WT2,Omloop Het Nieuwsblad,42425,POLITT Nils,20847,0.0,0,2024-02-24
+3,1.WT2,Omloop Het Nieuwsblad,42425,VAN AERT Wout,20730,0.0,0,2024-02-24
+4,1.WT2,Omloop Het Nieuwsblad,42425,NAESEN Oliver,21392,0.0,0,2024-02-24
+5,1.WT2,Omloop Het Nieuwsblad,42425,LAPORTE Christophe,19953,0.0,0,2024-02-24
+6,1.WT2,Omloop Het Nieuwsblad,42425,REX Laurenz,28442,0.0,0,2024-02-24
+7,1.WT2,Omloop Het Nieuwsblad,42425,STUYVEN Jasper,18233,0.0,0,2024-02-24
+8,1.WT2,Omloop Het Nieuwsblad,42425,PIDCOCK Thomas,27708,0.0,0,2024-02-24
+9,1.WT2,Omloop Het Nieuwsblad,42425,TRENTIN Matteo,13270,0.0,0,2024-02-24
+10,1.WT2,Omloop Het Nieuwsblad,42425,DE LIE Arnaud,32221,0.0,0,2024-02-24
+1,2.WT3s,"UAE Tour, Stage 6 : Abu Dhabi - Abu Dhabi",42534,MERLIER Tim,17988,0.0,0,2024-02-24
+1,1.PS,Faun Ardèche Classic,42426,AYUSO PESQUERA Juan,31654,0.0,0,2024-02-24
+2,1.PS,Faun Ardèche Classic,42426,GREGOIRE Romain,32766,0.0,0,2024-02-24
+3,1.PS,Faun Ardèche Classic,42426,SKJELMOSE JENSEN Mattias,30166,0.0,0,2024-02-24
+4,1.PS,Faun Ardèche Classic,42426,GALL Felix,26383,0.0,0,2024-02-24
+5,1.PS,Faun Ardèche Classic,42426,VAN GILS Maxim,28521,0.0,0,2024-02-24
+6,1.PS,Faun Ardèche Classic,42426,VERMAERKE Kevin,29332,0.0,0,2024-02-24
+7,1.PS,Faun Ardèche Classic,42426,ROTA Lorenzo,21958,0.0,0,2024-02-24
+8,1.PS,Faun Ardèche Classic,42426,JEGAT Jordan,32860,0.0,0,2024-02-24
+9,1.PS,Faun Ardèche Classic,42426,PARET PEINTRE Aurélien,24110,0.0,0,2024-02-24
+10,1.PS,Faun Ardèche Classic,42426,ARRIETA LIZARRAGA Igor,32611,0.0,0,2024-02-24
+1,2.1s,"Tour du Rwanda, Stage 7 : Rukomo - Kayonza",42526,EINHORN Itamar,27315,0.0,0,2024-02-24
+1,2.1s,"O Gran Camiño, Stage 3 : Xinzo de Limia - Castelo de Ribadavia",42540,VINGEGAARD HANSEN Jonas,25740,0.0,0,2024-02-24
+1,2.WT3s,"UAE Tour, Stage 5 : Al Aqah - Umm al Quwain",42533,KOOIJ Olav,30643,0.0,0,2024-02-23
+1,2.1s,"Tour du Rwanda, Stage 6 : Musanze - Mount Kigali",42525,BLACKMORE Joseph,34973,0.0,0,2024-02-23
+1,2.1s,"O Gran Camiño, Stage 2 : Taboada - Chantada",42539,VINGEGAARD HANSEN Jonas,25740,0.0,0,2024-02-23
+1,2.WT3s,"UAE Tour, Stage 4 : Dubai - Dubai",42532,MERLIER Tim,17988,0.0,0,2024-02-22
+1,2.1s,"O Gran Camiño, Stage 1 : A Coruña - A Coruña I.T.T.",42538,TARLING Joshua,34297,0.0,0,2024-02-22
+1,2.1s,"Tour du Rwanda, Stage 5 : Musanze - Kinigi I.T.T. (prov.)",42524,LATOUR Pierre,20156,0.0,0,2024-02-22
+1,2.WT3s,"UAE Tour, Stage 3 : Al Marjan - Jebel Jais (prov.)",42531,O'CONNOR Ben,23763,0.0,0,2024-02-21
+1,2.1s,"Tour du Rwanda, Stage 4 : Karongi - Rubavu (prov.)",42523,LECERF William Junior,32229,0.0,0,2024-02-21
+1,2.WT3s,"UAE Tour, Stage 2 : Al Hudayriat - Al Hudayriat I.T.T. (prov.)",42530,MCNULTY Brandon,26508,0.0,0,2024-02-20
+1,2.1s,"Tour du Rwanda, Stage 3 : Huye - Rusizi (prov.)",42522,RESTREPO VALENCIA Jhonatan,24720,0.0,0,2024-02-20
+1,2.WT3s,"UAE Tour, Stage 1 : Al Dhafra - Liwa (prov.)",42529,MERLIER Tim,17988,0.0,0,2024-02-19
+1,2.1s,"Tour du Rwanda, Stage 2 : Muhanga - Kibeho (prov.)",42521,EINHORN Itamar,27315,0.0,0,2024-02-19
+1,2.PS,"Vuelta a Andalucia / Ruta Del Sol, General classification",42516,no result,13543,0.0,0,2024-02-18
+1,2.PS,"Volta ao Algarve, General classification",42510,EVENEPOEL Remco,28377,0.0,0,2024-02-18
+2,2.PS,"Volta ao Algarve, General classification",42510,MARTINEZ POVEDA Daniel Felipe,23503,0.0,0,2024-02-18
+3,2.PS,"Volta ao Algarve, General classification",42510,TRATNIK Jan,12748,0.0,0,2024-02-18
+4,2.PS,"Volta ao Algarve, General classification",42510,HEALY Ben,28846,0.0,0,2024-02-18
+5,2.PS,"Volta ao Algarve, General classification",42510,ARENSMAN Thymen,27716,0.0,0,2024-02-18
+6,2.PS,"Volta ao Algarve, General classification",42510,PIDCOCK Thomas,27708,0.0,0,2024-02-18
+7,2.PS,"Volta ao Algarve, General classification",42510,VAN AERT Wout,20730,0.0,0,2024-02-18
+8,2.PS,"Volta ao Algarve, General classification",42510,KUSS Sepp,25653,0.0,0,2024-02-18
+9,2.PS,"Volta ao Algarve, General classification",42510,KÜNG Stefan,20960,0.0,0,2024-02-18
+10,2.PS,"Volta ao Algarve, General classification",42510,MORGADO Antonio Tomas,34222,0.0,0,2024-02-18
+1,2.PSs,"Vuelta a Andalucia / Ruta Del Sol, Stage 5 : Benahavis - La Linea de la Concepcion",42515,no result,13543,0.0,0,2024-02-18
+1,2.PSs,"Volta ao Algarve, Stage 5 : Faro - Alto do Malhao",42509,MARTINEZ POVEDA Daniel Felipe,23503,0.0,0,2024-02-18
+1,2.1,"Tour des Alpes-Maritimes , General classification",42519,COSNEFROY Benoît,24189,0.0,0,2024-02-18
+2,2.1,"Tour des Alpes-Maritimes , General classification",42519,ALBANESE Vincenzo,24139,0.0,0,2024-02-18
+3,2.1,"Tour des Alpes-Maritimes , General classification",42519,PARET PEINTRE Aurélien,24110,0.0,0,2024-02-18
+1,2.1s,"Tour des Alpes-Maritimes , Stage 2 : Villefranche-sur-Mer - Vence",42518,COSNEFROY Benoît,24189,0.0,0,2024-02-18
+1,2.PSs,"Vuelta a Andalucia / Ruta Del Sol, Stage 4 : Cordoba - Lucena",42514,no result,13543,0.0,0,2024-02-17
+1,2.PSs,"Volta ao Algarve, Stage 4 : Albufeira - Albufeira I.T.T.",42508,EVENEPOEL Remco,28377,0.0,0,2024-02-17
+1,2.1s,"Tour des Alpes-Maritimes , Stage 1 : Levens - Antibes",42517,VERNON Ethan,30035,0.0,0,2024-02-17
+1,2.PSs,"Vuelta a Andalucia / Ruta Del Sol, Stage 3 : Alcaudete - Alcaudete I.T.T.",42513,VAN GILS Maxim,28521,0.0,0,2024-02-16
+1,2.PSs,"Volta ao Algarve, Stage 3 : Vila Real de Santo Antonio - Tavira",42507,VAN AERT Wout,20730,0.0,0,2024-02-16
+1,1.1,Classic Var,42543,MARTINEZ Lenny,32721,0.0,0,2024-02-16
+2,1.1,Classic Var,42543,JOHANNESSEN Tobias Halland,31567,0.0,0,2024-02-16
+3,1.1,Classic Var,42543,BARDET Romain,13566,0.0,0,2024-02-16
+1,2.PSs,"Vuelta a Andalucia / Ruta Del Sol, Stage 2 : Velez - Alcaudete",42512,no result,13543,0.0,0,2024-02-15
+1,2.PSs,"Volta ao Algarve, Stage 2 : Lagoa - Alto da Foia",42506,MARTINEZ POVEDA Daniel Felipe,23503,0.0,0,2024-02-15
+1,2.PS,"Tour of Oman, General classification",42504,YATES Adam,18975,0.0,0,2024-02-14
+2,2.PS,"Tour of Oman, General classification",42504,HIRT Jan,17078,0.0,0,2024-02-14
+3,2.PS,"Tour of Oman, General classification",42504,FISHER-BLACK Finn,30562,0.0,0,2024-02-14
+4,2.PS,"Tour of Oman, General classification",42504,ULISSI Diego,10023,0.0,0,2024-02-14
+5,2.PS,"Tour of Oman, General classification",42504,RODRIGUEZ MARTIN Cristian,24102,0.0,0,2024-02-14
+6,2.PS,"Tour of Oman, General classification",42504,BARGUIL Warren,17627,0.0,0,2024-02-14
+7,2.PS,"Tour of Oman, General classification",42504,VANSEVENANT Mauri,28580,0.0,0,2024-02-14
+8,2.PS,"Tour of Oman, General classification",42504,KULSET Johannes,34399,0.0,0,2024-02-14
+9,2.PS,"Tour of Oman, General classification",42504,COBO CAYON Ivan,31277,0.0,0,2024-02-14
+10,2.PS,"Tour of Oman, General classification",42504,FAURE PROST Alexy,34353,0.0,0,2024-02-14
+1,2.PSs,"Vuelta a Andalucia / Ruta Del Sol, Stage 1 : Almunecar la Herradura - Cadiar",42511,no result,13543,0.0,0,2024-02-14
+1,2.PSs,"Volta ao Algarve, Stage 1 : Portimao - Lagos",42505,THIJSSEN Gerben,27085,0.0,0,2024-02-14
+1,2.PSs,"Tour of Oman, Stage 5 : Jamail - Jabal Al Akhdar",42503,YATES Adam,18975,0.0,0,2024-02-14
+1,2.PSs,"Tour of Oman, Stage 4 : Izki - Yitti Hills",42502,CAPIOT Amaury,22669,0.0,0,2024-02-13
+1,2.PSs,"Tour of Oman, Stage 3 : Al Khobar - Al Bustan",42501,MAGNIER Paul,34555,0.0,0,2024-02-12
+2,2.PS,"Vuelta a Andalucia / Ruta Del Sol, General classification (prov.)",42516,no result,13543,0.0,0,2024-02-16
+3,2.PS,"Vuelta a Andalucia / Ruta Del Sol, General classification (prov.)",42516,no result,13543,0.0,0,2024-02-16
+4,2.PS,"Vuelta a Andalucia / Ruta Del Sol, General classification (prov.)",42516,no result,13543,0.0,0,2024-02-16
+5,2.PS,"Vuelta a Andalucia / Ruta Del Sol, General classification (prov.)",42516,no result,13543,0.0,0,2024-02-16
+6,2.PS,"Vuelta a Andalucia / Ruta Del Sol, General classification (prov.)",42516,no result,13543,0.0,0,2024-02-16
+7,2.PS,"Vuelta a Andalucia / Ruta Del Sol, General classification (prov.)",42516,no result,13543,0.0,0,2024-02-16
+8,2.PS,"Vuelta a Andalucia / Ruta Del Sol, General classification (prov.)",42516,no result,13543,0.0,0,2024-02-16
+9,2.PS,"Vuelta a Andalucia / Ruta Del Sol, General classification (prov.)",42516,no result,13543,0.0,0,2024-02-16
+10,2.PS,"Vuelta a Andalucia / Ruta Del Sol, General classification (prov.)",42516,no result,13543,0.0,0,2024-02-16
+1,1.1,Clasica Jaén Paraíso Interior,42422,LAZKANO LOPEZ Oier,30595,0.0,0,2024-02-12
+2,1.1,Clasica Jaén Paraíso Interior,42422,TRONCHON Bastien,32134,0.0,0,2024-02-12
+3,1.1,Clasica Jaén Paraíso Interior,42422,TRATNIK Jan,12748,0.0,0,2024-02-12
+1,1.PS,Clasica de Almeria,42421,KOOIJ Olav,30643,0.0,0,2024-02-11
+2,1.PS,Clasica de Almeria,42421,MOSCHETTI Matteo,27126,0.0,0,2024-02-11
+3,1.PS,Clasica de Almeria,42421,TRENTIN Matteo,13270,0.0,0,2024-02-11
+4,1.PS,Clasica de Almeria,42421,DE LIE Arnaud,32221,0.0,0,2024-02-11
+5,1.PS,Clasica de Almeria,42421,THIJSSEN Gerben,27085,0.0,0,2024-02-11
+6,1.PS,Clasica de Almeria,42421,FRETIN Milan,32617,0.0,0,2024-02-11
+7,1.PS,Clasica de Almeria,42421,TESSON Jason,29883,0.0,0,2024-02-11
+8,1.PS,Clasica de Almeria,42421,MEEUS Jordi,26421,0.0,0,2024-02-11
+9,1.PS,Clasica de Almeria,42421,ASKEY Lewis,30685,0.0,0,2024-02-11
+10,1.PS,Clasica de Almeria,42421,VAN AERT Wout,20730,0.0,0,2024-02-11
+1,2.PSs,"Tour of Oman, Stage 2 : Muscat - Qurayyat",42500,FISHER-BLACK Finn,30562,0.0,0,2024-02-11
+1,2.1,"Tour Colombia, General classification",42487,CONTRERAS PINZON Rodrigo,22116,0.0,0,2024-02-11
+2,2.1,"Tour Colombia, General classification",42487,CARAPAZ MONTENEGRO Richard Antonio,21342,0.0,0,2024-02-11
+3,2.1,"Tour Colombia, General classification",42487,CAICEDO CEPEDA Jonathan Klever,22631,0.0,0,2024-02-11
+1,2.1,"Tour de la Provence , General classification",42498,PEDERSEN Mads,21992,0.0,0,2024-02-11
+2,2.1,"Tour de la Provence , General classification",42498,ZINGLE Axel,31263,0.0,0,2024-02-11
+3,2.1,"Tour de la Provence , General classification",42498,GARCIA PIERNA Raul,30678,0.0,0,2024-02-11
+1,2.1,"Tour of Antalya, General classification",42493,PIGANZOLI Davide,32232,0.0,0,2024-02-11
+2,2.1,"Tour of Antalya, General classification",42493,PINARELLO Alessandro,33101,0.0,0,2024-02-11
+3,2.1,"Tour of Antalya, General classification",42493,ZAMBANINI Edoardo,31437,0.0,0,2024-02-11
+1,2.1s,"Tour Colombia, Stage 6 : Sopo - Bogota",42486,RESTREPO VALENCIA Jhonatan,24720,0.0,0,2024-02-11
+1,2.1s,"Tour de la Provence , Stage 3 : Rognac - Arles",42497,VAN ASBROECK Tom,18504,0.0,0,2024-02-11
+1,2.1s,"Tour of Antalya, Stage 4 : Antalya - Antalya",42492,DE VRIES Hartthijs,23351,0.0,0,2024-02-11
+1,1.PS,Figueira Champions Classic,42420,EVENEPOEL Remco,28377,0.0,0,2024-02-10
+2,1.PS,Figueira Champions Classic,42420,BRAET Vito,29801,0.0,0,2024-02-10
+3,1.PS,Figueira Champions Classic,42420,VELASCO Simone,22662,0.0,0,2024-02-10
+4,1.PS,Figueira Champions Classic,42420,BOVEN Lars,30561,0.0,0,2024-02-10
+5,1.PS,Figueira Champions Classic,42420,MAYRHOFER Marius,29192,0.0,0,2024-02-10
+6,1.PS,Figueira Champions Classic,42420,HIRSCHI Marc,26509,0.0,0,2024-02-10
+7,1.PS,Figueira Champions Classic,42420,VAN DEN BERG Marijn,27674,0.0,0,2024-02-10
+8,1.PS,Figueira Champions Classic,42420,SCARONI Christian,27002,0.0,0,2024-02-10
+9,1.PS,Figueira Champions Classic,42420,GUERREIRO Ruben Antonio Almeida,22683,0.0,0,2024-02-10
+10,1.PS,Figueira Champions Classic,42420,SANCHEZ MAYO Pelayo,31655,0.0,0,2024-02-10
+1,2.PSs,"Tour of Oman, Stage 1 : Al Rustaq Fort - Muscat",42499,EWAN Caleb,19651,0.0,0,2024-02-10
+1,1.1,Vuelta a Murcia,42419,O'CONNOR Ben,23763,0.0,0,2024-02-10
+2,1.1,Vuelta a Murcia,42419,TRATNIK Jan,12748,0.0,0,2024-02-10
+3,1.1,Vuelta a Murcia,42419,WELLENS Tim,16722,0.0,0,2024-02-10
+1,2.1s,"Tour of Antalya, Stage 3 : Kemer - Tahtali",42491,PIGANZOLI Davide,32232,0.0,0,2024-02-10
+1,2.1s,"Tour Colombia, Stage 5 : Cota - Alto del Vino",42485,CARAPAZ MONTENEGRO Richard Antonio,21342,0.0,0,2024-02-10
+1,2.1s,"Tour de la Provence , Stage 2 : Forcalquier - Manosque",42496,PEDERSEN Mads,21992,0.0,0,2024-02-10
+1,1.1,National Championships New Zealand (Timaru) R.R.,42416,GATE Aaron,13153,0.0,0,2024-02-10
+2,1.1,National Championships New Zealand (Timaru) R.R.,42416,STRONG Corbin,29492,0.0,0,2024-02-10
+3,1.1,National Championships New Zealand (Timaru) R.R.,42416,PITHIE Laurence,31638,0.0,0,2024-02-10
+1,1.1,Muscat Classic,42415,FISHER-BLACK Finn,30562,0.0,0,2024-02-09
+2,1.1,Muscat Classic,42415,LAMPERTI Luke,31833,0.0,0,2024-02-09
+3,1.1,Muscat Classic,42415,CAPIOT Amaury,22669,0.0,0,2024-02-09
+1,2.1s,"Tour Colombia, Stage 4 : Paipa - Zipaquira",42484,CAVENDISH Mark,3448,0.0,0,2024-02-09
+1,2.1s,"Tour de la Provence , Stage 1 : Aix-en-Provence - Martigues",42495,PEDERSEN Mads,21992,0.0,0,2024-02-09
+1,2.1s,"Tour of Antalya, Stage 2 : Demre - Antalya",42490,GOVEKAR Matevz,20406,0.0,0,2024-02-09
+1,2.1s,"Tour Colombia, Stage 3 : Tunja - Tunja",42483,OSORIO CARVAJAL Alejandro,26540,0.0,0,2024-02-08
+1,2.1s,"Tour de la Provence , Prologue : Marseille I.T.T.",42494,PEDERSEN Mads,21992,0.0,0,2024-02-08
+1,2.1s,"Tour of Antalya, Stage 1 : Manavgat - Antalya",42489,DUPONT Timothy,7948,0.0,0,2024-02-08
+1,NCT3,National Championships New Zealand (Timaru) I.T.T.,42417,CURRIE Logan,30604,0.0,0,2024-02-08
+1,2.1s,"Tour Colombia, Stage 2 : Paipa - Santa Rosa de Viterbo (prov.)",42482,TEJADA CANACUE Harold Alfonso,26813,0.0,0,2024-02-07
+1,2.1s,"Tour Colombia, Stage 1 : Paipa - Duitama (prov.)",42481,GAVIRIA RENDON Fernando,20777,0.0,0,2024-02-06
+1,NCT5,National Championships Philippines (Tagaytay) I.T.T.,42544,PAREJA Nichol Blanca,30502,0.0,0,2024-02-06
+1,2.PS,"Volta a la Comunitat Valenciana, General classification",42480,MCNULTY Brandon,26508,0.0,0,2024-02-04
+2,2.PS,"Volta a la Comunitat Valenciana, General classification",42480,BUITRAGO SANCHEZ Santiago,29699,0.0,0,2024-02-04
+3,2.PS,"Volta a la Comunitat Valenciana, General classification",42480,VLASOV Aleksandr,24316,0.0,0,2024-02-04
+4,2.PS,"Volta a la Comunitat Valenciana, General classification",42480,TONELLI Alessandro,19901,0.0,0,2024-02-04
+5,2.PS,"Volta a la Comunitat Valenciana, General classification",42480,HINDLEY Jai,23948,0.0,0,2024-02-04
+6,2.PS,"Volta a la Comunitat Valenciana, General classification",42480,BILBAO LOPEZ DE ARMENTIA Pello,17881,0.0,0,2024-02-04
+7,2.PS,"Volta a la Comunitat Valenciana, General classification",42480,GROSSSCHARTNER Felix,19548,0.0,0,2024-02-04
+8,2.PS,"Volta a la Comunitat Valenciana, General classification",42480,KEPPLINGER Rainer,32347,0.0,0,2024-02-04
+9,2.PS,"Volta a la Comunitat Valenciana, General classification",42480,ROMO OLIVER Javier,31678,0.0,0,2024-02-04
+10,2.PS,"Volta a la Comunitat Valenciana, General classification",42480,BERHE Welay Hagos,31740,0.0,0,2024-02-04
+1,2.PSs,"Volta a la Comunitat Valenciana, Stage 5 : Betera - Valencia",42479,BARTA William,23362,0.0,0,2024-02-04
+1,2.1,"Etoile de Bessèges / Tour du Gard, General classification",42474,PEDERSEN Mads,21992,0.0,0,2024-02-04
+2,2.1,"Etoile de Bessèges / Tour du Gard, General classification",42474,VAUQUELIN Kévin,31264,0.0,0,2024-02-04
+3,2.1,"Etoile de Bessèges / Tour du Gard, General classification",42474,BETTIOL Alberto,20697,0.0,0,2024-02-04
+1,2.1s,"Etoile de Bessèges / Tour du Gard, Stage 5 : Alès - Aès I.T.T.",42473,VAUQUELIN Kévin,31264,0.0,0,2024-02-04
+1,NC4,National Championships South Africa (Meyerton) R.R.,42412,GIBBONS Ryan,22205,0.0,0,2024-02-04
+1,2.PSs,"Volta a la Comunitat Valenciana, Stage 4 : Teulada - Vall d'Ebo",42478,MCNULTY Brandon,26508,0.0,0,2024-02-03
+1,2.1,"AlUla Tour , General classification",42468,YATES Simon,17893,0.0,0,2024-02-03
+2,2.1,"AlUla Tour , General classification",42468,LECERF William Junior,32229,0.0,0,2024-02-03
+3,2.1,"AlUla Tour , General classification",42468,FISHER-BLACK Finn,30562,0.0,0,2024-02-03
+1,2.1s,"Etoile de Bessèges / Tour du Gard, Stage 4 : Méjannes le Clap - Méjannes le Clap",42472,LEROUX Samuel,22909,0.0,0,2024-02-03
+1,2.1s,"AlUla Tour , Stage 5 : AlUla - Harrat Uwayrid",42467,YATES Simon,17893,0.0,0,2024-02-03
+1,NC4,National Championships Ecuador (Riobamba) R.R.,42413,NARVAEZ PRADO Jhonatan Manuel,25157,0.0,0,2024-02-03
+1,2.PSs,"Volta a la Comunitat Valenciana, Stage 3 : San Vincente del Raspeig - Orihuela",42477,MILAN Jonathan,29359,0.0,0,2024-02-02
+1,2.1s,"Etoile de Bessèges / Tour du Gard, Stage 3 : Bessèges - Bessèges",42471,PEDERSEN Mads,21992,0.0,0,2024-02-02
+1,2.1s,"AlUla Tour , Stage 4 : Hegra - Maraya",42466,MERLIER Tim,17988,0.0,0,2024-02-02
+1,NCT4,National Championships South Africa (Meyerton) I.T.T.,42411,GIBBONS Ryan,22205,0.0,0,2024-02-02
+1,2.PSs,"Volta a la Comunitat Valenciana, Stage 2 : Canals - Mancomunitat de la Valldigna",42476,MOHORIC Matej,21145,0.0,0,2024-02-01
+1,2.1s,"Etoile de Bessèges / Tour du Gard, Stage 2 : Marguerittes - Rousson",42470,LAURANCE Axel,31621,0.0,0,2024-02-01
+1,2.1s,"AlUla Tour , Stage 3 : AlUla - AlUla",42465,MERLIER Tim,17988,0.0,0,2024-02-01
+1,NCT4,National Championships Ecuador (Riobamba) I.T.T.,42414,CARAPAZ MONTENEGRO Richard Antonio,21342,0.0,0,2024-02-01
+1,2.PSs,"Volta a la Comunitat Valenciana, Stage 1 : Benicassim - Castellón",42475,TONELLI Alessandro,19901,0.0,0,2024-01-31
+1,2.1s,"Etoile de Bessèges / Tour du Gard, Stage 1 : Bellegarde - Bellegarde (prov.)",42469,no result,13543,0.0,0,2024-01-31
+1,2.1s,"AlUla Tour , Stage 2 : Winter Park - Sharaan Nature Reserve",42464,WAERENSKJOLD Søren,29187,0.0,0,2024-01-31
+1,2.1s,"AlUla Tour , Stage 1 : Al Manshiyah - Al Manshiyah",42463,VAN UDEN Casper,30636,0.0,0,2024-01-30
+1,1.WT3,Cadel Evans Great Ocean Road Race,42403,PITHIE Laurence,31638,0.0,0,2024-01-28
+2,1.WT3,Cadel Evans Great Ocean Road Race,42403,TESFATSION Natnael Ocbit,28234,0.0,0,2024-01-28
+3,1.WT3,Cadel Evans Great Ocean Road Race,42403,ZIMMERMANN Georg,25165,0.0,0,2024-01-28
+4,1.WT3,Cadel Evans Great Ocean Road Race,42403,STRONG Corbin,29492,0.0,0,2024-01-28
+5,1.WT3,Cadel Evans Great Ocean Road Race,42403,NARVAEZ PRADO Jhonatan Manuel,25157,0.0,0,2024-01-28
+6,1.WT3,Cadel Evans Great Ocean Road Race,42403,MARIAULT Axel,30008,0.0,0,2024-01-28
+7,1.WT3,Cadel Evans Great Ocean Road Race,42403,HAMILTON Christopher,23885,0.0,0,2024-01-28
+8,1.WT3,Cadel Evans Great Ocean Road Race,42403,SCARONI Christian,27002,0.0,0,2024-01-28
+9,1.WT3,Cadel Evans Great Ocean Road Race,42403,RUTSCH Jonas,26438,0.0,0,2024-01-28
+10,1.WT3,Cadel Evans Great Ocean Road Race,42403,BARRE Louis,30055,0.0,0,2024-01-28
+1,1.1,GP La Marseillaise,42410,GENIETS Kévin,25763,0.0,0,2024-01-28
+2,1.1,GP La Marseillaise,42410,BAUDIN Alex,32146,0.0,0,2024-01-28
+3,1.1,GP La Marseillaise,42410,VAUQUELIN Kévin,31264,0.0,0,2024-01-28
+1,1.1,Trofeo Palma,42402,THIJSSEN Gerben,27085,0.0,0,2024-01-28
+2,1.1,Trofeo Palma,42402,KRISTOFF Alexander,4179,0.0,0,2024-01-28
+3,1.1,Trofeo Palma,42402,VAN DEN BERG Marijn,27674,0.0,0,2024-01-28
+1,1.WT3,National Championships Colombia (Boyaca) R.R.,42406,OSORIO CARVAJAL Alejandro,26540,0.0,0,2024-01-28
+2,1.WT3,National Championships Colombia (Boyaca) R.R.,42406,HIGUITA GARCIA Sergio Andres,25026,0.0,0,2024-01-28
+3,1.WT3,National Championships Colombia (Boyaca) R.R.,42406,BERNAL GOMEZ Egan Arley,24926,0.0,0,2024-01-28
+4,1.WT3,National Championships Colombia (Boyaca) R.R.,42406,MUÑOZ LANCHEROS Cristian Camilo,25402,0.0,0,2024-01-28
+5,1.WT3,National Championships Colombia (Boyaca) R.R.,42406,GOMEZ MARIN David Santiago,29697,0.0,0,2024-01-28
+6,1.WT3,National Championships Colombia (Boyaca) R.R.,42406,SUAZA ARANGO Bernardo Albeiro,22159,0.0,0,2024-01-28
+7,1.WT3,National Championships Colombia (Boyaca) R.R.,42406,LOPEZ RIVERA Robinson Fabian,26906,0.0,0,2024-01-28
+8,1.WT3,National Championships Colombia (Boyaca) R.R.,42406,RIVERA VARGAS Brandon Smith,26283,0.0,0,2024-01-28
+9,1.WT3,National Championships Colombia (Boyaca) R.R.,42406,RUBIO REYES Einer Augusto,27024,0.0,0,2024-01-28
+10,1.WT3,National Championships Colombia (Boyaca) R.R.,42406,PEÑA JIMENEZ Jesus David,29399,0.0,0,2024-01-28
+1,NC5,National Championships Namibia (Windhoek) R.R.,42408,MILLER Alex,29690,0.0,0,2024-01-28
+1,1.1,Trofeo Pollença - Port d'Andratx,42401,SANCHEZ MAYO Pelayo,31655,0.0,0,2024-01-27
+2,1.1,Trofeo Pollença - Port d'Andratx,42401,MAYRHOFER Marius,29192,0.0,0,2024-01-27
+3,1.1,Trofeo Pollença - Port d'Andratx,42401,VLASOV Aleksandr,24316,0.0,0,2024-01-27
+1,1.1,Trofeo Serra de Tramuntana,42400,VAN EETVELT Lennert,32225,0.0,0,2024-01-26
+2,1.1,Trofeo Serra de Tramuntana,42400,VLASOV Aleksandr,24316,0.0,0,2024-01-26
+3,1.1,Trofeo Serra de Tramuntana,42400,MCNULTY Brandon,26508,0.0,0,2024-01-26
+1,NCT5,National Championships Namibia (Windhoek) I.T.T.,42407,COETZEE Drikus,26844,0.0,0,2024-01-26
+1,1.1,Trofeo Ses Salines - Alcudia,42399,MAGNIER Paul,34555,0.0,0,2024-01-25
+2,1.1,Trofeo Ses Salines - Alcudia,42399,DAINESE Alberto,26965,0.0,0,2024-01-25
+3,1.1,Trofeo Ses Salines - Alcudia,42399,LAMPERTI Luke,31833,0.0,0,2024-01-25
+1,1.1,Surf Coast Classic,42404,GIRMAY HAILU Biniam,29474,0.0,0,2024-01-25
+2,1.1,Surf Coast Classic,42404,VIVIANI Elia,13240,0.0,0,2024-01-25
+3,1.1,Surf Coast Classic,42404,STRONG Corbin,29492,0.0,0,2024-01-25
+1,NCT1,National Championships Colombia (Boyaca) I.T.T.,42405,MARTINEZ POVEDA Daniel Felipe,23503,0.0,0,2024-01-25
+1,1.1,Trofeo Calvia,42398,CARR Simon,30010,0.0,0,2024-01-24
+2,1.1,Trofeo Calvia,42398,VLASOV Aleksandr,24316,0.0,0,2024-01-24
+3,1.1,Trofeo Calvia,42398,MCNULTY Brandon,26508,0.0,0,2024-01-24
 1,2.WT1,"Tour Down Under, General classification",42454,WILLIAMS Stephen,24346,0.0,0,2024-01-21
 2,2.WT1,"Tour Down Under, General classification",42454,NARVAEZ PRADO Jhonatan Manuel,25157,0.0,0,2024-01-21
 3,2.WT1,"Tour Down Under, General classification",42454,DEL TORO ROMERO Isaac,33556,0.0,0,2024-01-21
@@ -15,8 +987,8 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
 1,1.1,GP Castellón - Ruta de la Cerámica,42393,MATTHEWS Michael,13066,0.0,0,2024-01-21
 2,1.1,GP Castellón - Ruta de la Cerámica,42393,GAUTHERAT Pierre,33533,0.0,0,2024-01-21
 3,1.1,GP Castellón - Ruta de la Cerámica,42393,ARANBURU DEBA Alexander,23940,0.0,0,2024-01-21
+1,NC5,National Championships Uruguay (Tacuarembo - Rivera) R.R.,42397,RODRIGUEZ RAMOS Diego Leonel,29716,0.0,0,2024-01-21
 1,NC5,National Championships Thailand (Kanchanaburi) R.R.,42395,CHAIYASOMBAT Thanakhan,28399,0.0,0,2024-01-21
-1,NC5,National Championships Uruguay (Tacuarembo - Rivera) R.R. (prov.),42397,RODRIGUEZ RAMOS Diego Leonel,29716,0.0,0,2024-01-21
 1,2.WT1s,"Tour Down Under, Stage 5 : Christies Beach - Willunga Hill",42452,ONLEY Oscar,31724,0.0,0,2024-01-20
 1,1.1,GP Valencia,42392,GROENEWEGEN Dylan,19238,0.0,0,2024-01-20
 2,1.1,GP Valencia,42392,COQUARD Bryan,18714,0.0,0,2024-01-20

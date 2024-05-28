@@ -1,41 +1,59 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
-1,1.1,Ronde van Limburg (prov.),42821,GROENEWEGEN Dylan,19238,2,0,2024-05-20,Albert
-2,1.1,Ronde van Limburg (prov.),42821,BALLERSTEDT Maurice,30560,0.3,0,2024-05-20,-
-3,1.1,Ronde van Limburg (prov.),42821,DE LIE Arnaud,32221,0.1,0,2024-05-20,PB
--4,GT2s,"Leiderstrui na Giro dItalia, Stage 15 : Manerba del Garda - Livigno (prov.)",42867,Pogacar Tadej,26526,1,0,2024-05-19,Wijnand
--1,GT2s,"Jongerentrui na Giro dItalia, Stage 15 : Manerba del Garda - Livigno (prov.)",42867,Tiberi Antonio,30649,0.1,0,2024-05-19,-
--2,GT2s,"Puntentrui na Giro dItalia, Stage 15 : Manerba del Garda - Livigno (prov.)",42867,Milan Jonathan,29359,0.2,0,2024-05-19,Albert
--3,GT2s,"Bergtrui na Giro dItalia, Stage 15 : Manerba del Garda - Livigno (prov.)",42867,Pogacar Tadej,26526,0.2,0,2024-05-19,Wijnand
-1,GT2s,"Giro dItalia, Stage 15 : Manerba del Garda - Livigno (prov.)",42867,POGACAR Tadej,26526,2,0,2024-05-19,Wijnand
-1,2.PS,"4 Jours de Dunkerque, General classification",42910,BENNETT Sam,13362,4,50,2024-05-19,Bram
-2,2.PS,"4 Jours de Dunkerque, General classification",42910,PENHOËT Paul,30686,1,35,2024-05-19,Jan
-3,2.PS,"4 Jours de Dunkerque, General classification",42910,BERCKMOES Jenno,32588,0.5,25,2024-05-19,-
-4,2.PS,"4 Jours de Dunkerque, General classification",42910,VAN BOVEN Luca,31597,0,20,2024-05-19,-
-5,2.PS,"4 Jours de Dunkerque, General classification",42910,DELETTRE Alexandre,30519,0,18,2024-05-19,-
-6,2.PS,"4 Jours de Dunkerque, General classification",42910,FRETIN Milan,32617,0,16,2024-05-19,-
-7,2.PS,"4 Jours de Dunkerque, General classification",42910,KOPECKY Tomas,30677,0,14,2024-05-19,-
-8,2.PS,"4 Jours de Dunkerque, General classification",42910,NAESEN Oliver,21392,0,12,2024-05-19,-
-9,2.PS,"4 Jours de Dunkerque, General classification",42910,GACHIGNARD Thomas,32640,0,10,2024-05-19,-
-10,2.PS,"4 Jours de Dunkerque, General classification",42910,DE GENDT Aimé,21998,0,8,2024-05-19,-
-1,2.PSs,"4 Jours de Dunkerque, Stage 6 : Loon-Plage - Dunkerque",42909,BENNETT Sam,13362,0.3,0,2024-05-19,Bram
-1,2.1,"Tour of Hellas, General classification",42916,ZOIDL Riccardo,6828,2,0,2024-05-19,-
-2,2.1,"Tour of Hellas, General classification",42916,PERNSTEINER Hermann,25790,0.3,0,2024-05-19,-
-3,2.1,"Tour of Hellas, General classification",42916,CONTI Valerio,21295,0.1,0,2024-05-19,-
-1,1.1,Antwerp Port Epic,42818,KRISTOFF Alexander,4179,2,0,2024-05-19,Nicky
-2,1.1,Antwerp Port Epic,42818,JEANNIERE Emilien,29288,0.3,0,2024-05-19,-
-3,1.1,Antwerp Port Epic,42818,KOGUT Oded,31902,0.1,0,2024-05-19,-
-1,2.1s,"Tour of Hellas, Stage 5 : Athens - Athens",42915,RUDYK Bartosz,27241,0.2,0,2024-05-19,-
-1,1.1,National Championships United States (Charleston) R.R.,42814,QUINN Sean,29331,2,0,2024-05-19,-
-2,1.1,National Championships United States (Charleston) R.R.,42814,MCNULTY Brandon,26508,0.3,0,2024-05-19,Kees
-3,1.1,National Championships United States (Charleston) R.R.,42814,POWLESS Neilson,24902,0.1,0,2024-05-19,Harry
-1,2.NC,"Orlen Nations GP, General classification",42922,RONDEL Mathys,34305,0.0,0,2024-05-19,-
-2,2.NC,"Orlen Nations GP, General classification",42922,ROLLAND Brieuc,33756,0.0,0,2024-05-19,-
-3,2.NC,"Orlen Nations GP, General classification",42922,WALLENBORN Arno,33835,0.0,0,2024-05-19,-
-4,2.NC,"Orlen Nations GP, General classification",42922,BRENNAN Matthew,35227,0.0,0,2024-05-19,-
-5,2.NC,"Orlen Nations GP, General classification",42922,VERSTRYNGE Emiel,33562,0.0,0,2024-05-19,-
-6,2.NC,"Orlen Nations GP, General classification",42922,WEISS Fabian,32845,0.0,0,2024-05-19,-
-7,2.NC,"Orlen Nations GP, General classification",42922,DOSTIYEV Ilkhan,31966,0.0,0,2024-05-19,-
-8,2.NC,"Orlen Nations GP, General classification",42922,ORINS Robin,32677,0.0,0,2024-05-19,-
-9,2.NC,"Orlen Nations GP, General classification",42922,DOCKX Aaron,34689,0.0,0,2024-05-19,-
-10,2.NC,"Orlen Nations GP, General classification",42922,GUARDEÑO ROMA Jaume,35509,0.0,0,2024-05-19,-
-1,2.NCs,"Orlen Nations GP, Stage 5 : Lesko - Hotel Arlamov",42921,DOSTIYEV Ilkhan,31966,0.0,0,2024-05-19,-
+1,GT2,"Giro dItalia, General classification",42874,POGACAR Tadej,26526,25,50,2024-05-26,Wijnand
+2,GT2,"Giro dItalia, General classification",42874,MARTINEZ POVEDA Daniel Felipe,23503,10,35,2024-05-26,PB
+3,GT2,"Giro dItalia, General classification",42874,THOMAS Geraint,3891,7,25,2024-05-26,Arjan
+4,GT2,"Giro dItalia, General classification",42874,O'CONNOR Ben,23763,5,20,2024-05-26,Nicky
+5,GT2,"Giro dItalia, General classification",42874,TIBERI Antonio,30649,4,18,2024-05-26,-
+6,GT2,"Giro dItalia, General classification",42874,ARENSMAN Thymen,27716,3,16,2024-05-26,Kees
+7,GT2,"Giro dItalia, General classification",42874,RUBIO REYES Einer Augusto,27024,3,14,2024-05-26,Frank
+8,GT2,"Giro dItalia, General classification",42874,HIRT Jan,17078,2,12,2024-05-26,-
+9,GT2,"Giro dItalia, General classification",42874,BARDET Romain,13566,2,10,2024-05-26,Nicky
+10,GT2,"Giro dItalia, General classification",42874,STORER Michael,25335,2,8,2024-05-26,Albert
+11,GT2,"Giro dItalia, General classification",42874,ZANA Filippo,27749,1,0,2024-05-26,Jan
+12,GT2,"Giro dItalia, General classification",42874,FORTUNATO Lorenzo,25552,1,0,2024-05-26,Paul
+13,GT2,"Giro dItalia, General classification",42874,PIGANZOLI Davide,32232,1,0,2024-05-26,-
+14,GT2,"Giro dItalia, General classification",42874,GESCHKE Simon,4742,1,0,2024-05-26,-
+15,GT2,"Giro dItalia, General classification",42874,MAJKA Rafal,14310,1,0,2024-05-26,Kees
+0,GT2c,Correctie dragen jongerentrui in Giro d'Italia,42873,Tiberi Antonio,30649,-1.0,0,2024-05-26,-
+0,GT2c,Correctie dragen leiderstrui in Giro d'Italia,42874,Pogacar Tadej,26526,-19.0,0,2024-05-26,Wijnand
+0,GT2c,Correctie dragen puntentrui in Giro d'Italia,42875,Milan Jonathan,29359,-3.4,0,2024-05-26,Albert
+0,GT2c,Correctie dragen bergtrui in Giro d'Italia,42876,Pogacar Tadej,26526,-3.8,0,2024-05-26,Wijnand
+-1,GT2,"Winnaar jongerentrui Giro dItalia,",42873,Tiberi Antonio,30649,2,0,2024-05-26,-
+1,GT2s,"Giro dItalia, Stage 21 : Roma - Roma",42873,MERLIER Tim,17988,2,0,2024-05-26,Frank
+1,GT2r,"Giro dItalia, Mountains classification",42876,POGACAR Tadej,26526,5,0,2024-05-26,Wijnand
+1,GT2r,"Giro dItalia, Points classification",42875,MILAN Jonathan,29359,5,0,2024-05-26,Albert
+1,2.PS,"Boucles de la Mayenne, General classification",42972,BETTIOL Alberto,20697,4,50,2024-05-26,PB
+2,2.PS,"Boucles de la Mayenne, General classification",42972,COSNEFROY Benoit,24189,1,35,2024-05-26,Bram
+3,2.PS,"Boucles de la Mayenne, General classification",42972,ZINGLE Axel,31263,0.5,25,2024-05-26,Paul
+4,2.PS,"Boucles de la Mayenne, General classification",42972,WATSON Samuel,32161,0,20,2024-05-26,PB
+5,2.PS,"Boucles de la Mayenne, General classification",42972,JEANNIERE Emilien,29288,0,18,2024-05-26,-
+6,2.PS,"Boucles de la Mayenne, General classification",42972,HIRSCHI Marc,26509,0,16,2024-05-26,Bram
+7,2.PS,"Boucles de la Mayenne, General classification",42972,GODON Dorian,25704,0,14,2024-05-26,PB
+8,2.PS,"Boucles de la Mayenne, General classification",42972,O'BRIEN Kelland,27113,0,12,2024-05-26,-
+9,2.PS,"Boucles de la Mayenne, General classification",42972,PENHOËT Paul,30686,0,10,2024-05-26,Jan
+10,2.PS,"Boucles de la Mayenne, General classification",42972,VAN DEN BERG Marijn,27674,0,8,2024-05-26,Roy
+1,2.PS,"Tour of Norway, General classification",42967,LAURANCE Axel,31621,4,50,2024-05-26,Jan
+2,2.PS,"Tour of Norway, General classification",42967,LEMMEN Bart,32252,1,35,2024-05-26,-
+3,2.PS,"Tour of Norway, General classification",42967,HOLTER Aadne,30167,0.5,25,2024-05-26,-
+4,2.PS,"Tour of Norway, General classification",42967,VACEK Mathias,31713,0,20,2024-05-26,-
+5,2.PS,"Tour of Norway, General classification",42967,BRENNER Marco,31323,0,18,2024-05-26,-
+6,2.PS,"Tour of Norway, General classification",42967,RODRIGUEZ GARAICOECHEA Oscar,26216,0,16,2024-05-26,-
+7,2.PS,"Tour of Norway, General classification",42967,HAYTER Ethan,27025,0,14,2024-05-26,Bram
+8,2.PS,"Tour of Norway, General classification",42967,CORT NIELSEN Magnus,19448,0,12,2024-05-26,Nicky
+9,2.PS,"Tour of Norway, General classification",42967,BONNEU Kamiel,32584,0,10,2024-05-26,-
+10,2.PS,"Tour of Norway, General classification",42967,HAGEN Carl Fredrik,23436,0,8,2024-05-26,-
+1,2.PSs,"Boucles de la Mayenne, Stage 3 : Quelaines-Saint-Gault - Laval",42971,RETAILLEAU Valentin,29868,0.3,0,2024-05-26,-
+1,2.PSs,"Tour of Norway, Stage 4 : Stavanger - Stavanger",42966,KRISTOFF Alexander,4179,0.3,0,2024-05-26,Nicky
+1,1.1,Rund um Köln,42829,VAN UDEN Casper,30636,2,0,2024-05-26,-
+2,1.1,Rund um Köln,42829,GIRMAY HAILU Biniam,29474,0.3,0,2024-05-26,Nicky
+3,1.1,Rund um Köln,42829,BLOUWE Louis,29120,0.1,0,2024-05-26,-
+1,CC2,Pan-American Championships (Sao Jose dos Campos) R.R.,42834,LINAREZ MENESES Leangel Ruben,30518,1,0,2024-05-26,-
+2,CC2,Pan-American Championships (Sao Jose dos Campos) R.R.,42834,WALTERS Red,29355,0.0,0,2024-05-26,-
+3,CC2,Pan-American Championships (Sao Jose dos Campos) R.R.,42834,PAREDES ZAPATA Wilmar Andres,24876,0.0,0,2024-05-26,-
+4,CC2,Pan-American Championships (Sao Jose dos Campos) R.R.,42834,AULAR SANABRIA Orluis Alberto,24326,0.0,0,2024-05-26,Jan
+5,CC2,Pan-American Championships (Sao Jose dos Campos) R.R.,42834,BRENES MATA Sebastian,34598,0.0,0,2024-05-26,-
+6,CC2,Pan-American Championships (Sao Jose dos Campos) R.R.,42834,HOPKINS Kaden,30107,0.0,0,2024-05-26,-
+7,CC2,Pan-American Championships (Sao Jose dos Campos) R.R.,42834,SILVA COUSSAN Guillermo Thomas,32828,0.0,0,2024-05-26,-
+8,CC2,Pan-American Championships (Sao Jose dos Campos) R.R.,42834,SILVA Kleber Ramos,3166,0.0,0,2024-05-26,-
+9,CC2,Pan-American Championships (Sao Jose dos Campos) R.R.,42834,CHUMIL GONZALEZ Sergio Geovani,30471,0.0,0,2024-05-26,-
+10,CC2,Pan-American Championships (Sao Jose dos Campos) R.R.,42834,CASTILLO SOTO Ulises Alfredo,19739,0.0,0,2024-05-26,-

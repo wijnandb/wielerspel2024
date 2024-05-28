@@ -6,4 +6,5 @@ _site/
 .bundle/
 vendor/
 *.pyc
-generate_ranking/__pycache__
+generate_ranking/__pycache__/*.*
+generate_ranking/__pycache__/process_files.cpython-310.pyc

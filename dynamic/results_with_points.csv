@@ -83,7 +83,7 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 1,GT2s,"Giro dItalia, Stage 18 : Fiera di Primiero - Padova (prov.)",42870,MERLIER Tim,17988,2,0,2024-05-23,Frank
 1,2.PSs,"Boucles de la Mayenne, Prologue : Laval I.T.T. (prov.)",42968,COSNEFROY Benoit,24189,0.3,0,2024-05-23,Bram
 1,2.PSs,"Tour of Norway, Stage 1 : Voss - Voss Resort (prov.)",42963,NYS Thibau,32185,0.3,0,2024-05-23,Jan
-1,CCT2,Pan-American Championships (Sao Jose dos Campos) I.T.T.,42835,VARGAS ALZATE Walter Alejandro,23536,0.5,0,2024-05-23,Arjan
+1,CCT2,Pan-American Championships (Sao Jose dos Campos) I.T.T.,42835,VARGAS ALZATE Walter Alejandro,23536,0.5,0,2024-05-23,-
 -4,GT2s,"Leiderstrui na Giro dItalia, Stage 17 : Selva di Val Gardena - Passo dei Brocon (prov.)",42869,Pogacar Tadej,26526,1,0,2024-05-22,Wijnand
 -1,GT2s,"Jongerentrui na Giro dItalia, Stage 17 : Selva di Val Gardena - Passo dei Brocon (prov.)",42869,Tiberi Antonio,30649,0.1,0,2024-05-22,-
 -2,GT2s,"Puntentrui na Giro dItalia, Stage 17 : Selva di Val Gardena - Passo dei Brocon (prov.)",42869,Milan Jonathan,29359,0.2,0,2024-05-22,Albert
@@ -714,7 +714,7 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 5,2.WT3,"UAE Tour, General classification",42536,VALTER Attila,27198,0,18,2024-02-25,Paul
 6,2.WT3,"UAE Tour, General classification",42536,STORER Michael,25335,0,16,2024-02-25,Albert
 7,2.WT3,"UAE Tour, General classification",42536,POOLE Max,32809,0,14,2024-02-25,Albert
-8,2.WT3,"UAE Tour, General classification",42536,RIVERA VARGAS Brandon Smith,26283,0,12,2024-02-25,-
+8,2.WT3,"UAE Tour, General classification",42536,RIVERA VARGAS Brandon Smith,26283,0,12,2024-02-25,Arjan
 9,2.WT3,"UAE Tour, General classification",42536,VERONA QUINTANILLA Carlos,17994,0,10,2024-02-25,-
 10,2.WT3,"UAE Tour, General classification",42536,LEMMEN Bart,32252,0,8,2024-02-25,-
 1,2.WT3s,"UAE Tour, Stage 7 : Al Ain - Jebel Hafeet",42535,VAN EETVELT Lennert,32225,0.5,0,2024-02-25,Albert
@@ -950,7 +950,7 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 5,1.WT3,National Championships Colombia (Boyaca) R.R.,42406,GOMEZ MARIN David Santiago,29697,0,18,2024-01-28,-
 6,1.WT3,National Championships Colombia (Boyaca) R.R.,42406,SUAZA ARANGO Bernardo Albeiro,22159,0,16,2024-01-28,-
 7,1.WT3,National Championships Colombia (Boyaca) R.R.,42406,LOPEZ RIVERA Robinson Fabian,26906,0,14,2024-01-28,-
-8,1.WT3,National Championships Colombia (Boyaca) R.R.,42406,RIVERA VARGAS Brandon Smith,26283,0,12,2024-01-28,-
+8,1.WT3,National Championships Colombia (Boyaca) R.R.,42406,RIVERA VARGAS Brandon Smith,26283,0,12,2024-01-28,Arjan
 9,1.WT3,National Championships Colombia (Boyaca) R.R.,42406,RUBIO REYES Einer Augusto,27024,0,10,2024-01-28,Frank
 10,1.WT3,National Championships Colombia (Boyaca) R.R.,42406,PEÑA JIMENEZ Jesus David,29399,0,8,2024-01-28,-
 1,NC5,National Championships Namibia (Windhoek) R.R.,42408,MILLER Alex,29690,0.0,0,2024-01-28,-

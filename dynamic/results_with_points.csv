@@ -37,16 +37,6 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 1,GT2s,"Giro dItalia, Stage 21 : Roma - Roma",42873,MERLIER Tim,17988,2,0,2024-05-26,Frank
 1,GT2r,"Giro dItalia, Mountains classification",42876,POGACAR Tadej,26526,5,0,2024-05-26,Wijnand
 1,GT2r,"Giro dItalia, Points classification",42875,MILAN Jonathan,29359,5,0,2024-05-26,Albert
-1,2.PS,"Boucles de la Mayenne, General classification",42972,BETTIOL Alberto,20697,4,50,2024-05-26,PB
-2,2.PS,"Boucles de la Mayenne, General classification",42972,COSNEFROY Benoit,24189,1,35,2024-05-26,Bram
-3,2.PS,"Boucles de la Mayenne, General classification",42972,ZINGLE Axel,31263,0.5,25,2024-05-26,Paul
-4,2.PS,"Boucles de la Mayenne, General classification",42972,WATSON Samuel,32161,0,20,2024-05-26,PB
-5,2.PS,"Boucles de la Mayenne, General classification",42972,JEANNIERE Emilien,29288,0,18,2024-05-26,-
-6,2.PS,"Boucles de la Mayenne, General classification",42972,HIRSCHI Marc,26509,0,16,2024-05-26,Bram
-7,2.PS,"Boucles de la Mayenne, General classification",42972,GODON Dorian,25704,0,14,2024-05-26,PB
-8,2.PS,"Boucles de la Mayenne, General classification",42972,O'BRIEN Kelland,27113,0,12,2024-05-26,-
-9,2.PS,"Boucles de la Mayenne, General classification",42972,PENHOËT Paul,30686,0,10,2024-05-26,Jan
-10,2.PS,"Boucles de la Mayenne, General classification",42972,VAN DEN BERG Marijn,27674,0,8,2024-05-26,Roy
 1,2.PS,"Tour of Norway, General classification",42967,LAURANCE Axel,31621,4,50,2024-05-26,Jan
 2,2.PS,"Tour of Norway, General classification",42967,LEMMEN Bart,32252,1,35,2024-05-26,-
 3,2.PS,"Tour of Norway, General classification",42967,HOLTER Aadne,30167,0.5,25,2024-05-26,-
@@ -57,6 +47,16 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 8,2.PS,"Tour of Norway, General classification",42967,CORT NIELSEN Magnus,19448,0,12,2024-05-26,Nicky
 9,2.PS,"Tour of Norway, General classification",42967,BONNEU Kamiel,32584,0,10,2024-05-26,-
 10,2.PS,"Tour of Norway, General classification",42967,HAGEN Carl Fredrik,23436,0,8,2024-05-26,-
+1,2.PS,"Boucles de la Mayenne, General classification",42972,BETTIOL Alberto,20697,4,50,2024-05-26,PB
+2,2.PS,"Boucles de la Mayenne, General classification",42972,COSNEFROY Benoit,24189,1,35,2024-05-26,Bram
+3,2.PS,"Boucles de la Mayenne, General classification",42972,ZINGLE Axel,31263,0.5,25,2024-05-26,Paul
+4,2.PS,"Boucles de la Mayenne, General classification",42972,WATSON Samuel,32161,0,20,2024-05-26,PB
+5,2.PS,"Boucles de la Mayenne, General classification",42972,JEANNIERE Emilien,29288,0,18,2024-05-26,-
+6,2.PS,"Boucles de la Mayenne, General classification",42972,HIRSCHI Marc,26509,0,16,2024-05-26,Bram
+7,2.PS,"Boucles de la Mayenne, General classification",42972,GODON Dorian,25704,0,14,2024-05-26,PB
+8,2.PS,"Boucles de la Mayenne, General classification",42972,O'BRIEN Kelland,27113,0,12,2024-05-26,-
+9,2.PS,"Boucles de la Mayenne, General classification",42972,PENHOËT Paul,30686,0,10,2024-05-26,Jan
+10,2.PS,"Boucles de la Mayenne, General classification",42972,VAN DEN BERG Marijn,27674,0,8,2024-05-26,Roy
 1,2.PSs,"Tour of Norway, Stage 4 : Stavanger - Stavanger",42966,KRISTOFF Alexander,4179,0.3,0,2024-05-26,Nicky
 1,2.PSs,"Boucles de la Mayenne, Stage 3 : Quelaines-Saint-Gault - Laval",42971,RETAILLEAU Valentin,29868,0.3,0,2024-05-26,-
 1,1.1,Rund um Köln,42829,VAN UDEN Casper,30636,2,0,2024-05-26,-

@@ -1,4 +1,7 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
+1,1.1,Heistse Pijl (prov.),42851,KRISTOFF Alexander,4179,2,0,2024-06-01,Nicky
+2,1.1,Heistse Pijl (prov.),42851,VAN UDEN Casper,30636,0.3,0,2024-06-01,-
+3,1.1,Heistse Pijl (prov.),42851,CAPIOT Amaury,22669,0.1,0,2024-06-01,-
 1,2.NCs,"Course de la Paix U23 - GP Jeseniky, Stage 3 : Bruntal - Dlouhe Strane (prov.)",42998,ROLLAND Brieuc,33756,0.0,0,2024-06-01,-
 1,2.NCs,"Course de la Paix U23 - GP Jeseniky, Stage 2 : Unicov - Rymarov (prov.)",42997,MAGNIER Paul,34555,0.0,0,2024-05-31,-
 1,2.NCs,"Course de la Paix U23 - GP Jeseniky, Stage 1 : Krnov - Opava (prov.)",42996,NØRTOFT Morten Aalling,32145,0.0,0,2024-05-30,-
@@ -37,14 +40,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 -1,GT2,"Winnaar jongerentrui Giro dItalia,",42873,Tiberi Antonio,30649,2,0,2024-05-26,-
 1,GT2s,"Giro dItalia, Stage 21 : Roma - Roma",42873,MERLIER Tim,17988,2,0,2024-05-26,Frank
 1,GT2r,"Giro dItalia, Mountains classification",42876,POGACAR Tadej,26526,5,0,2024-05-26,Wijnand
-1,GT2r,"Giro dItalia, Points classification",42875,MILAN Jonathan,29359,5,0,2024-05-26,Albert
-1,2.PS,"Tour of Norway, General classification",42967,LAURANCE Axel,31621,4,50,2024-05-26,Jan
-2,2.PS,"Tour of Norway, General classification",42967,LEMMEN Bart,32252,1,35,2024-05-26,-
-3,2.PS,"Tour of Norway, General classification",42967,HOLTER Aadne,30167,0.5,25,2024-05-26,-
-4,2.PS,"Tour of Norway, General classification",42967,VACEK Mathias,31713,0,20,2024-05-26,-
-5,2.PS,"Tour of Norway, General classification",42967,BRENNER Marco,31323,0,18,2024-05-26,-
-6,2.PS,"Tour of Norway, General classification",42967,RODRIGUEZ GARAICOECHEA Oscar,26216,0,16,2024-05-26,-
-7,2.PS,"Tour of Norway, General classification",42967,HAYTER Ethan,27025,0,14,2024-05-26,Bram
-8,2.PS,"Tour of Norway, General classification",42967,CORT NIELSEN Magnus,19448,0,12,2024-05-26,Nicky
-9,2.PS,"Tour of Norway, General classification",42967,BONNEU Kamiel,32584,0,10,2024-05-26,-
-10,2.PS,"Tour of Norway, General classification",42967,HAGEN Carl Fredrik,23436,0,8,2024-05-26,-

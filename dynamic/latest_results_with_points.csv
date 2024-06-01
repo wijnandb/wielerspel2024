@@ -1,4 +1,5 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
+1,2.NCs,"Course de la Paix U23 - GP Jeseniky, Stage 3 : Bruntal - Dlouhe Strane (prov.)",42998,ROLLAND Brieuc,33756,0.0,0,2024-06-01,-
 1,2.NCs,"Course de la Paix U23 - GP Jeseniky, Stage 2 : Unicov - Rymarov (prov.)",42997,MAGNIER Paul,34555,0.0,0,2024-05-31,-
 1,2.NCs,"Course de la Paix U23 - GP Jeseniky, Stage 1 : Krnov - Opava (prov.)",42996,NØRTOFT Morten Aalling,32145,0.0,0,2024-05-30,-
 1,1.PS,Circuit Franco-Belge,42832,GIRMAY HAILU Biniam,29474,4,50,2024-05-29,Nicky
@@ -47,13 +48,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 8,2.PS,"Tour of Norway, General classification",42967,CORT NIELSEN Magnus,19448,0,12,2024-05-26,Nicky
 9,2.PS,"Tour of Norway, General classification",42967,BONNEU Kamiel,32584,0,10,2024-05-26,-
 10,2.PS,"Tour of Norway, General classification",42967,HAGEN Carl Fredrik,23436,0,8,2024-05-26,-
-1,2.PS,"Boucles de la Mayenne, General classification",42972,BETTIOL Alberto,20697,4,50,2024-05-26,PB
-2,2.PS,"Boucles de la Mayenne, General classification",42972,COSNEFROY Benoit,24189,1,35,2024-05-26,Bram
-3,2.PS,"Boucles de la Mayenne, General classification",42972,ZINGLE Axel,31263,0.5,25,2024-05-26,Paul
-4,2.PS,"Boucles de la Mayenne, General classification",42972,WATSON Samuel,32161,0,20,2024-05-26,PB
-5,2.PS,"Boucles de la Mayenne, General classification",42972,JEANNIERE Emilien,29288,0,18,2024-05-26,-
-6,2.PS,"Boucles de la Mayenne, General classification",42972,HIRSCHI Marc,26509,0,16,2024-05-26,Bram
-7,2.PS,"Boucles de la Mayenne, General classification",42972,GODON Dorian,25704,0,14,2024-05-26,PB
-8,2.PS,"Boucles de la Mayenne, General classification",42972,O'BRIEN Kelland,27113,0,12,2024-05-26,-
-9,2.PS,"Boucles de la Mayenne, General classification",42972,PENHOËT Paul,30686,0,10,2024-05-26,Jan
-10,2.PS,"Boucles de la Mayenne, General classification",42972,VAN DEN BERG Marijn,27674,0,8,2024-05-26,Roy

@@ -33,9 +33,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
 13,GT2,"Giro dItalia, General classification",42874,PIGANZOLI Davide,32232,0.0,0,2024-05-26
 14,GT2,"Giro dItalia, General classification",42874,GESCHKE Simon,4742,0.0,0,2024-05-26
 15,GT2,"Giro dItalia, General classification",42874,MAJKA Rafal,14310,0.0,0,2024-05-26
-0,GT2c,Correctie dragen jongerentrui in Giro d'Italia,42873,Tiberi Antonio,30649,-1.0,0,2024-05-26
-0,GT2c,Correctie dragen leiderstrui in Giro d'Italia,42874,Pogacar Tadej,26526,-19.0,0,2024-05-26
-0,GT2c,Correctie dragen puntentrui in Giro d'Italia,42875,Milan Jonathan,29359,-3.4,0,2024-05-26
-0,GT2c,Correctie dragen bergtrui in Giro d'Italia,42876,Pogacar Tadej,26526,-3.8,0,2024-05-26
--1,GT2,"Winnaar jongerentrui Giro dItalia,",42873,Tiberi Antonio,30649,0,0,2024-05-26
-1,GT2s,"Giro dItalia, Stage 21 : Roma - Roma",42873,MERLIER Tim,17988,0.0,0,2024-05-26

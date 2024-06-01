@@ -1,7 +1,7 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
-1,1.1,Heistse Pijl (prov.),42851,KRISTOFF Alexander,4179,2,0,2024-06-01,Nicky
-2,1.1,Heistse Pijl (prov.),42851,VAN UDEN Casper,30636,0.3,0,2024-06-01,-
-3,1.1,Heistse Pijl (prov.),42851,CAPIOT Amaury,22669,0.1,0,2024-06-01,-
+1,1.1,Heistse Pijl,42851,KRISTOFF Alexander,4179,2,0,2024-06-01,Nicky
+2,1.1,Heistse Pijl,42851,VAN UDEN Casper,30636,0.3,0,2024-06-01,-
+3,1.1,Heistse Pijl,42851,CAPIOT Amaury,22669,0.1,0,2024-06-01,-
 1,2.NCs,"Course de la Paix U23 - GP Jeseniky, Stage 3 : Bruntal - Dlouhe Strane (prov.)",42998,ROLLAND Brieuc,33756,0.0,0,2024-06-01,-
 1,2.NCs,"Course de la Paix U23 - GP Jeseniky, Stage 2 : Unicov - Rymarov (prov.)",42997,MAGNIER Paul,34555,0.0,0,2024-05-31,-
 1,2.NCs,"Course de la Paix U23 - GP Jeseniky, Stage 1 : Krnov - Opava (prov.)",42996,NØRTOFT Morten Aalling,32145,0.0,0,2024-05-30,-
@@ -18,18 +18,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 1,1.1,Mercan'Tour Classic Alpes-Maritimes,42831,MARTINEZ Lenny,32721,2,0,2024-05-29,Kees
 2,1.1,Mercan'Tour Classic Alpes-Maritimes,42831,BERTHET Clément,31634,0.3,0,2024-05-29,-
 3,1.1,Mercan'Tour Classic Alpes-Maritimes,42831,VANHOUCKE Harm,25652,0.1,0,2024-05-29,-
-1,GT2,"Giro dItalia, General classification",42874,POGACAR Tadej,26526,25,50,2024-05-26,Wijnand
-2,GT2,"Giro dItalia, General classification",42874,MARTINEZ POVEDA Daniel Felipe,23503,10,35,2024-05-26,PB
-3,GT2,"Giro dItalia, General classification",42874,THOMAS Geraint,3891,7,25,2024-05-26,Arjan
-4,GT2,"Giro dItalia, General classification",42874,O'CONNOR Ben,23763,5,20,2024-05-26,Nicky
-5,GT2,"Giro dItalia, General classification",42874,TIBERI Antonio,30649,4,18,2024-05-26,-
-6,GT2,"Giro dItalia, General classification",42874,ARENSMAN Thymen,27716,3,16,2024-05-26,Kees
-7,GT2,"Giro dItalia, General classification",42874,RUBIO REYES Einer Augusto,27024,3,14,2024-05-26,Frank
-8,GT2,"Giro dItalia, General classification",42874,HIRT Jan,17078,2,12,2024-05-26,-
-9,GT2,"Giro dItalia, General classification",42874,BARDET Romain,13566,2,10,2024-05-26,Nicky
-10,GT2,"Giro dItalia, General classification",42874,STORER Michael,25335,2,8,2024-05-26,Albert
-11,GT2,"Giro dItalia, General classification",42874,ZANA Filippo,27749,1,0,2024-05-26,Jan
-12,GT2,"Giro dItalia, General classification",42874,FORTUNATO Lorenzo,25552,1,0,2024-05-26,Paul
-13,GT2,"Giro dItalia, General classification",42874,PIGANZOLI Davide,32232,1,0,2024-05-26,-
-14,GT2,"Giro dItalia, General classification",42874,GESCHKE Simon,4742,1,0,2024-05-26,-
-15,GT2,"Giro dItalia, General classification",42874,MAJKA Rafal,14310,1,0,2024-05-26,Kees

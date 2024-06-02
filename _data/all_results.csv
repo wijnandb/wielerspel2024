@@ -1,4 +1,25 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
+1,1.PS,Brussels Cycling Classic (prov.),43016,ABRAHAMSEN Jonas,22233,0.0,0,2024-06-02
+2,1.PS,Brussels Cycling Classic (prov.),43016,GIRMAY HAILU Biniam,29474,0.0,0,2024-06-02
+3,1.PS,Brussels Cycling Classic (prov.),43016,GROVES Kaden,26637,0.0,0,2024-06-02
+4,1.PS,Brussels Cycling Classic (prov.),43016,ACKERMANN Pascal,20917,0.0,0,2024-06-02
+5,1.PS,Brussels Cycling Classic (prov.),43016,MOSCHETTI Matteo,27126,0.0,0,2024-06-02
+6,1.PS,Brussels Cycling Classic (prov.),43016,MOLANO BENAVIDES Juan Sebastian,23463,0.0,0,2024-06-02
+7,1.PS,Brussels Cycling Classic (prov.),43016,FIORELLI Filippo,24152,0.0,0,2024-06-02
+8,1.PS,Brussels Cycling Classic (prov.),43016,TAMINIAUX Lionel,23416,0.0,0,2024-06-02
+9,1.PS,Brussels Cycling Classic (prov.),43016,FRETIN Milan,32617,0.0,0,2024-06-02
+10,1.PS,Brussels Cycling Classic (prov.),43016,GALVAN FERNANDEZ Francisco,27470,0.0,0,2024-06-02
+1,2.NC,"Course de la Paix U23 - GP Jeseniky, General classification (prov.)",43000,ROLLAND Brieuc,33756,0.0,0,2024-06-02
+2,2.NC,"Course de la Paix U23 - GP Jeseniky, General classification (prov.)",43000,DOCKX Aaron,34689,0.0,0,2024-06-02
+3,2.NC,"Course de la Paix U23 - GP Jeseniky, General classification (prov.)",43000,BISIAUX Léo,35822,0.0,0,2024-06-02
+4,2.NC,"Course de la Paix U23 - GP Jeseniky, General classification (prov.)",43000,DALBY Simon,32795,0.0,0,2024-06-02
+5,2.NC,"Course de la Paix U23 - GP Jeseniky, General classification (prov.)",43000,TOUSSAINT Wouter,34552,0.0,0,2024-06-02
+6,2.NC,"Course de la Paix U23 - GP Jeseniky, General classification (prov.)",43000,VAN BEKKUM Darren,31717,0.0,0,2024-06-02
+7,2.NC,"Course de la Paix U23 - GP Jeseniky, General classification (prov.)",43000,WALLENBORN Arno,33835,0.0,0,2024-06-02
+8,2.NC,"Course de la Paix U23 - GP Jeseniky, General classification (prov.)",43000,RUIZ ACUÑA Jeferson Armando,32074,0.0,0,2024-06-02
+9,2.NC,"Course de la Paix U23 - GP Jeseniky, General classification (prov.)",43000,AEBERSOLD Nils,35553,0.0,0,2024-06-02
+10,2.NC,"Course de la Paix U23 - GP Jeseniky, General classification (prov.)",43000,LIMA Daniel Botelho Freitas,34597,0.0,0,2024-06-02
+1,2.NCs,"Course de la Paix U23 - GP Jeseniky, Stage 4 : Sumperk - Jesenik (prov.)",42999,MOURIS Wessel,34394,0.0,0,2024-06-02
 1,1.1,Heistse Pijl,42851,KRISTOFF Alexander,4179,0.0,0,2024-06-01
 2,1.1,Heistse Pijl,42851,VAN UDEN Casper,30636,0.0,0,2024-06-01
 3,1.1,Heistse Pijl,42851,CAPIOT Amaury,22669,0.0,0,2024-06-01

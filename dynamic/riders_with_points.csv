@@ -91,7 +91,7 @@ renner_id,renner,rider,ploegleider,kosten,team,nationality,age,punten,JPP
 30663,PAGE Hugo,PAGE Hugo,Jan,2,ICW,FRA,22,0,18
 32185,NYS Thibau,NYS Thibau,Jan,2,LTK,BEL,21,5.9,50
 26965,DAINESE Alberto,DAINESE Alberto,Jan,2,TUD,ITA,25,0.5,0
-20917,ACKERMANN Pascal,ACKERMANN Pascal,Jan,2,IPT,GER,29,0,20
+20917,ACKERMANN Pascal,ACKERMANN Pascal,Jan,2,IPT,GER,29,0,40
 28553,DVERSNES Fredrik,DVERSNES Fredrik,Jan,2,UXT,NOR,26,0.1,18
 23299,SOLER GIMENEZ Marc,SOLER GIMENEZ Marc,Jan,2,UAD,ESP,30,0.5,20
 24326,AULAR SANABRIA Orluis Alberto,AULAR SANABRIA Orluis Alberto,Jan,2,CJR,VEN,27,0.0,0
@@ -125,7 +125,7 @@ renner_id,renner,rider,ploegleider,kosten,team,nationality,age,punten,JPP
 24873,FOSS Tobias Svendsen,FOSS Tobias Svendsen,Kees,2,IGD,NOR,26,0.3,0
 20847,POLITT Nils,POLITT Nils,Kees,2,UAD,GER,29,6,94
 26388,BJERG Mikkel,BJERG Mikkel,Kees,2,UAD,DEN,25,1,20
-27126,MOSCHETTI Matteo,MOSCHETTI Matteo,Kees,2,Q36,ITA,27,1,47
+27126,MOSCHETTI Matteo,MOSCHETTI Matteo,Kees,2,Q36,ITA,27,1,65
 26197,LAFAY Victor,LAFAY Victor,Kees,2,A2R,FRA,27,0,0
 24180,MENTEN Milan,MENTEN Milan,Kees,2,LTD,BEL,27,0,12
 33556,DEL TORO ROMERO Isaac,DEL TORO ROMERO Isaac,Kees,1,,MEX,20,4.7,59
@@ -140,7 +140,7 @@ renner_id,renner,rider,ploegleider,kosten,team,nationality,age,punten,JPP
 29419,BARONCINI Filippo,BARONCINI Filippo,Kees,0,UAD,ITA,23,0,0
 26392,PHILIPSEN Jasper,PHILIPSEN Jasper,Nicky,28,ADC,BEL,25,26.0,215
 24758,MADOUAS Valentin,MADOUAS Valentin,Nicky,11,FDJ,FRA,27,0,30
-29474,GIRMAY HAILU Biniam,GIRMAY HAILU Biniam,Nicky,10,ICW,ERI,23,6.3,64
+29474,GIRMAY HAILU Biniam,GIRMAY HAILU Biniam,Nicky,10,ICW,ERI,23,7.3,99
 23558,ASGREEN Kasper,ASGREEN Kasper,Nicky,7,SOQ,DEN,28,0,0
 13566,BARDET Romain,BARDET Romain,Nicky,7,DSM,FRA,33,5.1,63
 18749,FORMOLO Davide,FORMOLO Davide,Nicky,6,MOV,ITA,31,0,14
@@ -166,7 +166,7 @@ renner_id,renner,rider,ploegleider,kosten,team,nationality,age,punten,JPP
 19953,LAPORTE Christophe,LAPORTE Christophe,Paul,11,TJV,FRA,31,0.2,46
 24316,VLASOV Alexander,VLASOV Alexander,Paul,10,BOH,RUS,27,5.9,98
 28057,JORGENSON Matteo,JORGENSON Matteo,Paul,10,TJV,USA,24,15.2,118
-26637,GROVES Kaden,GROVES Kaden,Paul,9,ADC,AUS,25,0,8
+26637,GROVES Kaden,GROVES Kaden,Paul,9,ADC,AUS,25,0.5,33
 19651,EWAN Caleb,EWAN Caleb,Paul,7,JAY,AUS,29,0.3,0
 18455,LUTSENKO Alexey,LUTSENKO Alexey,Paul,7,AST,KAZ,31,2.2,12
 21812,CICCONE Giulio,CICCONE Giulio,Paul,7,LTK,ITA,29,0,0
@@ -191,7 +191,7 @@ renner_id,renner,rider,ploegleider,kosten,team,nationality,age,punten,JPP
 29492,STRONG Corbin,STRONG Corbin,PB,6,IPT,NZL,23,0.7,40
 29699,BUITRAGO SANCHEZ Santiago,BUITRAGO SANCHEZ Santiago,PB,5,TBV,COL,24,2.2,53
 25704,GODON Dorian,GODON Dorian,PB,3,A2R,FRA,27,2.0,34
-23463,MOLANO BENAVIDES Juan Sebastian,MOLANO BENAVIDES Juan Sebastian,PB,3,UAD,COL,29,0,14
+23463,MOLANO BENAVIDES Juan Sebastian,MOLANO BENAVIDES Juan Sebastian,PB,3,UAD,COL,29,0,30
 13066,MATTHEWS Michael,MATTHEWS Michael,PB,3,JAY,AUS,33,5,55
 18123,VALGREN ANDERSEN Michael,VALGREN ANDERSEN Michael,PB,2,EFE,DEN,31,0,12
 28298,COVI Alessandro,COVI Alessandro,PB,2,UAD,ITA,25,0,0

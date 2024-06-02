@@ -1,4 +1,5 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
+1,2.WT1s,"Critérium du Dauphiné, Stage 1 : Saint-Pourçain-sur-Sioule - Saint-Pourçain-sur-Sioule (prov.)",43173,PEDERSEN Mads,21992,1,0,2024-06-02,Kees
 1,1.PS,Brussels Cycling Classic (prov.),43016,ABRAHAMSEN Jonas,22233,4,50,2024-06-02,-
 2,1.PS,Brussels Cycling Classic (prov.),43016,GIRMAY HAILU Biniam,29474,1,35,2024-06-02,Nicky
 3,1.PS,Brussels Cycling Classic (prov.),43016,GROVES Kaden,26637,0.5,25,2024-06-02,Paul
@@ -25,4 +26,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 3,1.1,Heistse Pijl,42851,CAPIOT Amaury,22669,0.1,0,2024-06-01,-
 1,2.NCs,"Course de la Paix U23 - GP Jeseniky, Stage 3 : Bruntal - Dlouhe Strane (prov.)",42998,ROLLAND Brieuc,33756,0.0,0,2024-06-01,-
 1,2.NCs,"Course de la Paix U23 - GP Jeseniky, Stage 2 : Unicov - Rymarov (prov.)",42997,MAGNIER Paul,34555,0.0,0,2024-05-31,-
-1,2.NCs,"Course de la Paix U23 - GP Jeseniky, Stage 1 : Krnov - Opava (prov.)",42996,NØRTOFT Morten Aalling,32145,0.0,0,2024-05-30,-

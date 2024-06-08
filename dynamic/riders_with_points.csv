@@ -11,7 +11,7 @@ renner_id,renner,rider,ploegleider,kosten,team,nationality,age,punten,JPP
 29787,PLAPP Lucas,PLAPP Lucas,Albert,4,JAY,AUS,23,0.1,16
 30630,TULETT Ben,TULETT Ben,Albert,4,TJV,GBR,22,0,0
 23517,WELSFORD Samuel,WELSFORD Samuel,Albert,4,DSM,AUS,27,3.3,14
-29187,WAERENSKJOLD Soren,WAERENSKJOLD Soren,Albert,4,UXT,NOR,23,0.2,26
+29187,WAERENSKJOLD Soren,WAERENSKJOLD Soren,Albert,4,UXT,NOR,23,0.2,44
 28127,VERMEERSCH Florian,VERMEERSCH Florian,Albert,4,LTD,BEL,24,0,0
 26378,SOSA CUERVO Ivan Ramiro,SOSA CUERVO Ivan Ramiro,Albert,3,MOV,COL,26,0,10
 19903,SENECHAL Florian,SENECHAL Florian,Albert,3,ARK,FRA,30,0,0
@@ -81,7 +81,7 @@ renner_id,renner,rider,ploegleider,kosten,team,nationality,age,punten,JPP
 31598,SHEFFIELD Magnus,SHEFFIELD Magnus,Jan,5,IGD,USA,21,0,16
 16722,WELLENS Tim,WELLENS Tim,Jan,5,UAD,BEL,32,2.1,80
 25026,HIGUITA GARCIA Sergio Andres,HIGUITA GARCIA Sergio Andres,Jan,4,BOH,COL,26,2,35
-25623,TILLER Rasmus Fossum,TILLER Rasmus Fossum,Jan,4,UXT,NOR,27,0,0
+25623,TILLER Rasmus Fossum,TILLER Rasmus Fossum,Jan,4,UXT,NOR,27,0,20
 27749,ZANA Filippo,ZANA Filippo,Jan,3,JAY,ITA,24,1,10
 23427,KEMNA Lennard,KEMNA Lennard,Jan,3,BOH,GER,27,0,12
 18233,STUYVEN Jasper,STUYVEN Jasper,Jan,3,LTK,BEL,31,3,69
@@ -216,7 +216,7 @@ renner_id,renner,rider,ploegleider,kosten,team,nationality,age,punten,JPP
 21952,VAN GESTEL Dries,VAN GESTEL Dries,Roy,1,TEN,BEL,29,0.5,33
 23334,LOPEZ MORENO Miguel Angel,LOPEZ MORENO Miguel Angel,Roy,1,MED,COL,29,0,0
 7751,POELS Wout,POELS Wout,Roy,1,TBV,NED,36,0.8,41
-30780,RONHAAR Pim,RONHAAR Pim,Roy,0,,NED,22,0,0
+30780,RONHAAR Pim,RONHAAR Pim,Roy,0,,NED,22,0,14
 27708,PIDCOCK Thomas,PIDCOCK Thomas,Vel,20,IGD,GBR,24,15.5,116
 30836,RODRIGUEZ CANO Carlos,RODRIGUEZ CANO Carlos,Vel,19,IGD,ESP,22,14,85
 24057,GANNA Filippo,GANNA Filippo,Vel,19,IGD,ITA,27,2,0

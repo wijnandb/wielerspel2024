@@ -1,4 +1,5 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
+1,2.WT1s,"Tour de Suisse, Stage 1 : Vaduz - Regensdorf (prov.)",43206,COQUARD Bryan,18714,1,0,2024-06-10,Nicky
 1,2.WT1,"Critérium du Dauphiné, General classification",43181,ROGLIC Primoz,20719,10,50,2024-06-09,Frank
 2,2.WT1,"Critérium du Dauphiné, General classification",43181,JORGENSON Matteo,28057,3,35,2024-06-09,Paul
 3,2.WT1,"Critérium du Dauphiné, General classification",43181,GEE Derek,26869,1,25,2024-06-09,PB
@@ -13,9 +14,13 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 1,2.WT1s,"Critérium du Dauphiné, Stage 8 : Thônes - Plateau des Glières",43180,RODRIGUEZ CANO Carlos,30836,1,0,2024-06-09,Vel
 1,2.WT1r,"Critérium du Dauphiné, Mountains classification",43183,FORTUNATO Lorenzo,25552,0.0,0,2024-06-09,Paul
 1,2.WT1r,"Critérium du Dauphiné, Points classification",43182,ROGLIC Primoz,20719,0.0,0,2024-06-09,Frank
-1,2.PS,"ZLM Tour, General classification",43189,HERREGODTS Rune,28392,4,50,2024-06-09,Vel
-2,2.PS,"ZLM Tour, General classification",43189,WALKER Max,31835,1,35,2024-06-09,-
-3,2.PS,"ZLM Tour, General classification",43189,BOHLI Tom,20692,0.5,25,2024-06-09,-
+1,2.1,"ZLM Tour, General classification",43189,HERREGODTS Rune,28392,2,0,2024-06-09,Vel
+2,2.1,"ZLM Tour, General classification",43189,WALKER Max,31835,0.3,0,2024-06-09,-
+3,2.1,"ZLM Tour, General classification",43189,BOHLI Tom,20692,0.1,0,2024-06-09,-
+1,2.1s,"ZLM Tour, Stage 5 : Oosterhout - Oosterhout",43188,SALBY Alexander,26419,0.2,0,2024-06-09,-
+1,CCT2,Asian Cycling Championships (Almaty) I.T.T.,43301,FEDOROV Yevgeniy,29309,0.5,0,2024-06-09,PB
+1,NC5,National Championships Saint Vincent & the Grenadines () R.R. (prov.),43023,BAILEY Zefal Trevor,21526,0.0,0,2024-06-09,-
+1,2.WT1s,"Critérium du Dauphiné, Stage 7 : Albertville - Samoëns 1600",43179,ROGLIC Primoz,20719,1,0,2024-06-08,Frank
 4,2.PS,"ZLM Tour, General classification",43189,VAN SINTMAARTENSDIJK Roel,31565,0,20,2024-06-09,-
 5,2.PS,"ZLM Tour, General classification",43189,MOURIS Wessel,34394,0,18,2024-06-09,-
 6,2.PS,"ZLM Tour, General classification",43189,SYRITSA Gleb,29927,0,16,2024-06-09,-
@@ -23,9 +28,6 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 8,2.PS,"ZLM Tour, General classification",43189,TEUNISSEN Mike,19165,0,12,2024-06-09,Albert
 9,2.PS,"ZLM Tour, General classification",43189,VAN DER TUUK Axel,30566,0,10,2024-06-09,-
 10,2.PS,"ZLM Tour, General classification",43189,VAN UDEN Casper,30636,0,8,2024-06-09,-
-1,2.PSs,"ZLM Tour, Stage 5 : Oosterhout - Oosterhout",43188,SALBY Alexander,26419,0.3,0,2024-06-09,-
-1,CCT2,Asian Cycling Championships (Almaty) I.T.T.,43301,FEDOROV Yevgeniy,29309,0.5,0,2024-06-09,PB
-1,2.WT1s,"Critérium du Dauphiné, Stage 7 : Albertville - Samoëns 1600",43179,ROGLIC Primoz,20719,1,0,2024-06-08,Frank
 1,1.PS,Dwars door het Hageland,43019,VERMEERSCH Gianni,18247,4,50,2024-06-08,-
 2,1.PS,Dwars door het Hageland,43019,ABRAHAMSEN Jonas,22233,1,35,2024-06-08,-
 3,1.PS,Dwars door het Hageland,43019,DE VRIES Hartthijs,23351,0.5,25,2024-06-08,-

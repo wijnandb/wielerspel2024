@@ -1,5 +1,6 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
-1,2.WT1s,"Tour de Suisse, Stage 1 : Vaduz - Regensdorf (prov.)",43206,COQUARD Bryan,18714,1,0,2024-06-10,Nicky
+1,2.WT1s,"Tour de Suisse, Stage 3 : Steinmaur - Rüschlikon (prov.)",43207,NYS Thibau,32185,1,0,2024-06-11,Jan
+1,2.WT1s,"Tour de Suisse, Stage 2 : Vaduz - Regensdorf (prov.)",43206,COQUARD Bryan,18714,1,0,2024-06-10,Nicky
 1,2.WT1,"Critérium du Dauphiné, General classification",43181,ROGLIC Primoz,20719,10,50,2024-06-09,Frank
 2,2.WT1,"Critérium du Dauphiné, General classification",43181,JORGENSON Matteo,28057,3,35,2024-06-09,Paul
 3,2.WT1,"Critérium du Dauphiné, General classification",43181,GEE Derek,26869,1,25,2024-06-09,PB
@@ -10,7 +11,7 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 8,2.WT1,"Critérium du Dauphiné, General classification",43181,CICCONE Giulio,21812,0,12,2024-06-09,Paul
 9,2.WT1,"Critérium du Dauphiné, General classification",43181,LAZKANO LOPEZ Oier,30595,0,10,2024-06-09,Frank
 10,2.WT1,"Critérium du Dauphiné, General classification",43181,LANDA MEANA Mikel,14319,0,8,2024-06-09,Albert
-1,2.WT1s,"Tour de Suisse, Prologue : Vaduz I.T.T. (prov.)",43205,LAMPAERT Yves,19941,1,0,2024-06-09,Harry
+1,2.WT1s,"Tour de Suisse, Stage 1 : Vaduz I.T.T. (prov.)",43205,LAMPAERT Yves,19941,1,0,2024-06-09,Harry
 1,2.WT1s,"Critérium du Dauphiné, Stage 8 : Thônes - Plateau des Glières",43180,RODRIGUEZ CANO Carlos,30836,1,0,2024-06-09,Vel
 1,2.WT1r,"Critérium du Dauphiné, Mountains classification",43183,FORTUNATO Lorenzo,25552,0.0,0,2024-06-09,Paul
 1,2.WT1r,"Critérium du Dauphiné, Points classification",43182,ROGLIC Primoz,20719,0.0,0,2024-06-09,Frank

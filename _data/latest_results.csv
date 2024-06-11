@@ -1,5 +1,6 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
-1,2.WT1s,"Tour de Suisse, Stage 1 : Vaduz - Regensdorf (prov.)",43206,COQUARD Bryan,18714,0.0,0,2024-06-10
+1,2.WT1s,"Tour de Suisse, Stage 3 : Steinmaur - Rüschlikon (prov.)",43207,NYS Thibau,32185,0.0,0,2024-06-11
+1,2.WT1s,"Tour de Suisse, Stage 2 : Vaduz - Regensdorf (prov.)",43206,COQUARD Bryan,18714,0.0,0,2024-06-10
 1,2.WT1,"Critérium du Dauphiné, General classification",43181,ROGLIC Primoz,20719,0.0,0,2024-06-09
 2,2.WT1,"Critérium du Dauphiné, General classification",43181,JORGENSON Matteo,28057,0.0,0,2024-06-09
 3,2.WT1,"Critérium du Dauphiné, General classification",43181,GEE Derek,26869,0.0,0,2024-06-09
@@ -10,7 +11,7 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
 8,2.WT1,"Critérium du Dauphiné, General classification",43181,CICCONE Giulio,21812,0.0,0,2024-06-09
 9,2.WT1,"Critérium du Dauphiné, General classification",43181,LAZKANO LOPEZ Oier,30595,0.0,0,2024-06-09
 10,2.WT1,"Critérium du Dauphiné, General classification",43181,LANDA MEANA Mikel,14319,0.0,0,2024-06-09
-1,2.WT1s,"Tour de Suisse, Prologue : Vaduz I.T.T. (prov.)",43205,LAMPAERT Yves,19941,0.0,0,2024-06-09
+1,2.WT1s,"Tour de Suisse, Stage 1 : Vaduz I.T.T. (prov.)",43205,LAMPAERT Yves,19941,0.0,0,2024-06-09
 1,2.WT1s,"Critérium du Dauphiné, Stage 8 : Thônes - Plateau des Glières",43180,RODRIGUEZ CANO Carlos,30836,0.0,0,2024-06-09
 1,2.WT1r,"Critérium du Dauphiné, Mountains classification",43183,FORTUNATO Lorenzo,25552,0.0,0,2024-06-09
 1,2.WT1r,"Critérium du Dauphiné, Points classification",43182,ROGLIC Primoz,20719,0.0,0,2024-06-09
@@ -19,5 +20,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
 3,2.1,"ZLM Tour, General classification",43189,BOHLI Tom,20692,0.0,0,2024-06-09
 1,2.1s,"ZLM Tour, Stage 5 : Oosterhout - Oosterhout",43188,SALBY Alexander,26419,0.0,0,2024-06-09
 1,CCT2,Asian Cycling Championships (Almaty) I.T.T.,43301,FEDOROV Yevgeniy,29309,0.0,0,2024-06-09
-1,NC5,National Championships Saint Vincent & the Grenadines () R.R. (prov.),43023,BAILEY Zefal Trevor,21526,0.0,0,2024-06-09
-1,2.WT1s,"Critérium du Dauphiné, Stage 7 : Albertville - Samoëns 1600",43179,ROGLIC Primoz,20719,0.0,0,2024-06-08

@@ -1,4 +1,5 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
+1,NCT4,National Championships Eritrea () I.T.T. (prov.),43058,GEBREIGZABHIER Amanuel Werkilul,21482,0.5,0,2024-06-13,-
 1,2.WT1s,"Tour de Suisse, Stage 4 : Rüschlikon - San Gottardo (prov.)",43208,TRAEEN Torstein,24068,1,0,2024-06-12,-
 1,2.PSs,"Belgium Tour, Stage 1 : Beringen I.T.T. (prov.)",43239,WAERENSKJOLD Søren,29187,0.3,0,2024-06-12,Albert
 1,2.PSs,"Tour of Slovenia, Stage 1 : Murska Sobota - Ormoz (prov.)",43221,GROENEWEGEN Dylan,19238,0.3,0,2024-06-12,Albert
@@ -27,9 +28,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 1,2.WT1s,"Tour de Suisse, Stage 1 : Vaduz I.T.T. (prov.)",43205,LAMPAERT Yves,19941,1,0,2024-06-09,Harry
 1,2.WT1s,"Critérium du Dauphiné, Stage 8 : Thônes - Plateau des Glières",43180,RODRIGUEZ CANO Carlos,30836,1,0,2024-06-09,Vel
 1,2.WT1r,"Critérium du Dauphiné, Mountains classification",43183,FORTUNATO Lorenzo,25552,0.0,0,2024-06-09,Paul
-1,2.WT1r,"Critérium du Dauphiné, Points classification",43182,ROGLIC Primoz,20719,0.0,0,2024-06-09,Frank
-1,2.1,"ZLM Tour, General classification",43189,HERREGODTS Rune,28392,2,0,2024-06-09,Vel
-2,2.1,"ZLM Tour, General classification",43189,WALKER Max,31835,0.3,0,2024-06-09,-
-3,2.1,"ZLM Tour, General classification",43189,BOHLI Tom,20692,0.1,0,2024-06-09,-
-1,2.1s,"ZLM Tour, Stage 5 : Oosterhout - Oosterhout",43188,SALBY Alexander,26419,0.2,0,2024-06-09,-
-1,CCT2,Asian Cycling Championships (Almaty) I.T.T.,43301,FEDOROV Yevgeniy,29309,0.5,0,2024-06-09,PB

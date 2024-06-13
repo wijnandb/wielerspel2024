@@ -1,5 +1,6 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 1,2.WT1s,"Tour de Suisse, Stage 5 : Ambri - Cari (prov.)",43209,YATES Adam,18975,1,0,2024-06-13,Kees
+1,2.PSs,"Belgium Tour, Stage 2 : Merelbeke - Knokke Heist (prov.)",43240,MERLIER Tim,17988,0.3,0,2024-06-13,Frank
 1,2.PSs,"Tour of Slovenia, Stage 2 : Zalec - Rogaska Slatina (prov.)",43222,BAUHAUS Phil,20861,0.3,0,2024-06-13,Nicky
 1,NCT4,National Championships Eritrea () I.T.T. (prov.),43058,GEBREIGZABHIER Amanuel Werkilul,21482,0.5,0,2024-06-13,-
 1,2.WT1s,"Tour de Suisse, Stage 4 : Rüschlikon - San Gottardo (prov.)",43208,TRAEEN Torstein,24068,1,0,2024-06-12,-
@@ -17,13 +18,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 10,CC2,Asian Cycling Championships (Almaty) R.R.,43302,LIPHONGYU Navuti,16609,0.0,0,2024-06-12,-
 1,2.WT1s,"Tour de Suisse, Stage 3 : Steinmaur - Rüschlikon (prov.)",43207,NYS Thibau,32185,1,0,2024-06-11,Jan
 1,2.WT1s,"Tour de Suisse, Stage 2 : Vaduz - Regensdorf (prov.)",43206,COQUARD Bryan,18714,1,0,2024-06-10,Nicky
-1,2.WT1,"Critérium du Dauphiné, General classification",43181,ROGLIC Primoz,20719,10,50,2024-06-09,Frank
-2,2.WT1,"Critérium du Dauphiné, General classification",43181,JORGENSON Matteo,28057,3,35,2024-06-09,Paul
-3,2.WT1,"Critérium du Dauphiné, General classification",43181,GEE Derek,26869,1,25,2024-06-09,PB
-4,2.WT1,"Critérium du Dauphiné, General classification",43181,RODRIGUEZ CANO Carlos,30836,0.5,20,2024-06-09,Vel
-5,2.WT1,"Critérium du Dauphiné, General classification",43181,DE PLUS Laurens,24106,0.2,18,2024-06-09,-
-6,2.WT1,"Critérium du Dauphiné, General classification",43181,VLASOV Aleksandr,24316,0,16,2024-06-09,Paul
-7,2.WT1,"Critérium du Dauphiné, General classification",43181,EVENEPOEL Remco,28377,0,14,2024-06-09,Roy
-8,2.WT1,"Critérium du Dauphiné, General classification",43181,CICCONE Giulio,21812,0,12,2024-06-09,Paul
-9,2.WT1,"Critérium du Dauphiné, General classification",43181,LAZKANO LOPEZ Oier,30595,0,10,2024-06-09,Frank
-10,2.WT1,"Critérium du Dauphiné, General classification",43181,LANDA MEANA Mikel,14319,0,8,2024-06-09,Albert

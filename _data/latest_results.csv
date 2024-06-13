@@ -1,5 +1,6 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
 1,2.WT1s,"Tour de Suisse, Stage 5 : Ambri - Cari (prov.)",43209,YATES Adam,18975,0.0,0,2024-06-13
+1,2.PSs,"Belgium Tour, Stage 2 : Merelbeke - Knokke Heist (prov.)",43240,MERLIER Tim,17988,0.0,0,2024-06-13
 1,2.PSs,"Tour of Slovenia, Stage 2 : Zalec - Rogaska Slatina (prov.)",43222,BAUHAUS Phil,20861,0.0,0,2024-06-13
 1,NCT4,National Championships Eritrea () I.T.T. (prov.),43058,GEBREIGZABHIER Amanuel Werkilul,21482,0.0,0,2024-06-13
 1,2.WT1s,"Tour de Suisse, Stage 4 : Rüschlikon - San Gottardo (prov.)",43208,TRAEEN Torstein,24068,0.0,0,2024-06-12
@@ -17,13 +18,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
 10,CC2,Asian Cycling Championships (Almaty) R.R.,43302,LIPHONGYU Navuti,16609,0.0,0,2024-06-12
 1,2.WT1s,"Tour de Suisse, Stage 3 : Steinmaur - Rüschlikon (prov.)",43207,NYS Thibau,32185,0.0,0,2024-06-11
 1,2.WT1s,"Tour de Suisse, Stage 2 : Vaduz - Regensdorf (prov.)",43206,COQUARD Bryan,18714,0.0,0,2024-06-10
-1,2.WT1,"Critérium du Dauphiné, General classification",43181,ROGLIC Primoz,20719,0.0,0,2024-06-09
-2,2.WT1,"Critérium du Dauphiné, General classification",43181,JORGENSON Matteo,28057,0.0,0,2024-06-09
-3,2.WT1,"Critérium du Dauphiné, General classification",43181,GEE Derek,26869,0.0,0,2024-06-09
-4,2.WT1,"Critérium du Dauphiné, General classification",43181,RODRIGUEZ CANO Carlos,30836,0.0,0,2024-06-09
-5,2.WT1,"Critérium du Dauphiné, General classification",43181,DE PLUS Laurens,24106,0.0,0,2024-06-09
-6,2.WT1,"Critérium du Dauphiné, General classification",43181,VLASOV Aleksandr,24316,0.0,0,2024-06-09
-7,2.WT1,"Critérium du Dauphiné, General classification",43181,EVENEPOEL Remco,28377,0.0,0,2024-06-09
-8,2.WT1,"Critérium du Dauphiné, General classification",43181,CICCONE Giulio,21812,0.0,0,2024-06-09
-9,2.WT1,"Critérium du Dauphiné, General classification",43181,LAZKANO LOPEZ Oier,30595,0.0,0,2024-06-09
-10,2.WT1,"Critérium du Dauphiné, General classification",43181,LANDA MEANA Mikel,14319,0.0,0,2024-06-09

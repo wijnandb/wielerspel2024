@@ -1,8 +1,10 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
+1,2.WT1s,"Tour de Suisse, Stage 6 : Ulrichen - Blatten-Belalp (prov.)",43210,ALMEIDA Joao Pedro Gonçalves,26482,1,0,2024-06-14,Kaspar
+1,2.PSs,"Tour of Slovenia, Stage 3 : Ljubljana - Nova Gorica (prov.)",43223,ALEOTTI Giovanni,28451,0.3,0,2024-06-14,Wijnand
 1,2.WT1s,"Tour de Suisse, Stage 5 : Ambri - Cari (prov.)",43209,YATES Adam,18975,1,0,2024-06-13,Kees
 1,2.PSs,"Belgium Tour, Stage 2 : Merelbeke - Knokke Heist (prov.)",43240,MERLIER Tim,17988,0.3,0,2024-06-13,Frank
 1,2.PSs,"Tour of Slovenia, Stage 2 : Zalec - Rogaska Slatina (prov.)",43222,BAUHAUS Phil,20861,0.3,0,2024-06-13,Nicky
-1,NCT4,National Championships Eritrea () I.T.T. (prov.),43058,GEBREIGZABHIER Amanuel Werkilul,21482,0.5,0,2024-06-13,-
+1,NCT4,National Championships Eritrea () I.T.T.,43058,GEBREIGZABHIER Amanuel Werkilul,21482,0.5,0,2024-06-13,-
 1,2.WT1s,"Tour de Suisse, Stage 4 : Rüschlikon - San Gottardo (prov.)",43208,TRAEEN Torstein,24068,1,0,2024-06-12,-
 1,2.PSs,"Belgium Tour, Stage 1 : Beringen I.T.T. (prov.)",43239,WAERENSKJOLD Søren,29187,0.3,0,2024-06-12,Albert
 1,2.PSs,"Tour of Slovenia, Stage 1 : Murska Sobota - Ormoz (prov.)",43221,GROENEWEGEN Dylan,19238,0.3,0,2024-06-12,Albert
@@ -16,4 +18,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 8,CC2,Asian Cycling Championships (Almaty) R.R.,43302,SAINBAYAR Jambaljamts,24289,0.0,0,2024-06-12,-
 9,CC2,Asian Cycling Championships (Almaty) R.R.,43302,JUNG Woo-ho,25237,0.0,0,2024-06-12,-
 10,CC2,Asian Cycling Championships (Almaty) R.R.,43302,LIPHONGYU Navuti,16609,0.0,0,2024-06-12,-
-1,2.WT1s,"Tour de Suisse, Stage 3 : Steinmaur - Rüschlikon (prov.)",43207,NYS Thibau,32185,1,0,2024-06-11,Jan

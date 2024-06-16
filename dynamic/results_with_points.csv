@@ -1,5 +1,27 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
+1,2.WT1,"Tour de Suisse, General classification (prov.)",43213,YATES Adam,18975,10,50,2024-06-16,Kees
+2,2.WT1,"Tour de Suisse, General classification (prov.)",43213,ALMEIDA Joao Pedro Gonçalves,26482,3,35,2024-06-16,Kaspar
+3,2.WT1,"Tour de Suisse, General classification (prov.)",43213,SKJELMOSE JENSEN Mattias,30166,1,25,2024-06-16,Kaspar
+4,2.WT1,"Tour de Suisse, General classification (prov.)",43213,BERNAL GOMEZ Egan Arley,24926,0.5,20,2024-06-16,Arjan
+5,2.WT1,"Tour de Suisse, General classification (prov.)",43213,RICCITELLO Matthew,31559,0.2,18,2024-06-16,-
+6,2.WT1,"Tour de Suisse, General classification (prov.)",43213,PIDCOCK Thomas,27708,0,16,2024-06-16,Vel
+7,2.WT1,"Tour de Suisse, General classification (prov.)",43213,MAS NICOLAU Enric,22794,0,14,2024-06-16,Bram
+8,2.WT1,"Tour de Suisse, General classification (prov.)",43213,ONLEY Oscar,31724,0,12,2024-06-16,Albert
+9,2.WT1,"Tour de Suisse, General classification (prov.)",43213,KELDERMAN Wilco,15171,0,10,2024-06-16,Albert
+10,2.WT1,"Tour de Suisse, General classification (prov.)",43213,GALL Felix,26383,0,8,2024-06-16,Jan
 1,2.WT1s,"Tour de Suisse, Stage 8 : Aigle - Villars-sur Ollon (prov.)",43212,ALMEIDA Joao Pedro Gonçalves,26482,1,0,2024-06-16,Kaspar
+1,2.WT1r,"Tour de Suisse, Mountains classification (prov.)",43215,YATES Adam,18975,0.0,0,2024-06-16,Kees
+1,2.WT1r,"Tour de Suisse, Points classification (prov.)",43214,YATES Adam,18975,0.0,0,2024-06-16,Kees
+1,2.PS,"Belgium Tour, General classification (prov.)",43244,WAERENSKJOLD Søren,29187,4,50,2024-06-16,Albert
+2,2.PS,"Belgium Tour, General classification (prov.)",43244,VACEK Mathias,31713,1,35,2024-06-16,-
+3,2.PS,"Belgium Tour, General classification (prov.)",43244,ARANBURU DEBA Alexander,23940,0.5,25,2024-06-16,Harry
+4,2.PS,"Belgium Tour, General classification (prov.)",43244,PHILIPSEN Jasper,26392,0,20,2024-06-16,Nicky
+5,2.PS,"Belgium Tour, General classification (prov.)",43244,STUYVEN Jasper,18233,0,18,2024-06-16,Jan
+6,2.PS,"Belgium Tour, General classification (prov.)",43244,ASGREEN Kasper,23558,0,16,2024-06-16,Nicky
+7,2.PS,"Belgium Tour, General classification (prov.)",43244,SEGAERT Alec,33567,0,14,2024-06-16,Albert
+8,2.PS,"Belgium Tour, General classification (prov.)",43244,TOUZE Damien,24767,0,12,2024-06-16,-
+9,2.PS,"Belgium Tour, General classification (prov.)",43244,HAGENES Per Strand,30442,0,10,2024-06-16,Kaspar
+10,2.PS,"Belgium Tour, General classification (prov.)",43244,COTE Pier-André,26176,0,8,2024-06-16,-
 1,2.PS,"Tour of Slovenia, General classification (prov.)",43226,ALEOTTI Giovanni,28451,4,50,2024-06-16,Wijnand
 2,2.PS,"Tour of Slovenia, General classification (prov.)",43226,BILBAO LOPEZ DE ARMENTIA Pello,17881,1,35,2024-06-16,Albert
 3,2.PS,"Tour of Slovenia, General classification (prov.)",43226,PELLIZZARI Giulio,33100,0.5,25,2024-06-16,Kees
@@ -10,6 +32,7 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 8,2.PS,"Tour of Slovenia, General classification (prov.)",43226,ZANA Filippo,27749,0,12,2024-06-16,Jan
 9,2.PS,"Tour of Slovenia, General classification (prov.)",43226,CRAS Steff,24257,0,10,2024-06-16,-
 10,2.PS,"Tour of Slovenia, General classification (prov.)",43226,JOHANNESSEN Tobias Halland,31567,0,8,2024-06-16,Albert
+1,2.PSs,"Belgium Tour, Stage 5 : Brussel - Brussel (prov.)",43243,MERLIER Tim,17988,0.3,0,2024-06-16,Frank
 1,2.PSs,"Tour of Slovenia, Stage 5 : Sentjernej - Novo Mesto (prov.)",43225,HEALY Ben,28846,0.3,0,2024-06-16,Kees
 1,NC5,National Championships Finland (Espoo) R.R. (prov.),43312,HÄNNINEN Jaakko,27211,0.0,0,2024-06-16,-
 1,2.WT1s,"Tour de Suisse, Stage 7 : Villars-sur-Ollon - Villars-sur-Ollon (prov.)",43211,YATES Adam,18975,1,0,2024-06-15,Kees

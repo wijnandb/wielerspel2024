@@ -85,13 +85,6 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
 1,CCT2,Asian Cycling Championships (Almaty) I.T.T.,43301,FEDOROV Yevgeniy,29309,0.0,0,2024-06-09
 1,NC5,National Championships Saint Vincent & the Grenadines () R.R. (prov.),43023,BAILEY Zefal Trevor,21526,0.0,0,2024-06-09
 1,2.WT1s,"Critérium du Dauphiné, Stage 7 : Albertville - Samoëns 1600",43179,ROGLIC Primoz,20719,0.0,0,2024-06-08
-4,2.PS,"ZLM Tour, General classification",43189,VAN SINTMAARTENSDIJK Roel,31565,0.0,0,2024-06-09
-5,2.PS,"ZLM Tour, General classification",43189,MOURIS Wessel,34394,0.0,0,2024-06-09
-6,2.PS,"ZLM Tour, General classification",43189,SYRITSA Gleb,29927,0.0,0,2024-06-09
-7,2.PS,"ZLM Tour, General classification",43189,KLUCKERS Arthur,29382,0.0,0,2024-06-09
-8,2.PS,"ZLM Tour, General classification",43189,TEUNISSEN Mike,19165,0.0,0,2024-06-09
-9,2.PS,"ZLM Tour, General classification",43189,VAN DER TUUK Axel,30566,0.0,0,2024-06-09
-10,2.PS,"ZLM Tour, General classification",43189,VAN UDEN Casper,30636,0.0,0,2024-06-09
 1,1.PS,Dwars door het Hageland,43019,VERMEERSCH Gianni,18247,0.0,0,2024-06-08
 2,1.PS,Dwars door het Hageland,43019,ABRAHAMSEN Jonas,22233,0.0,0,2024-06-08
 3,1.PS,Dwars door het Hageland,43019,DE VRIES Hartthijs,23351,0.0,0,2024-06-08
@@ -102,16 +95,16 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
 8,1.PS,Dwars door het Hageland,43019,ANIOLKOWSKI Stanislaw,24940,0.0,0,2024-06-08
 9,1.PS,Dwars door het Hageland,43019,TAMINIAUX Lionel,23416,0.0,0,2024-06-08
 10,1.PS,Dwars door het Hageland,43019,LOOCKX Lander,28470,0.0,0,2024-06-08
-1,2.PSs,"ZLM Tour, Stage 4 : Roosendaal - Roosendaal",43187,VAN UDEN Casper,30636,0.0,0,2024-06-08
+1,2.1s,"ZLM Tour, Stage 4 : Roosendaal - Roosendaal",43187,VAN UDEN Casper,30636,0.0,0,2024-06-08
 1,2.WT1s,"Critérium du Dauphiné, Stage 6 : Hauterives - Le Collet d'Allevard (prov.)",43178,ROGLIC Primoz,20719,0.0,0,2024-06-07
-1,2.PSs,"ZLM Tour, Stage 3 : Schijndel - Buchten (prov.)",43186,SCHULTING Peter,4146,0.0,0,2024-06-07
+1,2.1s,"ZLM Tour, Stage 3 : Schijndel - Buchten (prov.)",43186,SCHULTING Peter,4146,0.0,0,2024-06-07
 1,1.1,GP Kanton Aargau - Gippingen,43018,VAN GILS Maxim,28521,0.0,0,2024-06-07
 2,1.1,GP Kanton Aargau - Gippingen,43018,BETTIOL Alberto,20697,0.0,0,2024-06-07
 3,1.1,GP Kanton Aargau - Gippingen,43018,ADRIA OLIVERAS Roger,27469,0.0,0,2024-06-07
 1,2.WT1s,"Critérium du Dauphiné, Stage 5 : Amplepuis - Saint-Priest (prov.)",43177,no result,13543,0.0,0,2024-06-06
-1,2.PSs,"ZLM Tour, Stage 2 : Middelburg - Wissenkerke (prov.)",43185,VAN UDEN Casper,30636,0.0,0,2024-06-06
+1,2.1s,"ZLM Tour, Stage 2 : Middelburg - Wissenkerke (prov.)",43185,VAN UDEN Casper,30636,0.0,0,2024-06-06
 1,2.WT1s,"Critérium du Dauphiné, Stage 4 : Saint-Germain-Laval - Neulise I.T.T. (prov.)",43176,EVENEPOEL Remco,28377,0.0,0,2024-06-05
-1,2.PSs,"ZLM Tour, Stage 1 : Westkapelle I.T.T. (prov.)",43184,HERREGODTS Rune,28392,0.0,0,2024-06-05
+1,2.1s,"ZLM Tour, Stage 1 : Westkapelle I.T.T. (prov.)",43184,HERREGODTS Rune,28392,0.0,0,2024-06-05
 1,2.WT1s,"Critérium du Dauphiné, Stage 3 : Celles-sur-Durolle - Les Estables (prov.)",43175,GEE Derek,26869,0.0,0,2024-06-04
 1,2.WT1s,"Critérium du Dauphiné, Stage 2 : Gannat - Col de la Loge (prov.)",43174,CORT NIELSEN Magnus,19448,0.0,0,2024-06-03
 1,2.WT1s,"Critérium du Dauphiné, Stage 1 : Saint-Pourçain-sur-Sioule - Saint-Pourçain-sur-Sioule (prov.)",43173,PEDERSEN Mads,21992,0.0,0,2024-06-02

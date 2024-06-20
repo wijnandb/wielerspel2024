@@ -2,6 +2,7 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 1,NCT1,National Championships France (Saint-Martin-de-Landelles) I.T.T. (prov.),43032,ARMIRAIL Bruno,22906,2,0,2024-06-20,-
 1,NCT1,National Championships Belgium (Binche) I.T.T. (prov.),43028,WELLENS Tim,16722,2,0,2024-06-20,Jan
 1,NCT1,National Championships Italy (Grosseto) I.T.T. (prov.),43041,GANNA Filippo,24057,2,0,2024-06-20,Vel
+1,NCT5,National Championships Czech Republic (Jevicko) I.T.T. (prov.),43062,VACEK Mathias,31713,0.0,0,2024-06-20,-
 1,NCT4,National Championships Poland (Radzanowo) I.T.T. (prov.),43064,MACIEJUK Filip,27941,0.5,0,2024-06-20,-
 1,NCT4,National Championships Switzerland (Aire-la-Ville) I.T.T. (prov.),43043,KÜNG Stefan,20960,0.5,0,2024-06-20,Wijnand
 1,NCT1,National Championships Norway (Saltstraumen) I.T.T. (prov.),43045,WAERENSKJOLD Søren,29187,2,0,2024-06-20,Albert
@@ -15,13 +16,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 1,NCT5,National Championships Sweden (Linköping) I.T.T.,43313,SÖDERQVIST Jakob,34230,0.0,0,2024-06-18,-
 1,NCT4,National Championships Estonia (Varbuse) I.T.T.,43068,TAARAMÄE Rein,1646,0.5,0,2024-06-18,-
 1,NCT5,National Championships Latvia (Bikernieku) I.T.T.,43066,KRASTS Alekss,31458,0.0,0,2024-06-17,-
-1,2.WT1,"Tour de Suisse, General classification",43213,YATES Adam,18975,10,50,2024-06-16,Kees
-2,2.WT1,"Tour de Suisse, General classification",43213,ALMEIDA Joao Pedro Gonçalves,26482,3,35,2024-06-16,Kaspar
-3,2.WT1,"Tour de Suisse, General classification",43213,SKJELMOSE JENSEN Mattias,30166,1,25,2024-06-16,Kaspar
-4,2.WT1,"Tour de Suisse, General classification",43213,BERNAL GOMEZ Egan Arley,24926,0.5,20,2024-06-16,Arjan
-5,2.WT1,"Tour de Suisse, General classification",43213,RICCITELLO Matthew,31559,0.2,18,2024-06-16,-
-6,2.WT1,"Tour de Suisse, General classification",43213,PIDCOCK Thomas,27708,0,16,2024-06-16,Vel
-7,2.WT1,"Tour de Suisse, General classification",43213,MAS NICOLAU Enric,22794,0,14,2024-06-16,Bram
-8,2.WT1,"Tour de Suisse, General classification",43213,ONLEY Oscar,31724,0,12,2024-06-16,Albert
-9,2.WT1,"Tour de Suisse, General classification",43213,KELDERMAN Wilco,15171,0,10,2024-06-16,Albert
-10,2.WT1,"Tour de Suisse, General classification",43213,GALL Felix,26383,0,8,2024-06-16,Jan

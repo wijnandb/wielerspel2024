@@ -1,4 +1,6 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
+1,NCT1,National Championships Belgium (Binche) I.T.T. (prov.),43028,WELLENS Tim,16722,2,0,2024-06-20,Jan
+1,NCT1,National Championships France (Saint-Martin-de-Landelles) I.T.T. (prov.),43032,ARMIRAIL Bruno,22906,2,0,2024-06-20,-
 1,NCT1,National Championships Italy (Grosseto) I.T.T. (prov.),43041,GANNA Filippo,24057,2,0,2024-06-20,Vel
 1,NCT4,National Championships Poland (Radzanowo) I.T.T. (prov.),43064,MACIEJUK Filip,27941,0.5,0,2024-06-20,-
 1,NCT4,National Championships Switzerland (Aire-la-Ville) I.T.T. (prov.),43043,KÜNG Stefan,20960,0.5,0,2024-06-20,Wijnand
@@ -23,14 +25,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 10,2.WT1,"Tour de Suisse, General classification",43213,GALL Felix,26383,0,8,2024-06-16,Jan
 1,2.WT1s,"Tour de Suisse, Stage 8 : Aigle - Villars-sur Ollon",43212,ALMEIDA Joao Pedro Gonçalves,26482,1,0,2024-06-16,Kaspar
 1,2.WT1r,"Tour de Suisse, Mountains classification",43215,YATES Adam,18975,0.0,0,2024-06-16,Kees
-1,2.WT1r,"Tour de Suisse, Points classification",43214,YATES Adam,18975,0.0,0,2024-06-16,Kees
-1,2.PS,"Belgium Tour, General classification",43244,WAERENSKJOLD Søren,29187,4,50,2024-06-16,Albert
-2,2.PS,"Belgium Tour, General classification",43244,VACEK Mathias,31713,1,35,2024-06-16,-
-3,2.PS,"Belgium Tour, General classification",43244,ARANBURU DEBA Alexander,23940,0.5,25,2024-06-16,Harry
-4,2.PS,"Belgium Tour, General classification",43244,PHILIPSEN Jasper,26392,0,20,2024-06-16,Nicky
-5,2.PS,"Belgium Tour, General classification",43244,STUYVEN Jasper,18233,0,18,2024-06-16,Jan
-6,2.PS,"Belgium Tour, General classification",43244,ASGREEN Kasper,23558,0,16,2024-06-16,Nicky
-7,2.PS,"Belgium Tour, General classification",43244,SEGAERT Alec,33567,0,14,2024-06-16,Albert
-8,2.PS,"Belgium Tour, General classification",43244,TOUZE Damien,24767,0,12,2024-06-16,-
-9,2.PS,"Belgium Tour, General classification",43244,HAGENES Per Strand,30442,0,10,2024-06-16,Kaspar
-10,2.PS,"Belgium Tour, General classification",43244,COTE Pier-André,26176,0,8,2024-06-16,-

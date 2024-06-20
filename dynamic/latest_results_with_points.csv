@@ -1,8 +1,12 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
+1,NCT1,National Championships Italy (Grosseto) I.T.T. (prov.),43041,GANNA Filippo,24057,2,0,2024-06-20,Vel
+1,NCT4,National Championships Poland (Radzanowo) I.T.T. (prov.),43064,MACIEJUK Filip,27941,0.5,0,2024-06-20,-
+1,NCT4,National Championships Switzerland (Aire-la-Ville) I.T.T. (prov.),43043,KÜNG Stefan,20960,0.5,0,2024-06-20,Wijnand
+1,NCT1,National Championships Norway (Saltstraumen) I.T.T. (prov.),43045,WAERENSKJOLD Søren,29187,2,0,2024-06-20,Albert
 1,NCT1,National Championships Netherlands (Steenbergen) I.T.T.,43039,HOOLE Daan,27709,2,0,2024-06-19,-
 1,NCT1,National Championships Great Britain (Catterick) I.T.T.,43038,TARLING Joshua,34297,2,0,2024-06-19,Kaspar
 1,NCT4,National Championships Kazakhstan (Taldykorgan) I.T.T.,43060,GRUZDEV Dmitriy,4079,0.5,0,2024-06-19,-
-1,NCT5,National Championships Ukraine () I.T.T.,43084,HRYNIV Vitaliy,28680,0.0,0,2024-06-19,-
+1,NCT5,National Championships Ukraine (Lviv) I.T.T.,43084,HRYNIV Vitaliy,28680,0.0,0,2024-06-19,-
 1,NCT4,National Championships Hungary (Bocskaikert I.T.T.,43070,PEAK Barnabas,27066,0.5,0,2024-06-19,-
 1,NCT5,National Championships Sweden (Linköping) I.T.T.,43313,SÖDERQVIST Jakob,34230,0.0,0,2024-06-18,-
 1,NCT4,National Championships Estonia (Varbuse) I.T.T.,43068,TAARAMÄE Rein,1646,0.5,0,2024-06-18,-
@@ -30,15 +34,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 8,2.PS,"Belgium Tour, General classification",43244,TOUZE Damien,24767,0,12,2024-06-16,-
 9,2.PS,"Belgium Tour, General classification",43244,HAGENES Per Strand,30442,0,10,2024-06-16,Kaspar
 10,2.PS,"Belgium Tour, General classification",43244,COTE Pier-André,26176,0,8,2024-06-16,-
-1,2.PS,"Tour of Slovenia, General classification",43226,ALEOTTI Giovanni,28451,4,50,2024-06-16,Wijnand
-2,2.PS,"Tour of Slovenia, General classification",43226,BILBAO LOPEZ DE ARMENTIA Pello,17881,1,35,2024-06-16,Albert
-3,2.PS,"Tour of Slovenia, General classification",43226,PELLIZZARI Giulio,33100,0.5,25,2024-06-16,Kees
-4,2.PS,"Tour of Slovenia, General classification",43226,POZZOVIVO Domenico,1999,0,20,2024-06-16,-
-5,2.PS,"Tour of Slovenia, General classification",43226,CASTRILLO ZAPATER Pablo,34135,0,18,2024-06-16,-
-6,2.PS,"Tour of Slovenia, General classification",43226,DOUBLE Paul,27721,0,16,2024-06-16,-
-7,2.PS,"Tour of Slovenia, General classification",43226,HEALY Ben,28846,0,14,2024-06-16,Kees
-8,2.PS,"Tour of Slovenia, General classification",43226,ZANA Filippo,27749,0,12,2024-06-16,Jan
-9,2.PS,"Tour of Slovenia, General classification",43226,CRAS Steff,24257,0,10,2024-06-16,-
-10,2.PS,"Tour of Slovenia, General classification",43226,JOHANNESSEN Tobias Halland,31567,0,8,2024-06-16,Albert
-1,2.PSs,"Belgium Tour, Stage 5 : Brussel - Brussel",43243,MERLIER Tim,17988,0.3,0,2024-06-16,Frank
-1,2.PSs,"Tour of Slovenia, Stage 5 : Sentjernej - Novo Mesto",43225,HEALY Ben,28846,0.3,0,2024-06-16,Kees

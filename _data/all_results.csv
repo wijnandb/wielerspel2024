@@ -1,4 +1,9 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
+1,NCT1,National Championships Spain (Galapagar) I.T.T. (prov.),43036,DE LA CRUZ MELGAREJO David,12719,0.0,0,2024-06-21
+1,NCT4,National Championships Venezuela () I.T.T. (prov.),43072,AULAR SANABRIA Orluis Alberto,24326,0.0,0,2024-06-21
+1,NCT5,National Championships Israel (Atlit) I.T.T. (prov.),43080,KOGUT Oded,31902,0.0,0,2024-06-21
+1,NCT5,National Championships Japan (Izu) I.T.T. (prov.),43074,KANEKO Sohei,25212,0.0,0,2024-06-21
+1,NCT5,National Championships Serbia (Erdevik) I.T.T. (prov.),43113,RAJOVIC Dusan,25600,0.0,0,2024-06-21
 1,NCT4,National Championships Slovenia (Trebnje) I.T.T.,43034,MOHORIC Matej,21145,0.0,0,2024-06-20
 1,NCT1,National Championships France (Saint-Martin-de-Landelles) I.T.T.,43032,ARMIRAIL Bruno,22906,0.0,0,2024-06-20
 1,NCT1,National Championships Belgium (Binche) I.T.T.,43028,WELLENS Tim,16722,0.0,0,2024-06-20
@@ -9,7 +14,10 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
 1,NCT1,National Championships Norway (Saltstraumen) I.T.T.,43045,WAERENSKJOLD Søren,29187,0.0,0,2024-06-20
 1,NCT4,National Championships Switzerland (Aire-la-Ville) I.T.T.,43043,KÜNG Stefan,20960,0.0,0,2024-06-20
 1,NC5,National Championships China () R.R. (prov.),43091,HAO Ran,29732,0.0,0,2024-06-20
+1,NCT5,National Championships Algeria (Didouche Mourad) I.T.T. (prov.),43078,LAGAB Azzedine,10294,0.0,0,2024-06-20
 1,NCT5,"National Championships Slovakia (Jevicko, Cze) I.T.T.",43082,KUBIS Lukas,29513,0.0,0,2024-06-20
+1,NCT5,National Championships Bermuda (Clearwater) I.T.T. (prov.),43341,HOPKINS Kaden,30107,0.0,0,2024-06-20
+1,NCT5,National Championships Bulgaria () I.T.T. (prov.),43339,STOYNEV Emil,34214,0.0,0,2024-06-20
 1,NCT1,National Championships Netherlands (Steenbergen) I.T.T.,43039,HOOLE Daan,27709,0.0,0,2024-06-19
 1,NCT1,National Championships Great Britain (Catterick) I.T.T.,43038,TARLING Joshua,34297,0.0,0,2024-06-19
 1,NCT4,National Championships Kazakhstan (Taldykorgan) I.T.T.,43060,GRUZDEV Dmitriy,4079,0.0,0,2024-06-19

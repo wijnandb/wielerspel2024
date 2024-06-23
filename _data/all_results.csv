@@ -70,7 +70,9 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
 8,1.WT3,National Championships Italy (Firenze-Sesto fiorentino) R.R. (prov.),43042,VELASCO Simone,22662,0.0,0,2024-06-23
 9,1.WT3,National Championships Italy (Firenze-Sesto fiorentino) R.R. (prov.),43042,FIORELLI Filippo,24152,0.0,0,2024-06-23
 10,1.WT3,National Championships Italy (Firenze-Sesto fiorentino) R.R. (prov.),43042,ULISSI Diego,10023,0.0,0,2024-06-23
-1,NC4,National Championships Switzerland (Aire-la-ville) R.R. (prov.),43044,SCHMID Mauro,29214,0.0,0,2024-06-23
+1,NC4,National Championships Kazakhstan (Taldykorgan) R.R. (prov.),43059,GRUZDEV Dmitriy,4079,0.0,0,2024-06-23
+1,NC4,National Championships Poland (Plock) R.R. (prov.),43063,BANASZEK Norbert,24941,0.0,0,2024-06-23
+1,NC4,National Championships Switzerland (Aire-la-Ville) R.R. (prov.),43044,SCHMID Mauro,29214,0.0,0,2024-06-23
 1,1.WT3,National Championships Norway (Tverlandet) R.R. (prov.),43046,HOELGAARD Markus,20760,0.0,0,2024-06-23
 2,1.WT3,National Championships Norway (Tverlandet) R.R. (prov.),43046,DVERSNES Fredrik,28553,0.0,0,2024-06-23
 3,1.WT3,National Championships Norway (Tverlandet) R.R. (prov.),43046,TILLER Rasmus Fossum,25623,0.0,0,2024-06-23
@@ -94,9 +96,10 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
 1,NC4,National Championships Portugal (Santa Maria da Feira) R.R. (prov.),43050,COSTA Rui Alberto Faria,6807,0.0,0,2024-06-23
 1,NC5,National Championships Czech Republic (Jevicko) R.R. (prov.),43061,PRIDAL Tomas,34376,0.0,0,2024-06-23
 1,NC4,National Championships Austria (Königswiesen) R.R. (prov.),43051,HAJEK Alexander,33111,0.0,0,2024-06-23
-1,NC4,National Championships Hungary (Pannonhalma) R.R (prov.),43069,VALTER Attila,27198,0.0,0,2024-06-23
 1,NC5,National Championships Sweden (Linköping) R.R. (prov.),43314,ERIKSSON Jacob,27920,0.0,0,2024-06-23
+1,NC5,National Championships Ukraine () R.R. (prov.),43083,SYDOR Sergiy,31676,0.0,0,2024-06-23
 1,NC5,National Championships Luxembourg (Harlange) R.R. (prov.),43568,GENIETS Kévin,25763,0.0,0,2024-06-23
+1,NC4,National Championships Hungary (Pannonhalma) R.R (prov.),43069,VALTER Attila,27198,0.0,0,2024-06-23
 1,NC4,National Championships Ireland (Athea) R.R. (prov.),43053,RAFFERTY Darren,31511,0.0,0,2024-06-23
 1,NC5,National Championships Romania (Ocna Sibiului) R.R. (prov.),43089,RAILEANU Cristian,13770,0.0,0,2024-06-23
 1,NC5,"National Championships Slovakia (Jevicko, Cze) R.R. (prov.)",43081,KUBIS Lukas,29513,0.0,0,2024-06-23

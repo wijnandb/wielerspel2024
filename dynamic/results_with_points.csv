@@ -1,12 +1,15 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
-1,NC5,National Championships Algeria (Didouche Mourad - Didouche Mourad) R.R.,43077,LAGAB Azzedine,10294,0.0,0,2024-06-22,-
+1,NC5,National Championships Japan (Izu) R.R. (prov.),43073,KOBAYASHI Marino,26223,0.0,0,2024-06-23,-
+1,NC5,National Championships Indonesia () R.R. (prov.),43101,KUSUMA Terry Yudha,33545,0.0,0,2024-06-23,-
+1,NC4,National Championships Canada (Saint-Georges) R.R. (prov.),43055,WOODS Michael,20257,1,0,2024-06-22,Vel
+1,NC5,National Championships Algeria (Didouche Mourad) R.R.,43077,LAGAB Azzedine,10294,0.0,0,2024-06-22,-
+1,NC5,National Championships Israel (Srigim) R.R. (prov.),43079,KOGUT Oded,31902,0.0,0,2024-06-22,-
 1,NC4,National Championships Estonia (Voru) R.R.,43067,VAHTRA Norman,24200,1,0,2024-06-22,-
 1,NC5,"National Championships Latvia (Voru, Est) R.R.",43065,LIEPINS Emils,18296,0.0,0,2024-06-22,-
-1,NC5,National Championships Israel (Srigim) R.R. (prov.),43079,KOGUT Oded,31902,0.0,0,2024-06-22,-
 1,NC5,"National Championships Lithuania (Voru, Est) R.R.",43099,LASINIS Venantas,25030,0.0,0,2024-06-22,-
 1,NCT5,National Championships Croatia (Lekenik) I.T.T.,43104,GOJKOVIC Nicolas,35340,0.0,0,2024-06-22,-
-1,NCT1,National Championships Spain (Galapagar) I.T.T.,43036,DE LA CRUZ MELGAREJO David,12719,2,0,2024-06-21,-
 1,NCT1,National Championships Denmark (Herning) I.T.T.,43030,SKJELMOSE JENSEN Mattias,30166,2,0,2024-06-21,Kaspar
+1,NCT1,National Championships Spain (Galapagar) I.T.T.,43036,DE LA CRUZ MELGAREJO David,12719,2,0,2024-06-21,-
 1,NCT4,National Championships Canada (Saint-Prosper) I.T.T.,43056,COTE Pier-André,26176,0.5,0,2024-06-21,-
 1,NCT1,National Championships Germany (Donaueschingen - Bad Dürrheim) I.T.T.,43047,POLITT Nils,20847,2,0,2024-06-21,Kees
 1,NCT4,National Championships Portugal (Santa Maria da Feira) I.T.T.,43049,MORGADO Antonio Tomas,34222,0.5,0,2024-06-21,-
@@ -95,9 +98,9 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 1,2.WT1s,"Tour de Suisse, Stage 4 : Rüschlikon - San Gottardo (prov.)",43208,TRAEEN Torstein,24068,1,0,2024-06-12,-
 1,2.PSs,"Belgium Tour, Stage 1 : Beringen I.T.T. (prov.)",43239,WAERENSKJOLD Søren,29187,0.3,0,2024-06-12,Albert
 1,2.PSs,"Tour of Slovenia, Stage 1 : Murska Sobota - Ormoz (prov.)",43221,GROENEWEGEN Dylan,19238,0.3,0,2024-06-12,Albert
-1,CC2,Asian Cycling Championships (Almaty) R.R.,43302,KIM Eu-ro,28170,2,0,2024-06-12,-
-2,CC2,Asian Cycling Championships (Almaty) R.R.,43302,LYU Xianjing,28143,0.3,0,2024-06-12,-
-3,CC2,Asian Cycling Championships (Almaty) R.R.,43302,FEDOROV Yevgeniy,29309,0.1,0,2024-06-12,PB
+1,CC2,Asian Cycling Championships (Almaty) R.R.,43302,KIM Eu-ro,28170,1,0,2024-06-12,-
+2,CC2,Asian Cycling Championships (Almaty) R.R.,43302,LYU Xianjing,28143,0.0,0,2024-06-12,-
+3,CC2,Asian Cycling Championships (Almaty) R.R.,43302,FEDOROV Yevgeniy,29309,0.0,0,2024-06-12,PB
 4,CC2,Asian Cycling Championships (Almaty) R.R.,43302,ROSLI Muhammad Nur Aiman,29594,0.0,0,2024-06-12,-
 5,CC2,Asian Cycling Championships (Almaty) R.R.,43302,YAMAMOTO Masaki,25011,0.0,0,2024-06-12,-
 6,CC2,Asian Cycling Championships (Almaty) R.R.,43302,BRUSSENSKIY Gleb,29310,0.0,0,2024-06-12,-
@@ -239,9 +242,9 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 1,1.1,Rund um Köln,42829,VAN UDEN Casper,30636,2,0,2024-05-26,-
 2,1.1,Rund um Köln,42829,GIRMAY HAILU Biniam,29474,0.3,0,2024-05-26,Nicky
 3,1.1,Rund um Köln,42829,BLOUWE Louis,29120,0.1,0,2024-05-26,-
-1,CC2,Pan-American Championships (Sao Jose dos Campos) R.R.,42834,LINAREZ MENESES Leangel Ruben,30518,2,0,2024-05-26,-
-2,CC2,Pan-American Championships (Sao Jose dos Campos) R.R.,42834,WALTERS Red,29355,0.3,0,2024-05-26,-
-3,CC2,Pan-American Championships (Sao Jose dos Campos) R.R.,42834,PAREDES ZAPATA Wilmar Andres,24876,0.1,0,2024-05-26,-
+1,CC2,Pan-American Championships (Sao Jose dos Campos) R.R.,42834,LINAREZ MENESES Leangel Ruben,30518,1,0,2024-05-26,-
+2,CC2,Pan-American Championships (Sao Jose dos Campos) R.R.,42834,WALTERS Red,29355,0.0,0,2024-05-26,-
+3,CC2,Pan-American Championships (Sao Jose dos Campos) R.R.,42834,PAREDES ZAPATA Wilmar Andres,24876,0.0,0,2024-05-26,-
 4,CC2,Pan-American Championships (Sao Jose dos Campos) R.R.,42834,AULAR SANABRIA Orluis Alberto,24326,0.0,0,2024-05-26,Jan
 5,CC2,Pan-American Championships (Sao Jose dos Campos) R.R.,42834,BRENES MATA Sebastian,34598,0.0,0,2024-05-26,-
 6,CC2,Pan-American Championships (Sao Jose dos Campos) R.R.,42834,HOPKINS Kaden,30107,0.0,0,2024-05-26,-
@@ -585,9 +588,9 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 2,1.1,Classic Grand Besançon Doubs,42661,LANGELLOTTI Victor,26397,0.3,0,2024-04-12,-
 3,1.1,Classic Grand Besançon Doubs,42661,GAUDU David,24255,0.1,0,2024-04-12,PB
 1,2.1s,"Giro dAbruzzo, Stage 4 : Montorio al Vomano - LAquila",42725,SIVAKOV Pavel,24934,0.2,0,2024-04-12,Albert
-1,CC2,Oceania Cycling Championships (Brisbane) R.R.,42678,CAVANAGH Ryan,23904,2,0,2024-04-12,-
-2,CC2,Oceania Cycling Championships (Brisbane) R.R.,42678,GREENWOOD Matthew,33593,0.3,0,2024-04-12,-
-3,CC2,Oceania Cycling Championships (Brisbane) R.R.,42678,GATE Aaron,13153,0.1,0,2024-04-12,-
+1,CC2,Oceania Cycling Championships (Brisbane) R.R.,42678,CAVANAGH Ryan,23904,1,0,2024-04-12,-
+2,CC2,Oceania Cycling Championships (Brisbane) R.R.,42678,GREENWOOD Matthew,33593,0.0,0,2024-04-12,-
+3,CC2,Oceania Cycling Championships (Brisbane) R.R.,42678,GATE Aaron,13153,0.0,0,2024-04-12,-
 4,CC2,Oceania Cycling Championships (Brisbane) R.R.,42678,METCALFE Ben,29479,0.0,0,2024-04-12,-
 5,CC2,Oceania Cycling Championships (Brisbane) R.R.,42678,MEDWAY Jackson,35042,0.0,0,2024-04-12,-
 6,CC2,Oceania Cycling Championships (Brisbane) R.R.,42678,BETTLES Carter,29531,0.0,0,2024-04-12,-

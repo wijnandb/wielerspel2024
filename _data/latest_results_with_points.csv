@@ -8,17 +8,18 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 7,1.WT3,National Championships Denmark (Herning) R.R. (prov.),43029,SALBY Alexander,26419,0,14,2024-06-23,-
 8,1.WT3,National Championships Denmark (Herning) R.R. (prov.),43029,PEDERSEN Mads,21992,0,12,2024-06-23,Kees
 9,1.WT3,National Championships Denmark (Herning) R.R. (prov.),43029,STAMPE Daniel,30286,0,10,2024-06-23,-
-10,1.WT3,National Championships Denmark (Herning) R.R. (prov.),43029,FOLDAGER Anders,31400,0,8,2024-06-23,-
-1,1.WT3,National Championships Belgium () R.R. (prov.),43027,DE LIE Arnaud,32221,5,50,2024-06-23,PB
-2,1.WT3,National Championships Belgium () R.R. (prov.),43027,PHILIPSEN Jasper,26392,2,35,2024-06-23,Nicky
-3,1.WT3,National Championships Belgium () R.R. (prov.),43027,MEEUS Jordi,26421,1,25,2024-06-23,Vel
-4,1.WT3,National Championships Belgium () R.R. (prov.),43027,NYS Thibau,32185,0,20,2024-06-23,Jan
-5,1.WT3,National Championships Belgium () R.R. (prov.),43027,VAN AERT Wout,20730,0,18,2024-06-23,Bram
-6,1.WT3,National Championships Belgium () R.R. (prov.),43027,MERLIER Tim,17988,0,16,2024-06-23,Frank
-7,1.WT3,National Championships Belgium () R.R. (prov.),43027,VAN EETVELT Lennert,32225,0,14,2024-06-23,Albert
-8,1.WT3,National Championships Belgium () R.R. (prov.),43027,REX Laurenz,28442,0,12,2024-06-23,-
-9,1.WT3,National Championships Belgium () R.R. (prov.),43027,NAESEN Oliver,21392,0,10,2024-06-23,-
-10,1.WT3,National Championships Belgium () R.R. (prov.),43027,MENTEN Milan,24180,0,8,2024-06-23,Kees
+10,1.WT3,National Championships Denmark (Herning) R.R. (prov.),43029,PEDERSEN Nicklas Overgaard Amdi,21327,0,8,2024-06-23,-
+1,1.WT3,National Championships Belgium (Zottegem) R.R. (prov.),43027,DE LIE Arnaud,32221,5,50,2024-06-23,PB
+2,1.WT3,National Championships Belgium (Zottegem) R.R. (prov.),43027,PHILIPSEN Jasper,26392,2,35,2024-06-23,Nicky
+3,1.WT3,National Championships Belgium (Zottegem) R.R. (prov.),43027,MEEUS Jordi,26421,1,25,2024-06-23,Vel
+4,1.WT3,National Championships Belgium (Zottegem) R.R. (prov.),43027,NYS Thibau,32185,0,20,2024-06-23,Jan
+5,1.WT3,National Championships Belgium (Zottegem) R.R. (prov.),43027,VAN AERT Wout,20730,0,18,2024-06-23,Bram
+6,1.WT3,National Championships Belgium (Zottegem) R.R. (prov.),43027,MERLIER Tim,17988,0,16,2024-06-23,Frank
+7,1.WT3,National Championships Belgium (Zottegem) R.R. (prov.),43027,VAN EETVELT Lennert,32225,0,14,2024-06-23,Albert
+8,1.WT3,National Championships Belgium (Zottegem) R.R. (prov.),43027,REX Laurenz,28442,0,12,2024-06-23,-
+9,1.WT3,National Championships Belgium (Zottegem) R.R. (prov.),43027,NAESEN Oliver,21392,0,10,2024-06-23,-
+10,1.WT3,National Championships Belgium (Zottegem) R.R. (prov.),43027,MENTEN Milan,24180,0,8,2024-06-23,Kees
+1,NC4,National Championships Slovenia (Trebnje) R.R. (prov.),43033,NOVAK Domen,22069,1,0,2024-06-23,-
 1,1.WT3,National Championships France (Saint-Martin-de-Landelles) R.R. (prov.),43031,LAPEIRA Paul,30615,5,50,2024-06-23,-
 2,1.WT3,National Championships France (Saint-Martin-de-Landelles) R.R. (prov.),43031,BERNARD Julien,23357,2,35,2024-06-23,-
 3,1.WT3,National Championships France (Saint-Martin-de-Landelles) R.R. (prov.),43031,GACHIGNARD Thomas,32640,1,25,2024-06-23,-
@@ -49,6 +50,16 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 8,1.WT3,National Championships Netherlands (Arnhem) R.R. (prov.),43040,VAN DEN BERG Marijn,27674,0,12,2024-06-23,Roy
 9,1.WT3,National Championships Netherlands (Arnhem) R.R. (prov.),43040,BUDDING Martijn,21928,0,10,2024-06-23,-
 10,1.WT3,National Championships Netherlands (Arnhem) R.R. (prov.),43040,VAN EMPEL Etienne,20642,0,8,2024-06-23,-
+1,1.WT3,National Championships Great Britain (Saltburn-by-the-Sea) R.R. (prov.),43037,HAYTER Ethan,27025,5,50,2024-06-23,Bram
+2,1.WT3,National Championships Great Britain (Saltburn-by-the-Sea) R.R. (prov.),43037,ASKEY Lewis,30685,2,35,2024-06-23,-
+3,1.WT3,National Championships Great Britain (Saltburn-by-the-Sea) R.R. (prov.),43037,WALKER Max,31835,1,25,2024-06-23,-
+4,1.WT3,National Championships Great Britain (Saltburn-by-the-Sea) R.R. (prov.),43037,SWIFT Connor,26437,0,20,2024-06-23,Arjan
+5,1.WT3,National Championships Great Britain (Saltburn-by-the-Sea) R.R. (prov.),43037,DOULL Owain,20678,0,18,2024-06-23,-
+6,1.WT3,National Championships Great Britain (Saltburn-by-the-Sea) R.R. (prov.),43037,DONALDSON Robert,32179,0,16,2024-06-23,-
+7,1.WT3,National Championships Great Britain (Saltburn-by-the-Sea) R.R. (prov.),43037,TARLING Joshua,34297,0,14,2024-06-23,Kaspar
+8,1.WT3,National Championships Great Britain (Saltburn-by-the-Sea) R.R. (prov.),43037,BLACKMORE Joseph,34973,0,12,2024-06-23,-
+9,1.WT3,National Championships Great Britain (Saltburn-by-the-Sea) R.R. (prov.),43037,WALLS Matthew,28509,0,10,2024-06-23,-
+10,1.WT3,National Championships Great Britain (Saltburn-by-the-Sea) R.R. (prov.),43037,MCLAY Daniel,18498,0,8,2024-06-23,-
 1,1.WT3,National Championships Italy (Firenze-Sesto fiorentino) R.R. (prov.),43042,BETTIOL Alberto,20697,5,50,2024-06-23,PB
 2,1.WT3,National Championships Italy (Firenze-Sesto fiorentino) R.R. (prov.),43042,ROTA Lorenzo,21958,2,35,2024-06-23,Paul
 3,1.WT3,National Championships Italy (Firenze-Sesto fiorentino) R.R. (prov.),43042,ZAMBANINI Edoardo,31437,1,25,2024-06-23,-
@@ -83,11 +94,9 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 1,NC4,National Championships Portugal (Santa Maria da Feira) R.R. (prov.),43050,COSTA Rui Alberto Faria,6807,1,0,2024-06-23,Harry
 1,NC5,National Championships Czech Republic (Jevicko) R.R. (prov.),43061,PRIDAL Tomas,34376,0.0,0,2024-06-23,-
 1,NC4,National Championships Austria (Königswiesen) R.R. (prov.),43051,HAJEK Alexander,33111,1,0,2024-06-23,-
+1,NC4,National Championships Hungary (Pannonhalma) R.R (prov.),43069,VALTER Attila,27198,1,0,2024-06-23,Paul
 1,NC5,National Championships Sweden (Linköping) R.R. (prov.),43314,ERIKSSON Jacob,27920,0.0,0,2024-06-23,-
 1,NC5,National Championships Luxembourg (Harlange) R.R. (prov.),43568,GENIETS Kévin,25763,0.0,0,2024-06-23,-
 1,NC4,National Championships Ireland (Athea) R.R. (prov.),43053,RAFFERTY Darren,31511,1,0,2024-06-23,Bram
 1,NC5,National Championships Romania (Ocna Sibiului) R.R. (prov.),43089,RAILEANU Cristian,13770,0.0,0,2024-06-23,-
 1,NC5,"National Championships Slovakia (Jevicko, Cze) R.R. (prov.)",43081,KUBIS Lukas,29513,0.0,0,2024-06-23,-
-1,NC5,National Championships Turkey (Aksaray) R.R. (prov.),43087,ARIKAN Dogukan,31155,0.0,0,2024-06-23,-
-1,NC5,National Championships Japan (Izu) R.R. (prov.),43073,KOBAYASHI Marino,26223,0.0,0,2024-06-23,-
-1,NC5,National Championships Croatia (Dubrava) R.R. (prov.),43103,POTOCKI Viktor,27896,0.0,0,2024-06-23,-

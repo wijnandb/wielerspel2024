@@ -1,4 +1,24 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
+1,1.WT3,National Championships Denmark (Herning) R.R. (prov.),43029,PEDERSEN Rasmus Søjberg,32653,0.0,0,2024-06-23
+2,1.WT3,National Championships Denmark (Herning) R.R. (prov.),43029,ASGREEN Kasper,23558,0.0,0,2024-06-23
+3,1.WT3,National Championships Denmark (Herning) R.R. (prov.),43029,WANDAHL Frederik,30710,0.0,0,2024-06-23
+4,1.WT3,National Championships Denmark (Herning) R.R. (prov.),43029,VALGREN HUNDAHL Michael,18123,0.0,0,2024-06-23
+5,1.WT3,National Championships Denmark (Herning) R.R. (prov.),43029,CORT NIELSEN Magnus,19448,0.0,0,2024-06-23
+6,1.WT3,National Championships Denmark (Herning) R.R. (prov.),43029,LUND ANDRESEN Tobias,31657,0.0,0,2024-06-23
+7,1.WT3,National Championships Denmark (Herning) R.R. (prov.),43029,SALBY Alexander,26419,0.0,0,2024-06-23
+8,1.WT3,National Championships Denmark (Herning) R.R. (prov.),43029,PEDERSEN Mads,21992,0.0,0,2024-06-23
+9,1.WT3,National Championships Denmark (Herning) R.R. (prov.),43029,STAMPE Daniel,30286,0.0,0,2024-06-23
+10,1.WT3,National Championships Denmark (Herning) R.R. (prov.),43029,FOLDAGER Anders,31400,0.0,0,2024-06-23
+1,1.WT3,National Championships Belgium () R.R. (prov.),43027,DE LIE Arnaud,32221,0.0,0,2024-06-23
+2,1.WT3,National Championships Belgium () R.R. (prov.),43027,PHILIPSEN Jasper,26392,0.0,0,2024-06-23
+3,1.WT3,National Championships Belgium () R.R. (prov.),43027,MEEUS Jordi,26421,0.0,0,2024-06-23
+4,1.WT3,National Championships Belgium () R.R. (prov.),43027,NYS Thibau,32185,0.0,0,2024-06-23
+5,1.WT3,National Championships Belgium () R.R. (prov.),43027,VAN AERT Wout,20730,0.0,0,2024-06-23
+6,1.WT3,National Championships Belgium () R.R. (prov.),43027,MERLIER Tim,17988,0.0,0,2024-06-23
+7,1.WT3,National Championships Belgium () R.R. (prov.),43027,VAN EETVELT Lennert,32225,0.0,0,2024-06-23
+8,1.WT3,National Championships Belgium () R.R. (prov.),43027,REX Laurenz,28442,0.0,0,2024-06-23
+9,1.WT3,National Championships Belgium () R.R. (prov.),43027,NAESEN Oliver,21392,0.0,0,2024-06-23
+10,1.WT3,National Championships Belgium () R.R. (prov.),43027,MENTEN Milan,24180,0.0,0,2024-06-23
 1,1.WT3,National Championships France (Saint-Martin-de-Landelles) R.R. (prov.),43031,LAPEIRA Paul,30615,0.0,0,2024-06-23
 2,1.WT3,National Championships France (Saint-Martin-de-Landelles) R.R. (prov.),43031,BERNARD Julien,23357,0.0,0,2024-06-23
 3,1.WT3,National Championships France (Saint-Martin-de-Landelles) R.R. (prov.),43031,GACHIGNARD Thomas,32640,0.0,0,2024-06-23
@@ -19,6 +39,37 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
 8,1.WT3,National Championships Spain (San Lorenzo de El Escorial) R.R. (prov.),43035,OKAMIKA BENGOETXEA Ander,31334,0.0,0,2024-06-23
 9,1.WT3,National Championships Spain (San Lorenzo de El Escorial) R.R. (prov.),43035,MARTI SORIANO Pau,34660,0.0,0,2024-06-23
 10,1.WT3,National Championships Spain (San Lorenzo de El Escorial) R.R. (prov.),43035,DE LA CRUZ MELGAREJO David,12719,0.0,0,2024-06-23
+1,1.WT3,National Championships Netherlands (Arnhem) R.R. (prov.),43040,GROENEWEGEN Dylan,19238,0.0,0,2024-06-23
+2,1.WT3,National Championships Netherlands (Arnhem) R.R. (prov.),43040,KOOIJ Olav,30643,0.0,0,2024-06-23
+3,1.WT3,National Championships Netherlands (Arnhem) R.R. (prov.),43040,SINKELDAM Ramon,9957,0.0,0,2024-06-23
+4,1.WT3,National Championships Netherlands (Arnhem) R.R. (prov.),43040,TEUNISSEN Mike,19165,0.0,0,2024-06-23
+5,1.WT3,National Championships Netherlands (Arnhem) R.R. (prov.),43040,BOL Cees,21930,0.0,0,2024-06-23
+6,1.WT3,National Championships Netherlands (Arnhem) R.R. (prov.),43040,KRIJNSEN Jelte,32717,0.0,0,2024-06-23
+7,1.WT3,National Championships Netherlands (Arnhem) R.R. (prov.),43040,VAN KESSEL Corné,15249,0.0,0,2024-06-23
+8,1.WT3,National Championships Netherlands (Arnhem) R.R. (prov.),43040,VAN DEN BERG Marijn,27674,0.0,0,2024-06-23
+9,1.WT3,National Championships Netherlands (Arnhem) R.R. (prov.),43040,BUDDING Martijn,21928,0.0,0,2024-06-23
+10,1.WT3,National Championships Netherlands (Arnhem) R.R. (prov.),43040,VAN EMPEL Etienne,20642,0.0,0,2024-06-23
+1,1.WT3,National Championships Italy (Firenze-Sesto fiorentino) R.R. (prov.),43042,BETTIOL Alberto,20697,0.0,0,2024-06-23
+2,1.WT3,National Championships Italy (Firenze-Sesto fiorentino) R.R. (prov.),43042,ROTA Lorenzo,21958,0.0,0,2024-06-23
+3,1.WT3,National Championships Italy (Firenze-Sesto fiorentino) R.R. (prov.),43042,ZAMBANINI Edoardo,31437,0.0,0,2024-06-23
+4,1.WT3,National Championships Italy (Firenze-Sesto fiorentino) R.R. (prov.),43042,GANNA Filippo,24057,0.0,0,2024-06-23
+5,1.WT3,National Championships Italy (Firenze-Sesto fiorentino) R.R. (prov.),43042,FORMOLO Davide,18749,0.0,0,2024-06-23
+6,1.WT3,National Championships Italy (Firenze-Sesto fiorentino) R.R. (prov.),43042,ALEOTTI Giovanni,28451,0.0,0,2024-06-23
+7,1.WT3,National Championships Italy (Firenze-Sesto fiorentino) R.R. (prov.),43042,CICCONE Giulio,21812,0.0,0,2024-06-23
+8,1.WT3,National Championships Italy (Firenze-Sesto fiorentino) R.R. (prov.),43042,VELASCO Simone,22662,0.0,0,2024-06-23
+9,1.WT3,National Championships Italy (Firenze-Sesto fiorentino) R.R. (prov.),43042,FIORELLI Filippo,24152,0.0,0,2024-06-23
+10,1.WT3,National Championships Italy (Firenze-Sesto fiorentino) R.R. (prov.),43042,ULISSI Diego,10023,0.0,0,2024-06-23
+1,NC4,National Championships Switzerland (Aire-la-ville) R.R. (prov.),43044,SCHMID Mauro,29214,0.0,0,2024-06-23
+1,1.WT3,National Championships Norway (Tverlandet) R.R. (prov.),43046,HOELGAARD Markus,20760,0.0,0,2024-06-23
+2,1.WT3,National Championships Norway (Tverlandet) R.R. (prov.),43046,DVERSNES Fredrik,28553,0.0,0,2024-06-23
+3,1.WT3,National Championships Norway (Tverlandet) R.R. (prov.),43046,TILLER Rasmus Fossum,25623,0.0,0,2024-06-23
+4,1.WT3,National Championships Norway (Tverlandet) R.R. (prov.),43046,LEKNESSUND Andreas,27653,0.0,0,2024-06-23
+5,1.WT3,National Championships Norway (Tverlandet) R.R. (prov.),43046,AAS Eirik Vang,32427,0.0,0,2024-06-23
+6,1.WT3,National Championships Norway (Tverlandet) R.R. (prov.),43046,SKAARSETH Anders,22938,0.0,0,2024-06-23
+7,1.WT3,National Championships Norway (Tverlandet) R.R. (prov.),43046,AARNES Daniel Smajkic,29188,0.0,0,2024-06-23
+8,1.WT3,National Championships Norway (Tverlandet) R.R. (prov.),43046,FELDMANN Karsten Larsen,32977,0.0,0,2024-06-23
+9,1.WT3,National Championships Norway (Tverlandet) R.R. (prov.),43046,NORDHAGEN Jørgen,35592,0.0,0,2024-06-23
+10,1.WT3,National Championships Norway (Tverlandet) R.R. (prov.),43046,SANDSTAD Halvor Utengen,35624,0.0,0,2024-06-23
 1,1.WT3,National Championships Germany (Dürrheim) R.R. (prov.),43048,BRENNER Marco,31323,0.0,0,2024-06-23
 2,1.WT3,National Championships Germany (Dürrheim) R.R. (prov.),43048,LIPOWITZ Florian,30805,0.0,0,2024-06-23
 3,1.WT3,National Championships Germany (Dürrheim) R.R. (prov.),43048,HEIDUK Kim,29436,0.0,0,2024-06-23
@@ -32,11 +83,14 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
 1,NC4,National Championships Portugal (Santa Maria da Feira) R.R. (prov.),43050,COSTA Rui Alberto Faria,6807,0.0,0,2024-06-23
 1,NC5,National Championships Czech Republic (Jevicko) R.R. (prov.),43061,PRIDAL Tomas,34376,0.0,0,2024-06-23
 1,NC4,National Championships Austria (Königswiesen) R.R. (prov.),43051,HAJEK Alexander,33111,0.0,0,2024-06-23
+1,NC5,National Championships Sweden (Linköping) R.R. (prov.),43314,ERIKSSON Jacob,27920,0.0,0,2024-06-23
+1,NC5,National Championships Luxembourg (Harlange) R.R. (prov.),43568,GENIETS Kévin,25763,0.0,0,2024-06-23
 1,NC4,National Championships Ireland (Athea) R.R. (prov.),43053,RAFFERTY Darren,31511,0.0,0,2024-06-23
 1,NC5,National Championships Romania (Ocna Sibiului) R.R. (prov.),43089,RAILEANU Cristian,13770,0.0,0,2024-06-23
 1,NC5,"National Championships Slovakia (Jevicko, Cze) R.R. (prov.)",43081,KUBIS Lukas,29513,0.0,0,2024-06-23
 1,NC5,National Championships Turkey (Aksaray) R.R. (prov.),43087,ARIKAN Dogukan,31155,0.0,0,2024-06-23
 1,NC5,National Championships Japan (Izu) R.R. (prov.),43073,KOBAYASHI Marino,26223,0.0,0,2024-06-23
+1,NC5,National Championships Croatia (Dubrava) R.R. (prov.),43103,POTOCKI Viktor,27896,0.0,0,2024-06-23
 1,NC5,National Championships Serbia (Beranovac) R.R. (prov.),43112,ILIC Ognjen,26839,0.0,0,2024-06-23
 1,NC5,National Championships Indonesia () R.R. (prov.),43101,KUSUMA Terry Yudha,33545,0.0,0,2024-06-23
 1,NC4,National Championships Canada (Saint-Georges) R.R. (prov.),43055,WOODS Michael,20257,0.0,0,2024-06-22

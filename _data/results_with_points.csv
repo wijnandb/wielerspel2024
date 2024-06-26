@@ -71,8 +71,8 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 8,1.WT3,National Championships Netherlands (Arnhem) R.R.,43040,VAN DEN BERG Marijn,27674,0,12,2024-06-23,Roy
 9,1.WT3,National Championships Netherlands (Arnhem) R.R.,43040,BUDDING Martijn,21928,0,10,2024-06-23,-
 10,1.WT3,National Championships Netherlands (Arnhem) R.R.,43040,VAN EMPEL Etienne,20642,0,8,2024-06-23,-
-1,NC5,National Championships Czech Republic (Jevicko) R.R. (prov.),43061,PRIDAL Tomas,34376,0.0,0,2024-06-23,-
 1,NC4,National Championships Kazakhstan (Taldykorgan) R.R. (prov.),43059,GRUZDEV Dmitriy,4079,1,0,2024-06-23,-
+1,NC5,National Championships Czech Republic (Jevicko) R.R. (prov.),43061,PRIDAL Tomas,34376,0.0,0,2024-06-23,-
 1,NC4,National Championships Austria (Königswiesen) R.R.,43051,HAJEK Alexander,33111,1,0,2024-06-23,-
 1,NC4,National Championships Portugal (Santa Maria da Feira) R.R.,43050,COSTA Rui Alberto Faria,6807,1,0,2024-06-23,Harry
 1,1.WT3,National Championships Germany (Donaueschingen - Bad Dürrheim) R.R.,43048,BRENNER Marco,31323,5,50,2024-06-23,-
@@ -97,9 +97,9 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 9,1.WT3,National Championships Norway (Tverlandet) R.R.,43046,NORDHAGEN Jørgen,35592,0,10,2024-06-23,-
 10,1.WT3,National Championships Norway (Tverlandet) R.R.,43046,SANDSTAD Halvor Utengen,35624,0,8,2024-06-23,-
 1,NC4,National Championships Switzerland (Aire-la-Ville) R.R.,43044,SCHMID Mauro,29214,1,0,2024-06-23,Albert
+1,NC5,National Championships Ukraine (Vidnyky) R.R. (prov.),43083,SYDOR Sergiy,31676,0.0,0,2024-06-23,-
 1,NC5,National Championships Costa Rica (Perez Zeledon) R.R. (prov.),43093,BONILLA QUIROS Daniel Andres,23672,0.0,0,2024-06-23,-
 1,NC5,National Championships Romania (Ocna Sibiului) R.R.,43089,RAILEANU Cristian,13770,0.0,0,2024-06-23,-
-1,NC5,National Championships Ukraine () R.R. (prov.),43083,SYDOR Sergiy,31676,0.0,0,2024-06-23,-
 1,NC5,National Championships Luxembourg (Harlange) R.R.,43568,GENIETS Kévin,25763,0.0,0,2024-06-23,-
 1,NC4,National Championships Hungary (Pannonhalma) R.R,43069,VALTER Attila,27198,1,0,2024-06-23,Paul
 1,NC5,National Championships Sweden (Linköping) R.R.,43314,ERIKSSON Jacob,27920,0.0,0,2024-06-23,-

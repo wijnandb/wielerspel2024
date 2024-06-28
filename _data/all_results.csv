@@ -1,7 +1,9 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
 1,2.1s,"Tour de Slovaquie, Stage 2 : Nitra -Hlohovec (prov.)",43262,FOLDAGER Anders,31400,0.0,0,2024-06-27
-1,NCT5,National Championships Cyprus (Perivolia) I.T.T. (prov.),43117,MILTIADIS Andreas,22735,0.0,0,2024-06-26
-1,NC5,National Championships Mongolia (Altanbulag) R.R. (prov.),43570,ERDENEBAT Bilguunjargal,26172,0.0,0,2024-06-25
+1,NCT5,National Championships Brazil (Palmas) I.T.T.,43115,MENDES Diego de Jesus,35334,0.0,0,2024-06-27
+1,NCT5,National Championships South Korea (Yangyang) I.T.T.,43110,CHOE Hyeong-min,13531,0.0,0,2024-06-27
+1,NCT5,National Championships Cyprus (Perivolia) I.T.T.,43117,MILTIADIS Andreas,22735,0.0,0,2024-06-26
+1,NC5,National Championships Mongolia (Altanbulag) R.R.,43570,ERDENEBAT Bilguunjargal,26172,0.0,0,2024-06-25
 1,1.WT3,National Championships Belgium (Zottegem) R.R.,43027,DE LIE Arnaud,32221,0.0,0,2024-06-23
 2,1.WT3,National Championships Belgium (Zottegem) R.R.,43027,PHILIPSEN Jasper,26392,0.0,0,2024-06-23
 3,1.WT3,National Championships Belgium (Zottegem) R.R.,43027,MEEUS Jordi,26421,0.0,0,2024-06-23
@@ -73,8 +75,8 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
 8,1.WT3,National Championships Netherlands (Arnhem) R.R.,43040,VAN DEN BERG Marijn,27674,0.0,0,2024-06-23
 9,1.WT3,National Championships Netherlands (Arnhem) R.R.,43040,BUDDING Martijn,21928,0.0,0,2024-06-23
 10,1.WT3,National Championships Netherlands (Arnhem) R.R.,43040,VAN EMPEL Etienne,20642,0.0,0,2024-06-23
+1,NC5,National Championships Czech Republic (Jevicko) R.R.,43061,PRIDAL Tomas,34376,0.0,0,2024-06-23
 1,NC4,National Championships Kazakhstan (Taldykorgan) R.R. (prov.),43059,GRUZDEV Dmitriy,4079,0.0,0,2024-06-23
-1,NC5,National Championships Czech Republic (Jevicko) R.R. (prov.),43061,PRIDAL Tomas,34376,0.0,0,2024-06-23
 1,NC4,National Championships Austria (Königswiesen) R.R.,43051,HAJEK Alexander,33111,0.0,0,2024-06-23
 1,NC4,National Championships Portugal (Santa Maria da Feira) R.R.,43050,COSTA Rui Alberto Faria,6807,0.0,0,2024-06-23
 1,1.WT3,National Championships Germany (Donaueschingen - Bad Dürrheim) R.R.,43048,BRENNER Marco,31323,0.0,0,2024-06-23

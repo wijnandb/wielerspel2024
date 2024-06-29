@@ -1,5 +1,11 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
+1,2.1s,"Tour de Slovaquie, Stage 4 : Partizanske - Ruzomberok (prov.)",43264,ADAMIETZ Johannes,26533,0.2,0,2024-06-29,-
+1,NCT5,National Championships Greece (Mouries) I.T.T. (prov.),43086,TZORTZAKIS Polychronis,13800,0.0,0,2024-06-29,-
+1,NC5,National Championships Cyprus (Agrokipia) R.R. (prov.),43116,MILTIADIS Andreas,22735,0.0,0,2024-06-29,-
+1,NCT5,National Championships Montenegro (Danilovgrad) I.T.T. (prov.),43583,RADUNOVIC Aleksandar,30657,0.0,0,2024-06-29,-
 1,2.1s,"Tour de Slovaquie, Stage 3 : Piestany - Dubnica nad Vahom (prov.)",43263,ALAPHILIPPE Julian,18610,0.2,0,2024-06-28,Kaspar
+1,NCT5,National Championships Morocco () I.T.T. (prov.),43076,EL ARBAOUI Adil,26207,0.0,0,2024-06-28,-
+1,NCT5,National Championships Iceland (Holar) I.T.T. (prov.),43138,OMARSSON Ingvar,21882,0.0,0,2024-06-28,-
 1,2.1s,"Tour de Slovaquie, Stage 2 : Nitra -Hlohovec (prov.)",43262,FOLDAGER Anders,31400,0.2,0,2024-06-27,-
 1,NCT5,National Championships Brazil (Palmas) I.T.T.,43115,MENDES Diego de Jesus,35334,0.0,0,2024-06-27,-
 1,NCT5,National Championships South Korea (Yangyang) I.T.T.,43110,CHOE Hyeong-min,13531,0.0,0,2024-06-27,-
@@ -25,54 +31,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 8,1.WT3,National Championships Spain (San Lorenzo de El Escorial) R.R.,43035,OKAMIKA BENGOETXEA Ander,31334,0,12,2024-06-23,-
 9,1.WT3,National Championships Spain (San Lorenzo de El Escorial) R.R.,43035,MARTI SORIANO Pau,34660,0,10,2024-06-23,-
 10,1.WT3,National Championships Spain (San Lorenzo de El Escorial) R.R.,43035,DE LA CRUZ MELGAREJO David,12719,0,8,2024-06-23,-
-1,NC4,National Championships Slovenia (Trebnje) R.R.,43033,NOVAK Domen,22069,1,0,2024-06-23,-
-1,1.WT3,National Championships France (Saint-Martin-de-Landelles) R.R.,43031,LAPEIRA Paul,30615,5,50,2024-06-23,-
-2,1.WT3,National Championships France (Saint-Martin-de-Landelles) R.R.,43031,BERNARD Julien,23357,2,35,2024-06-23,-
-3,1.WT3,National Championships France (Saint-Martin-de-Landelles) R.R.,43031,GACHIGNARD Thomas,32640,1,25,2024-06-23,-
-4,1.WT3,National Championships France (Saint-Martin-de-Landelles) R.R.,43031,TURGIS Anthony,21312,0,20,2024-06-23,Roy
-5,1.WT3,National Championships France (Saint-Martin-de-Landelles) R.R.,43031,DUJARDIN Sandy,28583,0,18,2024-06-23,-
-6,1.WT3,National Championships France (Saint-Martin-de-Landelles) R.R.,43031,MADOUAS Valentin,24758,0,16,2024-06-23,Nicky
-7,1.WT3,National Championships France (Saint-Martin-de-Landelles) R.R.,43031,COSNEFROY Benoit,24189,0,14,2024-06-23,Bram
-8,1.WT3,National Championships France (Saint-Martin-de-Landelles) R.R.,43031,GREGOIRE Romain,32766,0,12,2024-06-23,Jan
-9,1.WT3,National Championships France (Saint-Martin-de-Landelles) R.R.,43031,GAUTHERAT Pierre,33533,0,10,2024-06-23,-
-10,1.WT3,National Championships France (Saint-Martin-de-Landelles) R.R.,43031,LEROUX Samuel,22909,0,8,2024-06-23,-
-1,1.WT3,National Championships Denmark (Herning) R.R.,43029,PEDERSEN Rasmus Søjberg,32653,5,50,2024-06-23,-
-2,1.WT3,National Championships Denmark (Herning) R.R.,43029,ASGREEN Kasper,23558,2,35,2024-06-23,Nicky
-3,1.WT3,National Championships Denmark (Herning) R.R.,43029,WANDAHL Frederik,30710,1,25,2024-06-23,-
-4,1.WT3,National Championships Denmark (Herning) R.R.,43029,VALGREN HUNDAHL Michael,18123,0,20,2024-06-23,PB
-5,1.WT3,National Championships Denmark (Herning) R.R.,43029,CORT NIELSEN Magnus,19448,0,18,2024-06-23,Nicky
-6,1.WT3,National Championships Denmark (Herning) R.R.,43029,LUND ANDRESEN Tobias,31657,0,16,2024-06-23,PB
-7,1.WT3,National Championships Denmark (Herning) R.R.,43029,SALBY Alexander,26419,0,14,2024-06-23,-
-8,1.WT3,National Championships Denmark (Herning) R.R.,43029,PEDERSEN Mads,21992,0,12,2024-06-23,Kees
-9,1.WT3,National Championships Denmark (Herning) R.R.,43029,STAMPE Daniel,30286,0,10,2024-06-23,-
-10,1.WT3,National Championships Denmark (Herning) R.R.,43029,PEDERSEN Nicklas Overgaard Amdi,21327,0,8,2024-06-23,-
-1,1.WT3,National Championships Italy (Firenze - Sesto Fiorentino) R.R.,43042,BETTIOL Alberto,20697,5,50,2024-06-23,PB
-2,1.WT3,National Championships Italy (Firenze - Sesto Fiorentino) R.R.,43042,ROTA Lorenzo,21958,2,35,2024-06-23,Paul
-3,1.WT3,National Championships Italy (Firenze - Sesto Fiorentino) R.R.,43042,ZAMBANINI Edoardo,31437,1,25,2024-06-23,-
-4,1.WT3,National Championships Italy (Firenze - Sesto Fiorentino) R.R.,43042,GANNA Filippo,24057,0,20,2024-06-23,Vel
-5,1.WT3,National Championships Italy (Firenze - Sesto Fiorentino) R.R.,43042,FORMOLO Davide,18749,0,18,2024-06-23,Nicky
-6,1.WT3,National Championships Italy (Firenze - Sesto Fiorentino) R.R.,43042,ALEOTTI Giovanni,28451,0,16,2024-06-23,Wijnand
-7,1.WT3,National Championships Italy (Firenze - Sesto Fiorentino) R.R.,43042,CICCONE Giulio,21812,0,14,2024-06-23,Paul
-8,1.WT3,National Championships Italy (Firenze - Sesto Fiorentino) R.R.,43042,VELASCO Simone,22662,0,12,2024-06-23,Vel
-9,1.WT3,National Championships Italy (Firenze - Sesto Fiorentino) R.R.,43042,FIORELLI Filippo,24152,0,10,2024-06-23,-
-10,1.WT3,National Championships Italy (Firenze - Sesto Fiorentino) R.R.,43042,ULISSI Diego,10023,0,8,2024-06-23,Kaspar
-1,1.WT3,National Championships Great Britain (Saltburn-by-the-Sea) R.R.,43037,HAYTER Ethan,27025,5,50,2024-06-23,Bram
-2,1.WT3,National Championships Great Britain (Saltburn-by-the-Sea) R.R.,43037,ASKEY Lewis,30685,2,35,2024-06-23,-
-3,1.WT3,National Championships Great Britain (Saltburn-by-the-Sea) R.R.,43037,WALKER Max,31835,1,25,2024-06-23,-
-4,1.WT3,National Championships Great Britain (Saltburn-by-the-Sea) R.R.,43037,SWIFT Connor,26437,0,20,2024-06-23,Arjan
-5,1.WT3,National Championships Great Britain (Saltburn-by-the-Sea) R.R.,43037,DOULL Owain,20678,0,18,2024-06-23,-
-6,1.WT3,National Championships Great Britain (Saltburn-by-the-Sea) R.R.,43037,DONALDSON Robert,32179,0,16,2024-06-23,-
-7,1.WT3,National Championships Great Britain (Saltburn-by-the-Sea) R.R.,43037,TARLING Joshua,34297,0,14,2024-06-23,Kaspar
-8,1.WT3,National Championships Great Britain (Saltburn-by-the-Sea) R.R.,43037,BLACKMORE Joseph,34973,0,12,2024-06-23,-
-9,1.WT3,National Championships Great Britain (Saltburn-by-the-Sea) R.R.,43037,WALLS Matthew,28509,0,10,2024-06-23,-
-10,1.WT3,National Championships Great Britain (Saltburn-by-the-Sea) R.R.,43037,MCLAY Daniel,18498,0,8,2024-06-23,-
-1,1.WT3,National Championships Netherlands (Arnhem) R.R.,43040,GROENEWEGEN Dylan,19238,5,50,2024-06-23,Albert
-2,1.WT3,National Championships Netherlands (Arnhem) R.R.,43040,KOOIJ Olav,30643,2,35,2024-06-23,Roy
-3,1.WT3,National Championships Netherlands (Arnhem) R.R.,43040,SINKELDAM Ramon,9957,1,25,2024-06-23,-
-4,1.WT3,National Championships Netherlands (Arnhem) R.R.,43040,TEUNISSEN Mike,19165,0,20,2024-06-23,Albert
-5,1.WT3,National Championships Netherlands (Arnhem) R.R.,43040,BOL Cees,21930,0,18,2024-06-23,Nicky
-6,1.WT3,National Championships Netherlands (Arnhem) R.R.,43040,KRIJNSEN Jelte,32717,0,16,2024-06-23,-
-7,1.WT3,National Championships Netherlands (Arnhem) R.R.,43040,VAN KESSEL Corné,15249,0,14,2024-06-23,-
-8,1.WT3,National Championships Netherlands (Arnhem) R.R.,43040,VAN DEN BERG Marijn,27674,0,12,2024-06-23,Roy
-9,1.WT3,National Championships Netherlands (Arnhem) R.R.,43040,BUDDING Martijn,21928,0,10,2024-06-23,-
-10,1.WT3,National Championships Netherlands (Arnhem) R.R.,43040,VAN EMPEL Etienne,20642,0,8,2024-06-23,-

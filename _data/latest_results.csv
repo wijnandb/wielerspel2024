@@ -1,6 +1,8 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
 -4,GT1s,"Leiderstrui na Tour de France, Stage 1 : Florence - Rimini (prov.)",43273,Bardet Romain,13566,0.0,0,2024-06-29
 -1,GT1s,"Jongerentrui na Tour de France, Stage 1 : Florence - Rimini (prov.)",43273,van den Broek Frank,33648,0.0,0,2024-06-29
+-2,GT1s,"Puntentrui na Tour de France, Stage 1 : Florence - Rimini (prov.)",43273,van den Broek Frank,33648,0.0,0,2024-06-29
+-3,GT1s,"Bergtrui na Tour de France, Stage 1 : Florence - Rimini (prov.)",43273,Abrahamsen Jonas,22233,0.0,0,2024-06-29
 1,GT1s,"Tour de France, Stage 1 : Florence - Rimini (prov.)",43273,BARDET Romain,13566,0.0,0,2024-06-29
 1,2.1s,"Tour de Slovaquie, Stage 4 : Partizanske - Ruzomberok (prov.)",43264,ADAMIETZ Johannes,26533,0.0,0,2024-06-29
 1,NCT5,National Championships Greece (Mouries) I.T.T. (prov.),43086,TZORTZAKIS Polychronis,13800,0.0,0,2024-06-29

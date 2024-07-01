@@ -8,8 +8,11 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
 2,2.1,"Tour de Slovaquie, General classification",43266,ALAPHILIPPE Julian,18610,0.0,0,2024-06-30
 3,2.1,"Tour de Slovaquie, General classification",43266,ENGELHARDT Felix,29297,0.0,0,2024-06-30
 1,2.1s,"Tour de Slovaquie, Stage 5 : Liptovsky Mikulas - Strbske Pleso",43265,ENGELHARDT Felix,29297,0.0,0,2024-06-30
-1,NC5,National Championships Morocco () R.R. (prov.),43075,SABBAHI El Houcaine,27176,0.0,0,2024-06-30
+1,NC5,National Championships Lebanon () R.R.,43151,ISKANDAR Georges,34137,0.0,0,2024-06-30
+1,NC5,National Championships Morocco () R.R.,43075,SABBAHI El Houcaine,27176,0.0,0,2024-06-30
 1,NC5,National Championships Greece (Kampanis-Nea Filadelfeia) R.R. (prov.),43085,ARVANITOU Nikiforos,33118,0.0,0,2024-06-30
+1,NC5,National Championships Brazil (Palmas) R.R.,43114,SILVA Roberto Pinheiro,1947,0.0,0,2024-06-30
+1,NC5,National Championships Trinidad and Tobago () R.R.,43299,CAMPBELL Akil,24828,0.0,0,2024-06-30
 1,NC5,National Championships Montenegro (Danilovgrad) R.R.,43586,RADUNOVIC Aleksandar,30657,0.0,0,2024-06-30
 1,NC5,National Championships Iceland (Saudarkrokur) R.R.,43137,JONSSON Kristinn,30495,0.0,0,2024-06-30
 -4,GT1s,"Leiderstrui na Tour de France, Stage 1 : Florence - Rimini (prov.)",43273,Bardet Romain,13566,0.0,0,2024-06-29
@@ -20,6 +23,7 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
 1,2.1s,"Tour de Slovaquie, Stage 4 : Partizanske - Ruzomberok",43264,ADAMIETZ Johannes,26533,0.0,0,2024-06-29
 1,NCT5,National Championships Greece (Mouries) I.T.T.,43086,TZORTZAKIS Polychronis,13800,0.0,0,2024-06-29
 1,NC5,National Championships Cyprus (Agrokipia) R.R.,43116,MILTIADIS Andreas,22735,0.0,0,2024-06-29
+1,NCT5,National Championships Trinidad and Tobago () I.T.T. (prov.),43298,TREPTE Liam,35171,0.0,0,2024-06-29
 1,NCT5,National Championships Saint Lucia (Castries) I.T.T.,43584,WILLIAMS Stanislas Winston,7902,0.0,0,2024-06-29
 1,NCT5,National Championships Montenegro (Danilovgrad) I.T.T.,43583,RADUNOVIC Aleksandar,30657,0.0,0,2024-06-29
 1,NCT5,National Championships Honduras (Lamani) I.T.T.,43160,MENENDEZ PEREIRA Hector Manuel,36541,0.0,0,2024-06-29

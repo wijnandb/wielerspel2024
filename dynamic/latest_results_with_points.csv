@@ -13,16 +13,17 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 2,2.1,"Tour de Slovaquie, General classification",43266,ALAPHILIPPE Julian,18610,0.3,0,2024-06-30,Kaspar
 3,2.1,"Tour de Slovaquie, General classification",43266,ENGELHARDT Felix,29297,0.1,0,2024-06-30,Paul
 1,2.1s,"Tour de Slovaquie, Stage 5 : Liptovsky Mikulas - Strbske Pleso",43265,ENGELHARDT Felix,29297,0.2,0,2024-06-30,Paul
-1,NC5,National Championships Lebanon () R.R.,43151,ISKANDAR Georges,34137,0.0,0,2024-06-30,-
-1,NC5,National Championships Morocco (Ifrane) R.R.,43075,SABBAHI El Houcaine,27176,0.0,0,2024-06-30,-
 1,NC5,National Championships Greece (Kampanis-Nea Filadelfeia) R.R. (prov.),43085,ARVANITOU Nikiforos,33118,0.0,0,2024-06-30,-
+1,NC5,National Championships Morocco (Ifrane) R.R.,43075,SABBAHI El Houcaine,27176,0.0,0,2024-06-30,-
+1,NC5,National Championships Saint Lucia (Castries) R.R. (prov.),43585,JOSEPH Eltus,36850,0.0,0,2024-06-30,-
+1,NC5,National Championships Trinidad and Tobago (Couva) R.R.,43299,CAMPBELL Akil,24828,0.0,0,2024-06-30,-
+1,NC5,National Championships Lebanon () R.R.,43151,ISKANDAR Georges,34137,0.0,0,2024-06-30,-
 1,NC5,National Championships Montenegro (Danilovgrad) R.R.,43586,RADUNOVIC Aleksandar,30657,0.0,0,2024-06-30,-
 1,NC5,National Championships Belize (Silk Grass - San Ignacio) R.R. (prov.),43157,WILLIAMS Cory,23727,0.0,0,2024-06-30,-
 1,NC5,National Championships Peru (Arequipe) R.R. (prov.),43133,TOSCANO FERNANDEZ Bill Janz,31748,0.0,0,2024-06-30,-
 1,NC5,National Championships Honduras (Lamani) R.R. (prov.),43159,MARTINEZ AMADOR Diler Javier,30602,0.0,0,2024-06-30,-
 1,NC5,National Championships El Salvador (Plaza Integracion) R.R. (prov.),43141,HURTADO SEGOVIA Josue Oswaldo,35091,0.0,0,2024-06-30,-
 1,NC5,National Championships Brazil (Palmas) R.R.,43114,SILVA Roberto Pinheiro,1947,0.0,0,2024-06-30,-
-1,NC5,National Championships Trinidad and Tobago () R.R.,43299,CAMPBELL Akil,24828,0.0,0,2024-06-30,-
 1,NC5,National Championships Iceland (Saudarkrokur) R.R.,43137,JONSSON Kristinn,30495,0.0,0,2024-06-30,-
 1,NCT5,National Championships Nicaragua (San Benito) I.T.T. (prov.),43587,VANEGAS CALERO Argenis de la Conception,27121,0.0,0,2024-06-30,-
 -4,GT1s,"Leiderstrui na Tour de France, Stage 1 : Florence - Rimini (prov.)",43273,Bardet Romain,13566,1,0,2024-06-29,Nicky
@@ -30,4 +31,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 -2,GT1s,"Puntentrui na Tour de France, Stage 1 : Florence - Rimini (prov.)",43273,van den Broek Frank,33648,0.2,0,2024-06-29,-
 -3,GT1s,"Bergtrui na Tour de France, Stage 1 : Florence - Rimini (prov.)",43273,Abrahamsen Jonas,22233,0.2,0,2024-06-29,-
 1,GT1s,"Tour de France, Stage 1 : Florence - Rimini (prov.)",43273,BARDET Romain,13566,3,0,2024-06-29,Nicky
-1,2.1s,"Tour de Slovaquie, Stage 4 : Partizanske - Ruzomberok",43264,ADAMIETZ Johannes,26533,0.2,0,2024-06-29,-

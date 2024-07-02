@@ -1,4 +1,9 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
+-4,GT1s,"Leiderstrui na Tour de France, Stage 4 : Pinerolo - Valloire (prov.)",43276,Pogacar Tadej,26526,1,0,2024-07-02,Wijnand
+-1,GT1s,"Jongerentrui na Tour de France, Stage 4 : Pinerolo - Valloire (prov.)",43276,Evenepoel Remco,28377,0.1,0,2024-07-02,Roy
+-2,GT1s,"Puntentrui na Tour de France, Stage 4 : Pinerolo - Valloire (prov.)",43276,Abrahamsen Jonas,22233,0.2,0,2024-07-02,-
+-3,GT1s,"Bergtrui na Tour de France, Stage 4 : Pinerolo - Valloire (prov.)",43276,Abrahamsen Jonas,22233,0.2,0,2024-07-02,-
+1,GT1s,"Tour de France, Stage 4 : Pinerolo - Valloire (prov.)",43276,POGACAR Tadej,26526,3,0,2024-07-02,Wijnand
 -4,GT1s,"Leiderstrui na Tour de France, Stage 3 : Plaisance - Torino (prov.)",43275,Carapaz Richard,21342,1,0,2024-07-01,Paul
 -1,GT1s,"Jongerentrui na Tour de France, Stage 3 : Plaisance - Torino (prov.)",43275,Evenepoel Remco,28377,0.1,0,2024-07-01,Roy
 -2,GT1s,"Puntentrui na Tour de France, Stage 3 : Plaisance - Torino (prov.)",43275,Abrahamsen Jonas,22233,0.2,0,2024-07-01,-
@@ -26,8 +31,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 1,NC5,National Championships Brazil (Palmas) R.R.,43114,SILVA Roberto Pinheiro,1947,0.0,0,2024-06-30,-
 1,NC5,National Championships Iceland (Saudarkrokur) R.R.,43137,JONSSON Kristinn,30495,0.0,0,2024-06-30,-
 1,NCT5,National Championships Nicaragua (San Benito) I.T.T. (prov.),43587,VANEGAS CALERO Argenis de la Conception,27121,0.0,0,2024-06-30,-
--4,GT1s,"Leiderstrui na Tour de France, Stage 1 : Florence - Rimini (prov.)",43273,Bardet Romain,13566,1,0,2024-06-29,Nicky
--1,GT1s,"Jongerentrui na Tour de France, Stage 1 : Florence - Rimini (prov.)",43273,van den Broek Frank,33648,0.1,0,2024-06-29,-
--2,GT1s,"Puntentrui na Tour de France, Stage 1 : Florence - Rimini (prov.)",43273,van den Broek Frank,33648,0.2,0,2024-06-29,-
--3,GT1s,"Bergtrui na Tour de France, Stage 1 : Florence - Rimini (prov.)",43273,Abrahamsen Jonas,22233,0.2,0,2024-06-29,-
-1,GT1s,"Tour de France, Stage 1 : Florence - Rimini (prov.)",43273,BARDET Romain,13566,3,0,2024-06-29,Nicky

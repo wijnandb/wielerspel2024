@@ -4,11 +4,14 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
 -2,GT1s,"Puntentrui na Tour de France, Stage 4 : Pinerolo - Valloire (prov.)",43276,Abrahamsen Jonas,22233,0.0,0,2024-07-02
 -3,GT1s,"Bergtrui na Tour de France, Stage 4 : Pinerolo - Valloire (prov.)",43276,Abrahamsen Jonas,22233,0.0,0,2024-07-02
 1,GT1s,"Tour de France, Stage 4 : Pinerolo - Valloire (prov.)",43276,POGACAR Tadej,26526,0.0,0,2024-07-02
+1,2.1s,"Österreich-Rundfahrt / Tour of Austria , Prologue : St. Pölten I.T.T. (prov.)",43589,ROGERS Cameron,34333,0.0,0,2024-07-02
+1,NCT5,National Championships Iran (Zanjan) I.T.T. (prov.),43337,SAFARZADEH Saeid,3685,0.0,0,2024-07-02
 -4,GT1s,"Leiderstrui na Tour de France, Stage 3 : Plaisance - Torino (prov.)",43275,Carapaz Richard,21342,0.0,0,2024-07-01
 -1,GT1s,"Jongerentrui na Tour de France, Stage 3 : Plaisance - Torino (prov.)",43275,Evenepoel Remco,28377,0.0,0,2024-07-01
 -2,GT1s,"Puntentrui na Tour de France, Stage 3 : Plaisance - Torino (prov.)",43275,Abrahamsen Jonas,22233,0.0,0,2024-07-01
 -3,GT1s,"Bergtrui na Tour de France, Stage 3 : Plaisance - Torino (prov.)",43275,Abrahamsen Jonas,22233,0.0,0,2024-07-01
 1,GT1s,"Tour de France, Stage 3 : Plaisance - Torino (prov.)",43275,GIRMAY HAILU Biniam,29474,0.0,0,2024-07-01
+1,NC5,National Championships Iran (Zanjan) R.R. (prov.),43338,SEYFOLLAHIFARD Hasan,29266,0.0,0,2024-07-01
 -4,GT1s,"Leiderstrui na Tour de France, Stage 2 : Cesenatico - Bologna (prov.)",43274,Pogacar Tadej,26526,0.0,0,2024-06-30
 -1,GT1s,"Jongerentrui na Tour de France, Stage 2 : Cesenatico - Bologna (prov.)",43274,Evenepoel Remco,28377,0.0,0,2024-06-30
 -2,GT1s,"Puntentrui na Tour de France, Stage 2 : Cesenatico - Bologna (prov.)",43274,Abrahamsen Jonas,22233,0.0,0,2024-06-30
@@ -20,6 +23,7 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
 1,2.1s,"Tour de Slovaquie, Stage 5 : Liptovsky Mikulas - Strbske Pleso",43265,ENGELHARDT Felix,29297,0.0,0,2024-06-30
 1,NC5,National Championships Greece (Kampanis-Nea Filadelfeia) R.R. (prov.),43085,ARVANITOU Nikiforos,33118,0.0,0,2024-06-30
 1,NC5,National Championships Morocco (Ifrane) R.R.,43075,SABBAHI El Houcaine,27176,0.0,0,2024-06-30
+1,NC5,National Championships Guyana (Linden) R.R. (prov.),43590,JOHN Briton,28783,0.0,0,2024-06-30
 1,NC5,National Championships Saint Lucia (Castries) R.R. (prov.),43585,JOSEPH Eltus,36850,0.0,0,2024-06-30
 1,NC5,National Championships Trinidad and Tobago (Couva) R.R.,43299,CAMPBELL Akil,24828,0.0,0,2024-06-30
 1,NC5,National Championships Lebanon () R.R.,43151,ISKANDAR Georges,34137,0.0,0,2024-06-30

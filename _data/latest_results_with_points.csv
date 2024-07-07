@@ -8,6 +8,7 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 1,2.1,"Österreich-Rundfahrt / Tour of Austria , General classification (prov.)",43357,ULISSI Diego,10023,2,0,2024-07-07,Kaspar
 2,2.1,"Österreich-Rundfahrt / Tour of Austria , General classification (prov.)",43357,RIVERA VARGAS Brandon Smith,26283,0.3,0,2024-07-07,Arjan
 3,2.1,"Österreich-Rundfahrt / Tour of Austria , General classification (prov.)",43357,SHEFFIELD Magnus,31598,0.1,0,2024-07-07,Jan
+1,2.1s,"Sibiu Cycling Tour, Stage 2b : Sibiu I.T.T. (prov.)",43360,WALKER Max,31835,0.2,0,2024-07-07,-
 1,2.1s,"Österreich-Rundfahrt / Tour of Austria , Stage 5 : Kufstein - Kühtai (prov.)",43356,no result,13543,0.2,0,2024-07-07,-
 1,2.1s,"Sibiu Cycling Tour, Stage 2a : Sibiu - Sibiu (prov.)",43359,PICKRELL Riley,31786,0.2,0,2024-07-07,-
 1,NC5,National Championships Malta R.R. (prov.),43597,BUTTIGIEG Aidan,32043,0.0,0,2024-07-07,-
@@ -36,9 +37,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 -2,GT1s,"Puntentrui na Tour de France, Stage 5 : Saint-Jean-de-Maurienne - Saint-Vulbas (prov.)",43277,Girmay Biniam,29474,0.2,0,2024-07-03,Nicky
 -3,GT1s,"Bergtrui na Tour de France, Stage 5 : Saint-Jean-de-Maurienne - Saint-Vulbas (prov.)",43277,Abrahamsen Jonas,22233,0.2,0,2024-07-03,-
 1,GT1s,"Tour de France, Stage 5 : Saint-Jean-de-Maurienne - Saint-Vulbas (prov.)",43277,CAVENDISH Mark,3448,3,0,2024-07-03,Roy
-1,2.1s,"Österreich-Rundfahrt / Tour of Austria , Stage 1 : Bad Tatzmannsdorf - Bad Tatzmannsdorf (prov.)",43352,DE PRETTO Davide,31745,0.2,0,2024-07-03,-
--4,GT1s,"Leiderstrui na Tour de France, Stage 4 : Pinerolo - Valloire (prov.)",43276,Pogacar Tadej,26526,1,0,2024-07-02,Wijnand
--1,GT1s,"Jongerentrui na Tour de France, Stage 4 : Pinerolo - Valloire (prov.)",43276,Evenepoel Remco,28377,0.1,0,2024-07-02,Roy
--2,GT1s,"Puntentrui na Tour de France, Stage 4 : Pinerolo - Valloire (prov.)",43276,Abrahamsen Jonas,22233,0.2,0,2024-07-02,-
--3,GT1s,"Bergtrui na Tour de France, Stage 4 : Pinerolo - Valloire (prov.)",43276,Abrahamsen Jonas,22233,0.2,0,2024-07-02,-
-1,GT1s,"Tour de France, Stage 4 : Pinerolo - Valloire (prov.)",43276,POGACAR Tadej,26526,3,0,2024-07-02,Wijnand

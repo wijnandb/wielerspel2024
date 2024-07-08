@@ -1,4 +1,6 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
+1,2.PSs,"Tour of Qinghai Lake, Stage 2 : Duoba - Huzhu (prov.)",43365,FAGUNDEZ LIMA Antonio Eric,28445,0.3,0,2024-07-08,-
+1,2.1s,"Sibiu Cycling Tour, Stage 3 : Sibiu - Balea Lac (prov.)",43361,CAICEDO CEPEDA Jonathan Klever,22631,0.2,0,2024-07-08,-
 -4,GT1s,"Leiderstrui na Tour de France, Stage 9 : Troyes - Troyes (prov.)",43281,Pogacar Tadej,26526,1,0,2024-07-07,Wijnand
 -1,GT1s,"Jongerentrui na Tour de France, Stage 9 : Troyes - Troyes (prov.)",43281,Evenepoel Remco,28377,0.1,0,2024-07-07,Roy
 -2,GT1s,"Puntentrui na Tour de France, Stage 9 : Troyes - Troyes (prov.)",43281,Girmay Biniam,29474,0.2,0,2024-07-07,Nicky
@@ -31,9 +33,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 -2,GT1s,"Puntentrui na Tour de France, Stage 6 : Mâcon - Dijion (prov.)",43278,Girmay Biniam,29474,0.2,0,2024-07-04,Nicky
 -3,GT1s,"Bergtrui na Tour de France, Stage 6 : Mâcon - Dijion (prov.)",43278,Abrahamsen Jonas,22233,0.2,0,2024-07-04,-
 1,GT1s,"Tour de France, Stage 6 : Mâcon - Dijion (prov.)",43278,GROENEWEGEN Dylan,19238,3,0,2024-07-04,Albert
-1,2.1s,"Österreich-Rundfahrt / Tour of Austria , Stage 2 : Maria Taferl - Steyr",43353,RIVERA VARGAS Brandon Smith,26283,0.2,0,2024-07-04,Arjan
--4,GT1s,"Leiderstrui na Tour de France, Stage 5 : Saint-Jean-de-Maurienne - Saint-Vulbas (prov.)",43277,Pogacar Tadej,26526,1,0,2024-07-03,Wijnand
--1,GT1s,"Jongerentrui na Tour de France, Stage 5 : Saint-Jean-de-Maurienne - Saint-Vulbas (prov.)",43277,Evenepoel Remco,28377,0.1,0,2024-07-03,Roy
--2,GT1s,"Puntentrui na Tour de France, Stage 5 : Saint-Jean-de-Maurienne - Saint-Vulbas (prov.)",43277,Girmay Biniam,29474,0.2,0,2024-07-03,Nicky
--3,GT1s,"Bergtrui na Tour de France, Stage 5 : Saint-Jean-de-Maurienne - Saint-Vulbas (prov.)",43277,Abrahamsen Jonas,22233,0.2,0,2024-07-03,-
-1,GT1s,"Tour de France, Stage 5 : Saint-Jean-de-Maurienne - Saint-Vulbas (prov.)",43277,CAVENDISH Mark,3448,3,0,2024-07-03,Roy

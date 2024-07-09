@@ -127,7 +127,7 @@ renner_id,renner,rider,ploegleider,kosten,team,nationality,age,punten,JPP
 26388,BJERG Mikkel,BJERG Mikkel,Kees,2,UAD,DEN,25,1,20
 27126,MOSCHETTI Matteo,MOSCHETTI Matteo,Kees,2,Q36,ITA,27,1,65
 26197,LAFAY Victor,LAFAY Victor,Kees,2,A2R,FRA,27,0,0
-24180,MENTEN Milan,MENTEN Milan,Kees,2,LTD,BEL,27,0,20
+24180,MENTEN Milan,MENTEN Milan,Kees,2,LTD,BEL,27,0.2,20
 33556,DEL TORO ROMERO Isaac,DEL TORO ROMERO Isaac,Kees,1,,MEX,20,4.7,59
 33100,PELLIZZARI Giulio,PELLIZZARI Giulio,Kees,1,GBF,ITA,20,0.5,37
 30562,FISHER-BLACK Finn,FISHER-BLACK Finn,Kees,1,UAD,NZL,22,3.1,25
@@ -155,7 +155,7 @@ renner_id,renner,rider,ploegleider,kosten,team,nationality,age,punten,JPP
 17534,HERRADA LOPEZ Jesus,HERRADA LOPEZ Jesus,Nicky,2,COF,ESP,33,1,25
 4179,KRISTOFF Alexander,KRISTOFF Alexander,Nicky,2,UXT,NOR,36,6.6,0
 20535,MASNADA Fausto,MASNADA Fausto,Nicky,1,SOQ,ITA,30,0,0
-12254,BENNETT George,BENNETT George,Nicky,1,IPT,NZL,33,0.1,0
+12254,BENNETT George,BENNETT George,Nicky,1,IPT,NZL,33,0.2,0
 16058,KONRAD Patrick,KONRAD Patrick,Nicky,1,LTK,AUT,32,0,0
 26775,CEPEDA ORTIZ Jefferson Alexander,CEPEDA ORTIZ Jefferson Alexander,Nicky,1,EFE,ECU,25,0,0
 17627,BARGUIL Warren,BARGUIL Warren,Nicky,1,DSM,FRA,32,0,36
@@ -170,7 +170,7 @@ renner_id,renner,rider,ploegleider,kosten,team,nationality,age,punten,JPP
 19651,EWAN Caleb,EWAN Caleb,Paul,7,JAY,AUS,29,0.3,0
 18455,LUTSENKO Alexey,LUTSENKO Alexey,Paul,7,AST,KAZ,31,2.2,12
 21812,CICCONE Giulio,CICCONE Giulio,Paul,7,LTK,ITA,29,0,26
-27653,LEKNESSUND Andreas,LEKNESSUND Andreas,Paul,5,UXT,NOR,24,0.2,20
+27653,LEKNESSUND Andreas,LEKNESSUND Andreas,Paul,5,UXT,NOR,24,0.5,20
 31263,ZINGLE Axel,ZINGLE Axel,Paul,3,COF,FRA,25,5.4,95
 29192,MAYRHOFER Marius,MAYRHOFER Marius,Paul,2,TUD,GER,23,0.3,42
 27151,BURGAUDEAU Mathieu,BURGAUDEAU Mathieu,Paul,2,TEN,FRA,25,0,0

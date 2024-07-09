@@ -101,7 +101,7 @@ renner_id,renner,rider,ploegleider,kosten,team,nationality,age,punten,JPP
 31495,PARET PEINTRE Valentin,PARET PEINTRE Valentin,Jan,1,A2R,FRA,22,2,32
 26429,EEKHOFF Nils,EEKHOFF Nils,Jan,1,DSM,NED,25,0,18
 22683,GUERREIRO Ruben Antonio Almeida,GUERREIRO Ruben Antonio Almeida,Jan,1,MOV,POR,29,0,10
-13863,NIZZOLO Giacomo,NIZZOLO Giacomo,Jan,1,Q36,ITA,34,0,0
+13863,NIZZOLO Giacomo,NIZZOLO Giacomo,Jan,1,Q36,ITA,34,0.2,0
 30686,PENHOET Paul,PENHOET Paul,Jan,1,FDJ,FRA,22,1,45
 32946,MIHKELS Madis,MIHKELS Madis,Jan,0,ICW,EST,20,0,18
 26482,ALMEIDA Joao Pedro Gonzalves,ALMEIDA Joao Pedro Gonzalves,Kaspar,19,UAD,POR,25,5,45
@@ -127,7 +127,7 @@ renner_id,renner,rider,ploegleider,kosten,team,nationality,age,punten,JPP
 26388,BJERG Mikkel,BJERG Mikkel,Kees,2,UAD,DEN,25,1,20
 27126,MOSCHETTI Matteo,MOSCHETTI Matteo,Kees,2,Q36,ITA,27,1,65
 26197,LAFAY Victor,LAFAY Victor,Kees,2,A2R,FRA,27,0,0
-24180,MENTEN Milan,MENTEN Milan,Kees,2,LTD,BEL,27,0.2,20
+24180,MENTEN Milan,MENTEN Milan,Kees,2,LTD,BEL,27,0,20
 33556,DEL TORO ROMERO Isaac,DEL TORO ROMERO Isaac,Kees,1,,MEX,20,4.7,59
 33100,PELLIZZARI Giulio,PELLIZZARI Giulio,Kees,1,GBF,ITA,20,0.5,37
 30562,FISHER-BLACK Finn,FISHER-BLACK Finn,Kees,1,UAD,NZL,22,3.1,25

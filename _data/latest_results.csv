@@ -4,6 +4,10 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
 -2,GT1s,"Puntentrui na Tour de France, Stage 10 : Orléans - Saint-Amand-Montrond (prov.)",43282,Girmay Biniam,29474,0.0,0,2024-07-09
 -3,GT1s,"Bergtrui na Tour de France, Stage 10 : Orléans - Saint-Amand-Montrond (prov.)",43282,Abrahamsen Jonas,22233,0.0,0,2024-07-09
 1,GT1s,"Tour de France, Stage 10 : Orléans - Saint-Amand-Montrond (prov.)",43282,PHILIPSEN Jasper,26392,0.0,0,2024-07-09
+1,2.1,"Sibiu Cycling Tour, General classification (prov.)",43363,LIPOWITZ Florian,30805,0.0,0,2024-07-09
+2,2.1,"Sibiu Cycling Tour, General classification (prov.)",43363,LEKNESSUND Andreas,27653,0.0,0,2024-07-09
+3,2.1,"Sibiu Cycling Tour, General classification (prov.)",43363,BENNETT George,12254,0.0,0,2024-07-09
+1,2.1s,"Sibiu Cycling Tour, Stage 4 : Sibiu - Sibiu (prov.)",43362,MENTEN Milan,24180,0.0,0,2024-07-09
 1,CCT2,"Tour of Qinghai Lake, Stage 3 : Huzhu - Guide (prov.)",43366,TAROZZI Manuele,29884,0.0,0,2024-07-09
 1,2.PSs,"Tour of Qinghai Lake, Stage 2 : Duoba - Huzhu (prov.)",43365,FAGUNDEZ LIMA Antonio Eric,28445,0.0,0,2024-07-08
 1,2.1s,"Sibiu Cycling Tour, Stage 3 : Sibiu - Balea Lac (prov.)",43361,CAICEDO CEPEDA Jonathan Klever,22631,0.0,0,2024-07-08
@@ -28,8 +32,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
 1,GT1s,"Tour de France, Stage 8 : Semur-en-Auxois - Colombey-les-Deux-Eglises (prov.)",43280,GIRMAY HAILU Biniam,29474,0.0,0,2024-07-06
 1,2.1s,"Österreich-Rundfahrt / Tour of Austria , Stage 4 : St, Johann Alpendorf - Kals",43355,GANNA Filippo,24057,0.0,0,2024-07-06
 1,2.1s,"Sibiu Cycling Tour, Stage 1 : Sibiu - Paltinis (prov.)",43358,LEKNESSUND Andreas,27653,0.0,0,2024-07-06
--4,GT1s,"Leiderstrui na Tour de France, Stage 7 : Nuits-Saint-Georges - Gevrey-Chambertin I.T.T. (prov.)",43279,Pogacar Tadej,26526,0.0,0,2024-07-05
--1,GT1s,"Jongerentrui na Tour de France, Stage 7 : Nuits-Saint-Georges - Gevrey-Chambertin I.T.T. (prov.)",43279,Evenepoel Remco,28377,0.0,0,2024-07-05
--2,GT1s,"Puntentrui na Tour de France, Stage 7 : Nuits-Saint-Georges - Gevrey-Chambertin I.T.T. (prov.)",43279,Girmay Biniam,29474,0.0,0,2024-07-05
--3,GT1s,"Bergtrui na Tour de France, Stage 7 : Nuits-Saint-Georges - Gevrey-Chambertin I.T.T. (prov.)",43279,Abrahamsen Jonas,22233,0.0,0,2024-07-05
-1,GT1s,"Tour de France, Stage 7 : Nuits-Saint-Georges - Gevrey-Chambertin I.T.T. (prov.)",43279,EVENEPOEL Remco,28377,0.0,0,2024-07-05

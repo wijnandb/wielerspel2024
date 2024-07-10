@@ -1,16 +1,20 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
+-4,GT1s,"Leiderstrui na Tour de France, Stage 11 : Evaux-les-Bains - Le Lioran (prov.)",43283,Pogacar Tadej,26526,1,0,2024-07-10,Wijnand
+-1,GT1s,"Jongerentrui na Tour de France, Stage 11 : Evaux-les-Bains - Le Lioran (prov.)",43283,Evenepoel Remco,28377,0.1,0,2024-07-10,Roy
+1,GT1s,"Tour de France, Stage 11 : Evaux-les-Bains - Le Lioran (prov.)",43283,VINGEGAARD HANSEN Jonas,25740,3,0,2024-07-10,Arjan
+1,2.PSs,"Tour of Qinghai Lake, Stage 4 : Guide - Gonghe (prov.)",43367,APARICIO MUÑOZ Mario,31664,0.3,0,2024-07-10,-
 -4,GT1s,"Leiderstrui na Tour de France, Stage 10 : Orléans - Saint-Amand-Montrond (prov.)",43282,Pogacar Tadej,26526,1,0,2024-07-09,Wijnand
 -1,GT1s,"Jongerentrui na Tour de France, Stage 10 : Orléans - Saint-Amand-Montrond (prov.)",43282,Evenepoel Remco,28377,0.1,0,2024-07-09,Roy
 -2,GT1s,"Puntentrui na Tour de France, Stage 10 : Orléans - Saint-Amand-Montrond (prov.)",43282,Girmay Biniam,29474,0.2,0,2024-07-09,Nicky
 -3,GT1s,"Bergtrui na Tour de France, Stage 10 : Orléans - Saint-Amand-Montrond (prov.)",43282,Abrahamsen Jonas,22233,0.2,0,2024-07-09,-
 1,GT1s,"Tour de France, Stage 10 : Orléans - Saint-Amand-Montrond (prov.)",43282,PHILIPSEN Jasper,26392,3,0,2024-07-09,Nicky
 1,2.PSs,"Tour of Qinghai Lake, Stage 3 : Huzhu - Guide (prov.)",43366,TAROZZI Manuele,29884,0.3,0,2024-07-09,-
-1,2.1,"Sibiu Cycling Tour, General classification (prov.)",43363,LIPOWITZ Florian,30805,2,0,2024-07-09,-
-2,2.1,"Sibiu Cycling Tour, General classification (prov.)",43363,LEKNESSUND Andreas,27653,0.3,0,2024-07-09,Paul
-3,2.1,"Sibiu Cycling Tour, General classification (prov.)",43363,BENNETT George,12254,0.1,0,2024-07-09,Nicky
-1,2.1s,"Sibiu Cycling Tour, Stage 4 : Sibiu - Sibiu (prov.)",43362,NIZZOLO Giacomo,13863,0.2,0,2024-07-09,Jan
+1,2.1,"Sibiu Cycling Tour, General classification",43363,LIPOWITZ Florian,30805,2,0,2024-07-09,-
+2,2.1,"Sibiu Cycling Tour, General classification",43363,LEKNESSUND Andreas,27653,0.3,0,2024-07-09,Paul
+3,2.1,"Sibiu Cycling Tour, General classification",43363,BENNETT George,12254,0.1,0,2024-07-09,Nicky
+1,2.1s,"Sibiu Cycling Tour, Stage 4 : Sibiu - Sibiu",43362,NIZZOLO Giacomo,13863,0.2,0,2024-07-09,Jan
 1,2.PSs,"Tour of Qinghai Lake, Stage 2 : Duoba - Huzhu (prov.)",43365,FAGUNDEZ LIMA Antonio Eric,28445,0.3,0,2024-07-08,-
-1,2.1s,"Sibiu Cycling Tour, Stage 3 : Sibiu - Balea Lac (prov.)",43361,CAICEDO CEPEDA Jonathan Klever,22631,0.2,0,2024-07-08,-
+1,2.1s,"Sibiu Cycling Tour, Stage 3 : Sibiu - Balea Lac",43361,CAICEDO CEPEDA Jonathan Klever,22631,0.2,0,2024-07-08,-
 -4,GT1s,"Leiderstrui na Tour de France, Stage 9 : Troyes - Troyes (prov.)",43281,Pogacar Tadej,26526,1,0,2024-07-07,Wijnand
 -1,GT1s,"Jongerentrui na Tour de France, Stage 9 : Troyes - Troyes (prov.)",43281,Evenepoel Remco,28377,0.1,0,2024-07-07,Roy
 -2,GT1s,"Puntentrui na Tour de France, Stage 9 : Troyes - Troyes (prov.)",43281,Girmay Biniam,29474,0.2,0,2024-07-07,Nicky
@@ -20,11 +24,19 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 1,2.1,"Österreich-Rundfahrt / Tour of Austria , General classification",43357,ULISSI Diego,10023,2,0,2024-07-07,Kaspar
 2,2.1,"Österreich-Rundfahrt / Tour of Austria , General classification",43357,RIVERA VARGAS Brandon Smith,26283,0.3,0,2024-07-07,Arjan
 3,2.1,"Österreich-Rundfahrt / Tour of Austria , General classification",43357,SHEFFIELD Magnus,31598,0.1,0,2024-07-07,Jan
-1,2.1s,"Sibiu Cycling Tour, Stage 2b : Sibiu I.T.T. (prov.)",43360,WALKER Max,31835,0.2,0,2024-07-07,-
+1,2.1s,"Sibiu Cycling Tour, Stage 2b : Sibiu I.T.T.",43360,WALKER Max,31835,0.2,0,2024-07-07,-
 1,2.1s,"Österreich-Rundfahrt / Tour of Austria , Stage 5 : Kufstein - Kühtai",43356,no result,13543,0.2,0,2024-07-07,-
-1,2.1s,"Sibiu Cycling Tour, Stage 2a : Sibiu - Sibiu (prov.)",43359,PICKRELL Riley,31786,0.2,0,2024-07-07,-
+1,2.1s,"Sibiu Cycling Tour, Stage 2a : Sibiu - Sibiu",43359,PICKRELL Riley,31786,0.2,0,2024-07-07,-
 1,NC5,National Championships Malta R.R.,43597,BUTTIGIEG Aidan,32043,0.0,0,2024-07-07,-
 1,NCT5,National Championships Guam (Ritidian) I.T.T.,43345,APONIK Dan,26770,0.0,0,2024-07-07,-
+1,NE,National Championships Belarus (Sapotskin) R.R.,43599,SOBAL Yauheni,933,0.0,0,2024-07-07,-
+2,NE,National Championships Belarus (Sapotskin) R.R.,43599,SHULCHENKO Nikita,34671,0.0,0,2024-07-07,-
+3,NE,National Championships Belarus (Sapotskin) R.R.,43599,STROKAU Vasili,22745,0.0,0,2024-07-07,-
+4,NE,National Championships Belarus (Sapotskin) R.R.,43599,STASH Mamyr,20626,0.0,0,2024-07-07,-
+5,NE,National Championships Belarus (Sapotskin) R.R.,43599,SHPAKOUSKI Yahor,25969,0.0,0,2024-07-07,-
+6,NE,National Championships Belarus (Sapotskin) R.R.,43599,SHMANTSAR Aliaksei,31584,0.0,0,2024-07-07,-
+7,NE,National Championships Belarus (Sapotskin) R.R.,43599,KARALIOK Yauheni,24119,0.0,0,2024-07-07,-
+8,NE,National Championships Belarus (Sapotskin) R.R.,43599,MARCHUK Dzianis,29988,0.0,0,2024-07-07,-
 -4,GT1s,"Leiderstrui na Tour de France, Stage 8 : Semur-en-Auxois - Colombey-les-Deux-Eglises (prov.)",43280,Pogacar Tadej,26526,1,0,2024-07-06,Wijnand
 -1,GT1s,"Jongerentrui na Tour de France, Stage 8 : Semur-en-Auxois - Colombey-les-Deux-Eglises (prov.)",43280,Evenepoel Remco,28377,0.1,0,2024-07-06,Roy
 -2,GT1s,"Puntentrui na Tour de France, Stage 8 : Semur-en-Auxois - Colombey-les-Deux-Eglises (prov.)",43280,Girmay Biniam,29474,0.2,0,2024-07-06,Nicky

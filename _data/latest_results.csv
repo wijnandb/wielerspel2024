@@ -1,4 +1,15 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
+1,2.PS,"Tour of Qinghai Lake, General classification (prov.)",43372,CEPEDA HERNANDEZ Jefferson Alveiro,23549,0.0,0,2024-07-14
+2,2.PS,"Tour of Qinghai Lake, General classification (prov.)",43372,SILVA COUSSAN Guillermo Thomas,32828,0.0,0,2024-07-14
+3,2.PS,"Tour of Qinghai Lake, General classification (prov.)",43372,TAROZZI Manuele,29884,0.0,0,2024-07-14
+4,2.PS,"Tour of Qinghai Lake, General classification (prov.)",43372,MULUBRHAN Henok,28186,0.0,0,2024-07-14
+5,2.PS,"Tour of Qinghai Lake, General classification (prov.)",43372,APARICIO MUÑOZ Mario,31664,0.0,0,2024-07-14
+6,2.PS,"Tour of Qinghai Lake, General classification (prov.)",43372,MURGUIALDAY ELORZA Jokin,31268,0.0,0,2024-07-14
+7,2.PS,"Tour of Qinghai Lake, General classification (prov.)",43372,UMBA LOPEZ Abner Santiago,31750,0.0,0,2024-07-14
+8,2.PS,"Tour of Qinghai Lake, General classification (prov.)",43372,GUARDEÑO ROMA Jaume,35509,0.0,0,2024-07-14
+9,2.PS,"Tour of Qinghai Lake, General classification (prov.)",43372,FAGUNDEZ LIMA Antonio Eric,28445,0.0,0,2024-07-14
+10,2.PS,"Tour of Qinghai Lake, General classification (prov.)",43372,OKAMIKA BENGOETXEA Ander,31334,0.0,0,2024-07-14
+1,2.PSs,"Tour of Qinghai Lake, Stage 8 : Menyuan - Menyuan (prov.)",43371,FAGUNDEZ LIMA Antonio Eric,28445,0.0,0,2024-07-14
 -4,GT1s,"Leiderstrui na Tour de France, Stage 14 : Pau - Pla d'Adet (prov.)",43286,Pogacar Tadej,26526,0.0,0,2024-07-13
 -1,GT1s,"Jongerentrui na Tour de France, Stage 14 : Pau - Pla d'Adet (prov.)",43286,Evenepoel Remco,28377,0.0,0,2024-07-13
 -2,GT1s,"Puntentrui na Tour de France, Stage 14 : Pau - Pla d'Adet (prov.)",43286,Girmay Biniam,29474,0.0,0,2024-07-13
@@ -35,9 +46,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
 3,2.1,"Sibiu Cycling Tour, General classification",43363,BENNETT George,12254,0.0,0,2024-07-09
 1,2.1s,"Sibiu Cycling Tour, Stage 4 : Sibiu - Sibiu",43362,NIZZOLO Giacomo,13863,0.0,0,2024-07-09
 1,2.PSs,"Tour of Qinghai Lake, Stage 2 : Duoba - Huzhu (prov.)",43365,FAGUNDEZ LIMA Antonio Eric,28445,0.0,0,2024-07-08
-1,2.1s,"Sibiu Cycling Tour, Stage 3 : Sibiu - Balea Lac",43361,CAICEDO CEPEDA Jonathan Klever,22631,0.0,0,2024-07-08
--4,GT1s,"Leiderstrui na Tour de France, Stage 9 : Troyes - Troyes (prov.)",43281,Pogacar Tadej,26526,0.0,0,2024-07-07
--1,GT1s,"Jongerentrui na Tour de France, Stage 9 : Troyes - Troyes (prov.)",43281,Evenepoel Remco,28377,0.0,0,2024-07-07
--2,GT1s,"Puntentrui na Tour de France, Stage 9 : Troyes - Troyes (prov.)",43281,Girmay Biniam,29474,0.0,0,2024-07-07
--3,GT1s,"Bergtrui na Tour de France, Stage 9 : Troyes - Troyes (prov.)",43281,Abrahamsen Jonas,22233,0.0,0,2024-07-07
-1,GT1s,"Tour de France, Stage 9 : Troyes - Troyes (prov.)",43281,TURGIS Anthony,21312,0.0,0,2024-07-07

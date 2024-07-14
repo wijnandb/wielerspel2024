@@ -1,6 +1,8 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 -4,GT1s,"Leiderstrui na Tour de France, Stage 15 : Loudenvielle - Plateau de Beille (prov.)",43287,Pogacar Tadej,26526,1,0,2024-07-14,Wijnand
 -1,GT1s,"Jongerentrui na Tour de France, Stage 15 : Loudenvielle - Plateau de Beille (prov.)",43287,Evenepoel Remco,28377,0.1,0,2024-07-14,Roy
+-2,GT1s,"Puntentrui na Tour de France, Stage 15 : Loudenvielle - Plateau de Beille (prov.)",43287,Girmay Biniam,29474,0.2,0,2024-07-14,Nicky
+-3,GT1s,"Bergtrui na Tour de France, Stage 15 : Loudenvielle - Plateau de Beille (prov.)",43287,Pogacar Tadej,26526,0.2,0,2024-07-14,Wijnand
 1,GT1s,"Tour de France, Stage 15 : Loudenvielle - Plateau de Beille (prov.)",43287,POGACAR Tadej,26526,3,0,2024-07-14,Wijnand
 1,2.PS,"Tour of Qinghai Lake, General classification (prov.)",43372,CEPEDA HERNANDEZ Jefferson Alveiro,23549,4,50,2024-07-14,-
 2,2.PS,"Tour of Qinghai Lake, General classification (prov.)",43372,SILVA COUSSAN Guillermo Thomas,32828,1,35,2024-07-14,-
@@ -13,6 +15,10 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 9,2.PS,"Tour of Qinghai Lake, General classification (prov.)",43372,FAGUNDEZ LIMA Antonio Eric,28445,0,10,2024-07-14,-
 10,2.PS,"Tour of Qinghai Lake, General classification (prov.)",43372,OKAMIKA BENGOETXEA Ander,31334,0,8,2024-07-14,-
 1,2.PSs,"Tour of Qinghai Lake, Stage 8 : Menyuan - Menyuan (prov.)",43371,FAGUNDEZ LIMA Antonio Eric,28445,0.3,0,2024-07-14,-
+1,1.1,Giro dell'Appennino (prov.),43319,CHRISTEN Jan,34430,2,0,2024-07-14,-
+2,1.1,Giro dell'Appennino (prov.),43319,VELASCO Simone,22662,0.3,0,2024-07-14,Vel
+3,1.1,Giro dell'Appennino (prov.),43319,ULISSI Diego,10023,0.1,0,2024-07-14,Kaspar
+1,2.1s,"Tour de lAin, Stage 2 : Saint-Vulbas - Lélex Mont Jura (prov.)",43379,CEPEDA ORTIZ Jefferson Alexander,26775,0.2,0,2024-07-14,Nicky
 -4,GT1s,"Leiderstrui na Tour de France, Stage 14 : Pau - Pla d'Adet (prov.)",43286,Pogacar Tadej,26526,1,0,2024-07-13,Wijnand
 -1,GT1s,"Jongerentrui na Tour de France, Stage 14 : Pau - Pla d'Adet (prov.)",43286,Evenepoel Remco,28377,0.1,0,2024-07-13,Roy
 -2,GT1s,"Puntentrui na Tour de France, Stage 14 : Pau - Pla d'Adet (prov.)",43286,Girmay Biniam,29474,0.2,0,2024-07-13,Nicky
@@ -20,6 +26,7 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 1,GT1s,"Tour de France, Stage 14 : Pau - Pla d'Adet (prov.)",43286,POGACAR Tadej,26526,3,0,2024-07-13,Wijnand
 1,2.PSs,"Tour of Qinghai Lake, Stage 7 : Qilian - Menyuan (prov.)",43370,ÖRKEN Ahmet,19560,0.3,0,2024-07-13,-
 1,2.1s,"Tour de lAin, Stage 1 : Laiz - Bourg-en-Bresse (prov.)",43378,BROWNING Fergus,33583,0.2,0,2024-07-13,-
+1,NCT5,National Championships Antigua and Barbuda (St. John's) I.T.T. (prov.),43344,BROWNE Tahje,35200,0.0,0,2024-07-13,-
 -4,GT1s,"Leiderstrui na Tour de France, Stage 13 : Agen - Pau (prov.)",43285,Pogacar Tadej,26526,1,0,2024-07-12,Wijnand
 -1,GT1s,"Jongerentrui na Tour de France, Stage 13 : Agen - Pau (prov.)",43285,Evenepoel Remco,28377,0.1,0,2024-07-12,Roy
 -2,GT1s,"Puntentrui na Tour de France, Stage 13 : Agen - Pau (prov.)",43285,Girmay Biniam,29474,0.2,0,2024-07-12,Nicky
@@ -37,14 +44,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 -2,GT1s,"Puntentrui na Tour de France, Stage 11 : Evaux-les-Bains - Le Lioran (prov.)",43283,Girmay Biniam,29474,0.2,0,2024-07-10,Nicky
 -3,GT1s,"Bergtrui na Tour de France, Stage 11 : Evaux-les-Bains - Le Lioran (prov.)",43283,Pogacar Tadej,26526,0.2,0,2024-07-10,Wijnand
 1,GT1s,"Tour de France, Stage 11 : Evaux-les-Bains - Le Lioran (prov.)",43283,VINGEGAARD HANSEN Jonas,25740,3,0,2024-07-10,Arjan
-1,2.PSs,"Tour of Qinghai Lake, Stage 4 : Guide - Gonghe (prov.)",43367,APARICIO MUÑOZ Mario,31664,0.3,0,2024-07-10,-
--4,GT1s,"Leiderstrui na Tour de France, Stage 10 : Orléans - Saint-Amand-Montrond (prov.)",43282,Pogacar Tadej,26526,1,0,2024-07-09,Wijnand
--1,GT1s,"Jongerentrui na Tour de France, Stage 10 : Orléans - Saint-Amand-Montrond (prov.)",43282,Evenepoel Remco,28377,0.1,0,2024-07-09,Roy
--2,GT1s,"Puntentrui na Tour de France, Stage 10 : Orléans - Saint-Amand-Montrond (prov.)",43282,Girmay Biniam,29474,0.2,0,2024-07-09,Nicky
--3,GT1s,"Bergtrui na Tour de France, Stage 10 : Orléans - Saint-Amand-Montrond (prov.)",43282,Abrahamsen Jonas,22233,0.2,0,2024-07-09,-
-1,GT1s,"Tour de France, Stage 10 : Orléans - Saint-Amand-Montrond (prov.)",43282,PHILIPSEN Jasper,26392,3,0,2024-07-09,Nicky
-1,2.PSs,"Tour of Qinghai Lake, Stage 3 : Huzhu - Guide (prov.)",43366,TAROZZI Manuele,29884,0.3,0,2024-07-09,-
-1,2.1,"Sibiu Cycling Tour, General classification",43363,LIPOWITZ Florian,30805,2,0,2024-07-09,-
-2,2.1,"Sibiu Cycling Tour, General classification",43363,LEKNESSUND Andreas,27653,0.3,0,2024-07-09,Paul
-3,2.1,"Sibiu Cycling Tour, General classification",43363,BENNETT George,12254,0.1,0,2024-07-09,Nicky
-1,2.1s,"Sibiu Cycling Tour, Stage 4 : Sibiu - Sibiu",43362,NIZZOLO Giacomo,13863,0.2,0,2024-07-09,Jan

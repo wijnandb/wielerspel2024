@@ -111,7 +111,7 @@ renner_id,renner,rider,ploegleider,kosten,team,nationality,age,punten,JPP
 34297,TARLING Joshua,TARLING Joshua,Kaspar,11,IGD,GBR,19,2.2,30
 23948,HINDLEY Jai,HINDLEY Jai,Kaspar,9,BOH,AUS,27,1,43
 30442,HAGENES Per Strand,HAGENES Per Strand,Kaspar,5,TJV,NOR,20,0,10
-10023,ULISSI Diego,ULISSI Diego,Kaspar,4,UAD,ITA,34,2.5,68
+10023,ULISSI Diego,ULISSI Diego,Kaspar,4,UAD,ITA,34,2.6,68
 28448,VAN MOER Brent,VAN MOER Brent,Kaspar,2,LTD,BEL,25,0,14
 9851,DEGENKOLB John,DEGENKOLB John,Kaspar,0,DSM,GER,34,0,0
 21992,PEDERSEN Mads,PEDERSEN Mads,Kees,20,LTK,DEN,28,18.8,107
@@ -140,7 +140,7 @@ renner_id,renner,rider,ploegleider,kosten,team,nationality,age,punten,JPP
 29419,BARONCINI Filippo,BARONCINI Filippo,Kees,0,UAD,ITA,23,0,0
 26392,PHILIPSEN Jasper,PHILIPSEN Jasper,Nicky,28,ADC,BEL,25,34.3,270
 24758,MADOUAS Valentin,MADOUAS Valentin,Nicky,11,FDJ,FRA,27,0,46
-29474,GIRMAY HAILU Biniam,GIRMAY HAILU Biniam,Nicky,10,ICW,ERI,23,18.3,99
+29474,GIRMAY HAILU Biniam,GIRMAY HAILU Biniam,Nicky,10,ICW,ERI,23,18.5,99
 23558,ASGREEN Kasper,ASGREEN Kasper,Nicky,7,SOQ,DEN,28,2,51
 13566,BARDET Romain,BARDET Romain,Nicky,7,DSM,FRA,33,9.1,63
 18749,FORMOLO Davide,FORMOLO Davide,Nicky,6,MOV,ITA,31,0,32
@@ -157,7 +157,7 @@ renner_id,renner,rider,ploegleider,kosten,team,nationality,age,punten,JPP
 20535,MASNADA Fausto,MASNADA Fausto,Nicky,1,SOQ,ITA,30,0,0
 12254,BENNETT George,BENNETT George,Nicky,1,IPT,NZL,33,0.2,0
 16058,KONRAD Patrick,KONRAD Patrick,Nicky,1,LTK,AUT,32,0,0
-26775,CEPEDA ORTIZ Jefferson Alexander,CEPEDA ORTIZ Jefferson Alexander,Nicky,1,EFE,ECU,25,0,0
+26775,CEPEDA ORTIZ Jefferson Alexander,CEPEDA ORTIZ Jefferson Alexander,Nicky,1,EFE,ECU,25,0.2,0
 17627,BARGUIL Warren,BARGUIL Warren,Nicky,1,DSM,FRA,32,0,36
 17794,VAN BAARLE Dylan,VAN BAARLE Dylan,Nicky,1,TJV,NED,31,0,0
 28037,MOZZATO Luca,MOZZATO Luca,Nicky,1,ARK,ITA,25,7,107
@@ -228,9 +228,9 @@ renner_id,renner,rider,ploegleider,kosten,team,nationality,age,punten,JPP
 19548,GROSSSCHARTNER Felix,GROSSSCHARTNER Felix,Vel,3,UAD,AUT,30,0.5,14
 27033,SOBRERO Matteo,SOBRERO Matteo,Vel,2,BOH,ITA,26,0,0
 20257,WOODS Michael,WOODS Michael,Vel,2,IPT,CAN,37,1,0
-22662,VELASCO Simone,VELASCO Simone,Vel,1,AST,ITA,28,0.5,49
+22662,VELASCO Simone,VELASCO Simone,Vel,1,AST,ITA,28,0.8,49
 28392,HERREGODTS Rune,HERREGODTS Rune,Vel,0,ICW,BEL,25,2.2,0
-26526,POGACAR Tadej,POGACAR Tadej,Wijnand,85,UAD,SLO,25,105.8,225
+26526,POGACAR Tadej,POGACAR Tadej,Wijnand,85,UAD,SLO,25,106.0,225
 20960,KUNG Stefan,KUNG Stefan,Wijnand,8,FDJ,SUI,30,2.0,53
 30635,HAYTER Leo,HAYTER Leo,Wijnand,1,IGD,GBR,22,0,0
 28451,ALEOTTI Giovanni,ALEOTTI Giovanni,Wijnand,1,BOH,ITA,24,4.3,66

@@ -1,4 +1,8 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
+-4,GT1s,"Leiderstrui na Tour de France, Stage 16 : Gruissa - Nimes (prov.)",43288,Pogacar Tadej,26526,1,0,2024-07-16,Wijnand
+-1,GT1s,"Jongerentrui na Tour de France, Stage 16 : Gruissa - Nimes (prov.)",43288,Evenepoel Remco,28377,0.1,0,2024-07-16,Roy
+-2,GT1s,"Puntentrui na Tour de France, Stage 16 : Gruissa - Nimes (prov.)",43288,Girmay Biniam,29474,0.2,0,2024-07-16,Nicky
+-3,GT1s,"Bergtrui na Tour de France, Stage 16 : Gruissa - Nimes (prov.)",43288,Pogacar Tadej,26526,0.2,0,2024-07-16,Wijnand
 1,GT1s,"Tour de France, Stage 16 : Gruissa - Nimes (prov.)",43288,PHILIPSEN Jasper,26392,3,0,2024-07-16,Nicky
 1,2.1,"Tour de lAin, General classification",43381,CEPEDA ORTIZ Jefferson Alexander,26775,2,0,2024-07-15,Nicky
 2,2.1,"Tour de lAin, General classification",43381,CAPRON Rémi,29441,0.3,0,2024-07-15,-

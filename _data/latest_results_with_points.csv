@@ -1,4 +1,9 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
+-4,GT1s,"Leiderstrui na Tour de France, Stage 18 : Gap - Barcelonnette (prov.)",43290,Pogacar Tadej,26526,1,0,2024-07-18,Wijnand
+-1,GT1s,"Jongerentrui na Tour de France, Stage 18 : Gap - Barcelonnette (prov.)",43290,Evenepoel Remco,28377,0.1,0,2024-07-18,Roy
+-2,GT1s,"Puntentrui na Tour de France, Stage 18 : Gap - Barcelonnette (prov.)",43290,Girmay Biniam,29474,0.2,0,2024-07-18,Nicky
+-3,GT1s,"Bergtrui na Tour de France, Stage 18 : Gap - Barcelonnette (prov.)",43290,Pogacar Tadej,26526,0.2,0,2024-07-18,Wijnand
+1,GT1s,"Tour de France, Stage 18 : Gap - Barcelonnette (prov.)",43290,CAMPENAERTS Victor,20184,3,0,2024-07-18,-
 -4,GT1s,"Leiderstrui na Tour de France, Stage 17 : Saint-Paul-Trois-Château - Super Dévoluy (prov.)",43289,Pogacar Tadej,26526,1,0,2024-07-17,Wijnand
 -1,GT1s,"Jongerentrui na Tour de France, Stage 17 : Saint-Paul-Trois-Château - Super Dévoluy (prov.)",43289,Evenepoel Remco,28377,0.1,0,2024-07-17,Roy
 -2,GT1s,"Puntentrui na Tour de France, Stage 17 : Saint-Paul-Trois-Château - Super Dévoluy (prov.)",43289,Girmay Biniam,29474,0.2,0,2024-07-17,Nicky

@@ -44,9 +44,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 3,1.1,Giro dell'Appennino,43319,ULISSI Diego,10023,0.1,0,2024-07-14,Kaspar
 1,2.1s,"Tour de lAin, Stage 2 : Saint-Vulbas - Lélex Mont Jura",43379,CEPEDA ORTIZ Jefferson Alexander,26775,0.2,0,2024-07-14,Nicky
 1,NC5,National Championships Nicaragua (Managua) R.R. (prov.),43592,VANEGAS CALERO Argenis de la Conception,27121,0.0,0,2024-07-14,-
-1,NC5,National Championships Antigua and Barbuda (St. John's) R.R.,43343,BRIDGES Jyme,12722,0.0,0,2024-07-14,-
--4,GT1s,"Leiderstrui na Tour de France, Stage 14 : Pau - Pla d'Adet (prov.)",43286,Pogacar Tadej,26526,1,0,2024-07-13,Wijnand
--1,GT1s,"Jongerentrui na Tour de France, Stage 14 : Pau - Pla d'Adet (prov.)",43286,Evenepoel Remco,28377,0.1,0,2024-07-13,Roy
--2,GT1s,"Puntentrui na Tour de France, Stage 14 : Pau - Pla d'Adet (prov.)",43286,Girmay Biniam,29474,0.2,0,2024-07-13,Nicky
--3,GT1s,"Bergtrui na Tour de France, Stage 14 : Pau - Pla d'Adet (prov.)",43286,Pogacar Tadej,26526,0.2,0,2024-07-13,Wijnand
-1,GT1s,"Tour de France, Stage 14 : Pau - Pla d'Adet (prov.)",43286,POGACAR Tadej,26526,3,0,2024-07-13,Wijnand

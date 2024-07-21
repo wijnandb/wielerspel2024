@@ -1,67 +1,67 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
-1,GT1,"Tour de France, General classification (prov.)",43294,POGACAR Tadej,26526,0.0,0,2024-07-21
-2,GT1,"Tour de France, General classification (prov.)",43294,VINGEGAARD HANSEN Jonas,25740,0.0,0,2024-07-21
-3,GT1,"Tour de France, General classification (prov.)",43294,EVENEPOEL Remco,28377,0.0,0,2024-07-21
-4,GT1,"Tour de France, General classification (prov.)",43294,ALMEIDA Joao Pedro Gonçalves,26482,0.0,0,2024-07-21
-5,GT1,"Tour de France, General classification (prov.)",43294,LANDA MEANA Mikel,14319,0.0,0,2024-07-21
-6,GT1,"Tour de France, General classification (prov.)",43294,YATES Adam,18975,0.0,0,2024-07-21
-7,GT1,"Tour de France, General classification (prov.)",43294,RODRIGUEZ CANO Carlos,30836,0.0,0,2024-07-21
-8,GT1,"Tour de France, General classification (prov.)",43294,JORGENSON Matteo,28057,0.0,0,2024-07-21
-9,GT1,"Tour de France, General classification (prov.)",43294,GEE Derek,26869,0.0,0,2024-07-21
-10,GT1,"Tour de France, General classification (prov.)",43294,BUITRAGO SANCHEZ Santiago,29699,0.0,0,2024-07-21
-11,GT1,"Tour de France, General classification (prov.)",43294,CICCONE Giulio,21812,0.0,0,2024-07-21
-12,GT1,"Tour de France, General classification (prov.)",43294,YATES Simon,17893,0.0,0,2024-07-21
-13,GT1,"Tour de France, General classification (prov.)",43294,MARTIN Guillaume,19994,0.0,0,2024-07-21
-14,GT1,"Tour de France, General classification (prov.)",43294,GALL Felix,26383,0.0,0,2024-07-21
-15,GT1,"Tour de France, General classification (prov.)",43294,DE PLUS Laurens,24106,0.0,0,2024-07-21
-16,GT1,"Tour de France, General classification (prov.)",43294,CRAS Steff,24257,0.0,0,2024-07-21
-17,GT1,"Tour de France, General classification (prov.)",43294,CARAPAZ MONTENEGRO Richard Antonio,21342,0.0,0,2024-07-21
-18,GT1,"Tour de France, General classification (prov.)",43294,HINDLEY Jai,23948,0.0,0,2024-07-21
-19,GT1,"Tour de France, General classification (prov.)",43294,MAS NICOLAU Enric,22794,0.0,0,2024-07-21
-20,GT1,"Tour de France, General classification (prov.)",43294,MEINTJES Louis,18413,0.0,0,2024-07-21
+1,GT1,"Tour de France, General classification",43294,POGACAR Tadej,26526,0.0,0,2024-07-21
+2,GT1,"Tour de France, General classification",43294,VINGEGAARD HANSEN Jonas,25740,0.0,0,2024-07-21
+3,GT1,"Tour de France, General classification",43294,EVENEPOEL Remco,28377,0.0,0,2024-07-21
+4,GT1,"Tour de France, General classification",43294,ALMEIDA Joao Pedro Gonçalves,26482,0.0,0,2024-07-21
+5,GT1,"Tour de France, General classification",43294,LANDA MEANA Mikel,14319,0.0,0,2024-07-21
+6,GT1,"Tour de France, General classification",43294,YATES Adam,18975,0.0,0,2024-07-21
+7,GT1,"Tour de France, General classification",43294,RODRIGUEZ CANO Carlos,30836,0.0,0,2024-07-21
+8,GT1,"Tour de France, General classification",43294,JORGENSON Matteo,28057,0.0,0,2024-07-21
+9,GT1,"Tour de France, General classification",43294,GEE Derek,26869,0.0,0,2024-07-21
+10,GT1,"Tour de France, General classification",43294,BUITRAGO SANCHEZ Santiago,29699,0.0,0,2024-07-21
+11,GT1,"Tour de France, General classification",43294,CICCONE Giulio,21812,0.0,0,2024-07-21
+12,GT1,"Tour de France, General classification",43294,YATES Simon,17893,0.0,0,2024-07-21
+13,GT1,"Tour de France, General classification",43294,MARTIN Guillaume,19994,0.0,0,2024-07-21
+14,GT1,"Tour de France, General classification",43294,GALL Felix,26383,0.0,0,2024-07-21
+15,GT1,"Tour de France, General classification",43294,DE PLUS Laurens,24106,0.0,0,2024-07-21
+16,GT1,"Tour de France, General classification",43294,CRAS Steff,24257,0.0,0,2024-07-21
+17,GT1,"Tour de France, General classification",43294,CARAPAZ MONTENEGRO Richard Antonio,21342,0.0,0,2024-07-21
+18,GT1,"Tour de France, General classification",43294,HINDLEY Jai,23948,0.0,0,2024-07-21
+19,GT1,"Tour de France, General classification",43294,MAS NICOLAU Enric,22794,0.0,0,2024-07-21
+20,GT1,"Tour de France, General classification",43294,MEINTJES Louis,18413,0.0,0,2024-07-21
 0,GT1c,Correctie dragen jongerentrui in Tour de France,43293,Evenepoel Remco,28377,-1.9,0,2024-07-21
 0,GT1c,Correctie dragen leiderstrui in Tour de France,43294,Pogacar Tadej,26526,-37.0,0,2024-07-21
 0,GT1c,Correctie dragen puntentrui in Tour de France,43295,Girmay Biniam,29474,-3.2,0,2024-07-21
 0,GT1c,Correctie dragen bergtrui in Tour de France,43296,Carapaz Richard,21342,-0.4,0,2024-07-21
 -1,GT1,Winnaar jongerentrui Tour de France,43293,Evenepoel Remco,28377,0,0,2024-07-21
-1,GT1s,"Tour de France, Stage 21 : Monaco - Nice I.T.T. (prov.)",43293,POGACAR Tadej,26526,0.0,0,2024-07-21
-1,GT1r,"Tour de France, Points classification (prov.)",43295,GIRMAY HAILU Biniam,29474,0.0,0,2024-07-21
-1,GT1r,"Tour de France, Mountains classification (prov.)",43296,CARAPAZ MONTENEGRO Richard Antonio,21342,0.0,0,2024-07-21
--4,GT1s,"Leiderstrui na Tour de France, Stage 20 : Nice - Col de la Couillole (prov.)",43292,Pogacar Tadej,26526,0.0,0,2024-07-20
--1,GT1s,"Jongerentrui na Tour de France, Stage 20 : Nice - Col de la Couillole (prov.)",43292,Evenepoel Remco,28377,0.0,0,2024-07-20
--2,GT1s,"Puntentrui na Tour de France, Stage 20 : Nice - Col de la Couillole (prov.)",43292,Girmay Biniam,29474,0.0,0,2024-07-20
--3,GT1s,"Bergtrui na Tour de France, Stage 20 : Nice - Col de la Couillole (prov.)",43292,Carapaz Richard,21342,0.0,0,2024-07-20
-1,GT1s,"Tour de France, Stage 20 : Nice - Col de la Couillole (prov.)",43292,POGACAR Tadej,26526,0.0,0,2024-07-20
+1,GT1s,"Tour de France, Stage 21 : Monaco - Nice I.T.T.",43293,POGACAR Tadej,26526,0.0,0,2024-07-21
+1,GT1r,"Tour de France, Points classification",43295,GIRMAY HAILU Biniam,29474,0.0,0,2024-07-21
+1,GT1r,"Tour de France, Mountains classification",43296,CARAPAZ MONTENEGRO Richard Antonio,21342,0.0,0,2024-07-21
+-4,GT1s,"Leiderstrui na Tour de France, Stage 20 : Nice - Col de la Couillole",43292,Pogacar Tadej,26526,0.0,0,2024-07-20
+-1,GT1s,"Jongerentrui na Tour de France, Stage 20 : Nice - Col de la Couillole",43292,Evenepoel Remco,28377,0.0,0,2024-07-20
+-2,GT1s,"Puntentrui na Tour de France, Stage 20 : Nice - Col de la Couillole",43292,Girmay Biniam,29474,0.0,0,2024-07-20
+-3,GT1s,"Bergtrui na Tour de France, Stage 20 : Nice - Col de la Couillole",43292,Carapaz Richard,21342,0.0,0,2024-07-20
+1,GT1s,"Tour de France, Stage 20 : Nice - Col de la Couillole",43292,POGACAR Tadej,26526,0.0,0,2024-07-20
 1,NCT5,National Championships Cape Verde (Sal Rei) I.T.T. (prov.),43606,SOARES Eliezer,35590,0.0,0,2024-07-20
--4,GT1s,"Leiderstrui na Tour de France, Stage 19 : Embrun - Isola 2000 (prov.)",43291,Pogacar Tadej,26526,0.0,0,2024-07-19
--1,GT1s,"Jongerentrui na Tour de France, Stage 19 : Embrun - Isola 2000 (prov.)",43291,Evenepoel Remco,28377,0.0,0,2024-07-19
--2,GT1s,"Puntentrui na Tour de France, Stage 19 : Embrun - Isola 2000 (prov.)",43291,Girmay Biniam,29474,0.0,0,2024-07-19
--3,GT1s,"Bergtrui na Tour de France, Stage 19 : Embrun - Isola 2000 (prov.)",43291,Carapaz Richard,21342,0.0,0,2024-07-19
-1,GT1s,"Tour de France, Stage 19 : Embrun - Isola 2000 (prov.)",43291,POGACAR Tadej,26526,0.0,0,2024-07-19
--4,GT1s,"Leiderstrui na Tour de France, Stage 18 : Gap - Barcelonnette (prov.)",43290,Pogacar Tadej,26526,0.0,0,2024-07-18
--1,GT1s,"Jongerentrui na Tour de France, Stage 18 : Gap - Barcelonnette (prov.)",43290,Evenepoel Remco,28377,0.0,0,2024-07-18
--2,GT1s,"Puntentrui na Tour de France, Stage 18 : Gap - Barcelonnette (prov.)",43290,Girmay Biniam,29474,0.0,0,2024-07-18
--3,GT1s,"Bergtrui na Tour de France, Stage 18 : Gap - Barcelonnette (prov.)",43290,Pogacar Tadej,26526,0.0,0,2024-07-18
-1,GT1s,"Tour de France, Stage 18 : Gap - Barcelonnette (prov.)",43290,CAMPENAERTS Victor,20184,0.0,0,2024-07-18
--4,GT1s,"Leiderstrui na Tour de France, Stage 17 : Saint-Paul-Trois-Château - Super Dévoluy (prov.)",43289,Pogacar Tadej,26526,0.0,0,2024-07-17
--1,GT1s,"Jongerentrui na Tour de France, Stage 17 : Saint-Paul-Trois-Château - Super Dévoluy (prov.)",43289,Evenepoel Remco,28377,0.0,0,2024-07-17
--2,GT1s,"Puntentrui na Tour de France, Stage 17 : Saint-Paul-Trois-Château - Super Dévoluy (prov.)",43289,Girmay Biniam,29474,0.0,0,2024-07-17
--3,GT1s,"Bergtrui na Tour de France, Stage 17 : Saint-Paul-Trois-Château - Super Dévoluy (prov.)",43289,Pogacar Tadej,26526,0.0,0,2024-07-17
-1,GT1s,"Tour de France, Stage 17 : Saint-Paul-Trois-Château - Super Dévoluy (prov.)",43289,CARAPAZ MONTENEGRO Richard Antonio,21342,0.0,0,2024-07-17
--4,GT1s,"Leiderstrui na Tour de France, Stage 16 : Gruissa - Nimes (prov.)",43288,Pogacar Tadej,26526,0.0,0,2024-07-16
--1,GT1s,"Jongerentrui na Tour de France, Stage 16 : Gruissa - Nimes (prov.)",43288,Evenepoel Remco,28377,0.0,0,2024-07-16
--2,GT1s,"Puntentrui na Tour de France, Stage 16 : Gruissa - Nimes (prov.)",43288,Girmay Biniam,29474,0.0,0,2024-07-16
--3,GT1s,"Bergtrui na Tour de France, Stage 16 : Gruissa - Nimes (prov.)",43288,Pogacar Tadej,26526,0.0,0,2024-07-16
-1,GT1s,"Tour de France, Stage 16 : Gruissa - Nimes (prov.)",43288,PHILIPSEN Jasper,26392,0.0,0,2024-07-16
+-4,GT1s,"Leiderstrui na Tour de France, Stage 19 : Embrun - Isola 2000",43291,Pogacar Tadej,26526,0.0,0,2024-07-19
+-1,GT1s,"Jongerentrui na Tour de France, Stage 19 : Embrun - Isola 2000",43291,Evenepoel Remco,28377,0.0,0,2024-07-19
+-2,GT1s,"Puntentrui na Tour de France, Stage 19 : Embrun - Isola 2000",43291,Girmay Biniam,29474,0.0,0,2024-07-19
+-3,GT1s,"Bergtrui na Tour de France, Stage 19 : Embrun - Isola 2000",43291,Carapaz Richard,21342,0.0,0,2024-07-19
+1,GT1s,"Tour de France, Stage 19 : Embrun - Isola 2000",43291,POGACAR Tadej,26526,0.0,0,2024-07-19
+-4,GT1s,"Leiderstrui na Tour de France, Stage 18 : Gap - Barcelonnette",43290,Pogacar Tadej,26526,0.0,0,2024-07-18
+-1,GT1s,"Jongerentrui na Tour de France, Stage 18 : Gap - Barcelonnette",43290,Evenepoel Remco,28377,0.0,0,2024-07-18
+-2,GT1s,"Puntentrui na Tour de France, Stage 18 : Gap - Barcelonnette",43290,Girmay Biniam,29474,0.0,0,2024-07-18
+-3,GT1s,"Bergtrui na Tour de France, Stage 18 : Gap - Barcelonnette",43290,Pogacar Tadej,26526,0.0,0,2024-07-18
+1,GT1s,"Tour de France, Stage 18 : Gap - Barcelonnette",43290,CAMPENAERTS Victor,20184,0.0,0,2024-07-18
+-4,GT1s,"Leiderstrui na Tour de France, Stage 17 : Saint-Paul-Trois-Château - Super Dévoluy",43289,Pogacar Tadej,26526,0.0,0,2024-07-17
+-1,GT1s,"Jongerentrui na Tour de France, Stage 17 : Saint-Paul-Trois-Château - Super Dévoluy",43289,Evenepoel Remco,28377,0.0,0,2024-07-17
+-2,GT1s,"Puntentrui na Tour de France, Stage 17 : Saint-Paul-Trois-Château - Super Dévoluy",43289,Girmay Biniam,29474,0.0,0,2024-07-17
+-3,GT1s,"Bergtrui na Tour de France, Stage 17 : Saint-Paul-Trois-Château - Super Dévoluy",43289,Pogacar Tadej,26526,0.0,0,2024-07-17
+1,GT1s,"Tour de France, Stage 17 : Saint-Paul-Trois-Château - Super Dévoluy",43289,CARAPAZ MONTENEGRO Richard Antonio,21342,0.0,0,2024-07-17
+-4,GT1s,"Leiderstrui na Tour de France, Stage 16 : Gruissa - Nimes",43288,Pogacar Tadej,26526,0.0,0,2024-07-16
+-1,GT1s,"Jongerentrui na Tour de France, Stage 16 : Gruissa - Nimes",43288,Evenepoel Remco,28377,0.0,0,2024-07-16
+-2,GT1s,"Puntentrui na Tour de France, Stage 16 : Gruissa - Nimes",43288,Girmay Biniam,29474,0.0,0,2024-07-16
+-3,GT1s,"Bergtrui na Tour de France, Stage 16 : Gruissa - Nimes",43288,Pogacar Tadej,26526,0.0,0,2024-07-16
+1,GT1s,"Tour de France, Stage 16 : Gruissa - Nimes",43288,PHILIPSEN Jasper,26392,0.0,0,2024-07-16
 1,2.1,"Tour de lAin, General classification",43381,CEPEDA ORTIZ Jefferson Alexander,26775,0.0,0,2024-07-15
 2,2.1,"Tour de lAin, General classification",43381,CAPRON Rémi,29441,0.0,0,2024-07-15
 3,2.1,"Tour de lAin, General classification",43381,OLDANI Stefano,27072,0.0,0,2024-07-15
 1,2.1s,"Tour de lAin, Stage 3 : Lagnieu - Ile Chambod",43380,CAPRON Rémi,29441,0.0,0,2024-07-15
--4,GT1s,"Leiderstrui na Tour de France, Stage 15 : Loudenvielle - Plateau de Beille (prov.)",43287,Pogacar Tadej,26526,0.0,0,2024-07-14
--1,GT1s,"Jongerentrui na Tour de France, Stage 15 : Loudenvielle - Plateau de Beille (prov.)",43287,Evenepoel Remco,28377,0.0,0,2024-07-14
--2,GT1s,"Puntentrui na Tour de France, Stage 15 : Loudenvielle - Plateau de Beille (prov.)",43287,Girmay Biniam,29474,0.0,0,2024-07-14
--3,GT1s,"Bergtrui na Tour de France, Stage 15 : Loudenvielle - Plateau de Beille (prov.)",43287,Pogacar Tadej,26526,0.0,0,2024-07-14
-1,GT1s,"Tour de France, Stage 15 : Loudenvielle - Plateau de Beille (prov.)",43287,POGACAR Tadej,26526,0.0,0,2024-07-14
+-4,GT1s,"Leiderstrui na Tour de France, Stage 15 : Loudenvielle - Plateau de Beille",43287,Pogacar Tadej,26526,0.0,0,2024-07-14
+-1,GT1s,"Jongerentrui na Tour de France, Stage 15 : Loudenvielle - Plateau de Beille",43287,Evenepoel Remco,28377,0.0,0,2024-07-14
+-2,GT1s,"Puntentrui na Tour de France, Stage 15 : Loudenvielle - Plateau de Beille",43287,Girmay Biniam,29474,0.0,0,2024-07-14
+-3,GT1s,"Bergtrui na Tour de France, Stage 15 : Loudenvielle - Plateau de Beille",43287,Pogacar Tadej,26526,0.0,0,2024-07-14
+1,GT1s,"Tour de France, Stage 15 : Loudenvielle - Plateau de Beille",43287,POGACAR Tadej,26526,0.0,0,2024-07-14
 1,2.PS,"Tour of Qinghai Lake, General classification",43372,CEPEDA HERNANDEZ Jefferson Alveiro,23549,0.0,0,2024-07-14
 2,2.PS,"Tour of Qinghai Lake, General classification",43372,SILVA COUSSAN Guillermo Thomas,32828,0.0,0,2024-07-14
 3,2.PS,"Tour of Qinghai Lake, General classification",43372,TAROZZI Manuele,29884,0.0,0,2024-07-14

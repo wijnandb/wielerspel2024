@@ -4,4 +4,5 @@ charset-normalizer==3.0.1
 idna==3.7
 requests==2.32.0
 soupsieve==2.3.2.post1
+unidecode
 urllib3==1.26.19

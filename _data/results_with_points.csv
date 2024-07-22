@@ -20,13 +20,14 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 19,GT1,"Tour de France, General classification",43294,MAS NICOLAU Enric,22794,1,0,2024-07-21,Bram
 20,GT1,"Tour de France, General classification",43294,MEINTJES Louis,18413,1,0,2024-07-21,Wijnand
 0,GT1c,Correctie dragen jongerentrui in Tour de France,43293,Evenepoel Remco,28377,-1.9,0,2024-07-21,Roy
-0,GT1c,Correctie dragen leiderstrui in Tour de France,43294,Pogacar Tadej,26526,-37.0,0,2024-07-21,Wijnand
+0,GT1c,Correctie dragen leiderstrui in Tour de France,43294,Pogacar Tadej,26526,-18.0,0,2024-07-21,Wijnand
 0,GT1c,Correctie dragen puntentrui in Tour de France,43295,Girmay Biniam,29474,-3.2,0,2024-07-21,Nicky
 0,GT1c,Correctie dragen bergtrui in Tour de France,43296,Carapaz Richard,21342,-0.4,0,2024-07-21,Paul
 -1,GT1,Winnaar jongerentrui Tour de France,43293,Evenepoel Remco,28377,3,0,2024-07-21,Roy
 1,GT1s,"Tour de France, Stage 21 : Monaco - Nice I.T.T.",43293,POGACAR Tadej,26526,3,0,2024-07-21,Wijnand
 1,GT1r,"Tour de France, Points classification",43295,GIRMAY HAILU Biniam,29474,7,0,2024-07-21,Nicky
 1,GT1r,"Tour de France, Mountains classification",43296,CARAPAZ MONTENEGRO Richard Antonio,21342,7,0,2024-07-21,Paul
+1,NC5,National Championships Cape Verde (Sal Rei) R.R. (prov.),43605,MIKLOS Mota,36949,0.0,0,2024-07-21,-
 -4,GT1s,"Leiderstrui na Tour de France, Stage 20 : Nice - Col de la Couillole",43292,Pogacar Tadej,26526,1,0,2024-07-20,Wijnand
 -1,GT1s,"Jongerentrui na Tour de France, Stage 20 : Nice - Col de la Couillole",43292,Evenepoel Remco,28377,0.1,0,2024-07-20,Roy
 -2,GT1s,"Puntentrui na Tour de France, Stage 20 : Nice - Col de la Couillole",43292,Girmay Biniam,29474,0.2,0,2024-07-20,Nicky

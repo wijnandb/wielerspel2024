@@ -4,7 +4,7 @@ renner_id,renner,rider,ploegleider,kosten,team,nationality,age,punten,JPP
 28452,BAGIOLI Andrea,BAGIOLI Andrea,PB,11,LTK,ITA,24,0,0
 24255,GAUDU David,GAUDU David,PB,8,FDJ,FRA,27,2.1,0
 23503,MARTINEZ POVEDA Daniel Felipe,MARTINEZ POVEDA Daniel Felipe,PB,6,BOH,COL,27,13.6,70
-29492,STRONG Corbin,STRONG Corbin,PB,6,IPT,NZL,23,1.0,40
+29492,STRONG Corbin,STRONG Corbin,PB,6,IPT,NZL,23,2.0,75
 29699,BUITRAGO SANCHEZ Santiago,BUITRAGO SANCHEZ Santiago,PB,5,TBV,COL,24,6.2,61
 25704,GODON Dorian,GODON Dorian,PB,3,A2R,FRA,27,2.0,34
 23463,MOLANO BENAVIDES Juan Sebastian,MOLANO BENAVIDES Juan Sebastian,PB,3,UAD,COL,29,0,30
@@ -22,4 +22,4 @@ renner_id,renner,rider,ploegleider,kosten,team,nationality,age,punten,JPP
 24346,WILLIAMS Stephen,WILLIAMS Stephen,PB,1,IPT,GBR,27,21,100
 31638,PITHIE Laurence,PITHIE Laurence,PB,1,FDJ,NZL,21,5.1,64
 26869,GEE Derek,GEE Derek,PB,1,IPT,CAN,26,6,35
-32161,WATSON Samuel,WATSON Samuel,PB,0,FDJ,GBR,22,0,20
+32161,WATSON Samuel,WATSON Samuel,PB,0,FDJ,GBR,22,0.3,20

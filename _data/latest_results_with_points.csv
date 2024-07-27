@@ -1,4 +1,14 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
+1,WCTT,Olympic Games (Paris) - I.T.T. (prov.),43326,EVENEPOEL Remco,28377,10,50,2024-07-27,Roy
+2,WCTT,Olympic Games (Paris) - I.T.T. (prov.),43326,GANNA Filippo,24057,3,35,2024-07-27,Vel
+3,WCTT,Olympic Games (Paris) - I.T.T. (prov.),43326,VAN AERT Wout,20730,1,25,2024-07-27,Bram
+4,WCTT,Olympic Games (Paris) - I.T.T. (prov.),43326,TARLING Joshua,34297,0.5,20,2024-07-27,Kaspar
+5,WCTT,Olympic Games (Paris) - I.T.T. (prov.),43326,MCNULTY Brandon,26508,0.2,18,2024-07-27,Kees
+6,WCTT,Olympic Games (Paris) - I.T.T. (prov.),43326,BISSEGGER Stefan,26376,0,16,2024-07-27,Harry
+7,WCTT,Olympic Games (Paris) - I.T.T. (prov.),43326,OLIVEIRA Nelson Filipe Santos Simoes,13274,0,14,2024-07-27,-
+8,WCTT,Olympic Games (Paris) - I.T.T. (prov.),43326,KÜNG Stefan,20960,0,12,2024-07-27,Wijnand
+9,WCTT,Olympic Games (Paris) - I.T.T. (prov.),43326,SCHACHMANN Maximilian,20798,0,10,2024-07-27,Albert
+10,WCTT,Olympic Games (Paris) - I.T.T. (prov.),43326,BJERG Mikkel Norsgaard,26388,0,8,2024-07-27,Kees
 1,2.1s,"Czech Tour, Stage 3 : Mor. Trebova - Dlouhe strane (prov.)",43424,GLOAG Thomas,31449,0.2,0,2024-07-27,Frank
 1,2.PS,"Tour de Wallonie, General classification",43398,TRENTIN Matteo,13270,4,50,2024-07-26,Jan
 2,2.PS,"Tour de Wallonie, General classification",43398,STRONG Corbin,29492,1,35,2024-07-26,PB
@@ -20,4 +30,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 1,2.1s,"Volta a Portugal, Stage 1 : Anadia - Miranda do Corvo (prov.)",43411,STÜSSI Colin,20681,0.2,0,2024-07-25,-
 1,2.1s,"Czech Tour, Stage 1 : Prostejov - Ostrava (prov.)",43422,LAMPERTI Luke,31833,0.2,0,2024-07-25,Bram
 1,2.PSs,"Tour de Wallonie, Stage 3 : Arlon - La Roche-en-Ardenne",43395,HOELGAARD Markus,20760,0.3,0,2024-07-24,-
-1,2.1s,"Volta a Portugal, Prologue : Agueda I.T.T. (prov.)",43410,REIS Rafael Ferreira,18791,0.2,0,2024-07-24,-

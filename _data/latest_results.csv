@@ -1,4 +1,5 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
+1,2.1s,"Volta a Portugal, Stage 6 : Bragança - Boticas (prov.)",43416,NYCH Artem,22524,0.0,0,2024-07-31
 1,2.1s,"Volta a Portugal, Stage 5 : Penedono - Bragança (prov.)",43415,SCALA Jr Hugo,29827,0.0,0,2024-07-30
 1,2.1,"Czech Tour, General classification",43426,HIRSCHI Marc,26509,0.0,0,2024-07-28
 2,2.1,"Czech Tour, General classification",43426,ULISSI Diego,10023,0.0,0,2024-07-28
@@ -28,4 +29,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
 9,2.PS,"Tour de Wallonie, General classification",43398,MOLARD Rudy,11818,0.0,0,2024-07-26
 10,2.PS,"Tour de Wallonie, General classification",43398,TEUNS Dylan,17908,0.0,0,2024-07-26
 1,2.PSs,"Tour de Wallonie, Stage 5 : Mouscron - Thuin",43397,WATSON Samuel,32161,0.0,0,2024-07-26
-1,2.1s,"Czech Tour, Stage 2 : Zlin - Pustevny",43423,HIRSCHI Marc,26509,0.0,0,2024-07-26

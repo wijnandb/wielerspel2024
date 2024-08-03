@@ -1,8 +1,8 @@
 renner_id,renner,rider,ploegleider,kosten,team,nationality,age,punten,JPP
 21342,CARAPAZ MONTENEGRO Richard Antonio,CARAPAZ MONTENEGRO Richard Antonio,Paul,16,EFE,ECU,30,14.0,14
-19953,LAPORTE Christophe,LAPORTE Christophe,Paul,11,TJV,FRA,31,0.2,46
+19953,LAPORTE Christophe,LAPORTE Christophe,Paul,11,TJV,FRA,31,3.2,71
 24316,VLASOV Alexander,VLASOV Alexander,Paul,10,BOH,RUS,27,5.9,114
-28057,JORGENSON Matteo,JORGENSON Matteo,Paul,10,TJV,USA,24,22.2,165
+28057,JORGENSON Matteo,JORGENSON Matteo,Paul,10,TJV,USA,24,22.6,175
 26637,GROVES Kaden,GROVES Kaden,Paul,9,ADC,AUS,25,0.5,33
 19651,EWAN Caleb,EWAN Caleb,Paul,7,JAY,AUS,29,2.3,0
 18455,LUTSENKO Alexey,LUTSENKO Alexey,Paul,7,AST,KAZ,31,2.2,12
@@ -11,7 +11,7 @@ renner_id,renner,rider,ploegleider,kosten,team,nationality,age,punten,JPP
 31263,ZINGLE Axel,ZINGLE Axel,Paul,3,COF,FRA,25,5.4,95
 29192,MAYRHOFER Marius,MAYRHOFER Marius,Paul,2,TUD,GER,23,0.3,42
 27151,BURGAUDEAU Mathieu,BURGAUDEAU Mathieu,Paul,2,TEN,FRA,25,0,0
-27198,VALTER Attila,VALTER Attila,Paul,2,TJV,HUN,25,1,18
+27198,VALTER Attila,VALTER Attila,Paul,2,TJV,HUN,25,3,38
 25165,ZIMMERMANN Georg,ZIMMERMANN Georg,Paul,2,ICW,GER,26,1,25
 21958,ROTA Lorenzo,ROTA Lorenzo,Paul,2,ICW,ITA,28,2,57
 18739,BUCHMANN Emanuel,BUCHMANN Emanuel,Paul,1,BOH,GER,31,1,35

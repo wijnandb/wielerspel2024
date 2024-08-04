@@ -1,14 +1,15 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
-1,WCRR,Olympic Games (Paris) - R.R. (prov.),43327,EVENEPOEL Remco,28377,0.0,0,2024-08-03
-2,WCRR,Olympic Games (Paris) - R.R. (prov.),43327,MADOUAS Valentin,24758,0.0,0,2024-08-03
-3,WCRR,Olympic Games (Paris) - R.R. (prov.),43327,LAPORTE Christophe,19953,0.0,0,2024-08-03
-4,WCRR,Olympic Games (Paris) - R.R. (prov.),43327,VALTER Attila,27198,0.0,0,2024-08-03
-5,WCRR,Olympic Games (Paris) - R.R. (prov.),43327,SKUJINS Toms,16739,0.0,0,2024-08-03
-6,WCRR,Olympic Games (Paris) - R.R. (prov.),43327,HALLER Marco,15281,0.0,0,2024-08-03
-7,WCRR,Olympic Games (Paris) - R.R. (prov.),43327,KÜNG Stefan,20960,0.0,0,2024-08-03
-8,WCRR,Olympic Games (Paris) - R.R. (prov.),43327,TRATNIK Jan,12748,0.0,0,2024-08-03
-9,WCRR,Olympic Games (Paris) - R.R. (prov.),43327,JORGENSON Matteo,28057,0.0,0,2024-08-03
-10,WCRR,Olympic Games (Paris) - R.R. (prov.),43327,HEALY Ben,28846,0.0,0,2024-08-03
+1,NCT5,National Championships Singapore (Tanah Merah) I.T.T. (prov.),43164,ORESHIN Alexey,36977,0.0,0,2024-08-04
+1,WCRR,Olympic Games (Paris) - R.R.,43327,EVENEPOEL Remco,28377,0.0,0,2024-08-03
+2,WCRR,Olympic Games (Paris) - R.R.,43327,MADOUAS Valentin,24758,0.0,0,2024-08-03
+3,WCRR,Olympic Games (Paris) - R.R.,43327,LAPORTE Christophe,19953,0.0,0,2024-08-03
+4,WCRR,Olympic Games (Paris) - R.R.,43327,VALTER Attila,27198,0.0,0,2024-08-03
+5,WCRR,Olympic Games (Paris) - R.R.,43327,SKUJINS Toms,16739,0.0,0,2024-08-03
+6,WCRR,Olympic Games (Paris) - R.R.,43327,HALLER Marco,15281,0.0,0,2024-08-03
+7,WCRR,Olympic Games (Paris) - R.R.,43327,KÜNG Stefan,20960,0.0,0,2024-08-03
+8,WCRR,Olympic Games (Paris) - R.R.,43327,TRATNIK Jan,12748,0.0,0,2024-08-03
+9,WCRR,Olympic Games (Paris) - R.R.,43327,JORGENSON Matteo,28057,0.0,0,2024-08-03
+10,WCRR,Olympic Games (Paris) - R.R.,43327,HEALY Ben,28846,0.0,0,2024-08-03
 1,2.1s,"Volta a Portugal, Stage 9 : Maia - Mondim de Basto (prov.)",43419,GONZALEZ RIVERA Abner,29768,0.0,0,2024-08-03
 1,2.1s,"Volta a Portugal, Stage 8 : Viana do Castelo - Fafe (prov.)",43418,CONTTE Tomas,30541,0.0,0,2024-08-02
 1,2.1s,"Volta a Portugal, Stage 7 : Felgueiras - Paredes (prov.)",43417,PEÑUELA SANDOVAL Francisco Joel,31106,0.0,0,2024-08-01

@@ -1,10 +1,10 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 1,2.PSs,"Arctic Race of Norway, Stage 1 : Bodø -Rognan (prov.)",43431,KRISTOFF Alexander,4179,0.3,0,2024-08-04,Nicky
-1,2.1,"Volta a Portugal, General classification (prov.)",43421,NYCH Artem,22524,2,0,2024-08-04,-
-2,2.1,"Volta a Portugal, General classification (prov.)",43421,STÜSSI Colin,20681,0.3,0,2024-08-04,-
-3,2.1,"Volta a Portugal, General classification (prov.)",43421,GONZALEZ RIVERA Abner,29768,0.1,0,2024-08-04,-
-1,2.1s,"Volta a Portugal, Stage 10 : Viseu - Viseu (prov.)",43420,NYCH Artem,22524,0.2,0,2024-08-04,-
-1,NCT5,National Championships Singapore (Tanah Merah) I.T.T. (prov.),43164,ORESHIN Alexey,36977,0.0,0,2024-08-04,-
+1,2.1,"Volta a Portugal, General classification",43421,NYCH Artem,22524,2,0,2024-08-04,-
+2,2.1,"Volta a Portugal, General classification",43421,STÜSSI Colin,20681,0.3,0,2024-08-04,-
+3,2.1,"Volta a Portugal, General classification",43421,GONZALEZ RIVERA Abner,29768,0.1,0,2024-08-04,-
+1,2.1s,"Volta a Portugal, Stage 10 : Viseu - Viseu",43420,NYCH Artem,22524,0.2,0,2024-08-04,-
+1,NCT5,National Championships Singapore (Tanah Merah) I.T.T.,43164,ORESHIN Alexey,36977,0.0,0,2024-08-04,-
 1,WCRR,Olympic Games (Paris) - R.R.,43327,EVENEPOEL Remco,28377,25,50,2024-08-03,Roy
 2,WCRR,Olympic Games (Paris) - R.R.,43327,MADOUAS Valentin,24758,5,35,2024-08-03,Nicky
 3,WCRR,Olympic Games (Paris) - R.R.,43327,LAPORTE Christophe,19953,3,25,2024-08-03,Paul
@@ -15,13 +15,13 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 8,WCRR,Olympic Games (Paris) - R.R.,43327,TRATNIK Jan,12748,0.6,12,2024-08-03,-
 9,WCRR,Olympic Games (Paris) - R.R.,43327,JORGENSON Matteo,28057,0.4,10,2024-08-03,Paul
 10,WCRR,Olympic Games (Paris) - R.R.,43327,HEALY Ben,28846,0.2,8,2024-08-03,Kees
-1,2.1s,"Volta a Portugal, Stage 9 : Maia - Mondim de Basto (prov.)",43419,GONZALEZ RIVERA Abner,29768,0.2,0,2024-08-03,-
-1,2.1s,"Volta a Portugal, Stage 8 : Viana do Castelo - Fafe (prov.)",43418,CONTTE Tomas,30541,0.2,0,2024-08-02,-
-1,2.1s,"Volta a Portugal, Stage 7 : Felgueiras - Paredes (prov.)",43417,PEÑUELA SANDOVAL Francisco Joel,31106,0.2,0,2024-08-01,-
-1,2.1s,"Volta a Portugal, Stage 6 : Bragança - Boticas (prov.)",43416,NYCH Artem,22524,0.2,0,2024-07-31,-
-1,2.1s,"Volta a Portugal, Stage 5 : Penedono - Bragança (prov.)",43415,SCALA Jr Hugo,29827,0.2,0,2024-07-30,-
+1,2.1s,"Volta a Portugal, Stage 9 : Maia - Mondim de Basto",43419,GONZALEZ RIVERA Abner,29768,0.2,0,2024-08-03,-
+1,2.1s,"Volta a Portugal, Stage 8 : Viana do Castelo - Fafe",43418,CONTTE Tomas,30541,0.2,0,2024-08-02,-
+1,2.1s,"Volta a Portugal, Stage 7 : Felgueiras - Paredes",43417,PEÑUELA SANDOVAL Francisco Joel,31106,0.2,0,2024-08-01,-
+1,2.1s,"Volta a Portugal, Stage 6 : Bragança - Boticas",43416,NYCH Artem,22524,0.2,0,2024-07-31,-
+1,2.1s,"Volta a Portugal, Stage 5 : Penedono - Bragança",43415,SCALA Jr Hugo,29827,0.2,0,2024-07-30,-
 1,2.1,"Czech Tour, General classification",43426,HIRSCHI Marc,26509,2,0,2024-07-28,Bram
 2,2.1,"Czech Tour, General classification",43426,ULISSI Diego,10023,0.3,0,2024-07-28,Kaspar
 3,2.1,"Czech Tour, General classification",43426,HIGUITA GARCIA Sergio Andres,25026,0.1,0,2024-07-28,Jan
-1,2.1s,"Volta a Portugal, Stage 4 : Sabugal - Guarda (prov.)",43414,MATE MARDONES Luis Angel,3558,0.2,0,2024-07-28,-
+1,2.1s,"Volta a Portugal, Stage 4 : Sabugal - Guarda",43414,MATE MARDONES Luis Angel,3558,0.2,0,2024-07-28,-
 1,2.1s,"Czech Tour, Stage 4 : Sumperk - Sternberk",43425,ALAPHILIPPE Julian,18610,0.2,0,2024-07-28,Kaspar

@@ -1,4 +1,5 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
+1,2.PSs,"Vuelta a Burgos, Stage 3 : Gumiel de Izan - Lagunas de Neila (prov.)",43438,KUSS Sepp,25653,0.3,0,2024-08-07,Arjan
 1,2.PSs,"Arctic Race of Norway, Stage 3 : Tverlandet - Sulitjelma (prov.)",43433,BONNEU Kamiel,32584,0.3,0,2024-08-06,-
 1,2.PSs,"Vuelta a Burgos, Stage 2 : Villasana de Mena - Ojo Guareña (prov.)",43437,EWAN Caleb,19651,0.3,0,2024-08-06,Paul
 1,2.PSs,"Vuelta a Burgos, Stage 1 : Vilviestre del Pinar - Burgos (prov.)",43436,BITTNER Pavel,31555,0.3,0,2024-08-05,-
@@ -28,4 +29,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 2,2.1,"Czech Tour, General classification",43426,ULISSI Diego,10023,0.3,0,2024-07-28,Kaspar
 3,2.1,"Czech Tour, General classification",43426,HIGUITA GARCIA Sergio Andres,25026,0.1,0,2024-07-28,Jan
 1,2.1s,"Volta a Portugal, Stage 4 : Sabugal - Guarda",43414,MATE MARDONES Luis Angel,3558,0.2,0,2024-07-28,-
-1,2.1s,"Czech Tour, Stage 4 : Sumperk - Sternberk",43425,ALAPHILIPPE Julian,18610,0.2,0,2024-07-28,Kaspar

@@ -1,10 +1,22 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
+1,2.PSs,"Vuelta a Burgos, Stage 4 : Santa Maria del Campo - Pampliega I.T.T. (prov.)",43439,VINE Jay,29568,0.3,0,2024-08-08,Vel
+1,2.PS,"Arctic Race of Norway, General classification (prov.)",43435,CORT NIELSEN Magnus,19448,4,50,2024-08-07,Nicky
+2,2.PS,"Arctic Race of Norway, General classification (prov.)",43435,CHAMPOUSSIN Clément,27153,1,35,2024-08-07,Harry
+3,2.PS,"Arctic Race of Norway, General classification (prov.)",43435,VERMAERKE Kevin,29332,0.5,25,2024-08-07,Nicky
+4,2.PS,"Arctic Race of Norway, General classification (prov.)",43435,SCHMID Mauro,29214,0,20,2024-08-07,Albert
+5,2.PS,"Arctic Race of Norway, General classification (prov.)",43435,CHRISTEN Fabio,31719,0,18,2024-08-07,-
+6,2.PS,"Arctic Race of Norway, General classification (prov.)",43435,BONNEU Kamiel,32584,0,16,2024-08-07,-
+7,2.PS,"Arctic Race of Norway, General classification (prov.)",43435,BERCKMOES Jenno,32588,0,14,2024-08-07,-
+8,2.PS,"Arctic Race of Norway, General classification (prov.)",43435,LOOCKX Lander,28470,0,12,2024-08-07,-
+9,2.PS,"Arctic Race of Norway, General classification (prov.)",43435,DE TIER Floris,20459,0,10,2024-08-07,-
+10,2.PS,"Arctic Race of Norway, General classification (prov.)",43435,BLACKMORE Joseph,34973,0,8,2024-08-07,-
+1,2.PSs,"Arctic Race of Norway, Stage 4 : Glomfjord - Bodø (prov.)",43434,CORT NIELSEN Magnus,19448,0.3,0,2024-08-07,Nicky
 1,2.PSs,"Vuelta a Burgos, Stage 3 : Gumiel de Izan - Lagunas de Neila (prov.)",43438,KUSS Sepp,25653,0.3,0,2024-08-07,Arjan
 1,2.PSs,"Arctic Race of Norway, Stage 3 : Tverlandet - Sulitjelma (prov.)",43433,BONNEU Kamiel,32584,0.3,0,2024-08-06,-
 1,2.PSs,"Vuelta a Burgos, Stage 2 : Villasana de Mena - Ojo Guareña (prov.)",43437,EWAN Caleb,19651,0.3,0,2024-08-06,Paul
-1,2.PSs,"Vuelta a Burgos, Stage 1 : Vilviestre del Pinar - Burgos (prov.)",43436,BITTNER Pavel,31555,0.3,0,2024-08-05,-
 1,2.PSs,"Arctic Race of Norway, Stage 2 : Beiarn - Fauske (prov.)",43432,KRISTOFF Alexander,4179,0.3,0,2024-08-05,Nicky
-1,2.PSs,"Arctic Race of Norway, Stage 1 : Bodø -Rognan (prov.)",43431,KRISTOFF Alexander,4179,0.3,0,2024-08-04,Nicky
+1,2.PSs,"Vuelta a Burgos, Stage 1 : Vilviestre del Pinar - Burgos (prov.)",43436,BITTNER Pavel,31555,0.3,0,2024-08-05,-
+1,2.PSs,"Arctic Race of Norway, Stage 1 : Bodø - Rognan (prov.)",43431,KRISTOFF Alexander,4179,0.3,0,2024-08-04,Nicky
 1,2.1,"Volta a Portugal, General classification",43421,NYCH Artem,22524,2,0,2024-08-04,-
 2,2.1,"Volta a Portugal, General classification",43421,STÜSSI Colin,20681,0.3,0,2024-08-04,-
 3,2.1,"Volta a Portugal, General classification",43421,GONZALEZ RIVERA Abner,29768,0.1,0,2024-08-04,-

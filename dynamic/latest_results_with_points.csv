@@ -1,4 +1,14 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
+1,1.WT2,Clasica San Sebastian (prov.),43329,HIRSCHI Marc,26509,10,50,2024-08-10,Bram
+2,1.WT2,Clasica San Sebastian (prov.),43329,ALAPHILIPPE Julian,18610,3,35,2024-08-10,Kaspar
+3,1.WT2,Clasica San Sebastian (prov.),43329,VAN EETVELT Lennert,32225,1,25,2024-08-10,Albert
+4,1.WT2,Clasica San Sebastian (prov.),43329,VERMAERKE Kevin,29332,0.5,20,2024-08-10,Nicky
+5,1.WT2,Clasica San Sebastian (prov.),43329,NARVAEZ PRADO Jhonatan Manuel,25157,0.2,18,2024-08-10,Nicky
+6,1.WT2,Clasica San Sebastian (prov.),43329,POWLESS Neilson,24902,0,16,2024-08-10,Harry
+7,1.WT2,Clasica San Sebastian (prov.),43329,KONRAD Patrick,16058,0,14,2024-08-10,Nicky
+8,1.WT2,Clasica San Sebastian (prov.),43329,WOODS Michael,20257,0,12,2024-08-10,Vel
+9,1.WT2,Clasica San Sebastian (prov.),43329,CHRISTEN Jan,34430,0,10,2024-08-10,-
+10,1.WT2,Clasica San Sebastian (prov.),43329,MCNULTY Brandon,26508,0,8,2024-08-10,Kees
 1,2.PS,"Vuelta a Burgos, General classification",43441,KUSS Sepp,25653,4,50,2024-08-09,Arjan
 2,2.PS,"Vuelta a Burgos, General classification",43441,POOLE Max,32809,1,35,2024-08-09,Albert
 3,2.PS,"Vuelta a Burgos, General classification",43441,FISHER-BLACK Finn,30562,0.5,25,2024-08-09,Kees
@@ -33,13 +43,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 3,2.1,"Volta a Portugal, General classification",43421,GONZALEZ RIVERA Abner,29768,0.1,0,2024-08-04,-
 1,2.1s,"Volta a Portugal, Stage 10 : Viseu - Viseu",43420,NYCH Artem,22524,0.2,0,2024-08-04,-
 1,NCT5,National Championships Singapore (Tanah Merah) I.T.T.,43164,ORESHIN Alexey,36977,0.0,0,2024-08-04,-
-1,WCRR,Olympic Games (Paris) - R.R.,43327,EVENEPOEL Remco,28377,25,50,2024-08-03,Roy
-2,WCRR,Olympic Games (Paris) - R.R.,43327,MADOUAS Valentin,24758,5,35,2024-08-03,Nicky
-3,WCRR,Olympic Games (Paris) - R.R.,43327,LAPORTE Christophe,19953,3,25,2024-08-03,Paul
-4,WCRR,Olympic Games (Paris) - R.R.,43327,VALTER Attila,27198,2,20,2024-08-03,Paul
-5,WCRR,Olympic Games (Paris) - R.R.,43327,SKUJINS Toms,16739,1.5,18,2024-08-03,-
-6,WCRR,Olympic Games (Paris) - R.R.,43327,HALLER Marco,15281,1,16,2024-08-03,-
-7,WCRR,Olympic Games (Paris) - R.R.,43327,KÜNG Stefan,20960,0.8,14,2024-08-03,Wijnand
-8,WCRR,Olympic Games (Paris) - R.R.,43327,TRATNIK Jan,12748,0.6,12,2024-08-03,-
-9,WCRR,Olympic Games (Paris) - R.R.,43327,JORGENSON Matteo,28057,0.4,10,2024-08-03,Paul
-10,WCRR,Olympic Games (Paris) - R.R.,43327,HEALY Ben,28846,0.2,8,2024-08-03,Kees

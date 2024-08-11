@@ -1,10 +1,10 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
-1,1.1,Polynormande (prov.),43347,LAPEIRA Paul,30615,2,0,2024-08-11,-
-2,1.1,Polynormande (prov.),43347,EENKHOORN Pascal,24932,0.3,0,2024-08-11,Harry
-3,1.1,Polynormande (prov.),43347,ROLLAND Brieuc,33756,0.1,0,2024-08-11,-
-1,1.1,Circuito de Getxo (prov.),43325,BARRENETXEA GOLZARRI Jon,31685,2,0,2024-08-11,-
-2,1.1,Circuito de Getxo (prov.),43325,CHAMPOUSSIN Clément,27153,0.3,0,2024-08-11,Harry
-3,1.1,Circuito de Getxo (prov.),43325,AULAR SANABRIA Orluis Alberto,24326,0.1,0,2024-08-11,Jan
+1,1.1,Circuito de Getxo,43325,BARRENETXEA GOLZARRI Jon,31685,2,0,2024-08-11,-
+2,1.1,Circuito de Getxo,43325,CHAMPOUSSIN Clément,27153,0.3,0,2024-08-11,Harry
+3,1.1,Circuito de Getxo,43325,AULAR SANABRIA Orluis Alberto,24326,0.1,0,2024-08-11,Jan
+1,1.1,Polynormande,43347,LAPEIRA Paul,30615,2,0,2024-08-11,-
+2,1.1,Polynormande,43347,EENKHOORN Pascal,24932,0.3,0,2024-08-11,Harry
+3,1.1,Polynormande,43347,ROLLAND Brieuc,33756,0.1,0,2024-08-11,-
 1,1.WT2,Clasica San Sebastian,43329,HIRSCHI Marc,26509,10,50,2024-08-10,Bram
 2,1.WT2,Clasica San Sebastian,43329,ALAPHILIPPE Julian,18610,3,35,2024-08-10,Kaspar
 3,1.WT2,Clasica San Sebastian,43329,VAN EETVELT Lennert,32225,1,25,2024-08-10,Albert

@@ -1,4 +1,10 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
+1,1.1,Polynormande (prov.),43347,LAPEIRA Paul,30615,0.0,0,2024-08-11
+2,1.1,Polynormande (prov.),43347,EENKHOORN Pascal,24932,0.0,0,2024-08-11
+3,1.1,Polynormande (prov.),43347,ROLLAND Brieuc,33756,0.0,0,2024-08-11
+1,1.1,Circuito de Getxo (prov.),43325,BARRENETXEA GOLZARRI Jon,31685,0.0,0,2024-08-11
+2,1.1,Circuito de Getxo (prov.),43325,CHAMPOUSSIN Clément,27153,0.0,0,2024-08-11
+3,1.1,Circuito de Getxo (prov.),43325,AULAR SANABRIA Orluis Alberto,24326,0.0,0,2024-08-11
 1,1.WT2,Clasica San Sebastian,43329,HIRSCHI Marc,26509,0.0,0,2024-08-10
 2,1.WT2,Clasica San Sebastian,43329,ALAPHILIPPE Julian,18610,0.0,0,2024-08-10
 3,1.WT2,Clasica San Sebastian,43329,VAN EETVELT Lennert,32225,0.0,0,2024-08-10

@@ -1,14 +1,14 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
-1,1.WT2,Clasica San Sebastian (prov.),43329,HIRSCHI Marc,26509,10,50,2024-08-10,Bram
-2,1.WT2,Clasica San Sebastian (prov.),43329,ALAPHILIPPE Julian,18610,3,35,2024-08-10,Kaspar
-3,1.WT2,Clasica San Sebastian (prov.),43329,VAN EETVELT Lennert,32225,1,25,2024-08-10,Albert
-4,1.WT2,Clasica San Sebastian (prov.),43329,VERMAERKE Kevin,29332,0.5,20,2024-08-10,Nicky
-5,1.WT2,Clasica San Sebastian (prov.),43329,NARVAEZ PRADO Jhonatan Manuel,25157,0.2,18,2024-08-10,Nicky
-6,1.WT2,Clasica San Sebastian (prov.),43329,POWLESS Neilson,24902,0,16,2024-08-10,Harry
-7,1.WT2,Clasica San Sebastian (prov.),43329,KONRAD Patrick,16058,0,14,2024-08-10,Nicky
-8,1.WT2,Clasica San Sebastian (prov.),43329,WOODS Michael,20257,0,12,2024-08-10,Vel
-9,1.WT2,Clasica San Sebastian (prov.),43329,CHRISTEN Jan,34430,0,10,2024-08-10,-
-10,1.WT2,Clasica San Sebastian (prov.),43329,MCNULTY Brandon,26508,0,8,2024-08-10,Kees
+1,1.WT2,Clasica San Sebastian,43329,HIRSCHI Marc,26509,10,50,2024-08-10,Bram
+2,1.WT2,Clasica San Sebastian,43329,ALAPHILIPPE Julian,18610,3,35,2024-08-10,Kaspar
+3,1.WT2,Clasica San Sebastian,43329,VAN EETVELT Lennert,32225,1,25,2024-08-10,Albert
+4,1.WT2,Clasica San Sebastian,43329,VERMAERKE Kevin,29332,0.5,20,2024-08-10,Nicky
+5,1.WT2,Clasica San Sebastian,43329,NARVAEZ PRADO Jhonatan Manuel,25157,0.2,18,2024-08-10,Nicky
+6,1.WT2,Clasica San Sebastian,43329,POWLESS Neilson,24902,0,16,2024-08-10,Harry
+7,1.WT2,Clasica San Sebastian,43329,KONRAD Patrick,16058,0,14,2024-08-10,Nicky
+8,1.WT2,Clasica San Sebastian,43329,WOODS Michael,20257,0,12,2024-08-10,Vel
+9,1.WT2,Clasica San Sebastian,43329,CHRISTEN Jan,34430,0,10,2024-08-10,-
+10,1.WT2,Clasica San Sebastian,43329,MCNULTY Brandon,26508,0,8,2024-08-10,Kees
 1,2.PS,"Vuelta a Burgos, General classification",43441,KUSS Sepp,25653,4,50,2024-08-09,Arjan
 2,2.PS,"Vuelta a Burgos, General classification",43441,POOLE Max,32809,1,35,2024-08-09,Albert
 3,2.PS,"Vuelta a Burgos, General classification",43441,FISHER-BLACK Finn,30562,0.5,25,2024-08-09,Kees

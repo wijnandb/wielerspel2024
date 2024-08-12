@@ -1,4 +1,5 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
+1,2.WT1s,"Tour de Pologne, Stage 1 : Wroclaw - Karpacz (prov.)",43446,NYS Thibau,32185,1,0,2024-08-12,Jan
 1,1.1,Circuito de Getxo,43325,BARRENETXEA GOLZARRI Jon,31685,2,0,2024-08-11,-
 2,1.1,Circuito de Getxo,43325,CHAMPOUSSIN Clément,27153,0.3,0,2024-08-11,Harry
 3,1.1,Circuito de Getxo,43325,AULAR SANABRIA Orluis Alberto,24326,0.1,0,2024-08-11,Jan
@@ -44,6 +45,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 1,2.PSs,"Arctic Race of Norway, Stage 2 : Beiarn - Fauske",43432,KRISTOFF Alexander,4179,0.3,0,2024-08-05,Nicky
 1,2.PSs,"Vuelta a Burgos, Stage 1 : Vilviestre del Pinar - Burgos",43436,BITTNER Pavel,31555,0.3,0,2024-08-05,-
 1,2.PSs,"Arctic Race of Norway, Stage 1 : Bodø - Rognan",43431,KRISTOFF Alexander,4179,0.3,0,2024-08-04,Nicky
-1,2.1,"Volta a Portugal, General classification",43421,NYCH Artem,22524,2,0,2024-08-04,-
-2,2.1,"Volta a Portugal, General classification",43421,STÜSSI Colin,20681,0.3,0,2024-08-04,-
-3,2.1,"Volta a Portugal, General classification",43421,GONZALEZ RIVERA Abner,29768,0.1,0,2024-08-04,-

@@ -1,4 +1,5 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
+1,2.WT1s,"Tour de Pologne, Stage 3 : Walbrzych - Duszniki Zdroj (prov.)",43448,NYS Thibau,32185,0.0,0,2024-08-14
 1,2.WT1s,"Tour de Pologne, Stage 2 : Myslakowice - Karpacz I.T.T. (prov.)",43447,WELLENS Tim,16722,0.0,0,2024-08-13
 1,2.1s,"Tour du Limousin, Stage 1 : Boisseuil - Auzances (prov.)",43456,AULAR SANABRIA Orluis Alberto,24326,0.0,0,2024-08-13
 1,2.WT1s,"Tour de Pologne, Stage 1 : Wroclaw - Karpacz (prov.)",43446,NYS Thibau,32185,0.0,0,2024-08-12
@@ -43,5 +44,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
 1,2.PSs,"Arctic Race of Norway, Stage 4 : Glomfjord - Bodø",43434,CORT NIELSEN Magnus,19448,0.0,0,2024-08-07
 1,2.PSs,"Vuelta a Burgos, Stage 3 : Gumiel de Izan - Lagunas de Neila",43438,KUSS Sepp,25653,0.0,0,2024-08-07
 1,2.PSs,"Arctic Race of Norway, Stage 3 : Tverlandet - Sulitjelma",43433,BONNEU Kamiel,32584,0.0,0,2024-08-06
-1,2.PSs,"Vuelta a Burgos, Stage 2 : Villasana de Mena - Ojo Guareña",43437,EWAN Caleb,19651,0.0,0,2024-08-06
-1,2.PSs,"Arctic Race of Norway, Stage 2 : Beiarn - Fauske",43432,KRISTOFF Alexander,4179,0.0,0,2024-08-05

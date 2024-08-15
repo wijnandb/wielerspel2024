@@ -1,5 +1,9 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
 1,2.WT1s,"Tour de Pologne, Stage 4 : Kudowa Zdroj - Prudnik (prov.)",43449,KOOIJ Olav,30643,0.0,0,2024-08-15
+1,2.PSs,"Danmark Rundt - Tour of Denmark, Stage 2 : Ringkøbing - Vejle (prov.)",43468,CORT NIELSEN Magnus,19448,0.0,0,2024-08-15
+1,1.1,Tour of Leuven - Memorial Jef Scherens (prov.),43333,HOELGAARD Markus,20760,0.0,0,2024-08-15
+2,1.1,Tour of Leuven - Memorial Jef Scherens (prov.),43333,TEUNISSEN Mike,19165,0.0,0,2024-08-15
+3,1.1,Tour of Leuven - Memorial Jef Scherens (prov.),43333,MENTEN Milan,24180,0.0,0,2024-08-15
 1,2.1s,"Tour du Limousin, Stage 3 : La Rivière de Mansac - Argentat Val'Dordogne (prov.)",43458,CEPEDA HERNANDEZ Jefferson Alveiro,23549,0.0,0,2024-08-15
 1,2.WT1s,"Tour de Pologne, Stage 3 : Walbrzych - Duszniki Zdroj (prov.)",43448,NYS Thibau,32185,0.0,0,2024-08-14
 1,2.1s,"Tour du Limousin, Stage 2 : Saint Aulaye-Puymangou - Terrasson-Lavilledieu (prov.)",43457,BAUDIN Alex,32146,0.0,0,2024-08-14
@@ -33,4 +37,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
 9,2.PS,"Vuelta a Burgos, General classification",43441,KONRAD Patrick,16058,0.0,0,2024-08-09
 10,2.PS,"Vuelta a Burgos, General classification",43441,HIGUITA GARCIA Sergio Andres,25026,0.0,0,2024-08-09
 1,2.PSs,"Vuelta a Burgos, Stage 5 : Frias - Treviño",43440,BITTNER Pavel,31555,0.0,0,2024-08-09
-1,2.PSs,"Vuelta a Burgos, Stage 4 : Santa Maria del Campo - Pampliega I.T.T.",43439,VINE Jay,29568,0.0,0,2024-08-08

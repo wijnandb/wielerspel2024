@@ -1,5 +1,10 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
 1,2.WT1s,"Tour de Pologne, Stage 5 : Katowice - Katowice (prov.)",43450,MERLIER Tim,17988,0.0,0,2024-08-16
+1,2.PSs,"Danmark Rundt - Tour of Denmark, Stage 3 : Kolding - Haderslev (prov.)",43469,LUND ANDRESEN Tobias,31657,0.0,0,2024-08-16
+1,2.1,"Tour du Limousin, General classification (prov.)",43460,BAUDIN Alex,32146,0.0,0,2024-08-16
+2,2.1,"Tour du Limousin, General classification (prov.)",43460,AULAR SANABRIA Orluis Alberto,24326,0.0,0,2024-08-16
+3,2.1,"Tour du Limousin, General classification (prov.)",43460,ZINGLE Axel,31263,0.0,0,2024-08-16
+1,2.1s,"Tour du Limousin, Stage 4 : Oradour sur Glane - Limoges (prov.)",43459,BURGAUDEAU Mathieu,27151,0.0,0,2024-08-16
 1,2.WT1s,"Tour de Pologne, Stage 4 : Kudowa Zdroj - Prudnik (prov.)",43449,KOOIJ Olav,30643,0.0,0,2024-08-15
 1,2.PSs,"Danmark Rundt - Tour of Denmark, Stage 2 : Ringkøbing - Vejle (prov.)",43468,CORT NIELSEN Magnus,19448,0.0,0,2024-08-15
 1,1.1,Tour of Leuven - Memorial Jef Scherens,43333,HOELGAARD Markus,20760,0.0,0,2024-08-15
@@ -17,24 +22,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
 1,1.1,Polynormande,43347,LAPEIRA Paul,30615,0.0,0,2024-08-11
 2,1.1,Polynormande,43347,EENKHOORN Pascal,24932,0.0,0,2024-08-11
 3,1.1,Polynormande,43347,ROLLAND Brieuc,33756,0.0,0,2024-08-11
-1,1.WT2,Clasica San Sebastian,43329,HIRSCHI Marc,26509,0.0,0,2024-08-10
-2,1.WT2,Clasica San Sebastian,43329,ALAPHILIPPE Julian,18610,0.0,0,2024-08-10
-3,1.WT2,Clasica San Sebastian,43329,VAN EETVELT Lennert,32225,0.0,0,2024-08-10
-4,1.WT2,Clasica San Sebastian,43329,VERMAERKE Kevin,29332,0.0,0,2024-08-10
-5,1.WT2,Clasica San Sebastian,43329,NARVAEZ PRADO Jhonatan Manuel,25157,0.0,0,2024-08-10
-6,1.WT2,Clasica San Sebastian,43329,POWLESS Neilson,24902,0.0,0,2024-08-10
-7,1.WT2,Clasica San Sebastian,43329,KONRAD Patrick,16058,0.0,0,2024-08-10
-8,1.WT2,Clasica San Sebastian,43329,WOODS Michael,20257,0.0,0,2024-08-10
-9,1.WT2,Clasica San Sebastian,43329,CHRISTEN Jan,34430,0.0,0,2024-08-10
-10,1.WT2,Clasica San Sebastian,43329,MCNULTY Brandon,26508,0.0,0,2024-08-10
-1,2.PS,"Vuelta a Burgos, General classification",43441,KUSS Sepp,25653,0.0,0,2024-08-09
-2,2.PS,"Vuelta a Burgos, General classification",43441,POOLE Max,32809,0.0,0,2024-08-09
-3,2.PS,"Vuelta a Burgos, General classification",43441,FISHER-BLACK Finn,30562,0.0,0,2024-08-09
-4,2.PS,"Vuelta a Burgos, General classification",43441,BERRADE FERNANDEZ Urko,27108,0.0,0,2024-08-09
-5,2.PS,"Vuelta a Burgos, General classification",43441,STORER Michael,25335,0.0,0,2024-08-09
-6,2.PS,"Vuelta a Burgos, General classification",43441,CEPEDA HERNANDEZ Jefferson Alveiro,23549,0.0,0,2024-08-09
-7,2.PS,"Vuelta a Burgos, General classification",43441,CASTRILLO ZAPATER Pablo,34135,0.0,0,2024-08-09
-8,2.PS,"Vuelta a Burgos, General classification",43441,RIVERA VARGAS Brandon Smith,26283,0.0,0,2024-08-09
-9,2.PS,"Vuelta a Burgos, General classification",43441,KONRAD Patrick,16058,0.0,0,2024-08-09
-10,2.PS,"Vuelta a Burgos, General classification",43441,HIGUITA GARCIA Sergio Andres,25026,0.0,0,2024-08-09
-1,2.PSs,"Vuelta a Burgos, Stage 5 : Frias - Treviño",43440,BITTNER Pavel,31555,0.0,0,2024-08-09

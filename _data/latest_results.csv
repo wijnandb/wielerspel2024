@@ -1,5 +1,6 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
 1,2.WT1s,"Tour de Pologne, Stage 6 : Wadowice - Bukovina Resort (prov.)",43451,NYS Thibau,32185,0.0,0,2024-08-17
+1,2.PSs,"Danmark Rundt - Tour of Denmark, Stage 4 : Stevns - Holbaek (prov.)",43470,KRIJNSEN Jelte,32717,0.0,0,2024-08-17
 1,2.WT1s,"Tour de Pologne, Stage 5 : Katowice - Katowice (prov.)",43450,MERLIER Tim,17988,0.0,0,2024-08-16
 1,2.PSs,"Danmark Rundt - Tour of Denmark, Stage 3 : Kolding - Haderslev (prov.)",43469,LUND ANDRESEN Tobias,31657,0.0,0,2024-08-16
 1,2.1,"Tour du Limousin, General classification",43460,BAUDIN Alex,32146,0.0,0,2024-08-16
@@ -16,4 +17,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
 1,2.1s,"Tour du Limousin, Stage 2 : Saint Aulaye-Puymangou - Terrasson-Lavilledieu",43457,BAUDIN Alex,32146,0.0,0,2024-08-14
 1,2.WT1s,"Tour de Pologne, Stage 2 : Myslakowice - Karpacz I.T.T. (prov.)",43447,WELLENS Tim,16722,0.0,0,2024-08-13
 1,2.1s,"Tour du Limousin, Stage 1 : Boisseuil - Auzances",43456,AULAR SANABRIA Orluis Alberto,24326,0.0,0,2024-08-13
-1,2.WT1s,"Tour de Pologne, Stage 1 : Wroclaw - Karpacz (prov.)",43446,NYS Thibau,32185,0.0,0,2024-08-12

@@ -1,4 +1,8 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
+-4,GT2s,"Leiderstrui na Vuelta a España , Stage 1 : Lisboa - Oeiras I.T.T. (prov.)",43477,McNulty Brandon,26508,1,0,2024-08-17,Kees
+-1,GT2s,"Jongerentrui na Vuelta a España , Stage 1 : Lisboa - Oeiras I.T.T. (prov.)",43477,Vacek Mathias,31713,0.1,0,2024-08-17,-
+-2,GT2s,"Puntentrui na Vuelta a España , Stage 1 : Lisboa - Oeiras I.T.T. (prov.)",43477,McNulty Brandon,26508,0.2,0,2024-08-17,Kees
+1,GT2s,"Vuelta a España , Stage 1 : Lisboa - Oeiras I.T.T. (prov.)",43477,MCNULTY Brandon,26508,2,0,2024-08-17,Kees
 1,2.WT1s,"Tour de Pologne, Stage 6 : Wadowice - Bukovina Resort (prov.)",43451,NYS Thibau,32185,1,0,2024-08-17,Jan
 1,2.PSs,"Danmark Rundt - Tour of Denmark, Stage 4 : Stevns - Holbaek (prov.)",43470,KRIJNSEN Jelte,32717,0.3,0,2024-08-17,-
 1,2.WT1s,"Tour de Pologne, Stage 5 : Katowice - Katowice (prov.)",43450,MERLIER Tim,17988,1,0,2024-08-16,Frank

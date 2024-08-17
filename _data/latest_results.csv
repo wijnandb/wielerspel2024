@@ -1,4 +1,8 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
+-4,GT2s,"Leiderstrui na Vuelta a España , Stage 1 : Lisboa - Oeiras I.T.T. (prov.)",43477,McNulty Brandon,26508,0.0,0,2024-08-17
+-1,GT2s,"Jongerentrui na Vuelta a España , Stage 1 : Lisboa - Oeiras I.T.T. (prov.)",43477,Vacek Mathias,31713,0.0,0,2024-08-17
+-2,GT2s,"Puntentrui na Vuelta a España , Stage 1 : Lisboa - Oeiras I.T.T. (prov.)",43477,McNulty Brandon,26508,0.0,0,2024-08-17
+1,GT2s,"Vuelta a España , Stage 1 : Lisboa - Oeiras I.T.T. (prov.)",43477,MCNULTY Brandon,26508,0.0,0,2024-08-17
 1,2.WT1s,"Tour de Pologne, Stage 6 : Wadowice - Bukovina Resort (prov.)",43451,NYS Thibau,32185,0.0,0,2024-08-17
 1,2.PSs,"Danmark Rundt - Tour of Denmark, Stage 4 : Stevns - Holbaek (prov.)",43470,KRIJNSEN Jelte,32717,0.0,0,2024-08-17
 1,2.WT1s,"Tour de Pologne, Stage 5 : Katowice - Katowice (prov.)",43450,MERLIER Tim,17988,0.0,0,2024-08-16
@@ -16,4 +20,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
 1,2.WT1s,"Tour de Pologne, Stage 3 : Walbrzych - Duszniki Zdroj (prov.)",43448,NYS Thibau,32185,0.0,0,2024-08-14
 1,2.1s,"Tour du Limousin, Stage 2 : Saint Aulaye-Puymangou - Terrasson-Lavilledieu",43457,BAUDIN Alex,32146,0.0,0,2024-08-14
 1,2.WT1s,"Tour de Pologne, Stage 2 : Myslakowice - Karpacz I.T.T. (prov.)",43447,WELLENS Tim,16722,0.0,0,2024-08-13
-1,2.1s,"Tour du Limousin, Stage 1 : Boisseuil - Auzances",43456,AULAR SANABRIA Orluis Alberto,24326,0.0,0,2024-08-13

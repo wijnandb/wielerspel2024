@@ -1,24 +1,19 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
+1,2.WT1s,"Tour de Pologne, Stage 6 : Wadowice - Bukovina Resort (prov.)",43451,NYS Thibau,32185,0.0,0,2024-08-17
 1,2.WT1s,"Tour de Pologne, Stage 5 : Katowice - Katowice (prov.)",43450,MERLIER Tim,17988,0.0,0,2024-08-16
 1,2.PSs,"Danmark Rundt - Tour of Denmark, Stage 3 : Kolding - Haderslev (prov.)",43469,LUND ANDRESEN Tobias,31657,0.0,0,2024-08-16
-1,2.1,"Tour du Limousin, General classification (prov.)",43460,BAUDIN Alex,32146,0.0,0,2024-08-16
-2,2.1,"Tour du Limousin, General classification (prov.)",43460,AULAR SANABRIA Orluis Alberto,24326,0.0,0,2024-08-16
-3,2.1,"Tour du Limousin, General classification (prov.)",43460,ZINGLE Axel,31263,0.0,0,2024-08-16
-1,2.1s,"Tour du Limousin, Stage 4 : Oradour sur Glane - Limoges (prov.)",43459,BURGAUDEAU Mathieu,27151,0.0,0,2024-08-16
+1,2.1,"Tour du Limousin, General classification",43460,BAUDIN Alex,32146,0.0,0,2024-08-16
+2,2.1,"Tour du Limousin, General classification",43460,AULAR SANABRIA Orluis Alberto,24326,0.0,0,2024-08-16
+3,2.1,"Tour du Limousin, General classification",43460,ZINGLE Axel,31263,0.0,0,2024-08-16
+1,2.1s,"Tour du Limousin, Stage 4 : Oradour sur Glane - Limoges",43459,BURGAUDEAU Mathieu,27151,0.0,0,2024-08-16
 1,2.WT1s,"Tour de Pologne, Stage 4 : Kudowa Zdroj - Prudnik (prov.)",43449,KOOIJ Olav,30643,0.0,0,2024-08-15
 1,2.PSs,"Danmark Rundt - Tour of Denmark, Stage 2 : Ringkøbing - Vejle (prov.)",43468,CORT NIELSEN Magnus,19448,0.0,0,2024-08-15
 1,1.1,Tour of Leuven - Memorial Jef Scherens,43333,HOELGAARD Markus,20760,0.0,0,2024-08-15
 2,1.1,Tour of Leuven - Memorial Jef Scherens,43333,TEUNISSEN Mike,19165,0.0,0,2024-08-15
 3,1.1,Tour of Leuven - Memorial Jef Scherens,43333,MENTEN Milan,24180,0.0,0,2024-08-15
-1,2.1s,"Tour du Limousin, Stage 3 : La Rivière de Mansac - Argentat Val'Dordogne (prov.)",43458,CEPEDA HERNANDEZ Jefferson Alveiro,23549,0.0,0,2024-08-15
+1,2.1s,"Tour du Limousin, Stage 3 : La Rivière de Mansac - Argentat Val'Dordogne",43458,CEPEDA HERNANDEZ Jefferson Alveiro,23549,0.0,0,2024-08-15
 1,2.WT1s,"Tour de Pologne, Stage 3 : Walbrzych - Duszniki Zdroj (prov.)",43448,NYS Thibau,32185,0.0,0,2024-08-14
-1,2.1s,"Tour du Limousin, Stage 2 : Saint Aulaye-Puymangou - Terrasson-Lavilledieu (prov.)",43457,BAUDIN Alex,32146,0.0,0,2024-08-14
+1,2.1s,"Tour du Limousin, Stage 2 : Saint Aulaye-Puymangou - Terrasson-Lavilledieu",43457,BAUDIN Alex,32146,0.0,0,2024-08-14
 1,2.WT1s,"Tour de Pologne, Stage 2 : Myslakowice - Karpacz I.T.T. (prov.)",43447,WELLENS Tim,16722,0.0,0,2024-08-13
-1,2.1s,"Tour du Limousin, Stage 1 : Boisseuil - Auzances (prov.)",43456,AULAR SANABRIA Orluis Alberto,24326,0.0,0,2024-08-13
+1,2.1s,"Tour du Limousin, Stage 1 : Boisseuil - Auzances",43456,AULAR SANABRIA Orluis Alberto,24326,0.0,0,2024-08-13
 1,2.WT1s,"Tour de Pologne, Stage 1 : Wroclaw - Karpacz (prov.)",43446,NYS Thibau,32185,0.0,0,2024-08-12
-1,1.1,Circuito de Getxo,43325,BARRENETXEA GOLZARRI Jon,31685,0.0,0,2024-08-11
-2,1.1,Circuito de Getxo,43325,CHAMPOUSSIN Clément,27153,0.0,0,2024-08-11
-3,1.1,Circuito de Getxo,43325,AULAR SANABRIA Orluis Alberto,24326,0.0,0,2024-08-11
-1,1.1,Polynormande,43347,LAPEIRA Paul,30615,0.0,0,2024-08-11
-2,1.1,Polynormande,43347,EENKHOORN Pascal,24932,0.0,0,2024-08-11
-3,1.1,Polynormande,43347,ROLLAND Brieuc,33756,0.0,0,2024-08-11

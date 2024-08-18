@@ -1,4 +1,7 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
+1,2.WT1s,"Tour de Pologne, Stage 7 : Kopalnia Soli - Krakow (prov.)",43452,KOOIJ Olav,30643,0.0,0,2024-08-18
+1,2.WT2r,"Tour de Pologne, Points classification (prov.)",43454,ULISSI Diego,10023,0.0,0,2024-08-18
+1,2.WT2r,"Tour de Pologne, Mountains classification (prov.)",43455,PALUTA Michal,23378,0.0,0,2024-08-18
 1,2.PS,"Danmark Rundt - Tour of Denmark, General classification (prov.)",43472,DE LIE Arnaud,32221,0.0,0,2024-08-18
 2,2.PS,"Danmark Rundt - Tour of Denmark, General classification (prov.)",43472,CORT NIELSEN Magnus,19448,0.0,0,2024-08-18
 3,2.PS,"Danmark Rundt - Tour of Denmark, General classification (prov.)",43472,FOLDAGER Anders,31400,0.0,0,2024-08-18
@@ -25,8 +28,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
 3,2.1,"Tour du Limousin, General classification",43460,ZINGLE Axel,31263,0.0,0,2024-08-16
 1,2.1s,"Tour du Limousin, Stage 4 : Oradour sur Glane - Limoges",43459,BURGAUDEAU Mathieu,27151,0.0,0,2024-08-16
 1,2.WT1s,"Tour de Pologne, Stage 4 : Kudowa Zdroj - Prudnik (prov.)",43449,KOOIJ Olav,30643,0.0,0,2024-08-15
-1,2.PSs,"Danmark Rundt - Tour of Denmark, Stage 2 : Ringkøbing - Vejle (prov.)",43468,CORT NIELSEN Magnus,19448,0.0,0,2024-08-15
-1,1.1,Tour of Leuven - Memorial Jef Scherens,43333,HOELGAARD Markus,20760,0.0,0,2024-08-15
-2,1.1,Tour of Leuven - Memorial Jef Scherens,43333,TEUNISSEN Mike,19165,0.0,0,2024-08-15
-3,1.1,Tour of Leuven - Memorial Jef Scherens,43333,MENTEN Milan,24180,0.0,0,2024-08-15
-1,2.1s,"Tour du Limousin, Stage 3 : La Rivière de Mansac - Argentat Val'Dordogne",43458,CEPEDA HERNANDEZ Jefferson Alveiro,23549,0.0,0,2024-08-15

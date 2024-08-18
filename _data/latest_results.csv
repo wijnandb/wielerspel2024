@@ -1,4 +1,19 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
+-4,GT2s,"Leiderstrui na Vuelta a España , Stage 2 : Cascais - Ourem (prov.)",43478,van Aert Wout,20730,0.0,0,2024-08-18
+-1,GT2s,"Jongerentrui na Vuelta a España , Stage 2 : Cascais - Ourem (prov.)",43478,Vacek Mathias,31713,0.0,0,2024-08-18
+-2,GT2s,"Puntentrui na Vuelta a España , Stage 2 : Cascais - Ourem (prov.)",43478,Groves Kaden,26637,0.0,0,2024-08-18
+-3,GT2s,"Bergtrui na Vuelta a España , Stage 2 : Cascais - Ourem (prov.)",43478,Küng Stefan,20960,0.0,0,2024-08-18
+1,GT2s,"Vuelta a España , Stage 2 : Cascais - Ourem (prov.)",43478,GROVES Kaden,26637,0.0,0,2024-08-18
+1,2.WT1,"Tour de Pologne, General classification (prov.)",43453,VINGEGAARD HANSEN Jonas,25740,0.0,0,2024-08-18
+2,2.WT1,"Tour de Pologne, General classification (prov.)",43453,ULISSI Diego,10023,0.0,0,2024-08-18
+3,2.WT1,"Tour de Pologne, General classification (prov.)",43453,KELDERMAN Wilco,15171,0.0,0,2024-08-18
+4,2.WT1,"Tour de Pologne, General classification (prov.)",43453,GREGOIRE Romain,32766,0.0,0,2024-08-18
+5,2.WT1,"Tour de Pologne, General classification (prov.)",43453,SHEFFIELD Magnus,31598,0.0,0,2024-08-18
+6,2.WT1,"Tour de Pologne, General classification (prov.)",43453,MOHORIC Matej,21145,0.0,0,2024-08-18
+7,2.WT1,"Tour de Pologne, General classification (prov.)",43453,ZAMBANINI Edoardo,31437,0.0,0,2024-08-18
+8,2.WT1,"Tour de Pologne, General classification (prov.)",43453,VOISARD Yannis,27977,0.0,0,2024-08-18
+9,2.WT1,"Tour de Pologne, General classification (prov.)",43453,HONORE Mikkel Frølich,25629,0.0,0,2024-08-18
+10,2.WT1,"Tour de Pologne, General classification (prov.)",43453,ONLEY Oscar,31724,0.0,0,2024-08-18
 1,2.WT1s,"Tour de Pologne, Stage 7 : Kopalnia Soli - Krakow (prov.)",43452,KOOIJ Olav,30643,0.0,0,2024-08-18
 1,2.WT2r,"Tour de Pologne, Points classification (prov.)",43454,ULISSI Diego,10023,0.0,0,2024-08-18
 1,2.WT2r,"Tour de Pologne, Mountains classification (prov.)",43455,PALUTA Michal,23378,0.0,0,2024-08-18
@@ -13,6 +28,7 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
 9,2.PS,"Danmark Rundt - Tour of Denmark, General classification (prov.)",43472,FLYNN Sean,29931,0.0,0,2024-08-18
 10,2.PS,"Danmark Rundt - Tour of Denmark, General classification (prov.)",43472,LEKNESSUND Andreas,27653,0.0,0,2024-08-18
 1,2.PSs,"Danmark Rundt - Tour of Denmark, Stage 5 : Roskilde - Gladsaxe (prov.)",43471,LUND ANDRESEN Tobias,31657,0.0,0,2024-08-18
+1,2.NCs,"Tour de l'Avenir, Prologue : Sarrebourg I.T.T. (prov.)",43501,LEONARD Michael,34283,0.0,0,2024-08-18
 1,NC5,National Championships Rwanda (Shyorongi - Batsinda) R.R. (prov.),43655,MASENGESHO Vainqueur,34983,0.0,0,2024-08-18
 -4,GT2s,"Leiderstrui na Vuelta a España , Stage 1 : Lisboa - Oeiras I.T.T. (prov.)",43477,McNulty Brandon,26508,0.0,0,2024-08-17
 -1,GT2s,"Jongerentrui na Vuelta a España , Stage 1 : Lisboa - Oeiras I.T.T. (prov.)",43477,Vacek Mathias,31713,0.0,0,2024-08-17
@@ -27,4 +43,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
 2,2.1,"Tour du Limousin, General classification",43460,AULAR SANABRIA Orluis Alberto,24326,0.0,0,2024-08-16
 3,2.1,"Tour du Limousin, General classification",43460,ZINGLE Axel,31263,0.0,0,2024-08-16
 1,2.1s,"Tour du Limousin, Stage 4 : Oradour sur Glane - Limoges",43459,BURGAUDEAU Mathieu,27151,0.0,0,2024-08-16
-1,2.WT1s,"Tour de Pologne, Stage 4 : Kudowa Zdroj - Prudnik (prov.)",43449,KOOIJ Olav,30643,0.0,0,2024-08-15

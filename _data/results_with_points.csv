@@ -1,6 +1,12 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
+-4,GT2s,"Leiderstrui na Vuelta al Ecuador, Stage 3 : Lousa - Castelo Branco (prov.)",43479,van Aert Wout,20730,1,0,2024-08-19,Bram
+-1,GT2s,"Jongerentrui na Vuelta al Ecuador, Stage 3 : Lousa - Castelo Branco (prov.)",43479,Vacek Mathias,31713,0.1,0,2024-08-19,-
+-2,GT2s,"Puntentrui na Vuelta al Ecuador, Stage 3 : Lousa - Castelo Branco (prov.)",43479,van Aert Wout,20730,0.2,0,2024-08-19,Bram
+-3,GT2s,"Bergtrui na Vuelta al Ecuador, Stage 3 : Lousa - Castelo Branco (prov.)",43479,Mate Luis Angel,3558,0.2,0,2024-08-19,-
+1,GT2s,"Vuelta al Ecuador, Stage 3 : Lousa - Castelo Branco (prov.)",43479,VAN AERT Wout,20730,2,0,2024-08-19,Bram
 1,2.NCs,"Tour de l'Avenir, Stage 1 : Sarrebourg - Ronchamp-Champagney (prov.)",43502,PEDERSEN Henrik Breiner,34364,0.0,0,2024-08-19,-
 -4,GT2s,"Leiderstrui na Vuelta a España , Stage 2 : Cascais - Ourem (prov.)",43478,van Aert Wout,20730,1,0,2024-08-18,Bram
+-1,GT2s,"Jongerentrui na Vuelta a España , Stage 2 : Cascais - Ourem (prov.)",43478,Vacek Mathias,31713,0.1,0,2024-08-18,-
 -2,GT2s,"Puntentrui na Vuelta a España , Stage 2 : Cascais - Ourem (prov.)",43478,Groves Kaden,26637,0.2,0,2024-08-18,Paul
 -3,GT2s,"Bergtrui na Vuelta a España , Stage 2 : Cascais - Ourem (prov.)",43478,Küng Stefan,20960,0.2,0,2024-08-18,Wijnand
 1,GT2s,"Vuelta a España , Stage 2 : Cascais - Ourem (prov.)",43478,GROVES Kaden,26637,2,0,2024-08-18,Paul
@@ -42,7 +48,6 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 1,2.1,"Tour du Limousin, General classification",43460,BAUDIN Alex,32146,2,0,2024-08-16,-
 2,2.1,"Tour du Limousin, General classification",43460,AULAR SANABRIA Orluis Alberto,24326,0.3,0,2024-08-16,Jan
 3,2.1,"Tour du Limousin, General classification",43460,ZINGLE Axel,31263,0.1,0,2024-08-16,Paul
--1,GT2s,"Jongerentrui na Vuelta a España , Stage 2 : Cascais - Ourem (prov.)",43478,Vacek Mathias,31713,0.1,0,2024-08-18,-
 1,2.1s,"Tour du Limousin, Stage 4 : Oradour sur Glane - Limoges",43459,BURGAUDEAU Mathieu,27151,0.2,0,2024-08-16,Paul
 1,2.WT1s,"Tour de Pologne, Stage 4 : Kudowa Zdroj - Prudnik (prov.)",43449,KOOIJ Olav,30643,1,0,2024-08-15,Roy
 1,2.PSs,"Danmark Rundt - Tour of Denmark, Stage 2 : Ringkøbing - Vejle (prov.)",43468,CORT NIELSEN Magnus,19448,0.3,0,2024-08-15,Nicky

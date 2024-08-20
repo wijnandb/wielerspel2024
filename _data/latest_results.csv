@@ -1,4 +1,6 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
+1,2.1s,"Tour Poitou-Charentes en Nouvelle Aquitaine, Stage 1 : Les Gonds - Cognac (prov.)",43511,DVERSNES Fredrik,28553,0.0,0,2024-08-20
+1,2.NCs,"Tour de l'Avenir, Stage 2 : Mouchard - Plateau d'Hauteville (prov.)",43503,CRESCIOLI Ludovico,34298,0.0,0,2024-08-20
 -4,GT2s,"Leiderstrui na Vuelta a España , Stage 3 : Lousa - Castelo Branco (prov.)",43479,van Aert Wout,20730,0.0,0,2024-08-19
 -1,GT2s,"Jongerentrui na Vuelta a España , Stage 3 : Lousa - Castelo Branco (prov.)",43479,Vacek Mathias,31713,0.0,0,2024-08-19
 -2,GT2s,"Puntentrui na Vuelta a España , Stage 3 : Lousa - Castelo Branco (prov.)",43479,van Aert Wout,20730,0.0,0,2024-08-19
@@ -43,5 +45,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
 1,2.WT1s,"Tour de Pologne, Stage 6 : Wadowice - Bukovina Resort",43451,NYS Thibau,32185,0.0,0,2024-08-17
 1,2.PSs,"Danmark Rundt - Tour of Denmark, Stage 4 : Stevns - Holbaek",43470,KRIJNSEN Jelte,32717,0.0,0,2024-08-17
 1,NCT5,National Championships Rwanda (Batsinda) I.T.T.,43656,MUGISHA Moise,28740,0.0,0,2024-08-17
-1,2.WT1s,"Tour de Pologne, Stage 5 : Katowice - Katowice",43450,MERLIER Tim,17988,0.0,0,2024-08-16
-1,2.PSs,"Danmark Rundt - Tour of Denmark, Stage 3 : Kolding - Haderslev",43469,LUND ANDRESEN Tobias,31657,0.0,0,2024-08-16

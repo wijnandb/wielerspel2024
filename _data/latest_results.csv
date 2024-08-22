@@ -1,5 +1,8 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
 1,GT2r,"Vuelta a España , Stage 6 : Jerez de la Frontera - Yunquera (prov.)",43482,O'CONNOR Ben,23763,0.0,0,2024-08-22
+1,2.PSs,"Deutschland Tour, Stage 1 : Schweinfurt - Heilbronn (prov.)",43522,MILAN Jonathan,29359,0.0,0,2024-08-22
+1,2.1s,"Tour Poitou-Charentes en Nouvelle Aquitaine, Stage 3 : Ménigoute - Fontaine-le-Comte I.T.T. (prov.)",43513,WAERENSKJOLD Søren,29187,0.0,0,2024-08-22
+1,2.NCs,"Tour de l'Avenir, Stage 4 : La Rosière - Les Karellis (prov.)",43505,TORRES ARIAS Pablo,35894,0.0,0,2024-08-22
 -4,GT2s,"Leiderstrui na Vuelta a España , Stage 5 : Fuente del Maestre - Sevilla (prov.)",43481,Roglic Primoz,20719,0.0,0,2024-08-21
 -1,GT2s,"Jongerentrui na Vuelta a España , Stage 5 : Fuente del Maestre - Sevilla (prov.)",43481,Tiberi Antonio,30649,0.0,0,2024-08-21
 -2,GT2s,"Puntentrui na Vuelta a España , Stage 5 : Fuente del Maestre - Sevilla (prov.)",43481,van Aert Wout,20730,0.0,0,2024-08-21
@@ -39,15 +42,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
 1,2.WT1s,"Tour de Pologne, Stage 7 : Kopalnia Soli - Krakow",43452,KOOIJ Olav,30643,0.0,0,2024-08-18
 1,2.WT2r,"Tour de Pologne, Points classification",43454,ULISSI Diego,10023,0.0,0,2024-08-18
 1,2.WT2r,"Tour de Pologne, Mountains classification",43455,PALUTA Michal,23378,0.0,0,2024-08-18
-1,2.PS,"Danmark Rundt - Tour of Denmark, General classification",43472,DE LIE Arnaud,32221,0.0,0,2024-08-18
-2,2.PS,"Danmark Rundt - Tour of Denmark, General classification",43472,CORT NIELSEN Magnus,19448,0.0,0,2024-08-18
-3,2.PS,"Danmark Rundt - Tour of Denmark, General classification",43472,FOLDAGER Anders,31400,0.0,0,2024-08-18
-4,2.PS,"Danmark Rundt - Tour of Denmark, General classification",43472,KRAGH ANDERSEN Søren,20793,0.0,0,2024-08-18
-5,2.PS,"Danmark Rundt - Tour of Denmark, General classification",43472,BERCKMOES Jenno,32588,0.0,0,2024-08-18
-6,2.PS,"Danmark Rundt - Tour of Denmark, General classification",43472,GOGL Michael,19858,0.0,0,2024-08-18
-7,2.PS,"Danmark Rundt - Tour of Denmark, General classification",43472,VAN DEN BROEK Frank,33648,0.0,0,2024-08-18
-8,2.PS,"Danmark Rundt - Tour of Denmark, General classification",43472,TRENTIN Matteo,13270,0.0,0,2024-08-18
-9,2.PS,"Danmark Rundt - Tour of Denmark, General classification",43472,FLYNN Sean,29931,0.0,0,2024-08-18
-10,2.PS,"Danmark Rundt - Tour of Denmark, General classification",43472,LEKNESSUND Andreas,27653,0.0,0,2024-08-18
-1,2.PSs,"Danmark Rundt - Tour of Denmark, Stage 5 : Roskilde - Gladsaxe",43471,LUND ANDRESEN Tobias,31657,0.0,0,2024-08-18
-1,2.NCs,"Tour de l'Avenir, Prologue : Sarrebourg I.T.T. (prov.)",43501,LEONARD Michael,34283,0.0,0,2024-08-18

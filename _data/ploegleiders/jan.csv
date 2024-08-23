@@ -1,6 +1,6 @@
 renner_id,renner,rider,ploegleider,kosten,team,nationality,age,punten,JPP
 17893,YATES Simon,YATES Simon,Jan,19,JAY,GBR,31,5.2,14
-16653,DEMARE Arnaud,DEMARE Arnaud,Jan,9,ARK,FRA,32,0,0
+16653,DEMARE Arnaud,DEMARE Arnaud,Jan,9,ARK,FRA,32,0.2,0
 32766,GREGOIRE Romain,GREGOIRE Romain,Jan,9,FDJ,FRA,20,2.5,81
 26383,GALL Felix,GALL Felix,Jan,6,A2R,AUT,25,2,38
 31598,SHEFFIELD Magnus,SHEFFIELD Magnus,Jan,5,IGD,USA,21,0.3,34
@@ -17,7 +17,7 @@ renner_id,renner,rider,ploegleider,kosten,team,nationality,age,punten,JPP
 32185,NYS Thibau,NYS Thibau,Jan,2,LTK,BEL,21,9.9,70
 26965,DAINESE Alberto,DAINESE Alberto,Jan,2,TUD,ITA,25,0.5,0
 20917,ACKERMANN Pascal,ACKERMANN Pascal,Jan,2,IPT,GER,29,0,40
-28553,DVERSNES Fredrik,DVERSNES Fredrik,Jan,2,UXT,NOR,26,2.3,53
+28553,DVERSNES Fredrik,DVERSNES Fredrik,Jan,2,UXT,NOR,26,2.6,53
 23299,SOLER GIMENEZ Marc,SOLER GIMENEZ Marc,Jan,2,UAD,ESP,30,0.5,20
 24326,AULAR SANABRIA Orluis Alberto,AULAR SANABRIA Orluis Alberto,Jan,2,CJR,VEN,27,1.1,0
 24110,PARET PEINTRE Aurélien,PARET PEINTRE Aurélien,Jan,2,A2R,FRA,27,0.9,28

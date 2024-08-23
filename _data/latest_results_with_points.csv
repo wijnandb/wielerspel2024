@@ -4,14 +4,18 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 -2,GT2s,"Puntentrui na Vuelta a España , Stage 7 : Archidona - Cordoba (prov.)",43483,van Aert Wout,20730,0.2,0,2024-08-23,Bram
 -3,GT2s,"Bergtrui na Vuelta a España , Stage 7 : Archidona - Cordoba (prov.)",43483,Moniquet Sylvain,26331,0.2,0,2024-08-23,-
 1,GT2s,"Vuelta a España , Stage 7 : Archidona - Cordoba (prov.)",43483,VAN AERT Wout,20730,2,0,2024-08-23,Bram
-1,2.1,"Tour Poitou-Charentes en Nouvelle Aquitaine, General classification (prov.)",43516,WAERENSKJOLD Søren,29187,2,0,2024-08-23,Albert
-2,2.1,"Tour Poitou-Charentes en Nouvelle Aquitaine, General classification (prov.)",43516,DVERSNES Fredrik,28553,0.3,0,2024-08-23,Jan
-3,2.1,"Tour Poitou-Charentes en Nouvelle Aquitaine, General classification (prov.)",43516,LEROUX Samuel,22909,0.1,0,2024-08-23,-
-1,2.1s,"Tour Poitou-Charentes en Nouvelle Aquitaine, Stage 4 : Fontaine-le-Comte - Poitiers (prov.)",43514,DEMARE Arnaud,16653,0.2,0,2024-08-23,Jan
+1,2.PSs,"Deutschland Tour, Stage 2 : Heilbronn - Schwäbisch Gmünd (prov.)",43523,PEDERSEN Mads,21992,0.3,0,2024-08-23,Kees
+1,2.1,"Tour Poitou-Charentes en Nouvelle Aquitaine, General classification",43516,WAERENSKJOLD Søren,29187,2,0,2024-08-23,Albert
+2,2.1,"Tour Poitou-Charentes en Nouvelle Aquitaine, General classification",43516,DVERSNES Fredrik,28553,0.3,0,2024-08-23,Jan
+3,2.1,"Tour Poitou-Charentes en Nouvelle Aquitaine, General classification",43516,LEROUX Samuel,22909,0.1,0,2024-08-23,-
+1,1.1,Druivenkoers - Overijse,43335,KRIJNSEN Jelte,32717,2,0,2024-08-23,-
+2,1.1,Druivenkoers - Overijse,43335,LOUVEL Matis,29982,0.3,0,2024-08-23,-
+3,1.1,Druivenkoers - Overijse,43335,BIERMANS Jenthe,22010,0.1,0,2024-08-23,Frank
+1,2.1s,"Tour Poitou-Charentes en Nouvelle Aquitaine, Stage 4 : Fontaine-le-Comte - Poitiers",43514,DEMARE Arnaud,16653,0.2,0,2024-08-23,Jan
 1,2.NCs,"Tour de l'Avenir, Stage 5 : Les Karellis - Condove (prov.)",43506,KAJAMINI Florian Samuel,33132,0.0,0,2024-08-23,-
 1,GT2r,"Vuelta a España , Stage 6 : Jerez de la Frontera - Yunquera (prov.)",43482,O'CONNOR Ben,23763,5,0,2024-08-22,Nicky
 1,2.PSs,"Deutschland Tour, Stage 1 : Schweinfurt - Heilbronn (prov.)",43522,MILAN Jonathan,29359,0.3,0,2024-08-22,Albert
-1,2.1s,"Tour Poitou-Charentes en Nouvelle Aquitaine, Stage 3 : Ménigoute - Fontaine-le-Comte I.T.T. (prov.)",43513,WAERENSKJOLD Søren,29187,0.2,0,2024-08-22,Albert
+1,2.1s,"Tour Poitou-Charentes en Nouvelle Aquitaine, Stage 3 : Ménigoute - Fontaine-le-Comte I.T.T.",43513,WAERENSKJOLD Søren,29187,0.2,0,2024-08-22,Albert
 1,2.NCs,"Tour de l'Avenir, Stage 4 : La Rosière - Les Karellis (prov.)",43505,TORRES ARIAS Pablo,35894,0.0,0,2024-08-22,-
 -4,GT2s,"Leiderstrui na Vuelta a España , Stage 5 : Fuente del Maestre - Sevilla (prov.)",43481,Roglic Primoz,20719,1,0,2024-08-21,Frank
 -1,GT2s,"Jongerentrui na Vuelta a España , Stage 5 : Fuente del Maestre - Sevilla (prov.)",43481,Tiberi Antonio,30649,0.1,0,2024-08-21,-
@@ -19,11 +23,5 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 -3,GT2s,"Bergtrui na Vuelta a España , Stage 5 : Fuente del Maestre - Sevilla (prov.)",43481,Moniquet Sylvain,26331,0.2,0,2024-08-21,-
 1,GT2s,"Vuelta a España , Stage 5 : Fuente del Maestre - Sevilla (prov.)",43481,BITTNER Pavel,31555,2,0,2024-08-21,-
 1,2.PSs,"Deutschland Tour, Prologue : Schweinfurt I.T.T. (prov.)",43521,MILAN Jonathan,29359,0.3,0,2024-08-21,Albert
-1,2.1s,"Tour Poitou-Charentes en Nouvelle Aquitaine, Stage 2 : Gensac-la-Pallue - Niort (prov.)",43512,FRETIN Milan,32617,0.2,0,2024-08-21,-
+1,2.1s,"Tour Poitou-Charentes en Nouvelle Aquitaine, Stage 2 : Gensac-la-Pallue - Niort",43512,FRETIN Milan,32617,0.2,0,2024-08-21,-
 1,2.NCs,"Tour de l'Avenir, Stage 3 : Peisey-Vallandry - La Rosière (prov.)",43504,BLACKMORE Joseph,34973,0.0,0,2024-08-21,-
--4,GT2s,"Leiderstrui na Vuelta a España , Stage 4 : Plasencia - Pico Villuercas (prov.)",43480,Roglic Primoz,20719,1,0,2024-08-20,Frank
--1,GT2s,"Jongerentrui na Vuelta a España , Stage 4 : Plasencia - Pico Villuercas (prov.)",43480,Tiberi Antonio,30649,0.1,0,2024-08-20,-
--2,GT2s,"Puntentrui na Vuelta a España , Stage 4 : Plasencia - Pico Villuercas (prov.)",43480,van Aert Wout,20730,0.2,0,2024-08-20,Bram
--3,GT2s,"Bergtrui na Vuelta a España , Stage 4 : Plasencia - Pico Villuercas (prov.)",43480,Moniquet Sylvain,26331,0.2,0,2024-08-20,-
-1,GT2s,"Vuelta a España , Stage 4 : Plasencia - Pico Villuercas (prov.)",43480,ROGLIC Primoz,20719,2,0,2024-08-20,Frank
-1,2.1s,"Tour Poitou-Charentes en Nouvelle Aquitaine, Stage 1 : Les Gonds - Cognac (prov.)",43511,DVERSNES Fredrik,28553,0.2,0,2024-08-20,Jan

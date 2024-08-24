@@ -1,4 +1,15 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
+1,2.NC,"Tour de l'Avenir, General classification (prov.)",43510,BLACKMORE Joseph,34973,0.0,0,2024-08-24,-
+2,2.NC,"Tour de l'Avenir, General classification (prov.)",43510,TORRES ARIAS Pablo,35894,0.0,0,2024-08-24,-
+3,2.NC,"Tour de l'Avenir, General classification (prov.)",43510,GRAAT Tijmen,32787,0.0,0,2024-08-24,-
+4,2.NC,"Tour de l'Avenir, General classification (prov.)",43510,BISIAUX Léo,35822,0.0,0,2024-08-24,-
+5,2.NC,"Tour de l'Avenir, General classification (prov.)",43510,KAJAMINI Florian Samuel,33132,0.0,0,2024-08-24,-
+6,2.NC,"Tour de l'Avenir, General classification (prov.)",43510,DALBY Simon,32795,0.0,0,2024-08-24,-
+7,2.NC,"Tour de l'Avenir, General classification (prov.)",43510,PESCADOR CASTRO Diego Fernando,34588,0.0,0,2024-08-24,-
+8,2.NC,"Tour de l'Avenir, General classification (prov.)",43510,ROLLAND Brieuc,33756,0.0,0,2024-08-24,-
+9,2.NC,"Tour de l'Avenir, General classification (prov.)",43510,WENZEL Mats,31859,0.0,0,2024-08-24,-
+10,2.NC,"Tour de l'Avenir, General classification (prov.)",43510,SCALCO Matteo,34207,0.0,0,2024-08-24,-
+1,2.NCs,"Tour de l'Avenir, Stage 6 : Bobbio Pellice - Colle delle Finestre (prov.)",43507,TORRES ARIAS Pablo,35894,0.0,0,2024-08-24,-
 -4,GT2s,"Leiderstrui na Vuelta a España , Stage 7 : Archidona - Cordoba (prov.)",43483,O'Connor Ben,23763,1,0,2024-08-23,Nicky
 -1,GT2s,"Jongerentrui na Vuelta a España , Stage 7 : Archidona - Cordoba (prov.)",43483,Tiberi Antonio,30649,0.1,0,2024-08-23,-
 -2,GT2s,"Puntentrui na Vuelta a España , Stage 7 : Archidona - Cordoba (prov.)",43483,van Aert Wout,20730,0.2,0,2024-08-23,Bram
@@ -17,11 +28,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 1,2.PSs,"Deutschland Tour, Stage 1 : Schweinfurt - Heilbronn (prov.)",43522,MILAN Jonathan,29359,0.3,0,2024-08-22,Albert
 1,2.1s,"Tour Poitou-Charentes en Nouvelle Aquitaine, Stage 3 : Ménigoute - Fontaine-le-Comte I.T.T.",43513,WAERENSKJOLD Søren,29187,0.2,0,2024-08-22,Albert
 1,2.NCs,"Tour de l'Avenir, Stage 4 : La Rosière - Les Karellis (prov.)",43505,TORRES ARIAS Pablo,35894,0.0,0,2024-08-22,-
--4,GT2s,"Leiderstrui na Vuelta a España , Stage 5 : Fuente del Maestre - Sevilla (prov.)",43481,Roglic Primoz,20719,1,0,2024-08-21,Frank
--1,GT2s,"Jongerentrui na Vuelta a España , Stage 5 : Fuente del Maestre - Sevilla (prov.)",43481,Tiberi Antonio,30649,0.1,0,2024-08-21,-
--2,GT2s,"Puntentrui na Vuelta a España , Stage 5 : Fuente del Maestre - Sevilla (prov.)",43481,van Aert Wout,20730,0.2,0,2024-08-21,Bram
--3,GT2s,"Bergtrui na Vuelta a España , Stage 5 : Fuente del Maestre - Sevilla (prov.)",43481,Moniquet Sylvain,26331,0.2,0,2024-08-21,-
-1,GT2s,"Vuelta a España , Stage 5 : Fuente del Maestre - Sevilla (prov.)",43481,BITTNER Pavel,31555,2,0,2024-08-21,-
-1,2.PSs,"Deutschland Tour, Prologue : Schweinfurt I.T.T. (prov.)",43521,MILAN Jonathan,29359,0.3,0,2024-08-21,Albert
-1,2.1s,"Tour Poitou-Charentes en Nouvelle Aquitaine, Stage 2 : Gensac-la-Pallue - Niort",43512,FRETIN Milan,32617,0.2,0,2024-08-21,-
-1,2.NCs,"Tour de l'Avenir, Stage 3 : Peisey-Vallandry - La Rosière (prov.)",43504,BLACKMORE Joseph,34973,0.0,0,2024-08-21,-

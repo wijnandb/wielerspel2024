@@ -1,4 +1,9 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
+-4,GT2s,"Leiderstrui na Vuelta a España , Stage 8 : Ubeda - Cazorla (prov.)",43484,O'Connor Ben,23763,1,0,2024-08-24,Nicky
+-1,GT2s,"Jongerentrui na Vuelta a España , Stage 8 : Ubeda - Cazorla (prov.)",43484,Tiberi Antonio,30649,0.1,0,2024-08-24,-
+-2,GT2s,"Puntentrui na Vuelta a España , Stage 8 : Ubeda - Cazorla (prov.)",43484,van Aert Wout,20730,0.2,0,2024-08-24,Bram
+-3,GT2s,"Bergtrui na Vuelta a España , Stage 8 : Ubeda - Cazorla (prov.)",43484,Roglic Primoz,20719,0.2,0,2024-08-24,Frank
+1,GT2s,"Vuelta a España , Stage 8 : Ubeda - Cazorla (prov.)",43484,ROGLIC Primoz,20719,2,0,2024-08-24,Frank
 1,2.NC,"Tour de l'Avenir, General classification (prov.)",43510,BLACKMORE Joseph,34973,0.0,0,2024-08-24,-
 2,2.NC,"Tour de l'Avenir, General classification (prov.)",43510,TORRES ARIAS Pablo,35894,0.0,0,2024-08-24,-
 3,2.NC,"Tour de l'Avenir, General classification (prov.)",43510,GRAAT Tijmen,32787,0.0,0,2024-08-24,-
@@ -27,4 +32,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 1,GT2r,"Vuelta a España , Stage 6 : Jerez de la Frontera - Yunquera (prov.)",43482,O'CONNOR Ben,23763,5,0,2024-08-22,Nicky
 1,2.PSs,"Deutschland Tour, Stage 1 : Schweinfurt - Heilbronn (prov.)",43522,MILAN Jonathan,29359,0.3,0,2024-08-22,Albert
 1,2.1s,"Tour Poitou-Charentes en Nouvelle Aquitaine, Stage 3 : Ménigoute - Fontaine-le-Comte I.T.T.",43513,WAERENSKJOLD Søren,29187,0.2,0,2024-08-22,Albert
-1,2.NCs,"Tour de l'Avenir, Stage 4 : La Rosière - Les Karellis (prov.)",43505,TORRES ARIAS Pablo,35894,0.0,0,2024-08-22,-

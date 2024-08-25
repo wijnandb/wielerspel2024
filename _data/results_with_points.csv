@@ -1,4 +1,7 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
+-4,GT2s,"Leiderstrui na Vuelta a España , Stage 9 : Motril - Granada (prov.)",43485,O'Connor Ben,23763,1,0,2024-08-25,Nicky
+-1,GT2s,"Jongerentrui na Vuelta a España , Stage 9 : Motril - Granada (prov.)",43485,Lipowitz Florian,30805,0.1,0,2024-08-25,-
+1,GT2s,"Vuelta a España , Stage 9 : Motril - Granada (prov.)",43485,YATES Adam,18975,2,0,2024-08-25,Kees
 1,1.WT2,Bretagne Classic - Ouest-France (prov.),43348,HIRSCHI Marc,26509,10,50,2024-08-25,Bram
 2,1.WT2,Bretagne Classic - Ouest-France (prov.),43348,MAGNIER Paul,34555,3,35,2024-08-25,-
 3,1.WT2,Bretagne Classic - Ouest-France (prov.),43348,CORT NIELSEN Magnus,19448,1,25,2024-08-25,Nicky
@@ -9,6 +12,7 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 8,1.WT2,Bretagne Classic - Ouest-France (prov.),43348,GRUEL Thibaud,34337,0,12,2024-08-25,-
 9,1.WT2,Bretagne Classic - Ouest-France (prov.),43348,VENTURINI Clément,21428,0,10,2024-08-25,-
 10,1.WT2,Bretagne Classic - Ouest-France (prov.),43348,PAGE Hugo,30663,0,8,2024-08-25,Jan
+1,2.PSs,"Deutschland Tour, Stage 4 : Annweiler am Trifels - Saarbrücken (prov.)",43525,PEDERSEN Mads,21992,0.3,0,2024-08-25,Kees
 -4,GT2s,"Leiderstrui na Vuelta a España , Stage 8 : Ubeda - Cazorla (prov.)",43484,O'Connor Ben,23763,1,0,2024-08-24,Nicky
 -1,GT2s,"Jongerentrui na Vuelta a España , Stage 8 : Ubeda - Cazorla (prov.)",43484,Tiberi Antonio,30649,0.1,0,2024-08-24,-
 -2,GT2s,"Puntentrui na Vuelta a España , Stage 8 : Ubeda - Cazorla (prov.)",43484,van Aert Wout,20730,0.2,0,2024-08-24,Bram

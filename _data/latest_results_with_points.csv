@@ -1,4 +1,14 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
+1,1.WT2,Bretagne Classic - Ouest-France (prov.),43348,HIRSCHI Marc,26509,10,50,2024-08-25,Bram
+2,1.WT2,Bretagne Classic - Ouest-France (prov.),43348,MAGNIER Paul,34555,3,35,2024-08-25,-
+3,1.WT2,Bretagne Classic - Ouest-France (prov.),43348,CORT NIELSEN Magnus,19448,1,25,2024-08-25,Nicky
+4,1.WT2,Bretagne Classic - Ouest-France (prov.),43348,DE LIE Arnaud,32221,0.5,20,2024-08-25,PB
+5,1.WT2,Bretagne Classic - Ouest-France (prov.),43348,NYS Thibau,32185,0.2,18,2024-08-25,Jan
+6,1.WT2,Bretagne Classic - Ouest-France (prov.),43348,GODON Dorian,25704,0,16,2024-08-25,PB
+7,1.WT2,Bretagne Classic - Ouest-France (prov.),43348,MATTHEWS Michael,13066,0,14,2024-08-25,PB
+8,1.WT2,Bretagne Classic - Ouest-France (prov.),43348,GRUEL Thibaud,34337,0,12,2024-08-25,-
+9,1.WT2,Bretagne Classic - Ouest-France (prov.),43348,VENTURINI Clément,21428,0,10,2024-08-25,-
+10,1.WT2,Bretagne Classic - Ouest-France (prov.),43348,PAGE Hugo,30663,0,8,2024-08-25,Jan
 -4,GT2s,"Leiderstrui na Vuelta a España , Stage 8 : Ubeda - Cazorla (prov.)",43484,O'Connor Ben,23763,1,0,2024-08-24,Nicky
 -1,GT2s,"Jongerentrui na Vuelta a España , Stage 8 : Ubeda - Cazorla (prov.)",43484,Tiberi Antonio,30649,0.1,0,2024-08-24,-
 -2,GT2s,"Puntentrui na Vuelta a España , Stage 8 : Ubeda - Cazorla (prov.)",43484,van Aert Wout,20730,0.2,0,2024-08-24,Bram
@@ -22,11 +32,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 -3,GT2s,"Bergtrui na Vuelta a España , Stage 7 : Archidona - Cordoba (prov.)",43483,Moniquet Sylvain,26331,0.2,0,2024-08-23,-
 1,GT2s,"Vuelta a España , Stage 7 : Archidona - Cordoba (prov.)",43483,VAN AERT Wout,20730,2,0,2024-08-23,Bram
 1,2.PSs,"Deutschland Tour, Stage 2 : Heilbronn - Schwäbisch Gmünd (prov.)",43523,PEDERSEN Mads,21992,0.3,0,2024-08-23,Kees
-1,2.1,"Tour Poitou-Charentes en Nouvelle Aquitaine, General classification",43516,WAERENSKJOLD Søren,29187,2,0,2024-08-23,Albert
-2,2.1,"Tour Poitou-Charentes en Nouvelle Aquitaine, General classification",43516,DVERSNES Fredrik,28553,0.3,0,2024-08-23,Jan
-3,2.1,"Tour Poitou-Charentes en Nouvelle Aquitaine, General classification",43516,LEROUX Samuel,22909,0.1,0,2024-08-23,-
-1,1.1,Druivenkoers - Overijse,43335,KRIJNSEN Jelte,32717,2,0,2024-08-23,-
-2,1.1,Druivenkoers - Overijse,43335,LOUVEL Matis,29982,0.3,0,2024-08-23,-
-3,1.1,Druivenkoers - Overijse,43335,BIERMANS Jenthe,22010,0.1,0,2024-08-23,Frank
-1,2.1s,"Tour Poitou-Charentes en Nouvelle Aquitaine, Stage 4 : Fontaine-le-Comte - Poitiers",43514,DEMARE Arnaud,16653,0.2,0,2024-08-23,Jan
-1,2.NCs,"Tour de l'Avenir, Stage 5 : Les Karellis - Condove",43506,KAJAMINI Florian Samuel,33132,0.0,0,2024-08-23,-

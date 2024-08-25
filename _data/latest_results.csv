@@ -1,6 +1,8 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
 -4,GT2s,"Leiderstrui na Vuelta a España , Stage 9 : Motril - Granada (prov.)",43485,O'Connor Ben,23763,0.0,0,2024-08-25
 -1,GT2s,"Jongerentrui na Vuelta a España , Stage 9 : Motril - Granada (prov.)",43485,Lipowitz Florian,30805,0.0,0,2024-08-25
+-2,GT2s,"Puntentrui na Vuelta a España , Stage 9 : Motril - Granada (prov.)",43485,van Aert Wout,20730,0.0,0,2024-08-25
+-3,GT2s,"Bergtrui na Vuelta a España , Stage 9 : Motril - Granada (prov.)",43485,Yates Adam,18975,0.0,0,2024-08-25
 1,GT2s,"Vuelta a España , Stage 9 : Motril - Granada (prov.)",43485,YATES Adam,18975,0.0,0,2024-08-25
 1,1.WT2,Bretagne Classic - Ouest-France (prov.),43348,HIRSCHI Marc,26509,0.0,0,2024-08-25
 2,1.WT2,Bretagne Classic - Ouest-France (prov.),43348,MAGNIER Paul,34555,0.0,0,2024-08-25
@@ -12,6 +14,16 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
 8,1.WT2,Bretagne Classic - Ouest-France (prov.),43348,GRUEL Thibaud,34337,0.0,0,2024-08-25
 9,1.WT2,Bretagne Classic - Ouest-France (prov.),43348,VENTURINI Clément,21428,0.0,0,2024-08-25
 10,1.WT2,Bretagne Classic - Ouest-France (prov.),43348,PAGE Hugo,30663,0.0,0,2024-08-25
+1,2.PS,"Deutschland Tour, General classification (prov.)",43526,PEDERSEN Mads,21992,0.0,0,2024-08-25
+2,2.PS,"Deutschland Tour, General classification (prov.)",43526,VAN POPPEL Danny,19242,0.0,0,2024-08-25
+3,2.PS,"Deutschland Tour, General classification (prov.)",43526,JOHANNESSEN Tobias Halland,31567,0.0,0,2024-08-25
+4,2.PS,"Deutschland Tour, General classification (prov.)",43526,LAMPERTI Luke,31833,0.0,0,2024-08-25
+5,2.PS,"Deutschland Tour, General classification (prov.)",43526,RYAN Archie,30565,0.0,0,2024-08-25
+6,2.PS,"Deutschland Tour, General classification (prov.)",43526,STORK Florian,25087,0.0,0,2024-08-25
+7,2.PS,"Deutschland Tour, General classification (prov.)",43526,NORDHAGEN Jørgen,35592,0.0,0,2024-08-25
+8,2.PS,"Deutschland Tour, General classification (prov.)",43526,CHRISTEN Fabio,31719,0.0,0,2024-08-25
+9,2.PS,"Deutschland Tour, General classification (prov.)",43526,GELDERS Gil,31556,0.0,0,2024-08-25
+10,2.PS,"Deutschland Tour, General classification (prov.)",43526,VERMAERKE Kevin,29332,0.0,0,2024-08-25
 1,2.PSs,"Deutschland Tour, Stage 4 : Annweiler am Trifels - Saarbrücken (prov.)",43525,PEDERSEN Mads,21992,0.0,0,2024-08-25
 -4,GT2s,"Leiderstrui na Vuelta a España , Stage 8 : Ubeda - Cazorla (prov.)",43484,O'Connor Ben,23763,0.0,0,2024-08-24
 -1,GT2s,"Jongerentrui na Vuelta a España , Stage 8 : Ubeda - Cazorla (prov.)",43484,Tiberi Antonio,30649,0.0,0,2024-08-24

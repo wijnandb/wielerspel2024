@@ -1,4 +1,7 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
+-4,GT2s,"Leiderstrui na Vuelta a España , Stage 10 : Punteareas - Baiona (prov.)",43486,O'Connor Ben,23763,1,0,2024-08-27,Nicky
+-1,GT2s,"Jongerentrui na Vuelta a España , Stage 10 : Punteareas - Baiona (prov.)",43486,Lipowitz Florian,30805,0.1,0,2024-08-27,-
+1,GT2s,"Vuelta a España , Stage 10 : Punteareas - Baiona (prov.)",43486,VAN AERT Wout,20730,2,0,2024-08-27,Bram
 1,2.PSs,"Tour of Hainan, Stage 1 : Qionghai - Qionghai (prov.)",43551,MARECZKO Jakub,22713,0.3,0,2024-08-27,-
 -4,GT2s,"Leiderstrui na Vuelta a España , Stage 9 : Motril - Granada (prov.)",43485,O'Connor Ben,23763,1,0,2024-08-25,Nicky
 -1,GT2s,"Jongerentrui na Vuelta a España , Stage 9 : Motril - Granada (prov.)",43485,Lipowitz Florian,30805,0.1,0,2024-08-25,-
@@ -42,4 +45,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 8,2.NC,"Tour de l'Avenir, General classification",43510,ROLLAND Brieuc,33756,0.0,0,2024-08-24,-
 9,2.NC,"Tour de l'Avenir, General classification",43510,WENZEL Mats,31859,0.0,0,2024-08-24,-
 10,2.NC,"Tour de l'Avenir, General classification",43510,SCALCO Matteo,34207,0.0,0,2024-08-24,-
-1,2.NCs,"Tour de l'Avenir, Stage 6 : Bobbio Pellice - Colle delle Finestre",43507,TORRES ARIAS Pablo,35894,0.0,0,2024-08-24,-

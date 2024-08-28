@@ -1,4 +1,5 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
+1,2.PSs,"Tour of Hainan, Stage 2 : Qionghai - Lingshui (prov.)",43552,LAAS Martin,21460,0.3,0,2024-08-28,-
 -4,GT2s,"Leiderstrui na Vuelta a España , Stage 10 : Punteareas - Baiona (prov.)",43486,O'Connor Ben,23763,1,0,2024-08-27,Nicky
 -1,GT2s,"Jongerentrui na Vuelta a España , Stage 10 : Punteareas - Baiona (prov.)",43486,Lipowitz Florian,30805,0.1,0,2024-08-27,-
 -2,GT2s,"Puntentrui na Vuelta a España , Stage 10 : Punteareas - Baiona (prov.)",43486,van Aert Wout,20730,0.2,0,2024-08-27,Bram
@@ -31,8 +32,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 9,2.PS,"Deutschland Tour, General classification",43526,GELDERS Gil,31556,0,10,2024-08-25,-
 10,2.PS,"Deutschland Tour, General classification",43526,VERMAERKE Kevin,29332,0,8,2024-08-25,Nicky
 1,2.PSs,"Deutschland Tour, Stage 4 : Annweiler am Trifels - Saarbrücken",43525,PEDERSEN Mads,21992,0.3,0,2024-08-25,Kees
--4,GT2s,"Leiderstrui na Vuelta a España , Stage 8 : Ubeda - Cazorla (prov.)",43484,O'Connor Ben,23763,1,0,2024-08-24,Nicky
--1,GT2s,"Jongerentrui na Vuelta a España , Stage 8 : Ubeda - Cazorla (prov.)",43484,Tiberi Antonio,30649,0.1,0,2024-08-24,-
--2,GT2s,"Puntentrui na Vuelta a España , Stage 8 : Ubeda - Cazorla (prov.)",43484,van Aert Wout,20730,0.2,0,2024-08-24,Bram
--3,GT2s,"Bergtrui na Vuelta a España , Stage 8 : Ubeda - Cazorla (prov.)",43484,Roglic Primoz,20719,0.2,0,2024-08-24,Frank
-1,GT2s,"Vuelta a España , Stage 8 : Ubeda - Cazorla (prov.)",43484,ROGLIC Primoz,20719,2,0,2024-08-24,Frank

@@ -13,9 +13,9 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 1,GT2s,"Vuelta a España , Stage 11 : Padron - Padron (prov.)",43487,DUNBAR Edward,23765,2,0,2024-08-28,Paul
 1,2.WT1s,"Renewi Tour , Stage 1 : Riemst - Bilzen (prov.)",43557,MILAN Jonathan,29359,1,0,2024-08-28,Albert
 1,2.PSs,"Tour of Hainan, Stage 2 : Qionghai - Lingshui (prov.)",43552,LAAS Martin,21460,0.3,0,2024-08-28,-
-1,1.1,Muur Classic Geraardsbergen (prov.),43351,BERCKMOES Jenno,32588,2,0,2024-08-28,-
-2,1.1,Muur Classic Geraardsbergen (prov.),43351,JOHANNESSEN Tobias Halland,31567,0.3,0,2024-08-28,Albert
-3,1.1,Muur Classic Geraardsbergen (prov.),43351,CHRISTEN Fabio,31719,0.1,0,2024-08-28,-
+1,1.1,Muur Classic Geraardsbergen,43351,BERCKMOES Jenno,32588,2,0,2024-08-28,-
+2,1.1,Muur Classic Geraardsbergen,43351,JOHANNESSEN Tobias Halland,31567,0.3,0,2024-08-28,Albert
+3,1.1,Muur Classic Geraardsbergen,43351,CHRISTEN Fabio,31719,0.1,0,2024-08-28,-
 -4,GT2s,"Leiderstrui na Vuelta a España , Stage 10 : Punteareas - Baiona (prov.)",43486,O'Connor Ben,23763,1,0,2024-08-27,Nicky
 -1,GT2s,"Jongerentrui na Vuelta a España , Stage 10 : Punteareas - Baiona (prov.)",43486,Lipowitz Florian,30805,0.1,0,2024-08-27,-
 -2,GT2s,"Puntentrui na Vuelta a España , Stage 10 : Punteareas - Baiona (prov.)",43486,van Aert Wout,20730,0.2,0,2024-08-27,Bram

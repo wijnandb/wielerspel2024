@@ -1,4 +1,6 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
+1,2.WT1s,"Renewi Tour , Stage 3 : Blankenberge - Ardooie (prov.)",43559,MILAN Jonathan,29359,1,0,2024-08-30,Albert
+1,2.PSs,"Tour of Hainan, Stage 4 : Wuzhishan - Changjiang (prov.)",43554,GATE Aaron,13153,0.3,0,2024-08-30,-
 -4,GT2s,"Leiderstrui na Vuelta a España , Stage 12 : Ourense Termal - Estacion de Montaña de Manzaneda (prov.)",43488,O'Connor Ben,23763,1,0,2024-08-29,Nicky
 -1,GT2s,"Jongerentrui na Vuelta a España , Stage 12 : Ourense Termal - Estacion de Montaña de Manzaneda (prov.)",43488,Rodriguez Carlos,30836,0.1,0,2024-08-29,Vel
 -2,GT2s,"Puntentrui na Vuelta a España , Stage 12 : Ourense Termal - Estacion de Montaña de Manzaneda (prov.)",43488,van Aert Wout,20730,0.2,0,2024-08-29,Bram
@@ -22,29 +24,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 -3,GT2s,"Bergtrui na Vuelta a España , Stage 10 : Punteareas - Baiona (prov.)",43486,Yates Adam,18975,0.2,0,2024-08-27,Kees
 1,GT2s,"Vuelta a España , Stage 10 : Punteareas - Baiona (prov.)",43486,VAN AERT Wout,20730,2,0,2024-08-27,Bram
 1,2.PSs,"Tour of Hainan, Stage 1 : Qionghai - Qionghai (prov.)",43551,MARECZKO Jakub,22713,0.3,0,2024-08-27,-
--4,GT2s,"Leiderstrui na Vuelta a España , Stage 9 : Motril - Granada (prov.)",43485,O'Connor Ben,23763,1,0,2024-08-25,Nicky
--1,GT2s,"Jongerentrui na Vuelta a España , Stage 9 : Motril - Granada (prov.)",43485,Lipowitz Florian,30805,0.1,0,2024-08-25,-
--2,GT2s,"Puntentrui na Vuelta a España , Stage 9 : Motril - Granada (prov.)",43485,van Aert Wout,20730,0.2,0,2024-08-25,Bram
--3,GT2s,"Bergtrui na Vuelta a España , Stage 9 : Motril - Granada (prov.)",43485,Yates Adam,18975,0.2,0,2024-08-25,Kees
-1,GT2s,"Vuelta a España , Stage 9 : Motril - Granada (prov.)",43485,YATES Adam,18975,2,0,2024-08-25,Kees
-1,1.WT2,Bretagne Classic - Ouest-France,43348,HIRSCHI Marc,26509,10,50,2024-08-25,Bram
-2,1.WT2,Bretagne Classic - Ouest-France,43348,MAGNIER Paul,34555,3,35,2024-08-25,-
-3,1.WT2,Bretagne Classic - Ouest-France,43348,CORT NIELSEN Magnus,19448,1,25,2024-08-25,Nicky
-4,1.WT2,Bretagne Classic - Ouest-France,43348,DE LIE Arnaud,32221,0.5,20,2024-08-25,PB
-5,1.WT2,Bretagne Classic - Ouest-France,43348,NYS Thibau,32185,0.2,18,2024-08-25,Jan
-6,1.WT2,Bretagne Classic - Ouest-France,43348,GODON Dorian,25704,0,16,2024-08-25,PB
-7,1.WT2,Bretagne Classic - Ouest-France,43348,MATTHEWS Michael,13066,0,14,2024-08-25,PB
-8,1.WT2,Bretagne Classic - Ouest-France,43348,GRUEL Thibaud,34337,0,12,2024-08-25,-
-9,1.WT2,Bretagne Classic - Ouest-France,43348,VENTURINI Clément,21428,0,10,2024-08-25,-
-10,1.WT2,Bretagne Classic - Ouest-France,43348,PAGE Hugo,30663,0,8,2024-08-25,Jan
-1,2.PS,"Deutschland Tour, General classification",43526,PEDERSEN Mads,21992,4,50,2024-08-25,Kees
-2,2.PS,"Deutschland Tour, General classification",43526,VAN POPPEL Danny,19242,1,35,2024-08-25,Albert
-3,2.PS,"Deutschland Tour, General classification",43526,JOHANNESSEN Tobias Halland,31567,0.5,25,2024-08-25,Albert
-4,2.PS,"Deutschland Tour, General classification",43526,LAMPERTI Luke,31833,0,20,2024-08-25,Bram
-5,2.PS,"Deutschland Tour, General classification",43526,RYAN Archie,30565,0,18,2024-08-25,-
-6,2.PS,"Deutschland Tour, General classification",43526,STORK Florian,25087,0,16,2024-08-25,-
-7,2.PS,"Deutschland Tour, General classification",43526,NORDHAGEN Jørgen,35592,0,14,2024-08-25,-
-8,2.PS,"Deutschland Tour, General classification",43526,CHRISTEN Fabio,31719,0,12,2024-08-25,-
-9,2.PS,"Deutschland Tour, General classification",43526,GELDERS Gil,31556,0,10,2024-08-25,-
-10,2.PS,"Deutschland Tour, General classification",43526,VERMAERKE Kevin,29332,0,8,2024-08-25,Nicky
-1,2.PSs,"Deutschland Tour, Stage 4 : Annweiler am Trifels - Saarbrücken",43525,PEDERSEN Mads,21992,0.3,0,2024-08-25,Kees

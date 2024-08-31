@@ -5,35 +5,35 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 -3,GT2s,"Bergtrui na Vuelta a España , Stage 14 : Villafranca del Bierzo - Villablino (prov.)",43490,van Aert Wout,20730,0.2,0,2024-08-31,Bram
 1,GT2s,"Vuelta a España , Stage 14 : Villafranca del Bierzo - Villablino (prov.)",43490,GROVES Kaden,26637,2,0,2024-08-31,Paul
 1,2.WT1s,"Renewi Tour , Stage 4 : Oostburg - Aalter (prov.)",43560,PHILIPSEN Jasper,26392,1,0,2024-08-31,Nicky
-1,2.PS,"Tour of Hainan, General classification (prov.)",43556,GATE Aaron,13153,4,50,2024-08-31,-
-2,2.PS,"Tour of Hainan, General classification (prov.)",43556,MULUBRHAN Henok,28186,1,35,2024-08-31,Wijnand
-3,2.PS,"Tour of Hainan, General classification (prov.)",43556,MAGLI Filippo,29779,0.5,25,2024-08-31,-
-4,2.PS,"Tour of Hainan, General classification (prov.)",43556,LOPEZ CARAVACA Jordi,31278,0,20,2024-08-31,-
-5,2.PS,"Tour of Hainan, General classification (prov.)",43556,RAILEANU Cristian,13770,0,18,2024-08-31,-
-6,2.PS,"Tour of Hainan, General classification (prov.)",43556,JAIME FERNANDEZ Alex,31741,0,16,2024-08-31,-
-7,2.PS,"Tour of Hainan, General classification (prov.)",43556,DIAZ GALLEGO Jose Manuel,24103,0,14,2024-08-31,-
-8,2.PS,"Tour of Hainan, General classification (prov.)",43556,DELETTRE Alexandre,30519,0,12,2024-08-31,-
-9,2.PS,"Tour of Hainan, General classification (prov.)",43556,QUARTUCCI Lorenzo,30047,0,10,2024-08-31,-
-10,2.PS,"Tour of Hainan, General classification (prov.)",43556,SAINBAYAR Jambaljamts,24289,0,8,2024-08-31,-
-1,2.PSs,"Tour of Hainan, Stage 5 : Changjiang - Changjiang (prov.)",43555,SMIRNOV Ivan,27928,0.3,0,2024-08-31,-
+1,2.PS,"Tour of Hainan, General classification",43556,GATE Aaron,13153,4,50,2024-08-31,-
+2,2.PS,"Tour of Hainan, General classification",43556,MULUBRHAN Henok,28186,1,35,2024-08-31,Wijnand
+3,2.PS,"Tour of Hainan, General classification",43556,MAGLI Filippo,29779,0.5,25,2024-08-31,-
+4,2.PS,"Tour of Hainan, General classification",43556,LOPEZ CARAVACA Jordi,31278,0,20,2024-08-31,-
+5,2.PS,"Tour of Hainan, General classification",43556,RAILEANU Cristian,13770,0,18,2024-08-31,-
+6,2.PS,"Tour of Hainan, General classification",43556,JAIME FERNANDEZ Alex,31741,0,16,2024-08-31,-
+7,2.PS,"Tour of Hainan, General classification",43556,DIAZ GALLEGO Jose Manuel,24103,0,14,2024-08-31,-
+8,2.PS,"Tour of Hainan, General classification",43556,DELETTRE Alexandre,30519,0,12,2024-08-31,-
+9,2.PS,"Tour of Hainan, General classification",43556,QUARTUCCI Lorenzo,30047,0,10,2024-08-31,-
+10,2.PS,"Tour of Hainan, General classification",43556,SAINBAYAR Jambaljamts,24289,0,8,2024-08-31,-
+1,2.PSs,"Tour of Hainan, Stage 5 : Changjiang - Changjiang",43555,SMIRNOV Ivan,27928,0.3,0,2024-08-31,-
 -4,GT2s,"Leiderstrui na Vuelta a España , Stage 13 : Lugo - Puerto de Ancares (prov.)",43489,O'Connor Ben,23763,1,0,2024-08-30,Nicky
 -1,GT2s,"Jongerentrui na Vuelta a España , Stage 13 : Lugo - Puerto de Ancares (prov.)",43489,Rodriguez Carlos,30836,0.1,0,2024-08-30,Vel
 -2,GT2s,"Puntentrui na Vuelta a España , Stage 13 : Lugo - Puerto de Ancares (prov.)",43489,van Aert Wout,20730,0.2,0,2024-08-30,Bram
 -3,GT2s,"Bergtrui na Vuelta a España , Stage 13 : Lugo - Puerto de Ancares (prov.)",43489,van Aert Wout,20730,0.2,0,2024-08-30,Bram
 1,GT2s,"Vuelta a España , Stage 13 : Lugo - Puerto de Ancares (prov.)",43489,WOODS Michael,20257,2,0,2024-08-30,Vel
 1,2.WT1s,"Renewi Tour , Stage 3 : Blankenberge - Ardooie (prov.)",43559,MILAN Jonathan,29359,1,0,2024-08-30,Albert
-1,2.PSs,"Tour of Hainan, Stage 4 : Wuzhishan - Changjiang (prov.)",43554,GATE Aaron,13153,0.3,0,2024-08-30,-
+1,2.PSs,"Tour of Hainan, Stage 4 : Wuzhishan - Changjiang",43554,GATE Aaron,13153,0.3,0,2024-08-30,-
 -4,GT2s,"Leiderstrui na Vuelta a España , Stage 12 : Ourense Termal - Estacion de Montaña de Manzaneda (prov.)",43488,O'Connor Ben,23763,1,0,2024-08-29,Nicky
 -1,GT2s,"Jongerentrui na Vuelta a España , Stage 12 : Ourense Termal - Estacion de Montaña de Manzaneda (prov.)",43488,Rodriguez Carlos,30836,0.1,0,2024-08-29,Vel
 -2,GT2s,"Puntentrui na Vuelta a España , Stage 12 : Ourense Termal - Estacion de Montaña de Manzaneda (prov.)",43488,van Aert Wout,20730,0.2,0,2024-08-29,Bram
 -3,GT2s,"Bergtrui na Vuelta a España , Stage 12 : Ourense Termal - Estacion de Montaña de Manzaneda (prov.)",43488,Yates Adam,18975,0.2,0,2024-08-29,Kees
 1,GT2s,"Vuelta a España , Stage 12 : Ourense Termal - Estacion de Montaña de Manzaneda (prov.)",43488,CASTRILLO ZAPATER Pablo,34135,2,0,2024-08-29,-
 1,2.WT1s,"Renewi Tour , Stage 2 : Tessenderlo I.T.T. (prov.)",43558,SEGAERT Alec,33567,1,0,2024-08-29,Albert
-1,2.PSs,"Tour of Hainan, Stage 3 : Lingshui - Wuzhishan (prov.)",43553,GATE Aaron,13153,0.3,0,2024-08-29,-
+1,2.PSs,"Tour of Hainan, Stage 3 : Lingshui - Wuzhishan",43553,GATE Aaron,13153,0.3,0,2024-08-29,-
 -4,GT2s,"Leiderstrui na Vuelta a España , Stage 11 : Padron - Padron (prov.)",43487,O'Connor Ben,23763,1,0,2024-08-28,Nicky
 -1,GT2s,"Jongerentrui na Vuelta a España , Stage 11 : Padron - Padron (prov.)",43487,Rodriguez Carlos,30836,0.1,0,2024-08-28,Vel
 -2,GT2s,"Puntentrui na Vuelta a España , Stage 11 : Padron - Padron (prov.)",43487,van Aert Wout,20730,0.2,0,2024-08-28,Bram
 -3,GT2s,"Bergtrui na Vuelta a España , Stage 11 : Padron - Padron (prov.)",43487,Yates Adam,18975,0.2,0,2024-08-28,Kees
 1,GT2s,"Vuelta a España , Stage 11 : Padron - Padron (prov.)",43487,DUNBAR Edward,23765,2,0,2024-08-28,Paul
 1,2.WT1s,"Renewi Tour , Stage 1 : Riemst - Bilzen (prov.)",43557,MILAN Jonathan,29359,1,0,2024-08-28,Albert
-1,2.PSs,"Tour of Hainan, Stage 2 : Qionghai - Lingshui (prov.)",43552,LAAS Martin,21460,0.3,0,2024-08-28,-
+1,2.PSs,"Tour of Hainan, Stage 2 : Qionghai - Lingshui",43552,LAAS Martin,21460,0.3,0,2024-08-28,-

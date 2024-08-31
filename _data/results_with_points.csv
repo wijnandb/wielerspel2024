@@ -1,4 +1,15 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
+1,2.PS,"Tour of Hainan, General classification (prov.)",43556,GATE Aaron,13153,4,50,2024-08-31,-
+2,2.PS,"Tour of Hainan, General classification (prov.)",43556,MULUBRHAN Henok,28186,1,35,2024-08-31,Wijnand
+3,2.PS,"Tour of Hainan, General classification (prov.)",43556,MAGLI Filippo,29779,0.5,25,2024-08-31,-
+4,2.PS,"Tour of Hainan, General classification (prov.)",43556,LOPEZ CARAVACA Jordi,31278,0,20,2024-08-31,-
+5,2.PS,"Tour of Hainan, General classification (prov.)",43556,RAILEANU Cristian,13770,0,18,2024-08-31,-
+6,2.PS,"Tour of Hainan, General classification (prov.)",43556,JAIME FERNANDEZ Alex,31741,0,16,2024-08-31,-
+7,2.PS,"Tour of Hainan, General classification (prov.)",43556,DIAZ GALLEGO Jose Manuel,24103,0,14,2024-08-31,-
+8,2.PS,"Tour of Hainan, General classification (prov.)",43556,DELETTRE Alexandre,30519,0,12,2024-08-31,-
+9,2.PS,"Tour of Hainan, General classification (prov.)",43556,QUARTUCCI Lorenzo,30047,0,10,2024-08-31,-
+10,2.PS,"Tour of Hainan, General classification (prov.)",43556,SAINBAYAR Jambaljamts,24289,0,8,2024-08-31,-
+1,2.PSs,"Tour of Hainan, Stage 5 : Changjiang - Changjiang (prov.)",43555,SMIRNOV Ivan,27928,0.3,0,2024-08-31,-
 -4,GT2s,"Leiderstrui na Vuelta a España , Stage 13 : Lugo - Puerto de Ancares (prov.)",43489,O'Connor Ben,23763,1,0,2024-08-30,Nicky
 -1,GT2s,"Jongerentrui na Vuelta a España , Stage 13 : Lugo - Puerto de Ancares (prov.)",43489,Rodriguez Carlos,30836,0.1,0,2024-08-30,Vel
 -2,GT2s,"Puntentrui na Vuelta a España , Stage 13 : Lugo - Puerto de Ancares (prov.)",43489,van Aert Wout,20730,0.2,0,2024-08-30,Bram

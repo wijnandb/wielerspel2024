@@ -1,4 +1,15 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
+1,2.PS,"Tour of Hainan, General classification (prov.)",43556,GATE Aaron,13153,0.0,0,2024-08-31
+2,2.PS,"Tour of Hainan, General classification (prov.)",43556,MULUBRHAN Henok,28186,0.0,0,2024-08-31
+3,2.PS,"Tour of Hainan, General classification (prov.)",43556,MAGLI Filippo,29779,0.0,0,2024-08-31
+4,2.PS,"Tour of Hainan, General classification (prov.)",43556,LOPEZ CARAVACA Jordi,31278,0.0,0,2024-08-31
+5,2.PS,"Tour of Hainan, General classification (prov.)",43556,RAILEANU Cristian,13770,0.0,0,2024-08-31
+6,2.PS,"Tour of Hainan, General classification (prov.)",43556,JAIME FERNANDEZ Alex,31741,0.0,0,2024-08-31
+7,2.PS,"Tour of Hainan, General classification (prov.)",43556,DIAZ GALLEGO Jose Manuel,24103,0.0,0,2024-08-31
+8,2.PS,"Tour of Hainan, General classification (prov.)",43556,DELETTRE Alexandre,30519,0.0,0,2024-08-31
+9,2.PS,"Tour of Hainan, General classification (prov.)",43556,QUARTUCCI Lorenzo,30047,0.0,0,2024-08-31
+10,2.PS,"Tour of Hainan, General classification (prov.)",43556,SAINBAYAR Jambaljamts,24289,0.0,0,2024-08-31
+1,2.PSs,"Tour of Hainan, Stage 5 : Changjiang - Changjiang (prov.)",43555,SMIRNOV Ivan,27928,0.0,0,2024-08-31
 -4,GT2s,"Leiderstrui na Vuelta a España , Stage 13 : Lugo - Puerto de Ancares (prov.)",43489,O'Connor Ben,23763,0.0,0,2024-08-30
 -1,GT2s,"Jongerentrui na Vuelta a España , Stage 13 : Lugo - Puerto de Ancares (prov.)",43489,Rodriguez Carlos,30836,0.0,0,2024-08-30
 -2,GT2s,"Puntentrui na Vuelta a España , Stage 13 : Lugo - Puerto de Ancares (prov.)",43489,van Aert Wout,20730,0.0,0,2024-08-30
@@ -28,4 +39,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
 -2,GT2s,"Puntentrui na Vuelta a España , Stage 10 : Punteareas - Baiona (prov.)",43486,van Aert Wout,20730,0.0,0,2024-08-27
 -3,GT2s,"Bergtrui na Vuelta a España , Stage 10 : Punteareas - Baiona (prov.)",43486,Yates Adam,18975,0.0,0,2024-08-27
 1,GT2s,"Vuelta a España , Stage 10 : Punteareas - Baiona (prov.)",43486,VAN AERT Wout,20730,0.0,0,2024-08-27
-1,2.PSs,"Tour of Hainan, Stage 1 : Qionghai - Qionghai (prov.)",43551,MARECZKO Jakub,22713,0.0,0,2024-08-27

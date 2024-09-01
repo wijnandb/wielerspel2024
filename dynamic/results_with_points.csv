@@ -1,6 +1,8 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 -4,GT2s,"Leiderstrui na Vuelta a España , Stage 15 : Infiesto - Cuitu Negru (prov.)",43491,O'Connor Ben,23763,1,0,2024-09-01,Nicky
 -1,GT2s,"Jongerentrui na Vuelta a España , Stage 15 : Infiesto - Cuitu Negru (prov.)",43491,Lipowitz Florian,30805,0.1,0,2024-09-01,-
+-2,GT2s,"Puntentrui na Vuelta a España , Stage 15 : Infiesto - Cuitu Negru (prov.)",43491,van Aert Wout,20730,0.2,0,2024-09-01,Bram
+-3,GT2s,"Bergtrui na Vuelta a España , Stage 15 : Infiesto - Cuitu Negru (prov.)",43491,van Aert Wout,20730,0.2,0,2024-09-01,Bram
 1,GT2s,"Vuelta a España , Stage 15 : Infiesto - Cuitu Negru (prov.)",43491,CASTRILLO ZAPATER Pablo,34135,2,0,2024-09-01,-
 1,2.WT1,"Renewi Tour , General classification (prov.)",43562,WELLENS Tim,16722,10,50,2024-09-01,Jan
 2,2.WT1,"Renewi Tour , General classification (prov.)",43562,SEGAERT Alec,33567,3,35,2024-09-01,Albert
@@ -13,6 +15,7 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 9,2.WT1,"Renewi Tour , General classification (prov.)",43562,SCHACHMANN Maximilian,20798,0,10,2024-09-01,Albert
 10,2.WT1,"Renewi Tour , General classification (prov.)",43562,BETTIOL Alberto,20697,0,8,2024-09-01,PB
 1,2.WT1s,"Renewi Tour , Stage 5 : Menen - Geraardsbergen (prov.)",43561,DE LIE Arnaud,32221,1,0,2024-09-01,PB
+1,2.WT2r,"Renewi Tour , Points classification (prov.)",43563,PHILIPSEN Jasper,26392,0.0,0,2024-09-01,Nicky
 -4,GT2s,"Leiderstrui na Vuelta a España , Stage 14 : Villafranca del Bierzo - Villablino (prov.)",43490,O'Connor Ben,23763,1,0,2024-08-31,Nicky
 -1,GT2s,"Jongerentrui na Vuelta a España , Stage 14 : Villafranca del Bierzo - Villablino (prov.)",43490,Rodriguez Carlos,30836,0.1,0,2024-08-31,Vel
 -2,GT2s,"Puntentrui na Vuelta a España , Stage 14 : Villafranca del Bierzo - Villablino (prov.)",43490,van Aert Wout,20730,0.2,0,2024-08-31,Bram

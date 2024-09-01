@@ -1,4 +1,15 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
+1,2.WT1,"Renewi Tour , General classification (prov.)",43562,WELLENS Tim,16722,10,50,2024-09-01,Jan
+2,2.WT1,"Renewi Tour , General classification (prov.)",43562,SEGAERT Alec,33567,3,35,2024-09-01,Albert
+3,2.WT1,"Renewi Tour , General classification (prov.)",43562,HAGENES Per Strand,30442,1,25,2024-09-01,Kaspar
+4,2.WT1,"Renewi Tour , General classification (prov.)",43562,LAPORTE Christophe,19953,0.5,20,2024-09-01,Paul
+5,2.WT1,"Renewi Tour , General classification (prov.)",43562,DEWULF Stan,25655,0.2,18,2024-09-01,-
+6,2.WT1,"Renewi Tour , General classification (prov.)",43562,PHILIPSEN Jasper,26392,0,16,2024-09-01,Nicky
+7,2.WT1,"Renewi Tour , General classification (prov.)",43562,TURNER Ben,27923,0,14,2024-09-01,Arjan
+8,2.WT1,"Renewi Tour , General classification (prov.)",43562,MOHORIC Matej,21145,0,12,2024-09-01,PB
+9,2.WT1,"Renewi Tour , General classification (prov.)",43562,SCHACHMANN Maximilian,20798,0,10,2024-09-01,Albert
+10,2.WT1,"Renewi Tour , General classification (prov.)",43562,BETTIOL Alberto,20697,0,8,2024-09-01,PB
+1,2.WT1s,"Renewi Tour , Stage 5 : Menen - Geraardsbergen (prov.)",43561,DE LIE Arnaud,32221,1,0,2024-09-01,PB
 -4,GT2s,"Leiderstrui na Vuelta a España , Stage 14 : Villafranca del Bierzo - Villablino (prov.)",43490,O'Connor Ben,23763,1,0,2024-08-31,Nicky
 -1,GT2s,"Jongerentrui na Vuelta a España , Stage 14 : Villafranca del Bierzo - Villablino (prov.)",43490,Rodriguez Carlos,30836,0.1,0,2024-08-31,Vel
 -2,GT2s,"Puntentrui na Vuelta a España , Stage 14 : Villafranca del Bierzo - Villablino (prov.)",43490,van Aert Wout,20730,0.2,0,2024-08-31,Bram
@@ -29,11 +40,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 -3,GT2s,"Bergtrui na Vuelta a España , Stage 12 : Ourense Termal - Estacion de Montaña de Manzaneda (prov.)",43488,Yates Adam,18975,0.2,0,2024-08-29,Kees
 1,GT2s,"Vuelta a España , Stage 12 : Ourense Termal - Estacion de Montaña de Manzaneda (prov.)",43488,CASTRILLO ZAPATER Pablo,34135,2,0,2024-08-29,-
 1,2.WT1s,"Renewi Tour , Stage 2 : Tessenderlo I.T.T. (prov.)",43558,SEGAERT Alec,33567,1,0,2024-08-29,Albert
-1,2.PSs,"Tour of Hainan, Stage 3 : Lingshui - Wuzhishan",43553,GATE Aaron,13153,0.3,0,2024-08-29,-
--4,GT2s,"Leiderstrui na Vuelta a España , Stage 11 : Padron - Padron (prov.)",43487,O'Connor Ben,23763,1,0,2024-08-28,Nicky
--1,GT2s,"Jongerentrui na Vuelta a España , Stage 11 : Padron - Padron (prov.)",43487,Rodriguez Carlos,30836,0.1,0,2024-08-28,Vel
--2,GT2s,"Puntentrui na Vuelta a España , Stage 11 : Padron - Padron (prov.)",43487,van Aert Wout,20730,0.2,0,2024-08-28,Bram
--3,GT2s,"Bergtrui na Vuelta a España , Stage 11 : Padron - Padron (prov.)",43487,Yates Adam,18975,0.2,0,2024-08-28,Kees
-1,GT2s,"Vuelta a España , Stage 11 : Padron - Padron (prov.)",43487,DUNBAR Edward,23765,2,0,2024-08-28,Paul
-1,2.WT1s,"Renewi Tour , Stage 1 : Riemst - Bilzen (prov.)",43557,MILAN Jonathan,29359,1,0,2024-08-28,Albert
-1,2.PSs,"Tour of Hainan, Stage 2 : Qionghai - Lingshui",43552,LAAS Martin,21460,0.3,0,2024-08-28,-

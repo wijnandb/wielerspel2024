@@ -1,6 +1,8 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 -4,GT2s,"Leiderstrui na Vuelta a España , Stage 16 : Luanco - Lagos de Covadonga (prov.)",43492,O'Connor Ben,23763,1,0,2024-09-03,Nicky
 -1,GT2s,"Jongerentrui na Vuelta a España , Stage 16 : Luanco - Lagos de Covadonga (prov.)",43492,Rodriguez Carlos,30836,0.1,0,2024-09-03,Vel
+-2,GT2s,"Puntentrui na Vuelta a España , Stage 16 : Luanco - Lagos de Covadonga (prov.)",43492,Groves Kaden,26637,0.2,0,2024-09-03,Paul
+-3,GT2s,"Bergtrui na Vuelta a España , Stage 16 : Luanco - Lagos de Covadonga (prov.)",43492,Vine Jay,29568,0.2,0,2024-09-03,Vel
 1,GT2s,"Vuelta a España , Stage 16 : Luanco - Lagos de Covadonga (prov.)",43492,SOLER Marc,23299,2,0,2024-09-03,Jan
 1,2.PSs,"Tour of Britain , Stage 1 : Kelso - Kelso (prov.)",43670,MAGNIER Paul,34555,0.3,0,2024-09-03,-
 -4,GT2s,"Leiderstrui na Vuelta a España , Stage 15 : Infiesto - Cuitu Negru (prov.)",43491,O'Connor Ben,23763,1,0,2024-09-01,Nicky
@@ -20,6 +22,7 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 10,2.WT1,"Renewi Tour , General classification",43562,BETTIOL Alberto,20697,0,8,2024-09-01,PB
 1,2.WT1s,"Renewi Tour , Stage 5 : Menen - Geraardsbergen",43561,DE LIE Arnaud,32221,1,0,2024-09-01,PB
 1,2.WT2r,"Renewi Tour , Points classification",43563,PHILIPSEN Jasper,26392,0.0,0,2024-09-01,Nicky
+1,NC4,National Championships Mexico (Toliman) R.R. (prov.),43790,CADENA MARTINEZ Edgar David,32051,1,0,2024-09-01,-
 -4,GT2s,"Leiderstrui na Vuelta a España , Stage 14 : Villafranca del Bierzo - Villablino (prov.)",43490,O'Connor Ben,23763,1,0,2024-08-31,Nicky
 -1,GT2s,"Jongerentrui na Vuelta a España , Stage 14 : Villafranca del Bierzo - Villablino (prov.)",43490,Rodriguez Carlos,30836,0.1,0,2024-08-31,Vel
 -2,GT2s,"Puntentrui na Vuelta a España , Stage 14 : Villafranca del Bierzo - Villablino (prov.)",43490,van Aert Wout,20730,0.2,0,2024-08-31,Bram

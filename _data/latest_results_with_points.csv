@@ -1,4 +1,7 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
+-4,GT2s,"Leiderstrui na Vuelta a España , Stage 17 : Arnuera - Santander (prov.)",43493,O'Connor Ben,23763,1,0,2024-09-04,Nicky
+-1,GT2s,"Jongerentrui na Vuelta a España , Stage 17 : Arnuera - Santander (prov.)",43493,Rodriguez Carlos,30836,0.1,0,2024-09-04,Vel
+1,GT2s,"Vuelta a España , Stage 17 : Arnuera - Santander (prov.)",43493,GROVES Kaden,26637,2,0,2024-09-04,Paul
 1,2.PSs,"Tour of Britain , Stage 2 : Darlington - Redcar (prov.)",43671,WILLIAMS Stephen,24346,0.3,0,2024-09-04,PB
 -4,GT2s,"Leiderstrui na Vuelta a España , Stage 16 : Luanco - Lagos de Covadonga (prov.)",43492,O'Connor Ben,23763,1,0,2024-09-03,Nicky
 -1,GT2s,"Jongerentrui na Vuelta a España , Stage 16 : Luanco - Lagos de Covadonga (prov.)",43492,Rodriguez Carlos,30836,0.1,0,2024-09-03,Vel
@@ -29,4 +32,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 -2,GT2s,"Puntentrui na Vuelta a España , Stage 14 : Villafranca del Bierzo - Villablino (prov.)",43490,van Aert Wout,20730,0.2,0,2024-08-31,Bram
 -3,GT2s,"Bergtrui na Vuelta a España , Stage 14 : Villafranca del Bierzo - Villablino (prov.)",43490,van Aert Wout,20730,0.2,0,2024-08-31,Bram
 1,GT2s,"Vuelta a España , Stage 14 : Villafranca del Bierzo - Villablino (prov.)",43490,GROVES Kaden,26637,2,0,2024-08-31,Paul
-1,2.WT1s,"Renewi Tour , Stage 4 : Oostburg - Aalter",43560,PHILIPSEN Jasper,26392,1,0,2024-08-31,Nicky

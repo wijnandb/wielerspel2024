@@ -1,4 +1,10 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
+-4,GT2s,"Leiderstrui na Vuelta a España , Stage 18 : Vitoria - Maetzu (prov.)",43494,O'Connor Ben,23763,1,0,2024-09-05,Nicky
+-1,GT2s,"Jongerentrui na Vuelta a España , Stage 18 : Vitoria - Maetzu (prov.)",43494,Rodriguez Carlos,30836,0.1,0,2024-09-05,Vel
+-2,GT2s,"Puntentrui na Vuelta a España , Stage 18 : Vitoria - Maetzu (prov.)",43494,Groves Kaden,26637,0.2,0,2024-09-05,Paul
+-3,GT2s,"Bergtrui na Vuelta a España , Stage 18 : Vitoria - Maetzu (prov.)",43494,Soler Marc,23299,0.2,0,2024-09-05,Jan
+1,GT2s,"Vuelta a España , Stage 18 : Vitoria - Maetzu (prov.)",43494,BERRADE FERNANDEZ Urko,27108,2,0,2024-09-05,-
+1,2.PSs,"Tour of Britain , Stage 3 : Sheffield - Barnsley (prov.)",43672,WILLIAMS Stephen,24346,0.3,0,2024-09-05,PB
 -4,GT2s,"Leiderstrui na Vuelta a España , Stage 17 : Arnuera - Santander (prov.)",43493,O'Connor Ben,23763,1,0,2024-09-04,Nicky
 -1,GT2s,"Jongerentrui na Vuelta a España , Stage 17 : Arnuera - Santander (prov.)",43493,Rodriguez Carlos,30836,0.1,0,2024-09-04,Vel
 -2,GT2s,"Puntentrui na Vuelta a España , Stage 17 : Arnuera - Santander (prov.)",43493,Groves Kaden,26637,0.2,0,2024-09-04,Paul

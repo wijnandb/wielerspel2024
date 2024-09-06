@@ -139,7 +139,11 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 3,1.1,Druivenkoers - Overijse,43335,BIERMANS Jenthe,22010,0.1,0,2024-08-23,Frank
 1,2.1s,"Tour Poitou-Charentes en Nouvelle Aquitaine, Stage 4 : Fontaine-le-Comte - Poitiers",43514,DEMARE Arnaud,16653,0.2,0,2024-08-23,Jan
 1,2.NCs,"Tour de l'Avenir, Stage 5 : Les Karellis - Condove",43506,KAJAMINI Florian Samuel,33132,0.0,0,2024-08-23,-
-1,GT2r,"Vuelta a España , Stage 6 : Jerez de la Frontera - Yunquera (prov.)",43482,O'CONNOR Ben,23763,5,0,2024-08-22,Nicky
+-4,GT2s,"Leiderstrui na Vuelta a España , Stage 6 : Jerez de la Frontera - Yunquera (prov.)",43482,O'Connor Ben,23763,1,0,2024-08-22,Nicky
+-1,GT2s,"Jongerentrui na Vuelta a España , Stage 6 : Jerez de la Frontera - Yunquera (prov.)",43482,Lipowitz Florian,30805,0.1,0,2024-08-22,-
+-2,GT2s,"Puntentrui na Vuelta a España , Stage 6 : Jerez de la Frontera - Yunquera (prov.)",43482,van Aert Wout,20730,0.2,0,2024-08-22,Bram
+-3,GT2s,"Bergtrui na Vuelta a España , Stage 6 : Jerez de la Frontera - Yunquera (prov.)",43482,Moniquet Sylvain,26331,0.2,0,2024-08-22,-
+1,GT2s,"Vuelta a España , Stage 6 : Jerez de la Frontera - Yunquera (prov.)",43482,O'CONNOR Ben,23763,2,0,2024-08-22,Nicky
 1,2.PSs,"Deutschland Tour, Stage 1 : Schweinfurt - Heilbronn (prov.)",43522,MILAN Jonathan,29359,0.3,0,2024-08-22,Albert
 1,2.1s,"Tour Poitou-Charentes en Nouvelle Aquitaine, Stage 3 : Ménigoute - Fontaine-le-Comte I.T.T.",43513,WAERENSKJOLD Søren,29187,0.2,0,2024-08-22,Albert
 1,2.NCs,"Tour de l'Avenir, Stage 4 : La Rosière - Les Karellis (prov.)",43505,TORRES ARIAS Pablo,35894,0.0,0,2024-08-22,-

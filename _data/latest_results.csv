@@ -1,4 +1,5 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
+1,2.PSs,"Tour of Britain , Stage 4 : Derby - Newark (prov.)",43673,MAGNIER Paul,34555,0.0,0,2024-09-06
 -4,GT2s,"Leiderstrui na Vuelta a España , Stage 18 : Vitoria - Maetzu (prov.)",43494,O'Connor Ben,23763,0.0,0,2024-09-05
 -1,GT2s,"Jongerentrui na Vuelta a España , Stage 18 : Vitoria - Maetzu (prov.)",43494,Rodriguez Carlos,30836,0.0,0,2024-09-05
 -2,GT2s,"Puntentrui na Vuelta a España , Stage 18 : Vitoria - Maetzu (prov.)",43494,Groves Kaden,26637,0.0,0,2024-09-05
@@ -33,4 +34,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
 9,2.WT1,"Renewi Tour , General classification",43562,SCHACHMANN Maximilian,20798,0.0,0,2024-09-01
 10,2.WT1,"Renewi Tour , General classification",43562,BETTIOL Alberto,20697,0.0,0,2024-09-01
 1,2.WT1s,"Renewi Tour , Stage 5 : Menen - Geraardsbergen",43561,DE LIE Arnaud,32221,0.0,0,2024-09-01
-1,2.WT2r,"Renewi Tour , Points classification",43563,PHILIPSEN Jasper,26392,0.0,0,2024-09-01

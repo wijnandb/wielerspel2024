@@ -1,4 +1,9 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
+-4,GT2s,"Leiderstrui na Vuelta a España , Stage 19 : Logroño - Alto de Moncalvillo (prov.)",43495,Roglic Primoz,20719,1,0,2024-09-06,Frank
+-1,GT2s,"Jongerentrui na Vuelta a España , Stage 19 : Logroño - Alto de Moncalvillo (prov.)",43495,Skjelmose Mattias,30166,0.1,0,2024-09-06,Kaspar
+-2,GT2s,"Puntentrui na Vuelta a España , Stage 19 : Logroño - Alto de Moncalvillo (prov.)",43495,Groves Kaden,26637,0.2,0,2024-09-06,Paul
+-3,GT2s,"Bergtrui na Vuelta a España , Stage 19 : Logroño - Alto de Moncalvillo (prov.)",43495,Soler Marc,23299,0.2,0,2024-09-06,Jan
+1,GT2s,"Vuelta a España , Stage 19 : Logroño - Alto de Moncalvillo (prov.)",43495,ROGLIC Primoz,20719,2,0,2024-09-06,Frank
 1,2.PSs,"Tour of Britain , Stage 4 : Derby - Newark (prov.)",43673,MAGNIER Paul,34555,0.3,0,2024-09-06,-
 -4,GT2s,"Leiderstrui na Vuelta a España , Stage 18 : Vitoria - Maetzu (prov.)",43494,O'Connor Ben,23763,1,0,2024-09-05,Nicky
 -1,GT2s,"Jongerentrui na Vuelta a España , Stage 18 : Vitoria - Maetzu (prov.)",43494,Rodriguez Carlos,30836,0.1,0,2024-09-05,Vel

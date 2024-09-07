@@ -1,4 +1,5 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
+1,2.PSs,"Tour of Britain , Stage 5 : Northampton - Northampton (prov.)",43674,MAGNIER Paul,34555,0.0,0,2024-09-07
 -4,GT2s,"Leiderstrui na Vuelta a España , Stage 19 : Logroño - Alto de Moncalvillo (prov.)",43495,Roglic Primoz,20719,0.0,0,2024-09-06
 -1,GT2s,"Jongerentrui na Vuelta a España , Stage 19 : Logroño - Alto de Moncalvillo (prov.)",43495,Skjelmose Mattias,30166,0.0,0,2024-09-06
 -2,GT2s,"Puntentrui na Vuelta a España , Stage 19 : Logroño - Alto de Moncalvillo (prov.)",43495,Groves Kaden,26637,0.0,0,2024-09-06
@@ -23,8 +24,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
 -3,GT2s,"Bergtrui na Vuelta a España , Stage 16 : Luanco - Lagos de Covadonga (prov.)",43492,Vine Jay,29568,0.0,0,2024-09-03
 1,GT2s,"Vuelta a España , Stage 16 : Luanco - Lagos de Covadonga (prov.)",43492,SOLER Marc,23299,0.0,0,2024-09-03
 1,2.PSs,"Tour of Britain , Stage 1 : Kelso - Kelso (prov.)",43670,MAGNIER Paul,34555,0.0,0,2024-09-03
--4,GT2s,"Leiderstrui na Vuelta a España , Stage 15 : Infiesto - Cuitu Negru (prov.)",43491,O'Connor Ben,23763,0.0,0,2024-09-01
--1,GT2s,"Jongerentrui na Vuelta a España , Stage 15 : Infiesto - Cuitu Negru (prov.)",43491,Lipowitz Florian,30805,0.0,0,2024-09-01
--2,GT2s,"Puntentrui na Vuelta a España , Stage 15 : Infiesto - Cuitu Negru (prov.)",43491,van Aert Wout,20730,0.0,0,2024-09-01
--3,GT2s,"Bergtrui na Vuelta a España , Stage 15 : Infiesto - Cuitu Negru (prov.)",43491,van Aert Wout,20730,0.0,0,2024-09-01
-1,GT2s,"Vuelta a España , Stage 15 : Infiesto - Cuitu Negru (prov.)",43491,CASTRILLO ZAPATER Pablo,34135,0.0,0,2024-09-01

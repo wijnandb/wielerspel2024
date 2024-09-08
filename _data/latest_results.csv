@@ -1,71 +1,71 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
-1,GT2,"Vuelta a España , General classification (prov.)",43498,ROGLIC Primoz,20719,0.0,0,2024-09-08
-2,GT2,"Vuelta a España , General classification (prov.)",43498,O'CONNOR Ben,23763,0.0,0,2024-09-08
-3,GT2,"Vuelta a España , General classification (prov.)",43498,MAS NICOLAU Enric,22794,0.0,0,2024-09-08
-4,GT2,"Vuelta a España , General classification (prov.)",43498,CARAPAZ MONTENEGRO Richard Antonio,21342,0.0,0,2024-09-08
-5,GT2,"Vuelta a España , General classification (prov.)",43498,SKJELMOSE JENSEN Mattias,30166,0.0,0,2024-09-08
-6,GT2,"Vuelta a España , General classification (prov.)",43498,GAUDU David,24255,0.0,0,2024-09-08
-7,GT2,"Vuelta a España , General classification (prov.)",43498,LIPOWITZ Florian,30805,0.0,0,2024-09-08
-8,GT2,"Vuelta a España , General classification (prov.)",43498,LANDA MEANA Mikel,14319,0.0,0,2024-09-08
-9,GT2,"Vuelta a España , General classification (prov.)",43498,SIVAKOV Pavel,24934,0.0,0,2024-09-08
-10,GT2,"Vuelta a España , General classification (prov.)",43498,RODRIGUEZ CANO Carlos,30836,0.0,0,2024-09-08
-11,GT2,"Vuelta a España , General classification (prov.)",43498,DUNBAR Edward,23765,0.0,0,2024-09-08
-12,GT2,"Vuelta a España , General classification (prov.)",43498,YATES Adam,18975,0.0,0,2024-09-08
-13,GT2,"Vuelta a España , General classification (prov.)",43498,RODRIGUEZ MARTIN Cristian,24102,0.0,0,2024-09-08
-14,GT2,"Vuelta a España , General classification (prov.)",43498,KUSS Sepp,25653,0.0,0,2024-09-08
-15,GT2,"Vuelta a España , General classification (prov.)",43498,MARTIN Guillaume,19994,0.0,0,2024-09-08
+1,GT2,"Vuelta a España , General classification",43498,ROGLIC Primoz,20719,0.0,0,2024-09-08
+2,GT2,"Vuelta a España , General classification",43498,O'CONNOR Ben,23763,0.0,0,2024-09-08
+3,GT2,"Vuelta a España , General classification",43498,MAS NICOLAU Enric,22794,0.0,0,2024-09-08
+4,GT2,"Vuelta a España , General classification",43498,CARAPAZ MONTENEGRO Richard Antonio,21342,0.0,0,2024-09-08
+5,GT2,"Vuelta a España , General classification",43498,SKJELMOSE JENSEN Mattias,30166,0.0,0,2024-09-08
+6,GT2,"Vuelta a España , General classification",43498,GAUDU David,24255,0.0,0,2024-09-08
+7,GT2,"Vuelta a España , General classification",43498,LIPOWITZ Florian,30805,0.0,0,2024-09-08
+8,GT2,"Vuelta a España , General classification",43498,LANDA MEANA Mikel,14319,0.0,0,2024-09-08
+9,GT2,"Vuelta a España , General classification",43498,SIVAKOV Pavel,24934,0.0,0,2024-09-08
+10,GT2,"Vuelta a España , General classification",43498,RODRIGUEZ CANO Carlos,30836,0.0,0,2024-09-08
+11,GT2,"Vuelta a España , General classification",43498,DUNBAR Edward,23765,0.0,0,2024-09-08
+12,GT2,"Vuelta a España , General classification",43498,YATES Adam,18975,0.0,0,2024-09-08
+13,GT2,"Vuelta a España , General classification",43498,RODRIGUEZ MARTIN Cristian,24102,0.0,0,2024-09-08
+14,GT2,"Vuelta a España , General classification",43498,KUSS Sepp,25653,0.0,0,2024-09-08
+15,GT2,"Vuelta a España , General classification",43498,MARTIN Guillaume,19994,0.0,0,2024-09-08
 0,GT2c,Correctie dragen jongerentrui in Vuelta a España,43497,Skjelmose Mattias,30166,-0.2,0,2024-09-08
 0,GT2c,Correctie dragen leiderstrui in Vuelta a España,43498,Roglic Primoz,20719,-4.0,0,2024-09-08
 0,GT2c,Correctie dragen puntentrui in Vuelta a España,43499,Groves Kaden,26637,-1.2,0,2024-09-08
 0,GT2c,Correctie dragen bergtrui in Vuelta a España,43500,Vine Jay,29568,-0.6,0,2024-09-08
 -1,GT2,Winnaar jongerentrui Vuelta a Españ,43497,Skjelmose Mattias,30166,0,0,2024-09-08
-1,GT2s,"Vuelta a España , Stage 21 : Madrid - Madrid I.T.T. (prov.)",43497,KÜNG Stefan,20960,0.0,0,2024-09-08
-1,GT2r,"Vuelta a España , Points classification (prov.)",43499,GROVES Kaden,26637,0.0,0,2024-09-08
-1,GT2r,"Vuelta a España , Mountains classification (prov.)",43500,VINE Jay,29568,0.0,0,2024-09-08
-1,1.WT2,Bemer Cyclassics - Hamburg (prov.),43515,KOOIJ Olav,30643,0.0,0,2024-09-08
-2,1.WT2,Bemer Cyclassics - Hamburg (prov.),43515,MILAN Jonathan,29359,0.0,0,2024-09-08
-3,1.WT2,Bemer Cyclassics - Hamburg (prov.),43515,GIRMAY HAILU Biniam,29474,0.0,0,2024-09-08
-4,1.WT2,Bemer Cyclassics - Hamburg (prov.),43515,MEEUS Jordi,26421,0.0,0,2024-09-08
-5,1.WT2,Bemer Cyclassics - Hamburg (prov.),43515,KRISTOFF Alexander,4179,0.0,0,2024-09-08
-6,1.WT2,Bemer Cyclassics - Hamburg (prov.),43515,ZINGLE Axel,31263,0.0,0,2024-09-08
-7,1.WT2,Bemer Cyclassics - Hamburg (prov.),43515,PHILIPSEN Jasper,26392,0.0,0,2024-09-08
-8,1.WT2,Bemer Cyclassics - Hamburg (prov.),43515,TEUNISSEN Mike,19165,0.0,0,2024-09-08
-9,1.WT2,Bemer Cyclassics - Hamburg (prov.),43515,TRENTIN Matteo,13270,0.0,0,2024-09-08
-10,1.WT2,Bemer Cyclassics - Hamburg (prov.),43515,OLDANI Stefano,27072,0.0,0,2024-09-08
-1,2.PS,"Tour of Britain , General classification (prov.)",43676,WILLIAMS Stephen,24346,0.0,0,2024-09-08
-2,2.PS,"Tour of Britain , General classification (prov.)",43676,ONLEY Oscar,31724,0.0,0,2024-09-08
-3,2.PS,"Tour of Britain , General classification (prov.)",43676,DONNENWIRTH Tom,34163,0.0,0,2024-09-08
-4,2.PS,"Tour of Britain , General classification (prov.)",43676,DONOVAN Mark,27964,0.0,0,2024-09-08
-5,2.PS,"Tour of Britain , General classification (prov.)",43676,BLACKMORE Joseph,34973,0.0,0,2024-09-08
-6,2.PS,"Tour of Britain , General classification (prov.)",43676,KRIJNSEN Jelte,32717,0.0,0,2024-09-08
-7,2.PS,"Tour of Britain , General classification (prov.)",43676,ZAMBANINI Edoardo,31437,0.0,0,2024-09-08
-8,2.PS,"Tour of Britain , General classification (prov.)",43676,BREGNHØJ Mathias,25637,0.0,0,2024-09-08
-9,2.PS,"Tour of Britain , General classification (prov.)",43676,ISIDORE Noa,34396,0.0,0,2024-09-08
-10,2.PS,"Tour of Britain , General classification (prov.)",43676,FLYNN Sean,29931,0.0,0,2024-09-08
-1,1.PS,GP de Fourmies (prov.),43152,DE KLEIJN Arvid,22596,0.0,0,2024-09-08
-2,1.PS,GP de Fourmies (prov.),43152,THIJSSEN Gerben,27085,0.0,0,2024-09-08
-3,1.PS,GP de Fourmies (prov.),43152,WAERENSKJOLD Søren,29187,0.0,0,2024-09-08
-4,1.PS,GP de Fourmies (prov.),43152,FRETIN Milan,32617,0.0,0,2024-09-08
-5,1.PS,GP de Fourmies (prov.),43152,PAGE Hugo,30663,0.0,0,2024-09-08
-6,1.PS,GP de Fourmies (prov.),43152,PLOWRIGHT Jensen,29528,0.0,0,2024-09-08
-7,1.PS,GP de Fourmies (prov.),43152,JEANNIERE Emilien,29288,0.0,0,2024-09-08
-8,1.PS,GP de Fourmies (prov.),43152,ABERASTURI IZAGA Jon,15286,0.0,0,2024-09-08
-9,1.PS,GP de Fourmies (prov.),43152,POLLEFLIET Gianluca,32735,0.0,0,2024-09-08
-10,1.PS,GP de Fourmies (prov.),43152,PITHIE Laurence,31638,0.0,0,2024-09-08
-1,1.PS,GP Industria & Artigianato - Larciano (prov.),43132,HIRSCHI Marc,26509,0.0,0,2024-09-08
-2,1.PS,GP Industria & Artigianato - Larciano (prov.),43132,SILVA COUSSAN Guillermo Thomas,32828,0.0,0,2024-09-08
-3,1.PS,GP Industria & Artigianato - Larciano (prov.),43132,ULISSI Diego,10023,0.0,0,2024-09-08
-4,1.PS,GP Industria & Artigianato - Larciano (prov.),43132,ROMO OLIVER Javier,31678,0.0,0,2024-09-08
-5,1.PS,GP Industria & Artigianato - Larciano (prov.),43132,VELASCO Simone,22662,0.0,0,2024-09-08
-6,1.PS,GP Industria & Artigianato - Larciano (prov.),43132,ALBANESE Vincenzo,24139,0.0,0,2024-09-08
-7,1.PS,GP Industria & Artigianato - Larciano (prov.),43132,VERCHER Mattéo,32905,0.0,0,2024-09-08
-8,1.PS,GP Industria & Artigianato - Larciano (prov.),43132,NICOLAU BELTRAN Joel,29873,0.0,0,2024-09-08
-9,1.PS,GP Industria & Artigianato - Larciano (prov.),43132,BRAMBILLA Gianluca,7279,0.0,0,2024-09-08
-10,1.PS,GP Industria & Artigianato - Larciano (prov.),43132,CARBONI Giovanni,22210,0.0,0,2024-09-08
-1,2.PSs,"Tour of Britain , Stage 6 : Lowestoft - Felixstowe (prov.)",43675,GOVEKAR Matevz,20406,0.0,0,2024-09-08
--4,GT2s,"Leiderstrui na Vuelta a España , Stage 20 : Villarcayo - Picon Blanco (prov.)",43496,Roglic Primoz,20719,0.0,0,2024-09-07
--1,GT2s,"Jongerentrui na Vuelta a España , Stage 20 : Villarcayo - Picon Blanco (prov.)",43496,Skjelmose Mattias,30166,0.0,0,2024-09-07
--2,GT2s,"Puntentrui na Vuelta a España , Stage 20 : Villarcayo - Picon Blanco (prov.)",43496,Groves Kaden,26637,0.0,0,2024-09-07
--3,GT2s,"Bergtrui na Vuelta a España , Stage 20 : Villarcayo - Picon Blanco (prov.)",43496,Vine Jay,29568,0.0,0,2024-09-07
-1,GT2s,"Vuelta a España , Stage 20 : Villarcayo - Picon Blanco (prov.)",43496,DUNBAR Edward,23765,0.0,0,2024-09-07
-1,2.PSs,"Tour of Britain , Stage 5 : Northampton - Northampton (prov.)",43674,MAGNIER Paul,34555,0.0,0,2024-09-07
+1,GT2s,"Vuelta a España , Stage 21 : Madrid - Madrid I.T.T.",43497,KÜNG Stefan,20960,0.0,0,2024-09-08
+1,GT2r,"Vuelta a España , Points classification",43499,GROVES Kaden,26637,0.0,0,2024-09-08
+1,GT2r,"Vuelta a España , Mountains classification",43500,VINE Jay,29568,0.0,0,2024-09-08
+1,1.WT2,Bemer Cyclassics - Hamburg,43515,KOOIJ Olav,30643,0.0,0,2024-09-08
+2,1.WT2,Bemer Cyclassics - Hamburg,43515,MILAN Jonathan,29359,0.0,0,2024-09-08
+3,1.WT2,Bemer Cyclassics - Hamburg,43515,GIRMAY HAILU Biniam,29474,0.0,0,2024-09-08
+4,1.WT2,Bemer Cyclassics - Hamburg,43515,MEEUS Jordi,26421,0.0,0,2024-09-08
+5,1.WT2,Bemer Cyclassics - Hamburg,43515,KRISTOFF Alexander,4179,0.0,0,2024-09-08
+6,1.WT2,Bemer Cyclassics - Hamburg,43515,ZINGLE Axel,31263,0.0,0,2024-09-08
+7,1.WT2,Bemer Cyclassics - Hamburg,43515,PHILIPSEN Jasper,26392,0.0,0,2024-09-08
+8,1.WT2,Bemer Cyclassics - Hamburg,43515,TEUNISSEN Mike,19165,0.0,0,2024-09-08
+9,1.WT2,Bemer Cyclassics - Hamburg,43515,TRENTIN Matteo,13270,0.0,0,2024-09-08
+10,1.WT2,Bemer Cyclassics - Hamburg,43515,OLDANI Stefano,27072,0.0,0,2024-09-08
+1,2.PS,"Tour of Britain , General classification",43676,WILLIAMS Stephen,24346,0.0,0,2024-09-08
+2,2.PS,"Tour of Britain , General classification",43676,ONLEY Oscar,31724,0.0,0,2024-09-08
+3,2.PS,"Tour of Britain , General classification",43676,DONNENWIRTH Tom,34163,0.0,0,2024-09-08
+4,2.PS,"Tour of Britain , General classification",43676,DONOVAN Mark,27964,0.0,0,2024-09-08
+5,2.PS,"Tour of Britain , General classification",43676,BLACKMORE Joseph,34973,0.0,0,2024-09-08
+6,2.PS,"Tour of Britain , General classification",43676,KRIJNSEN Jelte,32717,0.0,0,2024-09-08
+7,2.PS,"Tour of Britain , General classification",43676,ZAMBANINI Edoardo,31437,0.0,0,2024-09-08
+8,2.PS,"Tour of Britain , General classification",43676,BREGNHØJ Mathias,25637,0.0,0,2024-09-08
+9,2.PS,"Tour of Britain , General classification",43676,ISIDORE Noa,34396,0.0,0,2024-09-08
+10,2.PS,"Tour of Britain , General classification",43676,FLYNN Sean,29931,0.0,0,2024-09-08
+1,1.PS,GP Industria & Artigianato - Larciano,43132,HIRSCHI Marc,26509,0.0,0,2024-09-08
+2,1.PS,GP Industria & Artigianato - Larciano,43132,SILVA COUSSAN Guillermo Thomas,32828,0.0,0,2024-09-08
+3,1.PS,GP Industria & Artigianato - Larciano,43132,ULISSI Diego,10023,0.0,0,2024-09-08
+4,1.PS,GP Industria & Artigianato - Larciano,43132,ROMO OLIVER Javier,31678,0.0,0,2024-09-08
+5,1.PS,GP Industria & Artigianato - Larciano,43132,VELASCO Simone,22662,0.0,0,2024-09-08
+6,1.PS,GP Industria & Artigianato - Larciano,43132,ALBANESE Vincenzo,24139,0.0,0,2024-09-08
+7,1.PS,GP Industria & Artigianato - Larciano,43132,VERCHER Mattéo,32905,0.0,0,2024-09-08
+8,1.PS,GP Industria & Artigianato - Larciano,43132,NICOLAU BELTRAN Joel,29873,0.0,0,2024-09-08
+9,1.PS,GP Industria & Artigianato - Larciano,43132,BRAMBILLA Gianluca,7279,0.0,0,2024-09-08
+10,1.PS,GP Industria & Artigianato - Larciano,43132,CARBONI Giovanni,22210,0.0,0,2024-09-08
+1,1.PS,GP de Fourmies,43152,DE KLEIJN Arvid,22596,0.0,0,2024-09-08
+2,1.PS,GP de Fourmies,43152,THIJSSEN Gerben,27085,0.0,0,2024-09-08
+3,1.PS,GP de Fourmies,43152,WAERENSKJOLD Søren,29187,0.0,0,2024-09-08
+4,1.PS,GP de Fourmies,43152,FRETIN Milan,32617,0.0,0,2024-09-08
+5,1.PS,GP de Fourmies,43152,PAGE Hugo,30663,0.0,0,2024-09-08
+6,1.PS,GP de Fourmies,43152,PLOWRIGHT Jensen,29528,0.0,0,2024-09-08
+7,1.PS,GP de Fourmies,43152,JEANNIERE Emilien,29288,0.0,0,2024-09-08
+8,1.PS,GP de Fourmies,43152,ABERASTURI IZAGA Jon,15286,0.0,0,2024-09-08
+9,1.PS,GP de Fourmies,43152,POLLEFLIET Gianluca,32735,0.0,0,2024-09-08
+10,1.PS,GP de Fourmies,43152,PITHIE Laurence,31638,0.0,0,2024-09-08
+1,2.PSs,"Tour of Britain , Stage 6 : Lowestoft - Felixstowe",43675,GOVEKAR Matevz,20406,0.0,0,2024-09-08
+-4,GT2s,"Leiderstrui na Vuelta a España , Stage 20 : Villarcayo - Picon Blanco",43496,Roglic Primoz,20719,0.0,0,2024-09-07
+-1,GT2s,"Jongerentrui na Vuelta a España , Stage 20 : Villarcayo - Picon Blanco",43496,Skjelmose Mattias,30166,0.0,0,2024-09-07
+-2,GT2s,"Puntentrui na Vuelta a España , Stage 20 : Villarcayo - Picon Blanco",43496,Groves Kaden,26637,0.0,0,2024-09-07
+-3,GT2s,"Bergtrui na Vuelta a España , Stage 20 : Villarcayo - Picon Blanco",43496,Vine Jay,29568,0.0,0,2024-09-07
+1,GT2s,"Vuelta a España , Stage 20 : Villarcayo - Picon Blanco",43496,DUNBAR Edward,23765,0.0,0,2024-09-07
+1,2.PSs,"Tour of Britain , Stage 5 : Northampton - Northampton",43674,MAGNIER Paul,34555,0.0,0,2024-09-07

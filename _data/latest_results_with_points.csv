@@ -1,4 +1,27 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
+1,GT2,"Vuelta a España , General classification (prov.)",43498,ROGLIC Primoz,20719,25,50,2024-09-08,Frank
+2,GT2,"Vuelta a España , General classification (prov.)",43498,O'CONNOR Ben,23763,10,35,2024-09-08,Nicky
+3,GT2,"Vuelta a España , General classification (prov.)",43498,MAS NICOLAU Enric,22794,7,25,2024-09-08,Bram
+4,GT2,"Vuelta a España , General classification (prov.)",43498,CARAPAZ MONTENEGRO Richard Antonio,21342,5,20,2024-09-08,Paul
+5,GT2,"Vuelta a España , General classification (prov.)",43498,SKJELMOSE JENSEN Mattias,30166,4,18,2024-09-08,Kaspar
+6,GT2,"Vuelta a España , General classification (prov.)",43498,GAUDU David,24255,3,16,2024-09-08,PB
+7,GT2,"Vuelta a España , General classification (prov.)",43498,LIPOWITZ Florian,30805,3,14,2024-09-08,-
+8,GT2,"Vuelta a España , General classification (prov.)",43498,LANDA MEANA Mikel,14319,2,12,2024-09-08,Albert
+9,GT2,"Vuelta a España , General classification (prov.)",43498,SIVAKOV Pavel,24934,2,10,2024-09-08,Albert
+10,GT2,"Vuelta a España , General classification (prov.)",43498,RODRIGUEZ CANO Carlos,30836,2,8,2024-09-08,Vel
+11,GT2,"Vuelta a España , General classification (prov.)",43498,DUNBAR Edward,23765,1,0,2024-09-08,Paul
+12,GT2,"Vuelta a España , General classification (prov.)",43498,YATES Adam,18975,1,0,2024-09-08,Kees
+13,GT2,"Vuelta a España , General classification (prov.)",43498,RODRIGUEZ MARTIN Cristian,24102,1,0,2024-09-08,-
+14,GT2,"Vuelta a España , General classification (prov.)",43498,KUSS Sepp,25653,1,0,2024-09-08,Arjan
+15,GT2,"Vuelta a España , General classification (prov.)",43498,MARTIN Guillaume,19994,1,0,2024-09-08,Nicky
+0,GT2c,Correctie dragen jongerentrui in Vuelta a España,43497,Skjelmose Mattias,30166,-0.2,0,2024-09-08,Kaspar
+0,GT2c,Correctie dragen leiderstrui in Vuelta a España,43498,Roglic Primoz,20719,-4.0,0,2024-09-08,Frank
+0,GT2c,Correctie dragen puntentrui in Vuelta a España,43499,Groves Kaden,26637,-1.2,0,2024-09-08,Paul
+0,GT2c,Correctie dragen bergtrui in Vuelta a España,43500,Vine Jay,29568,-0.6,0,2024-09-08,Vel
+-1,GT2,Winnaar jongerentrui Vuelta a Españ,43497,Skjelmose Mattias,30166,2,0,2024-09-08,Kaspar
+1,GT2s,"Vuelta a España , Stage 21 : Madrid - Madrid I.T.T. (prov.)",43497,KÜNG Stefan,20960,2,0,2024-09-08,Wijnand
+1,GT2r,"Vuelta a España , Points classification (prov.)",43499,GROVES Kaden,26637,5,0,2024-09-08,Paul
+1,GT2r,"Vuelta a España , Mountains classification (prov.)",43500,VINE Jay,29568,5,0,2024-09-08,Vel
 1,1.WT2,Bemer Cyclassics - Hamburg (prov.),43515,KOOIJ Olav,30643,10,50,2024-09-08,Roy
 2,1.WT2,Bemer Cyclassics - Hamburg (prov.),43515,MILAN Jonathan,29359,3,35,2024-09-08,Albert
 3,1.WT2,Bemer Cyclassics - Hamburg (prov.),43515,GIRMAY HAILU Biniam,29474,1,25,2024-09-08,Nicky
@@ -46,9 +69,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 -3,GT2s,"Bergtrui na Vuelta a España , Stage 20 : Villarcayo - Picon Blanco (prov.)",43496,Vine Jay,29568,0.2,0,2024-09-07,Vel
 1,GT2s,"Vuelta a España , Stage 20 : Villarcayo - Picon Blanco (prov.)",43496,DUNBAR Edward,23765,2,0,2024-09-07,Paul
 1,2.PSs,"Tour of Britain , Stage 5 : Northampton - Northampton (prov.)",43674,MAGNIER Paul,34555,0.3,0,2024-09-07,-
-1,NCT5,National Championships Bosnia and Herzegovina (Mostar) I.T.T. (prov.),43789,SELIMOVIC Husein,31477,0.0,0,2024-09-07,-
--4,GT2s,"Leiderstrui na Vuelta a España , Stage 19 : Logroño - Alto de Moncalvillo (prov.)",43495,Roglic Primoz,20719,1,0,2024-09-06,Frank
--1,GT2s,"Jongerentrui na Vuelta a España , Stage 19 : Logroño - Alto de Moncalvillo (prov.)",43495,Skjelmose Mattias,30166,0.1,0,2024-09-06,Kaspar
--2,GT2s,"Puntentrui na Vuelta a España , Stage 19 : Logroño - Alto de Moncalvillo (prov.)",43495,Groves Kaden,26637,0.2,0,2024-09-06,Paul
--3,GT2s,"Bergtrui na Vuelta a España , Stage 19 : Logroño - Alto de Moncalvillo (prov.)",43495,Soler Marc,23299,0.2,0,2024-09-06,Jan
-1,GT2s,"Vuelta a España , Stage 19 : Logroño - Alto de Moncalvillo (prov.)",43495,ROGLIC Primoz,20719,2,0,2024-09-06,Frank

@@ -20,7 +20,7 @@ renner_id,renner,rider,ploegleider,kosten,team,nationality,age,punten,JPP
 31550,STAUNE-MITTET Johannes,STAUNE-MITTET Johannes,Albert,2,TJV,NOR,21,0,0
 31724,ONLEY Oscar,ONLEY Oscar,Albert,2,DSM,GBR,21,3.0,100
 32720,VADER Milan,VADER Milan,Albert,2,TJV,NED,27,0,0
-25335,STORER Michael,STORER Michael,Albert,2,FDJ,AUS,26,2,56
+25335,STORER Michael,STORER Michael,Albert,2,FDJ,AUS,26,2.3,56
 32225,VAN EETVELT Lennert,VAN EETVELT Lennert,Albert,2,LTD,BEL,22,8.5,89
 28521,VAN GILS Maxim,VAN GILS Maxim,Albert,2,LTD,BEL,24,11.9,212
 19242,VAN POPPEL Danny,VAN POPPEL Danny,Albert,2,BOH,NED,30,2,60
@@ -71,7 +71,7 @@ renner_id,renner,rider,ploegleider,kosten,team,nationality,age,punten,JPP
 22910,CAVAGNA Remi,CAVAGNA Remi,Harry,2,SOQ,FRA,28,0,0
 6807,COSTA Rui Alberto Faria,COSTA Rui Alberto Faria,Harry,2,EFE,POR,37,1,0
 24932,EENKHOORN Pascal,EENKHOORN Pascal,Harry,1,LTD,NED,26,0.6,0
-27153,CHAMPOUSSIN Clement,CHAMPOUSSIN Clement,Harry,1,ARK,FRA,25,1.3,49
+27153,CHAMPOUSSIN Clement,CHAMPOUSSIN Clement,Harry,1,ARK,FRA,25,3.3,49
 19941,LAMPAERT Yves,LAMPAERT Yves,Harry,1,SOQ,BEL,32,1,0
 26301,SCHELLING Ide,SCHELLING Ide,Harry,0,AST,NED,25,0,0
 17893,YATES Simon,YATES Simon,Jan,19,JAY,GBR,31,5.2,14

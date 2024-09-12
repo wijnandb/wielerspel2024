@@ -1,7 +1,8 @@
-beautifulsoup4==4.11.2
+beautifulsoup4==4.12.3
 certifi==2024.7.4
 charset-normalizer==3.0.1
 idna==3.7
 requests==2.32.0
 soupsieve==2.3.2.post1
+unidecode
 urllib3==1.26.19

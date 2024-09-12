@@ -105,9 +105,9 @@ def get_results():
 
 def get_jersey_ranking(race_name, race_id, category, date):
     stage = first_cycling.stagename_to_number(race_name)
-    print(f"Stage: {stage}")
+    # print(f"Stage: {stage}")
     if int(stage) == 21:
-        print("This is the last stage of a GT, we need to correct the jersey ranking")
+        # print("This is the last stage of a GT, we need to correct the jersey ranking")
         correction_jersey_ranking(race_name, race_id, category, date)
         # And add a record for the Youth jersey winner
         rider_id, rider = first_cycling.scrape_result(race_name, 'youth')
@@ -156,12 +156,12 @@ def correction_jersey_ranking(race_name, race_id, category, date):
         # print(int(specialrace_id))
         rider_id, rider = first_cycling.scrape_result(race_name, jersey)
         # print(race_id, rider, rider_id)
-        points = points_earned_for_wearing_jersey(race_id, jersey, rider_id, rider)
+        points = points_earned_for_wearing_jersey(race_name, jersey, rider_id, rider)
         # now if this is the Youth jersey, i need to add the points for winning the Youth jersey.
         new_results.append([0, category, "Correctie dragen " + jersey_name + " in " + GT, int(specialrace_id), rider.strip(), int(rider_id), float(points), 0, date])
 
 
-def points_earned_for_wearing_jersey(race_id, jersey, rider_id, rider):
+def points_earned_for_wearing_jersey(race_name, jersey, rider_id, rider):
     """ 
     I am getting this from the results file.
     So I guess I open it, look for the rider_id, the race_id and the position. Careful though:
@@ -192,14 +192,14 @@ def points_earned_for_wearing_jersey(race_id, jersey, rider_id, rider):
     for result in results_with_points[1:]:
         if int(result[0]) == int(position):
             if result[1][-1] == 's':
-                if int(result[5]) == int(rider_id):
+                if int(result[5]) == int(rider_id) and race_name[:6] in result[2]:
                     points = points + Decimal(result[6])
                     ploegleider = result[9]
     if points > 0:
         """ The winner of the jersey has earned points for wearing the jersey.
         This is the amount we need to substract"""
         points = -points
-        print("Correction for wearing jersey: ", points, " points for ", rider, " in ", jersey, " for ", ploegleider)
+        # print("Correction for wearing jersey: ", points, " points for ", rider, " in ", jersey, " for ", ploegleider)
     return points
 
 # get_jersey_ranking("Tour de France, Stage 21 : Saint-Quentin-en-Yvelines - Paris", "41830", "GT1s", "2023-07-23")

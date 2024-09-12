@@ -1,6 +1,7 @@
 function getRepoNameFromUrl() {
   // Extract the pathname and remove any leading or trailing slashes
   const path = window.location.pathname.replace(/^\/|\/$/g, '');
+  console.log(path);
   
   // Check if path matches any of the specified values
   const specialValues = ["renners", "stand", "ploegen", "graphs"];
@@ -13,10 +14,10 @@ function getRepoNameFromUrl() {
   return `/${path}`;
 }
 
-// const repo_name = getRepoNameFromUrl();
-//  console.log(repo_name);  // This will display the repo_name extracted from the URL
-const repo_name = "/wielerspel2024";
-console.log(repo_name);
+const repo_name = getRepoNameFromUrl();
+console.log(repo_name);  // This will display the repo_name extracted from the URL
+// const repo_name = "/wielerspel2024";
+// console.log(repo_name);
 
 document.addEventListener("DOMContentLoaded", function () {
   // Function to extract RiderID from the URL
@@ -85,8 +86,8 @@ document.addEventListener("DOMContentLoaded", function () {
           if (jsonData) {
             // Calculate birthdate and age
             const { formattedBirthdate, age } = calculateBirthdateAndAge(jsonData.UCICode);
-            console.log("Formatted birthdate:", formattedBirthdate);
-            console.log("Age:", age);
+            // console.log("Formatted birthdate:", formattedBirthdate);
+            // console.log("Age:", age);
             // Render data to HTML
             document.getElementById("riderPhoto").src = generateRiderPhotoURL(jsonData.RiderID);
             document.getElementById("flag").src = `${repo_name}/assets/img/flags/${jsonData.Nationality}.png`;
@@ -95,6 +96,7 @@ document.addEventListener("DOMContentLoaded", function () {
             document.getElementById("birthdate").textContent = formattedBirthdate;
             document.getElementById("age").textContent = `${age} jaar`;
             document.getElementById("riderName").textContent = jsonData.Name;
+            document.getElementById("riderLink").href = `${repo_name}/results/#/${jsonData.RiderID}`;
             document.getElementById("teamLink").href = `https://cqranking.com/men/asp/gen/team.asp?year=2023&teamcode=${jsonData.Team}`;
             document.getElementById("teamLink").textContent = jsonData.Team;
             document.getElementById("CQLink").href = `https://cqranking.com/men/asp/gen/rider.asp?riderid=${jsonData.RiderID}`;

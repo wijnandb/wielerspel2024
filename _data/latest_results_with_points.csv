@@ -1,4 +1,15 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
+1,1.PS,Coppa Sabatini - GP Citta di Peccioli (prov.),43619,HIRSCHI Marc,26509,4,50,2024-09-12,Bram
+2,1.PS,Coppa Sabatini - GP Citta di Peccioli (prov.),43619,MÜHLBERGER Gregor,21128,1,35,2024-09-12,-
+3,1.PS,Coppa Sabatini - GP Citta di Peccioli (prov.),43619,FOLDAGER Anders,31400,0.5,25,2024-09-12,-
+4,1.PS,Coppa Sabatini - GP Citta di Peccioli (prov.),43619,SBARAGLI Kristian,16702,0,20,2024-09-12,-
+5,1.PS,Coppa Sabatini - GP Citta di Peccioli (prov.),43619,HUENS Axel,32709,0,18,2024-09-12,-
+6,1.PS,Coppa Sabatini - GP Citta di Peccioli (prov.),43619,STEINHAUSER Georg,30721,0,16,2024-09-12,-
+7,1.PS,Coppa Sabatini - GP Citta di Peccioli (prov.),43619,STORER Michael,25335,0,14,2024-09-12,Albert
+8,1.PS,Coppa Sabatini - GP Citta di Peccioli (prov.),43619,AULAR SANABRIA Orluis Alberto,24326,0,12,2024-09-12,Jan
+9,1.PS,Coppa Sabatini - GP Citta di Peccioli (prov.),43619,ALBANESE Vincenzo,24139,0,10,2024-09-12,-
+10,1.PS,Coppa Sabatini - GP Citta di Peccioli (prov.),43619,HAJEK Alexander,33111,0,8,2024-09-12,-
+1,2.1s,"Tour of Istanbul, Stage 1 : Catalca - Catalca (prov.)",43692,JEANNIERE Emilien,29288,0.2,0,2024-09-12,-
 1,1.1,Giro della Toscana - Memorial Alfredo Martini (prov.),43618,CHAMPOUSSIN Clément,27153,2,0,2024-09-11,Harry
 2,1.1,Giro della Toscana - Memorial Alfredo Martini (prov.),43618,STORER Michael,25335,0.3,0,2024-09-11,Albert
 3,1.1,Giro della Toscana - Memorial Alfredo Martini (prov.),43618,JEGAT Jordan,32860,0.1,0,2024-09-11,-
@@ -56,14 +67,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 8,1.PS,GP Industria & Artigianato - Larciano,43132,NICOLAU BELTRAN Joel,29873,0,12,2024-09-08,-
 9,1.PS,GP Industria & Artigianato - Larciano,43132,BRAMBILLA Gianluca,7279,0,10,2024-09-08,-
 10,1.PS,GP Industria & Artigianato - Larciano,43132,CARBONI Giovanni,22210,0,8,2024-09-08,-
-1,1.PS,GP de Fourmies,43152,DE KLEIJN Arvid,22596,4,50,2024-09-08,Wijnand
-2,1.PS,GP de Fourmies,43152,THIJSSEN Gerben,27085,1,35,2024-09-08,Vel
-3,1.PS,GP de Fourmies,43152,WAERENSKJOLD Søren,29187,0.5,25,2024-09-08,Albert
-4,1.PS,GP de Fourmies,43152,FRETIN Milan,32617,0,20,2024-09-08,-
-5,1.PS,GP de Fourmies,43152,PAGE Hugo,30663,0,18,2024-09-08,Jan
-6,1.PS,GP de Fourmies,43152,PLOWRIGHT Jensen,29528,0,16,2024-09-08,-
-7,1.PS,GP de Fourmies,43152,JEANNIERE Emilien,29288,0,14,2024-09-08,-
-8,1.PS,GP de Fourmies,43152,ABERASTURI IZAGA Jon,15286,0,12,2024-09-08,-
-9,1.PS,GP de Fourmies,43152,POLLEFLIET Gianluca,32735,0,10,2024-09-08,-
-10,1.PS,GP de Fourmies,43152,PITHIE Laurence,31638,0,8,2024-09-08,PB
-1,2.PSs,"Tour of Britain , Stage 6 : Lowestoft - Felixstowe",43675,GOVEKAR Matevz,20406,0.3,0,2024-09-08,-

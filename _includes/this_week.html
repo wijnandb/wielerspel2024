@@ -14,12 +14,12 @@
           <td>{{ item.startdate | date: "%d-%m" }}</td>
           <td scope="col" class="d-none d-lg-table-cell">{{ item.enddate | date: "%d-%m" }}</td>
           {% if item.category contains "GT" %}
-            <td><a href="{{ site.baseurl }}/startlist/races/GT/">{{ item.race }} ({{ item.category }})</a><span class="badge bg-secondary">
-              {{ item.sold_riders }}/{{ item.total_riders }}</span></td>
+            <td><a href="{{ site.baseurl }}/startlist/races/GT/">{{ item.race }} ({{ item.category }})</a><!--span class="badge bg-secondary">
+              {{ item.sold_riders }}/{{ item.total_riders }}</span--></td>
             </span></td>
           {% else %}
-            <td><a href="{{ site.baseurl }}/startlist/races/{{ item.FC_race_id }}.html">{{ item.race }} ({{ item.category }}) <span class="badge bg-primary"  style="float:right;">
-              {{ item.sold_riders }}/{{ item.total_riders }}</span></a></td>
+            <td><a href="{{ site.baseurl }}/startlist/races/{{ item.FC_race_id }}.html">{{ item.race }} ({{ item.category }}) <!--span class="badge bg-primary"  style="float:right;">
+              {{ item.sold_riders }}/{{ item.total_riders }}</span--></a></td>
           {% endif %}
           <td scope="col" class="d-none d-lg-table-cell">{{ item.points }}</td>
         </tr>

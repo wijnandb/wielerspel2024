@@ -1,19 +1,19 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
-1,1.PS,Coppa Sabatini - GP Citta di Peccioli (prov.),43619,HIRSCHI Marc,26509,0.0,0,2024-09-12
-2,1.PS,Coppa Sabatini - GP Citta di Peccioli (prov.),43619,MÜHLBERGER Gregor,21128,0.0,0,2024-09-12
-3,1.PS,Coppa Sabatini - GP Citta di Peccioli (prov.),43619,FOLDAGER Anders,31400,0.0,0,2024-09-12
-4,1.PS,Coppa Sabatini - GP Citta di Peccioli (prov.),43619,SBARAGLI Kristian,16702,0.0,0,2024-09-12
-5,1.PS,Coppa Sabatini - GP Citta di Peccioli (prov.),43619,HUENS Axel,32709,0.0,0,2024-09-12
-6,1.PS,Coppa Sabatini - GP Citta di Peccioli (prov.),43619,STEINHAUSER Georg,30721,0.0,0,2024-09-12
-7,1.PS,Coppa Sabatini - GP Citta di Peccioli (prov.),43619,STORER Michael,25335,0.0,0,2024-09-12
-8,1.PS,Coppa Sabatini - GP Citta di Peccioli (prov.),43619,AULAR SANABRIA Orluis Alberto,24326,0.0,0,2024-09-12
-9,1.PS,Coppa Sabatini - GP Citta di Peccioli (prov.),43619,ALBANESE Vincenzo,24139,0.0,0,2024-09-12
-10,1.PS,Coppa Sabatini - GP Citta di Peccioli (prov.),43619,HAJEK Alexander,33111,0.0,0,2024-09-12
+1,1.PS,Coppa Sabatini - GP Citta di Peccioli,43619,HIRSCHI Marc,26509,0.0,0,2024-09-12
+2,1.PS,Coppa Sabatini - GP Citta di Peccioli,43619,MÜHLBERGER Gregor,21128,0.0,0,2024-09-12
+3,1.PS,Coppa Sabatini - GP Citta di Peccioli,43619,FOLDAGER Anders,31400,0.0,0,2024-09-12
+4,1.PS,Coppa Sabatini - GP Citta di Peccioli,43619,SBARAGLI Kristian,16702,0.0,0,2024-09-12
+5,1.PS,Coppa Sabatini - GP Citta di Peccioli,43619,HUENS Axel,32709,0.0,0,2024-09-12
+6,1.PS,Coppa Sabatini - GP Citta di Peccioli,43619,STEINHAUSER Georg,30721,0.0,0,2024-09-12
+7,1.PS,Coppa Sabatini - GP Citta di Peccioli,43619,STORER Michael,25335,0.0,0,2024-09-12
+8,1.PS,Coppa Sabatini - GP Citta di Peccioli,43619,AULAR SANABRIA Orluis Alberto,24326,0.0,0,2024-09-12
+9,1.PS,Coppa Sabatini - GP Citta di Peccioli,43619,ALBANESE Vincenzo,24139,0.0,0,2024-09-12
+10,1.PS,Coppa Sabatini - GP Citta di Peccioli,43619,HAJEK Alexander,33111,0.0,0,2024-09-12
 1,2.1s,"Tour of Istanbul, Stage 1 : Catalca - Catalca (prov.)",43692,JEANNIERE Emilien,29288,0.0,0,2024-09-12
-1,1.1,Giro della Toscana - Memorial Alfredo Martini (prov.),43618,CHAMPOUSSIN Clément,27153,0.0,0,2024-09-11
-2,1.1,Giro della Toscana - Memorial Alfredo Martini (prov.),43618,STORER Michael,25335,0.0,0,2024-09-11
-3,1.1,Giro della Toscana - Memorial Alfredo Martini (prov.),43618,JEGAT Jordan,32860,0.0,0,2024-09-11
-1,CCT1,European Championships (Leuven) I.T.T. (prov.),43611,AFFINI Edoardo,24794,0.0,0,2024-09-11
+1,1.1,Giro della Toscana - Memorial Alfredo Martini,43618,CHAMPOUSSIN Clément,27153,0.0,0,2024-09-11
+2,1.1,Giro della Toscana - Memorial Alfredo Martini,43618,STORER Michael,25335,0.0,0,2024-09-11
+3,1.1,Giro della Toscana - Memorial Alfredo Martini,43618,JEGAT Jordan,32860,0.0,0,2024-09-11
+1,CCT1,European Championships (Hasselt) I.T.T.,43611,AFFINI Edoardo,24794,0.0,0,2024-09-11
 1,GT2,"Vuelta a España , General classification",43498,ROGLIC Primoz,20719,0.0,0,2024-09-08
 2,GT2,"Vuelta a España , General classification",43498,O'CONNOR Ben,23763,0.0,0,2024-09-08
 3,GT2,"Vuelta a España , General classification",43498,MAS NICOLAU Enric,22794,0.0,0,2024-09-08

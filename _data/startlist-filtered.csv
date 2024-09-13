@@ -1,21 +1,4 @@
 race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id,price,dropped_out
-12532,1,Nils Politt,20847,Germany,GER,Kees van Ommeren,Kees,2,
-12532,31,Edward Theuns,16697,Belgium,BEL,Kees van Ommeren,Kees,1,
-160,1,Marc Hirschi,26509,UAE Team Emirates,SUI,Bram van Ommeren,Bram,14,
-160,4,Alessandro Covi,28298,UAE Team Emirates,ITA,Pieter-Bas de Bruijn,PB,2,
-160,7,Diego Ulissi,10023,UAE Team Emirates,ITA,Kaspar Burghard,Kaspar,4,
-160,13,Jenthe Biermans,22010,ARKEA-B&B HOTELS,BEL,Frank Rozemeijer,Frank,0,
-160,14,Clément Champoussin,27153,ARKEA-B&B HOTELS,FRA,Harry Koene,Harry,1,
-160,21,Davide Ballerini,22020,Astana Qazaqstan Team,ITA,Harry Koene,Harry,3,1
-160,22,Henok Mulubrhan,28186,Astana Qazaqstan Team,ERI,Wijnand Baretta,Wijnand,1,1
-160,23,Yevgeniy Fedorov,29309,Astana Qazaqstan Team,KAZ,Pieter-Bas de Bruijn,PB,1,1
-160,24,Alexey Lutsenko,18455,Astana Qazaqstan Team,KAZ,Paul van Doorn,Paul,7,
-160,42,Esteban Chaves,16941,EF Education-EasyPost,COL,Kees van Ommeren,Kees,1,
-160,43,Hugh Carthy,21014,EF Education-EasyPost,GBR,Harry Koene,Harry,2,
-160,52,Davide Formolo,18749,Movistar Team,ITA,Nick Veenstra,Nicky,6,
-160,61,Emanuel Buchmann,18739,Red Bull-BORA-hansgrohe,GER,Paul van Doorn,Paul,1,1
-160,106,Orluis Aular,24326,Caja Rural-Seguros RGA,VEN,Jan Versluys,Jan,2,
-160,176,Michael Storer,25335,Tudor Pro Cycling Team,AUS,Albert Kraaij,Albert,2,
 59,1,Arnaud De Lie,32221,Lotto Dstny,BEL,Pieter-Bas de Bruijn,PB,24,
 59,4,Maxim Van Gils,28521,Lotto Dstny,BEL,Albert Kraaij,Albert,2,
 59,7,Florian Vermeersch,28127,Lotto Dstny,BEL,Albert Kraaij,Albert,4,

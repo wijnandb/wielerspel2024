@@ -1,4 +1,14 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
+1,1.WT2,GP de Québec (prov.),43620,MATTHEWS Michael,13066,10,50,2024-09-13,PB
+2,1.WT2,GP de Québec (prov.),43620,GIRMAY HAILU Biniam,29474,3,35,2024-09-13,Nicky
+3,1.WT2,GP de Québec (prov.),43620,MOLARD Rudy,11818,1,25,2024-09-13,-
+4,1.WT2,GP de Québec (prov.),43620,BENOOT Tiesj,21244,0.5,20,2024-09-13,Paul
+5,1.WT2,GP de Québec (prov.),43620,HAGENES Per Strand,30442,0.2,18,2024-09-13,Kaspar
+6,1.WT2,GP de Québec (prov.),43620,MOLLEMA Bauke,5139,0,16,2024-09-13,-
+7,1.WT2,GP de Québec (prov.),43620,POGACAR Tadej,26526,0,14,2024-09-13,Wijnand
+8,1.WT2,GP de Québec (prov.),43620,POWLESS Neilson,24902,0,12,2024-09-13,Harry
+9,1.WT2,GP de Québec (prov.),43620,BILBAO LOPEZ DE ARMENTIA Pello,17881,0,10,2024-09-13,Albert
+10,1.WT2,GP de Québec (prov.),43620,ZAMBANINI Edoardo,31437,0,8,2024-09-13,-
 1,2.1s,"Tour of Istanbul, Stage 2 : Sile - Sile (prov.)",43693,BURGAUDEAU Mathieu,27151,0.2,0,2024-09-13,Paul
 1,1.PS,Coppa Sabatini - GP Citta di Peccioli,43619,HIRSCHI Marc,26509,4,50,2024-09-12,Bram
 2,1.PS,Coppa Sabatini - GP Citta di Peccioli,43619,MÜHLBERGER Gregor,21128,1,35,2024-09-12,-
@@ -38,13 +48,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 1,GT2s,"Vuelta a España , Stage 21 : Madrid - Madrid I.T.T.",43497,KÜNG Stefan,20960,2,0,2024-09-08,Wijnand
 1,GT2r,"Vuelta a España , Points classification",43499,GROVES Kaden,26637,5,0,2024-09-08,Paul
 1,GT2r,"Vuelta a España , Mountains classification",43500,VINE Jay,29568,5,0,2024-09-08,Vel
-1,1.WT2,Bemer Cyclassics - Hamburg,43515,KOOIJ Olav,30643,10,50,2024-09-08,Roy
-2,1.WT2,Bemer Cyclassics - Hamburg,43515,MILAN Jonathan,29359,3,35,2024-09-08,Albert
-3,1.WT2,Bemer Cyclassics - Hamburg,43515,GIRMAY HAILU Biniam,29474,1,25,2024-09-08,Nicky
-4,1.WT2,Bemer Cyclassics - Hamburg,43515,MEEUS Jordi,26421,0.5,20,2024-09-08,Vel
-5,1.WT2,Bemer Cyclassics - Hamburg,43515,KRISTOFF Alexander,4179,0.2,18,2024-09-08,Nicky
-6,1.WT2,Bemer Cyclassics - Hamburg,43515,ZINGLE Axel,31263,0,16,2024-09-08,Paul
-7,1.WT2,Bemer Cyclassics - Hamburg,43515,PHILIPSEN Jasper,26392,0,14,2024-09-08,Nicky
-8,1.WT2,Bemer Cyclassics - Hamburg,43515,TEUNISSEN Mike,19165,0,12,2024-09-08,Albert
-9,1.WT2,Bemer Cyclassics - Hamburg,43515,TRENTIN Matteo,13270,0,10,2024-09-08,Jan
-10,1.WT2,Bemer Cyclassics - Hamburg,43515,OLDANI Stefano,27072,0,8,2024-09-08,-

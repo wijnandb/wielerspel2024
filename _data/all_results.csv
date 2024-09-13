@@ -1,14 +1,14 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
-1,1.WT2,GP de Québec (prov.),43620,MATTHEWS Michael,13066,0.0,0,2024-09-13
-2,1.WT2,GP de Québec (prov.),43620,GIRMAY HAILU Biniam,29474,0.0,0,2024-09-13
-3,1.WT2,GP de Québec (prov.),43620,MOLARD Rudy,11818,0.0,0,2024-09-13
-4,1.WT2,GP de Québec (prov.),43620,BENOOT Tiesj,21244,0.0,0,2024-09-13
-5,1.WT2,GP de Québec (prov.),43620,HAGENES Per Strand,30442,0.0,0,2024-09-13
-6,1.WT2,GP de Québec (prov.),43620,MOLLEMA Bauke,5139,0.0,0,2024-09-13
-7,1.WT2,GP de Québec (prov.),43620,POGACAR Tadej,26526,0.0,0,2024-09-13
-8,1.WT2,GP de Québec (prov.),43620,POWLESS Neilson,24902,0.0,0,2024-09-13
-9,1.WT2,GP de Québec (prov.),43620,BILBAO LOPEZ DE ARMENTIA Pello,17881,0.0,0,2024-09-13
-10,1.WT2,GP de Québec (prov.),43620,ZAMBANINI Edoardo,31437,0.0,0,2024-09-13
+1,1.WT2,GP de Québec,43620,MATTHEWS Michael,13066,0.0,0,2024-09-13
+2,1.WT2,GP de Québec,43620,GIRMAY HAILU Biniam,29474,0.0,0,2024-09-13
+3,1.WT2,GP de Québec,43620,MOLARD Rudy,11818,0.0,0,2024-09-13
+4,1.WT2,GP de Québec,43620,BENOOT Tiesj,21244,0.0,0,2024-09-13
+5,1.WT2,GP de Québec,43620,HAGENES Per Strand,30442,0.0,0,2024-09-13
+6,1.WT2,GP de Québec,43620,MOLLEMA Bauke,5139,0.0,0,2024-09-13
+7,1.WT2,GP de Québec,43620,POGACAR Tadej,26526,0.0,0,2024-09-13
+8,1.WT2,GP de Québec,43620,POWLESS Neilson,24902,0.0,0,2024-09-13
+9,1.WT2,GP de Québec,43620,BILBAO LOPEZ DE ARMENTIA Pello,17881,0.0,0,2024-09-13
+10,1.WT2,GP de Québec,43620,ZAMBANINI Edoardo,31437,0.0,0,2024-09-13
 1,2.1s,"Tour of Istanbul, Stage 2 : Sile - Sile (prov.)",43693,BURGAUDEAU Mathieu,27151,0.0,0,2024-09-13
 1,1.PS,Coppa Sabatini - GP Citta di Peccioli,43619,HIRSCHI Marc,26509,0.0,0,2024-09-12
 2,1.PS,Coppa Sabatini - GP Citta di Peccioli,43619,MÜHLBERGER Gregor,21128,0.0,0,2024-09-12

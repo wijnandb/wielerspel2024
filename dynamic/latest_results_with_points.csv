@@ -1,4 +1,5 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
+1,2.1s,"Tour of Istanbul, Stage 2 : Sile - Sile (prov.)",43693,BURGAUDEAU Mathieu,27151,0.2,0,2024-09-13,Paul
 1,1.PS,Coppa Sabatini - GP Citta di Peccioli,43619,HIRSCHI Marc,26509,4,50,2024-09-12,Bram
 2,1.PS,Coppa Sabatini - GP Citta di Peccioli,43619,MÜHLBERGER Gregor,21128,1,35,2024-09-12,-
 3,1.PS,Coppa Sabatini - GP Citta di Peccioli,43619,FOLDAGER Anders,31400,0.5,25,2024-09-12,-
@@ -47,13 +48,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 8,1.WT2,Bemer Cyclassics - Hamburg,43515,TEUNISSEN Mike,19165,0,12,2024-09-08,Albert
 9,1.WT2,Bemer Cyclassics - Hamburg,43515,TRENTIN Matteo,13270,0,10,2024-09-08,Jan
 10,1.WT2,Bemer Cyclassics - Hamburg,43515,OLDANI Stefano,27072,0,8,2024-09-08,-
-1,2.PS,"Tour of Britain , General classification",43676,WILLIAMS Stephen,24346,4,50,2024-09-08,PB
-2,2.PS,"Tour of Britain , General classification",43676,ONLEY Oscar,31724,1,35,2024-09-08,Albert
-3,2.PS,"Tour of Britain , General classification",43676,DONNENWIRTH Tom,34163,0.5,25,2024-09-08,-
-4,2.PS,"Tour of Britain , General classification",43676,DONOVAN Mark,27964,0,20,2024-09-08,-
-5,2.PS,"Tour of Britain , General classification",43676,BLACKMORE Joseph,34973,0,18,2024-09-08,-
-6,2.PS,"Tour of Britain , General classification",43676,KRIJNSEN Jelte,32717,0,16,2024-09-08,-
-7,2.PS,"Tour of Britain , General classification",43676,ZAMBANINI Edoardo,31437,0,14,2024-09-08,-
-8,2.PS,"Tour of Britain , General classification",43676,BREGNHØJ Mathias,25637,0,12,2024-09-08,-
-9,2.PS,"Tour of Britain , General classification",43676,ISIDORE Noa,34396,0,10,2024-09-08,-
-10,2.PS,"Tour of Britain , General classification",43676,FLYNN Sean,29931,0,8,2024-09-08,-

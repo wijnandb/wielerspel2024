@@ -1,4 +1,8 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
+1,1.1,Memorial Marco Pantani (prov.),43621,HIRSCHI Marc,26509,0.0,0,2024-09-14
+2,1.1,Memorial Marco Pantani (prov.),43621,MILESI Lorenzo,31752,0.0,0,2024-09-14
+3,1.1,Memorial Marco Pantani (prov.),43621,ALBANESE Vincenzo,24139,0.0,0,2024-09-14
+1,2.1s,"Tour of Istanbul, Stage 3 : Beykoz - Polonezkoy (prov.)",43694,BURGAUDEAU Mathieu,27151,0.0,0,2024-09-14
 1,1.WT2,GP de Québec,43620,MATTHEWS Michael,13066,0.0,0,2024-09-13
 2,1.WT2,GP de Québec,43620,GIRMAY HAILU Biniam,29474,0.0,0,2024-09-13
 3,1.WT2,GP de Québec,43620,MOLARD Rudy,11818,0.0,0,2024-09-13
@@ -46,5 +50,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
 0,GT2c,Correctie dragen bergtrui in Vuelta a España,43500,Vine Jay,29568,-0.6,0,2024-09-08
 -1,GT2,Winnaar jongerentrui Vuelta a Españ,43497,Skjelmose Mattias,30166,0,0,2024-09-08
 1,GT2s,"Vuelta a España , Stage 21 : Madrid - Madrid I.T.T.",43497,KÜNG Stefan,20960,0.0,0,2024-09-08
-1,GT2r,"Vuelta a España , Points classification",43499,GROVES Kaden,26637,0.0,0,2024-09-08
-1,GT2r,"Vuelta a España , Mountains classification",43500,VINE Jay,29568,0.0,0,2024-09-08

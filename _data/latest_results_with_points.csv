@@ -1,14 +1,14 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
-1,1.WT2,GP de Montréal (prov.),43622,POGACAR Tadej,26526,10,50,2024-09-15,Wijnand
-2,1.WT2,GP de Montréal (prov.),43622,BILBAO LOPEZ DE ARMENTIA Pello,17881,3,35,2024-09-15,Albert
-3,1.WT2,GP de Montréal (prov.),43622,ALAPHILIPPE Julian,18610,1,25,2024-09-15,Kaspar
-4,1.WT2,GP de Montréal (prov.),43622,VAN GILS Maxim,28521,0.5,20,2024-09-15,Albert
-5,1.WT2,GP de Montréal (prov.),43622,IZAGIRRE INSAUSTI Gorka,10070,0.2,18,2024-09-15,-
-6,1.WT2,GP de Montréal (prov.),43622,SKUJINS Toms,16739,0,16,2024-09-15,-
-7,1.WT2,GP de Montréal (prov.),43622,BENOOT Tiesj,21244,0,14,2024-09-15,Paul
-8,1.WT2,GP de Montréal (prov.),43622,WOODS Michael,20257,0,12,2024-09-15,Vel
-9,1.WT2,GP de Montréal (prov.),43622,ZAMBANINI Edoardo,31437,0,10,2024-09-15,-
-10,1.WT2,GP de Montréal (prov.),43622,HINDLEY Jai,23948,0,8,2024-09-15,Kaspar
+1,1.WT2,GP de Montréal,43622,POGACAR Tadej,26526,10,50,2024-09-15,Wijnand
+2,1.WT2,GP de Montréal,43622,BILBAO LOPEZ DE ARMENTIA Pello,17881,3,35,2024-09-15,Albert
+3,1.WT2,GP de Montréal,43622,ALAPHILIPPE Julian,18610,1,25,2024-09-15,Kaspar
+4,1.WT2,GP de Montréal,43622,VAN GILS Maxim,28521,0.5,20,2024-09-15,Albert
+5,1.WT2,GP de Montréal,43622,IZAGIRRE INSAUSTI Ion,14321,0.2,18,2024-09-15,PB
+6,1.WT2,GP de Montréal,43622,SKUJINS Toms,16739,0,16,2024-09-15,-
+7,1.WT2,GP de Montréal,43622,BENOOT Tiesj,21244,0,14,2024-09-15,Paul
+8,1.WT2,GP de Montréal,43622,WOODS Michael,20257,0,12,2024-09-15,Vel
+9,1.WT2,GP de Montréal,43622,ZAMBANINI Edoardo,31437,0,10,2024-09-15,-
+10,1.WT2,GP de Montréal,43622,HINDLEY Jai,23948,0,8,2024-09-15,Kaspar
 1,2.1,"Tour of Istanbul, General classification",43696,BURGAUDEAU Mathieu,27151,2,0,2024-09-15,Paul
 2,2.1,"Tour of Istanbul, General classification",43696,ROMELE Alessandro,33133,0.3,0,2024-09-15,-
 3,2.1,"Tour of Istanbul, General classification",43696,JEANNIERE Emilien,29288,0.1,0,2024-09-15,-

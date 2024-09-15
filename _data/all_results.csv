@@ -1,28 +1,38 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
-1,2.1,"Tour of Istanbul, General classification (prov.)",43696,BURGAUDEAU Mathieu,27151,0.0,0,2024-09-15
-2,2.1,"Tour of Istanbul, General classification (prov.)",43696,ROMELE Alessandro,33133,0.0,0,2024-09-15
-3,2.1,"Tour of Istanbul, General classification (prov.)",43696,JEANNIERE Emilien,29288,0.0,0,2024-09-15
-1,1.1,Trofeo Matteotti (prov.),43624,AULAR SANABRIA Orluis Alberto,24326,0.0,0,2024-09-15
-2,1.1,Trofeo Matteotti (prov.),43624,COVI Alessandro,28298,0.0,0,2024-09-15
-3,1.1,Trofeo Matteotti (prov.),43624,LUTSENKO Alexey,18455,0.0,0,2024-09-15
-1,1.1,GP d'Isbergues - Pas de Calais (prov.),43623,DE KLEIJN Arvid,22596,0.0,0,2024-09-15
-2,1.1,GP d'Isbergues - Pas de Calais (prov.),43623,PITHIE Laurence,31638,0.0,0,2024-09-15
-3,1.1,GP d'Isbergues - Pas de Calais (prov.),43623,THIJSSEN Gerben,27085,0.0,0,2024-09-15
-1,2.1s,"Tour of Istanbul, Stage 4 : Istanbul - Istanbul (prov.)",43695,GABBURO Davide,20196,0.0,0,2024-09-15
-1,1.WT3,European Championships (Hasselt) R.R. (prov.),43613,MERLIER Tim,17988,0.0,0,2024-09-15
-2,1.WT3,European Championships (Hasselt) R.R. (prov.),43613,KOOIJ Olav,30643,0.0,0,2024-09-15
-3,1.WT3,European Championships (Hasselt) R.R. (prov.),43613,MIHKELS Madis,32946,0.0,0,2024-09-15
-4,1.WT3,European Championships (Hasselt) R.R. (prov.),43613,PHILIPSEN Jasper,26392,0.0,0,2024-09-15
-5,1.WT3,European Championships (Hasselt) R.R. (prov.),43613,KRISTOFF Alexander,4179,0.0,0,2024-09-15
-6,1.WT3,European Championships (Hasselt) R.R. (prov.),43613,PEDERSEN Mads,21992,0.0,0,2024-09-15
-7,1.WT3,European Championships (Hasselt) R.R. (prov.),43613,BITTNER Pavel,31555,0.0,0,2024-09-15
-8,1.WT3,European Championships (Hasselt) R.R. (prov.),43613,ANIOLKOWSKI Stanislaw,24940,0.0,0,2024-09-15
-9,1.WT3,European Championships (Hasselt) R.R. (prov.),43613,LAPORTE Christophe,19953,0.0,0,2024-09-15
-10,1.WT3,European Championships (Hasselt) R.R. (prov.),43613,KIRSCH Alex,19545,0.0,0,2024-09-15
+1,1.WT2,GP de Montréal (prov.),43622,POGACAR Tadej,26526,0.0,0,2024-09-15
+2,1.WT2,GP de Montréal (prov.),43622,BILBAO LOPEZ DE ARMENTIA Pello,17881,0.0,0,2024-09-15
+3,1.WT2,GP de Montréal (prov.),43622,ALAPHILIPPE Julian,18610,0.0,0,2024-09-15
+4,1.WT2,GP de Montréal (prov.),43622,VAN GILS Maxim,28521,0.0,0,2024-09-15
+5,1.WT2,GP de Montréal (prov.),43622,IZAGIRRE INSAUSTI Gorka,10070,0.0,0,2024-09-15
+6,1.WT2,GP de Montréal (prov.),43622,SKUJINS Toms,16739,0.0,0,2024-09-15
+7,1.WT2,GP de Montréal (prov.),43622,BENOOT Tiesj,21244,0.0,0,2024-09-15
+8,1.WT2,GP de Montréal (prov.),43622,WOODS Michael,20257,0.0,0,2024-09-15
+9,1.WT2,GP de Montréal (prov.),43622,ZAMBANINI Edoardo,31437,0.0,0,2024-09-15
+10,1.WT2,GP de Montréal (prov.),43622,HINDLEY Jai,23948,0.0,0,2024-09-15
+1,2.1,"Tour of Istanbul, General classification",43696,BURGAUDEAU Mathieu,27151,0.0,0,2024-09-15
+2,2.1,"Tour of Istanbul, General classification",43696,ROMELE Alessandro,33133,0.0,0,2024-09-15
+3,2.1,"Tour of Istanbul, General classification",43696,JEANNIERE Emilien,29288,0.0,0,2024-09-15
+1,1.1,GP d'Isbergues - Pas de Calais,43623,DE KLEIJN Arvid,22596,0.0,0,2024-09-15
+2,1.1,GP d'Isbergues - Pas de Calais,43623,PITHIE Laurence,31638,0.0,0,2024-09-15
+3,1.1,GP d'Isbergues - Pas de Calais,43623,THIJSSEN Gerben,27085,0.0,0,2024-09-15
+1,1.1,Trofeo Matteotti,43624,AULAR SANABRIA Orluis Alberto,24326,0.0,0,2024-09-15
+2,1.1,Trofeo Matteotti,43624,COVI Alessandro,28298,0.0,0,2024-09-15
+3,1.1,Trofeo Matteotti,43624,LUTSENKO Alexey,18455,0.0,0,2024-09-15
+1,2.1s,"Tour of Istanbul, Stage 4 : Istanbul - Istanbul",43695,GABBURO Davide,20196,0.0,0,2024-09-15
+1,1.WT3,European Championships (Hasselt) R.R.,43613,MERLIER Tim,17988,0.0,0,2024-09-15
+2,1.WT3,European Championships (Hasselt) R.R.,43613,KOOIJ Olav,30643,0.0,0,2024-09-15
+3,1.WT3,European Championships (Hasselt) R.R.,43613,MIHKELS Madis,32946,0.0,0,2024-09-15
+4,1.WT3,European Championships (Hasselt) R.R.,43613,PHILIPSEN Jasper,26392,0.0,0,2024-09-15
+5,1.WT3,European Championships (Hasselt) R.R.,43613,KRISTOFF Alexander,4179,0.0,0,2024-09-15
+6,1.WT3,European Championships (Hasselt) R.R.,43613,PEDERSEN Mads,21992,0.0,0,2024-09-15
+7,1.WT3,European Championships (Hasselt) R.R.,43613,BITTNER Pavel,31555,0.0,0,2024-09-15
+8,1.WT3,European Championships (Hasselt) R.R.,43613,ANIOLKOWSKI Stanislaw,24940,0.0,0,2024-09-15
+9,1.WT3,European Championships (Hasselt) R.R.,43613,LAPORTE Christophe,19953,0.0,0,2024-09-15
+10,1.WT3,European Championships (Hasselt) R.R.,43613,KIRSCH Alex,19545,0.0,0,2024-09-15
 1,1.1,Memorial Marco Pantani,43621,HIRSCHI Marc,26509,0.0,0,2024-09-14
 2,1.1,Memorial Marco Pantani,43621,MILESI Lorenzo,31752,0.0,0,2024-09-14
 3,1.1,Memorial Marco Pantani,43621,ALBANESE Vincenzo,24139,0.0,0,2024-09-14
-1,2.1s,"Tour of Istanbul, Stage 3 : Beykoz - Polonezkoy (prov.)",43694,BURGAUDEAU Mathieu,27151,0.0,0,2024-09-14
+1,2.1s,"Tour of Istanbul, Stage 3 : Beykoz - Polonezkoy",43694,BURGAUDEAU Mathieu,27151,0.0,0,2024-09-14
 1,1.WT2,GP de Québec,43620,MATTHEWS Michael,13066,0.0,0,2024-09-13
 2,1.WT2,GP de Québec,43620,GIRMAY HAILU Biniam,29474,0.0,0,2024-09-13
 3,1.WT2,GP de Québec,43620,MOLARD Rudy,11818,0.0,0,2024-09-13
@@ -33,7 +43,7 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
 8,1.WT2,GP de Québec,43620,POWLESS Neilson,24902,0.0,0,2024-09-13
 9,1.WT2,GP de Québec,43620,BILBAO LOPEZ DE ARMENTIA Pello,17881,0.0,0,2024-09-13
 10,1.WT2,GP de Québec,43620,ZAMBANINI Edoardo,31437,0.0,0,2024-09-13
-1,2.1s,"Tour of Istanbul, Stage 2 : Sile - Sile (prov.)",43693,BURGAUDEAU Mathieu,27151,0.0,0,2024-09-13
+1,2.1s,"Tour of Istanbul, Stage 2 : Sile - Sile",43693,BURGAUDEAU Mathieu,27151,0.0,0,2024-09-13
 1,1.PS,Coppa Sabatini - GP Citta di Peccioli,43619,HIRSCHI Marc,26509,0.0,0,2024-09-12
 2,1.PS,Coppa Sabatini - GP Citta di Peccioli,43619,MÜHLBERGER Gregor,21128,0.0,0,2024-09-12
 3,1.PS,Coppa Sabatini - GP Citta di Peccioli,43619,FOLDAGER Anders,31400,0.0,0,2024-09-12
@@ -44,7 +54,7 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
 8,1.PS,Coppa Sabatini - GP Citta di Peccioli,43619,AULAR SANABRIA Orluis Alberto,24326,0.0,0,2024-09-12
 9,1.PS,Coppa Sabatini - GP Citta di Peccioli,43619,ALBANESE Vincenzo,24139,0.0,0,2024-09-12
 10,1.PS,Coppa Sabatini - GP Citta di Peccioli,43619,HAJEK Alexander,33111,0.0,0,2024-09-12
-1,2.1s,"Tour of Istanbul, Stage 1 : Catalca - Catalca (prov.)",43692,JEANNIERE Emilien,29288,0.0,0,2024-09-12
+1,2.1s,"Tour of Istanbul, Stage 1 : Catalca - Catalca",43692,JEANNIERE Emilien,29288,0.0,0,2024-09-12
 1,1.1,Giro della Toscana - Memorial Alfredo Martini,43618,CHAMPOUSSIN Clément,27153,0.0,0,2024-09-11
 2,1.1,Giro della Toscana - Memorial Alfredo Martini,43618,STORER Michael,25335,0.0,0,2024-09-11
 3,1.1,Giro della Toscana - Memorial Alfredo Martini,43618,JEGAT Jordan,32860,0.0,0,2024-09-11

@@ -1,4 +1,5 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
+1,2.PSs,"Tour de Luxembourg, Stage 2 : Junglister - Schifflange (prov.)",43703,PEDERSEN Mads,21992,0.0,0,2024-09-19
 1,1.PS,GP de Wallonie,43625,ADRIA OLIVERAS Roger,27469,0.0,0,2024-09-18
 2,1.PS,GP de Wallonie,43625,ARANBURU DEVA Alexander,23940,0.0,0,2024-09-18
 3,1.PS,GP de Wallonie,43625,CHAMPOUSSIN Clément,27153,0.0,0,2024-09-18
@@ -69,4 +70,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
 1,1.1,Giro della Toscana - Memorial Alfredo Martini,43618,CHAMPOUSSIN Clément,27153,0.0,0,2024-09-11
 2,1.1,Giro della Toscana - Memorial Alfredo Martini,43618,STORER Michael,25335,0.0,0,2024-09-11
 3,1.1,Giro della Toscana - Memorial Alfredo Martini,43618,JEGAT Jordan,32860,0.0,0,2024-09-11
-1,CCT1,European Championships (Hasselt) I.T.T.,43611,AFFINI Edoardo,24794,0.0,0,2024-09-11

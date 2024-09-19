@@ -21,9 +21,9 @@ race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id
 37,54,Valentin Madouas,24758,Groupama-FDJ,FRA,Nick Veenstra,Nicky,11,
 37,55,Rudy Molard,11818,Groupama-FDJ,FRA,-,-,-,
 37,64,Mads Pedersen,21992,Lidl-Trek,DEN,Kees van Ommeren,Kees,20,
-37,65,Mattias Skjelmose,30166,Lidl-Trek,DEN,Kaspar Burghard,Kaspar,18,
+37,65,Mattias Skjelmose,30166,Lidl-Trek,DEN,Kaspar Burghard,Kaspar,18,1
 37,66,Quinn Simmons,30666,Lidl-Trek,USA,Bram van Ommeren,Bram,1,
-37,72,Ruben Guerreiro,22683,Movistar Team,POR,Jan Versluys,Jan,1,
+37,72,Ruben Guerreiro,22683,Movistar Team,POR,Jan Versluys,Jan,1,1
 37,74,William Barta,23362,Movistar Team,USA,-,-,-,
 37,75,Davide Formolo,18749,Movistar Team,ITA,Nick Veenstra,Nicky,6,
 37,82,Mauri Vansevenant,28580,Soudal Quick-Step,BEL,Jan Versluys,Jan,2,
@@ -38,8 +38,8 @@ race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id
 37,113,Carl Fredrik Hagen,23436,Q36.5 Pro Cycling Team,NOR,-,-,-,
 37,125,Andreas Stokbro Nielsen,24953,TdT-Unibet,DEN,-,-,-,
 37,126,Adam Toupalik,23787,TdT-Unibet,CZE,-,-,-,
-37,133,Aaron Van Poucke,28577,Team Flanders-Baloise,BEL,-,-,-,
-37,153,Pierre Latour,20156,TotalEnergies,FRA,-,-,-,
+37,133,Aaron Van Poucke,28577,Team Flanders-Baloise,BEL,-,-,-,1
+37,153,Pierre Latour,20156,TotalEnergies,FRA,-,-,-,1
 37,154,Paul Ourselin,23509,TotalEnergies,FRA,-,-,-,1
 37,155,Anthony Turgis,21312,TotalEnergies,FRA,Roy Smits,Roy,3,
 37,156,Alexis Vuillermoz,16979,TotalEnergies,FRA,-,-,-,
@@ -96,7 +96,6 @@ race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id
 167,163,Lorrenzo Manzin,21343,TotalEnergies,FRA,-,-,-,
 167,164,Geoffrey Soupe,13560,TotalEnergies,FRA,-,-,-,
 167,165,Jason Tesson,29883,TotalEnergies,FRA,-,-,-,
-167,171,Giacomo Nizzolo,13863,Q36.5 Pro Cycling Team,ITA,Jan Versluys,Jan,1,
 167,176,Rory Townsend,25102,Q36.5 Pro Cycling Team,IRL,-,-,-,
 167,177,Nickolas Zukowsky,26354,Q36.5 Pro Cycling Team,CAN,-,-,-,
 167,195,Kenneth Van Rooy,20084,Bingoal WB,BEL,-,-,-,
@@ -118,6 +117,7 @@ race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id
 168,26,Taco van der Hoorn,19897,Intermarché-Wanty,NED,-,-,-,
 168,31,Julian Alaphilippe,18610,Soudal Quick-Step,FRA,Kaspar Burghard,Kaspar,18,
 168,34,Yves Lampaert,19941,Soudal Quick-Step,BEL,Harry Koene,Harry,1,
+168,35,Ilan Van Wilder,29828,Soudal Quick-Step,BEL,Kees van Ommeren,Kees,7,
 168,41,Jenthe Biermans,22010,ARKEA-B&B HOTELS,BEL,Frank Rozemeijer,Frank,0,
 168,44,Vincenzo Albanese,24139,ARKEA-B&B HOTELS,ITA,-,-,-,
 168,46,Matis Louvel,29982,ARKEA-B&B HOTELS,FRA,-,-,-,
@@ -186,7 +186,7 @@ race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id
 444,62,Tim van Dijke,30642,Team Visma | Lease a Bike,NED,Harry Koene,Harry,2,
 444,73,Christophe Noppe,22615,Cofidis,BEL,-,-,-,
 444,75,Stanislaw Aniolkowski,24940,Cofidis,POL,-,-,-,
-444,76,Bryan Coquard,18714,Cofidis,FRA,Nick Veenstra,Nicky,2,
+444,76,Piet Allegaert,22616,Cofidis,BEL,-,-,-,
 444,84,Cristian Scaroni,27002,Astana Qazaqstan Team,ITA,-,-,-,
 444,91,Itamar Einhorn,27315,Israel-Premier Tech,ISR,-,-,-,
 444,95,Tom Van Asbroeck,18504,Israel-Premier Tech,BEL,-,-,-,
@@ -203,6 +203,10 @@ race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id
 444,191,Timothy Dupont,7948,Tarteletto-Isorex,BEL,-,-,-,
 444,193,Gianni Marchand,21532,Tarteletto-Isorex,BEL,-,-,-,
 444,201,Pierre Barbier,25501,Philippe Wagner-Bazin,FRA,-,-,-,
+949,,Anthony Perez,17632,Cofidis,FRA,-,-,-,
+949,,Edvald Boasson-Hagen,4377,Decathlon AG2R La Mondiale,NOR,-,-,-,
+949,,Dries De Bondt,22005,Decathlon AG2R La Mondiale,BEL,-,-,-,
+949,,Oliver Naesen,21392,Decathlon AG2R La Mondiale,BEL,-,-,-,
 27,,Jay Vine,29568,Australia,AUS,Frank Vellinga,Vel,7,
 27,,Victor Campenaerts,20184,Belgium,BEL,-,-,-,
 27,,Remco Evenepoel,28377,Belgium,BEL,Roy Smits,Roy,65,

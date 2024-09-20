@@ -26,7 +26,7 @@ I send the racename to this function, and then return the (new) category.
 """
 
 def new_category(racename, category):
-    if racename.startswith('Omloop Het Nie', 'Strade Bianche', 'GP de Montreal', 'GP de Quebec'):
+    if racename.startswith(('Omloop Het Nie', 'Strade Bianche', 'GP de Montreal', 'GP de Quebec')):
         return '1.WT2'
     if racename.startswith('Amstel Gold Race'):
         return '1.WT1'

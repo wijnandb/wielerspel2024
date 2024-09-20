@@ -132,7 +132,7 @@ function updateRiderResultsData(riderID) {
 
         // Get the rider's full name from the first result (assuming it's the same for all years)
         const riderFullName = riderResults[0].rider;
-        console.log("Rider full name:", riderFullName);
+        // console.log("Rider full name:", riderFullName);
 
         // Separate first names and last names based on capitalization
         const nameParts = riderFullName.split(' ');
@@ -150,7 +150,7 @@ function updateRiderResultsData(riderID) {
 
         // Join the first names and last names
         const formattedRiderName = firstNames.join(' ') + ' ' + lastNames.join(' ');
-        console.log("Formatted rider name:", formattedRiderName);
+        // console.log("Formatted rider name:", formattedRiderName);
 
         // Display the formatted rider name
         document.getElementById("riderNameResults").textContent = formattedRiderName;
@@ -166,6 +166,7 @@ function updateRiderResultsData(riderID) {
             <td class="${result.punten - result.kosten >= 0 ? 'text-success' : 'text-danger'}">
               ${(result.punten - result.kosten).toFixed(1)}
             </td>
+            <td>${result.joker}</td>
           `;
           resultsTableBody.appendChild(row);
         });
@@ -187,7 +188,7 @@ function updateRiderResultsData(riderID) {
     // Function to handle changes to the riderID in the URL
     function handleRiderIDChange() {
       const newRiderID = getRiderIDFromURL();
-      console.log("New RiderID from URL:", newRiderID);
+      // console.log("New RiderID from URL:", newRiderID);
       if (newRiderID) {
         // Update rider data and results data with the new riderID
         updateRiderData(newRiderID);
@@ -203,7 +204,7 @@ function updateRiderResultsData(riderID) {
   
     // Initial page load: Handle the riderID in the URL
     const initialRiderID = getRiderIDFromURL();
-    console.log("Initial RiderID from URL:", initialRiderID);
+    // console.log("Initial RiderID from URL:", initialRiderID);
     if (initialRiderID) {
       // Update rider data and results data with the initial riderID
       updateRiderData(initialRiderID);

@@ -1,5 +1,5 @@
 from decimal import *
-import process_files, count_riders
+import process_files, count_riders, jackpot
 
 def add_points_to_results(input, output):
     """
@@ -22,7 +22,7 @@ def add_points_to_results(input, output):
     return True
 
 
-def calculate_jpp(ranking):
+def calculate_jpp(ranking, jackpot):
     """
     Look up the JPP for all team_captains.
     Determine who has the most points, second most points, etc.
@@ -31,19 +31,26 @@ def calculate_jpp(ranking):
     """
     # open the jackpot distribution from jpp.csv
     jpp_bonus = process_files.read_csv_file('jpp.csv')
+    # first get number last to later award him 3% of the Jackpot
+    bezemwagen = ranking[-1]
     # order ranking by JPP descending
     ranking.sort(key=lambda x: int(x[4]), reverse=True)
-    for i in range (14):
-        ranking[i][5] = jpp_bonus[i][2]
+    for i in range (len(ranking)):
+        ranking[i][5] = Decimal(jpp_bonus[i][1]) * Decimal(jackpot[0])
         ranking[i][6] = Decimal(ranking[i][3]) + Decimal(ranking[i][5])
 
-    ranking = redistribute_jpp_equals(ranking)
+    # ranking = redistribute_jpp_equals(ranking, jackpot)
+    bezemwagen[-2] += Decimal(0.03) * Decimal(jackpot[0])
+    ranking = redistribute_jpp_equals(ranking, jackpot[0])
     ranking.sort(key=lambda x: x[3], reverse=True)
+    for i in range(len(ranking)):
+        ranking[i][5] = round(ranking[i][5], 2)
+        ranking[i][6] = round(ranking[i][6], 2)
     return ranking
-    
 
-def redistribute_jpp_equals(data):
-    jpp_values = [int(row[4]) for row in data]  # Extract JPP values as integers
+
+def redistribute_jpp_equals(data, jackpot):
+    jpp_values = [int(row[4]) for row in data[:]]  # Extract JPP values as integers
     jpp_counts = {value: jpp_values.count(value) for value in jpp_values if jpp_values.count(value) > 1}  # Count occurrences of each JPP value
 
     bonus_map = {}
@@ -58,12 +65,14 @@ def redistribute_jpp_equals(data):
             row[5] = str(bonus_map[jpp])
             row[6] = str(Decimal(row[3]) + Decimal(row[5]))
 
-    total_bonus = sum([Decimal(row[5]) for row in data])
-    bonus_correct = total_bonus == Decimal('75.01')
+    total_bonus = round(sum([Decimal(row[5]) for row in data]),3)
+    bonus_correct = total_bonus == round(Decimal(jackpot),3)
 
     if bonus_correct:
-        print("Total bonus is still 75.01!")
+        print(f"Total bonus is still { jackpot }!")
     else:
-        print(bonus_correct, "Bonus is now:", total_bonus, "Should be 75.01")
+        print(bonus_correct, "Bonus is now:", total_bonus, "Should be ", jackpot)
 
     return data
+
+# print(get_jackpot())

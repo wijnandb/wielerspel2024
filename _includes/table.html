@@ -4,8 +4,8 @@
         <th></th>
         <th>punten</th>
         <th>JPP</th>
-        <!--th scope="col" class="d-none d-md-table-cell">bonus</th>
-        <th scope="col" class="d-none d-md-table-cell">totaal</th-->
+        <th scope="col" class="d-none d-md-table-cell">bonus</th>
+        <th scope="col" class="d-none d-md-table-cell">totaal</th>
     </tr>
     {% for member in site.data.ranking %}
         <tr>
@@ -15,8 +15,8 @@
                 </a></td>
             <td>{{ member.punten }}</td>
             <td>{{ member.JPP }}</td>
-            <!--td scope="col" class="d-none d-md-table-cell">{{ member.bonus }}</td>
-            <td scope="col" class="d-none d-md-table-cell">{{ member.totaal }}</td-->
+            <td scope="col" class="d-none d-md-table-cell">{{ member.bonus }}</td>
+            <td scope="col" class="d-none d-md-table-cell">{{ member.totaal }}</td>
         </tr>
     {% endfor %}
 </table>

@@ -12,7 +12,7 @@ Processing consists of several steps:
 import operator
 from decimal import *
 import process_files
-import process_points
+import process_points, jackpot
 import add_teamcaptains
 # from datetime import datetime
 """
@@ -100,7 +100,8 @@ def add_up_points_per_teamcaptain(riders):
     for i in range(len(ranking)):
         ranking_with_rank.append([i+1, ranking[i][0], ranking[i][1], ranking[i][2],ranking[i][3],0,0])
 
-    ranking_with_rank[1:] = process_points.calculate_jpp(ranking_with_rank[1:])
+    jackpot = process_files.read_csv_file("jackpot.csv")
+    ranking_with_rank[1:] = process_points.calculate_jpp(ranking_with_rank[1:], jackpot[1])
 
     process_files.write_csv_file("ranking.csv", ranking_with_rank)
     # add bonus based on JPP won
@@ -116,17 +117,10 @@ new_results = process_files.read_csv_file('latest_results.csv')
 if process_points.add_points_to_results("all_results.csv", "results_with_points.csv"):
     if process_points.add_points_to_results("latest_results.csv", "latest_results_with_points.csv"):
         # print("Added points and JPP to results")
-        add_up_points_per_rider()
         # here is the place where we should add the teamcaptain to the results
         # print("Adding teamcaptains to results")
         add_teamcaptains.add_teamcaptain("results_with_points.csv")
         add_teamcaptains.add_teamcaptain("latest_results_with_points.csv")
-
-
-"""
-Let's check if the points corrected for winning a jersey are as high as the points earned for wearing that jersey during that GT.
-How to do that?
-I can check for GT2c ponts deducted and compare them with points earned for wearing the jersey.
-
-Maybe I 
-"""
+        # Now I can reward the JPP points
+        jackpot = jackpot.get_jackpot()
+        add_up_points_per_rider()

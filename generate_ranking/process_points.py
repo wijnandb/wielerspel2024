@@ -36,12 +36,12 @@ def calculate_jpp(ranking, jackpot):
     # order ranking by JPP descending
     ranking.sort(key=lambda x: int(x[4]), reverse=True)
     for i in range (len(ranking)):
-        ranking[i][5] = Decimal(jpp_bonus[i][1]) * Decimal(jackpot[0])
+        ranking[i][5] = Decimal(jpp_bonus[i][1]) * Decimal(jackpot)
         ranking[i][6] = Decimal(ranking[i][3]) + Decimal(ranking[i][5])
 
     # ranking = redistribute_jpp_equals(ranking, jackpot)
-    bezemwagen[-2] += Decimal(0.03) * Decimal(jackpot[0])
-    ranking = redistribute_jpp_equals(ranking, jackpot[0])
+    bezemwagen[-2] += Decimal(0.03) * Decimal(jackpot)
+    ranking = redistribute_jpp_equals(ranking, jackpot)
     ranking.sort(key=lambda x: x[3], reverse=True)
     for i in range(len(ranking)):
         ranking[i][5] = round(ranking[i][5], 2)

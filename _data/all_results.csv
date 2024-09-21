@@ -1,14 +1,14 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
-1,1.PS,Super 8 Classic Impanis - Van Petegem (prov.),43627,BARONCINI Filippo,29419,0.0,0,2024-09-21
-2,1.PS,Super 8 Classic Impanis - Van Petegem (prov.),43627,PLUIMERS Rick,29463,0.0,0,2024-09-21
-3,1.PS,Super 8 Classic Impanis - Van Petegem (prov.),43627,OLIVEIRA Rui Filipe Alves,24030,0.0,0,2024-09-21
-4,1.PS,Super 8 Classic Impanis - Van Petegem (prov.),43627,JEANNIERE Emilien,29288,0.0,0,2024-09-21
-5,1.PS,Super 8 Classic Impanis - Van Petegem (prov.),43627,ADRIA OLIVERAS Roger,27469,0.0,0,2024-09-21
-6,1.PS,Super 8 Classic Impanis - Van Petegem (prov.),43627,TRENTIN Matteo,13270,0.0,0,2024-09-21
-7,1.PS,Super 8 Classic Impanis - Van Petegem (prov.),43627,REX Laurenz,28442,0.0,0,2024-09-21
-8,1.PS,Super 8 Classic Impanis - Van Petegem (prov.),43627,STEWART Jake,28437,0.0,0,2024-09-21
-9,1.PS,Super 8 Classic Impanis - Van Petegem (prov.),43627,TEUNISSEN Mike,19165,0.0,0,2024-09-21
-10,1.PS,Super 8 Classic Impanis - Van Petegem (prov.),43627,VANDENSTORME Dylan,34292,0.0,0,2024-09-21
+1,1.PS,Super 8 Classic Impanis - Van Petegem,43627,BARONCINI Filippo,29419,0.0,0,2024-09-21
+2,1.PS,Super 8 Classic Impanis - Van Petegem,43627,PLUIMERS Rick,29463,0.0,0,2024-09-21
+3,1.PS,Super 8 Classic Impanis - Van Petegem,43627,OLIVEIRA Rui Filipe Alves,24030,0.0,0,2024-09-21
+4,1.PS,Super 8 Classic Impanis - Van Petegem,43627,JEANNIERE Emilien,29288,0.0,0,2024-09-21
+5,1.PS,Super 8 Classic Impanis - Van Petegem,43627,ADRIA OLIVERAS Roger,27469,0.0,0,2024-09-21
+6,1.PS,Super 8 Classic Impanis - Van Petegem,43627,TRENTIN Matteo,13270,0.0,0,2024-09-21
+7,1.PS,Super 8 Classic Impanis - Van Petegem,43627,REX Laurenz,28442,0.0,0,2024-09-21
+8,1.PS,Super 8 Classic Impanis - Van Petegem,43627,STEWART Jake,28437,0.0,0,2024-09-21
+9,1.PS,Super 8 Classic Impanis - Van Petegem,43627,TEUNISSEN Mike,19165,0.0,0,2024-09-21
+10,1.PS,Super 8 Classic Impanis - Van Petegem,43627,VANDENSTORME Dylan,34292,0.0,0,2024-09-21
 1,2.PSs,"Tour de Luxembourg, Stage 4 : Differdange - Differdange I.T.T. (prov.)",43705,AYUSO PESQUERA Juan,31654,0.0,0,2024-09-21
 1,2.PSs,"Tour de Luxembourg, Stage 3 : Rosport - Diekirch (prov.)",43704,VANSEVENANT Mauri,28580,0.0,0,2024-09-20
 1,1.1,Kampioenschap van Vlaanderen,43626,MERLIER Tim,17988,0.0,0,2024-09-20
@@ -56,12 +56,12 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
 8,1.WT3,European Championships (Hasselt) R.R.,43613,ANIOLKOWSKI Stanislaw,24940,0.0,0,2024-09-15
 9,1.WT3,European Championships (Hasselt) R.R.,43613,LAPORTE Christophe,19953,0.0,0,2024-09-15
 10,1.WT3,European Championships (Hasselt) R.R.,43613,KIRSCH Alex,19545,0.0,0,2024-09-15
-1,NC5,National Championships United States Virgin Islands (St. Croix) R.R. (prov.),43820,SWANTON Stephen,24823,0.0,0,2024-09-15
+1,NC5,National Championships United States Virgin Islands (St. Croix) R.R.,43820,SWANTON Stephen,24823,0.0,0,2024-09-15
 1,1.1,Memorial Marco Pantani,43621,HIRSCHI Marc,26509,0.0,0,2024-09-14
 2,1.1,Memorial Marco Pantani,43621,MILESI Lorenzo,31752,0.0,0,2024-09-14
 3,1.1,Memorial Marco Pantani,43621,ALBANESE Vincenzo,24139,0.0,0,2024-09-14
 1,2.1s,"Tour of Istanbul, Stage 3 : Beykoz - Polonezkoy",43694,BURGAUDEAU Mathieu,27151,0.0,0,2024-09-14
-1,NCT5,National Championships United States Virgin Islands (St. Croix) I.T.T. (prov.),43821,SWANTON Stephen,24823,0.0,0,2024-09-14
+1,NCT5,National Championships United States Virgin Islands (St. Croix) I.T.T.,43821,SWANTON Stephen,24823,0.0,0,2024-09-14
 1,1.WT2,GP de Québec,43620,MATTHEWS Michael,13066,0.0,0,2024-09-13
 2,1.WT2,GP de Québec,43620,GIRMAY HAILU Biniam,29474,0.0,0,2024-09-13
 3,1.WT2,GP de Québec,43620,MOLARD Rudy,11818,0.0,0,2024-09-13

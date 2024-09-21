@@ -1,4 +1,14 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
+1,1.PS,Super 8 Classic Impanis - Van Petegem (prov.),43627,BARONCINI Filippo,29419,4,50,2024-09-21,Kees
+2,1.PS,Super 8 Classic Impanis - Van Petegem (prov.),43627,PLUIMERS Rick,29463,1,35,2024-09-21,-
+3,1.PS,Super 8 Classic Impanis - Van Petegem (prov.),43627,OLIVEIRA Rui Filipe Alves,24030,0.5,25,2024-09-21,-
+4,1.PS,Super 8 Classic Impanis - Van Petegem (prov.),43627,JEANNIERE Emilien,29288,0,20,2024-09-21,-
+5,1.PS,Super 8 Classic Impanis - Van Petegem (prov.),43627,ADRIA OLIVERAS Roger,27469,0,18,2024-09-21,-
+6,1.PS,Super 8 Classic Impanis - Van Petegem (prov.),43627,TRENTIN Matteo,13270,0,16,2024-09-21,Jan
+7,1.PS,Super 8 Classic Impanis - Van Petegem (prov.),43627,REX Laurenz,28442,0,14,2024-09-21,-
+8,1.PS,Super 8 Classic Impanis - Van Petegem (prov.),43627,STEWART Jake,28437,0,12,2024-09-21,-
+9,1.PS,Super 8 Classic Impanis - Van Petegem (prov.),43627,TEUNISSEN Mike,19165,0,10,2024-09-21,Albert
+10,1.PS,Super 8 Classic Impanis - Van Petegem (prov.),43627,VANDENSTORME Dylan,34292,0,8,2024-09-21,-
 1,2.PSs,"Tour de Luxembourg, Stage 4 : Differdange - Differdange I.T.T. (prov.)",43705,AYUSO PESQUERA Juan,31654,0.3,0,2024-09-21,Frank
 1,2.PSs,"Tour de Luxembourg, Stage 3 : Rosport - Diekirch (prov.)",43704,VANSEVENANT Mauri,28580,0.3,0,2024-09-20,Jan
 1,1.1,Kampioenschap van Vlaanderen,43626,MERLIER Tim,17988,2,0,2024-09-20,Frank
@@ -63,13 +73,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 9,1.WT2,GP de Québec,43620,BILBAO LOPEZ DE ARMENTIA Pello,17881,0,10,2024-09-13,Albert
 10,1.WT2,GP de Québec,43620,ZAMBANINI Edoardo,31437,0,8,2024-09-13,-
 1,2.1s,"Tour of Istanbul, Stage 2 : Sile - Sile",43693,BURGAUDEAU Mathieu,27151,0.2,0,2024-09-13,Paul
-1,1.PS,Coppa Sabatini - GP Citta di Peccioli,43619,HIRSCHI Marc,26509,4,50,2024-09-12,Bram
-2,1.PS,Coppa Sabatini - GP Citta di Peccioli,43619,MÜHLBERGER Gregor,21128,1,35,2024-09-12,-
-3,1.PS,Coppa Sabatini - GP Citta di Peccioli,43619,FOLDAGER Anders,31400,0.5,25,2024-09-12,-
-4,1.PS,Coppa Sabatini - GP Citta di Peccioli,43619,SBARAGLI Kristian,16702,0,20,2024-09-12,-
-5,1.PS,Coppa Sabatini - GP Citta di Peccioli,43619,HUENS Axel,32709,0,18,2024-09-12,-
-6,1.PS,Coppa Sabatini - GP Citta di Peccioli,43619,STEINHAUSER Georg,30721,0,16,2024-09-12,-
-7,1.PS,Coppa Sabatini - GP Citta di Peccioli,43619,STORER Michael,25335,0,14,2024-09-12,Albert
-8,1.PS,Coppa Sabatini - GP Citta di Peccioli,43619,AULAR SANABRIA Orluis Alberto,24326,0,12,2024-09-12,Jan
-9,1.PS,Coppa Sabatini - GP Citta di Peccioli,43619,ALBANESE Vincenzo,24139,0,10,2024-09-12,-
-10,1.PS,Coppa Sabatini - GP Citta di Peccioli,43619,HAJEK Alexander,33111,0,8,2024-09-12,-

@@ -1,6 +1,6 @@
 renner_id,renner,rider,ploegleider,kosten,team,nationality,age,punten,JPP
 17893,YATES Simon,YATES Simon,Jan,19,JAY,GBR,31,5.2,14
-16653,DEMARE Arnaud,DEMARE Arnaud,Jan,9,ARK,FRA,32,0.2,0
+16653,DEMARE Arnaud,DEMARE Arnaud,Jan,9,ARK,FRA,32,2.2,0
 32766,GREGOIRE Romain,GREGOIRE Romain,Jan,9,FDJ,FRA,20,2.5,81
 26383,GALL Felix,GALL Felix,Jan,6,A2R,AUT,25,2,38
 31598,SHEFFIELD Magnus,SHEFFIELD Magnus,Jan,5,IGD,USA,21,0.3,34
@@ -11,7 +11,7 @@ renner_id,renner,rider,ploegleider,kosten,team,nationality,age,punten,JPP
 23427,KEMNA Lennard,KEMNA Lennard,Jan,3,BOH,GER,27,0,12
 18233,STUYVEN Jasper,STUYVEN Jasper,Jan,3,LTK,BEL,31,3,87
 31621,LAURANCE Axel,LAURANCE Axel,Jan,2,ADC,FRA,22,5.5,50
-28580,VANSEVENANT Mauri,VANSEVENANT Mauri,Jan,2,SOQ,BEL,24,1.3,50
+28580,VANSEVENANT Mauri,VANSEVENANT Mauri,Jan,2,SOQ,BEL,24,1.3,70
 25671,SERRANO RODRIGUEZ Gonzalo,SERRANO RODRIGUEZ Gonzalo,Jan,2,MOV,ESP,29,0,0
 30663,PAGE Hugo,PAGE Hugo,Jan,2,ICW,FRA,22,0,44
 32185,NYS Thibau,NYS Thibau,Jan,2,LTK,BEL,21,10.1,88
@@ -27,5 +27,5 @@ renner_id,renner,rider,ploegleider,kosten,team,nationality,age,punten,JPP
 26429,EEKHOFF Nils,EEKHOFF Nils,Jan,1,DSM,NED,25,0,18
 22683,GUERREIRO Ruben Antonio Almeida,GUERREIRO Ruben Antonio Almeida,Jan,1,MOV,POR,29,0,10
 13863,NIZZOLO Giacomo,NIZZOLO Giacomo,Jan,1,Q36,ITA,34,0.2,0
-30686,PENHOET Paul,PENHOET Paul,Jan,1,FDJ,FRA,22,1,45
+30686,PENHOET Paul,PENHOET Paul,Jan,1,FDJ,FRA,22,1.3,45
 32946,MIHKELS Madis,MIHKELS Madis,Jan,0,ICW,EST,20,1,43

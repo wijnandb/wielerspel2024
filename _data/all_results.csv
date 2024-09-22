@@ -1,4 +1,14 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
+1,WCTT,World Championships (Zurich) I.T.T. (prov.),43614,EVENEPOEL Remco,28377,0.0,0,2024-09-22
+2,WCTT,World Championships (Zurich) I.T.T. (prov.),43614,GANNA Filippo,24057,0.0,0,2024-09-22
+3,WCTT,World Championships (Zurich) I.T.T. (prov.),43614,AFFINI Edoardo,24794,0.0,0,2024-09-22
+4,WCTT,World Championships (Zurich) I.T.T. (prov.),43614,TARLING Joshua,34297,0.0,0,2024-09-22
+5,WCTT,World Championships (Zurich) I.T.T. (prov.),43614,VINE Jay,29568,0.0,0,2024-09-22
+6,WCTT,World Championships (Zurich) I.T.T. (prov.),43614,ASGREEN Kasper,23558,0.0,0,2024-09-22
+7,WCTT,World Championships (Zurich) I.T.T. (prov.),43614,FOSS Tobias Svendsen,24873,0.0,0,2024-09-22
+8,WCTT,World Championships (Zurich) I.T.T. (prov.),43614,KÜNG Stefan,20960,0.0,0,2024-09-22
+9,WCTT,World Championships (Zurich) I.T.T. (prov.),43614,CAMPENAERTS Victor,20184,0.0,0,2024-09-22
+10,WCTT,World Championships (Zurich) I.T.T. (prov.),43614,MCNULTY Brandon,26508,0.0,0,2024-09-22
 1,2.PS,"Tour de Luxembourg, General classification (prov.)",43707,TIBERI Antonio,30649,0.0,0,2024-09-22
 2,2.PS,"Tour de Luxembourg, General classification (prov.)",43707,VAN DER POEL Mathieu,21971,0.0,0,2024-09-22
 3,2.PS,"Tour de Luxembourg, General classification (prov.)",43707,GAUDU David,24255,0.0,0,2024-09-22
@@ -13,6 +23,9 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
 1,1.1,Paris - Chauny (prov.),43629,DEMARE Arnaud,16653,0.0,0,2024-09-22
 2,1.1,Paris - Chauny (prov.),43629,PENHOËT Paul,30686,0.0,0,2024-09-22
 3,1.1,Paris - Chauny (prov.),43629,FRETIN Milan,32617,0.0,0,2024-09-22
+1,1.1,Gooikse Pijl (prov.),43628,MERLIER Tim,17988,0.0,0,2024-09-22
+2,1.1,Gooikse Pijl (prov.),43628,MEEUS Jordi,26421,0.0,0,2024-09-22
+3,1.1,Gooikse Pijl (prov.),43628,KOOIJ Olav,30643,0.0,0,2024-09-22
 1,1.PS,Super 8 Classic Impanis - Van Petegem,43627,BARONCINI Filippo,29419,0.0,0,2024-09-21
 2,1.PS,Super 8 Classic Impanis - Van Petegem,43627,PLUIMERS Rick,29463,0.0,0,2024-09-21
 3,1.PS,Super 8 Classic Impanis - Van Petegem,43627,OLIVEIRA Rui Filipe Alves,24030,0.0,0,2024-09-21

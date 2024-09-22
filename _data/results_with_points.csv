@@ -1,31 +1,31 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
-1,WCTT,World Championships (Zurich) I.T.T. (prov.),43614,EVENEPOEL Remco,28377,10,50,2024-09-22,Roy
-2,WCTT,World Championships (Zurich) I.T.T. (prov.),43614,GANNA Filippo,24057,3,35,2024-09-22,Vel
-3,WCTT,World Championships (Zurich) I.T.T. (prov.),43614,AFFINI Edoardo,24794,1,25,2024-09-22,-
-4,WCTT,World Championships (Zurich) I.T.T. (prov.),43614,TARLING Joshua,34297,0.5,20,2024-09-22,Kaspar
-5,WCTT,World Championships (Zurich) I.T.T. (prov.),43614,VINE Jay,29568,0.2,18,2024-09-22,Vel
-6,WCTT,World Championships (Zurich) I.T.T. (prov.),43614,ASGREEN Kasper,23558,0,16,2024-09-22,Nicky
-7,WCTT,World Championships (Zurich) I.T.T. (prov.),43614,FOSS Tobias Svendsen,24873,0,14,2024-09-22,Kees
-8,WCTT,World Championships (Zurich) I.T.T. (prov.),43614,KÜNG Stefan,20960,0,12,2024-09-22,Wijnand
-9,WCTT,World Championships (Zurich) I.T.T. (prov.),43614,CAMPENAERTS Victor,20184,0,10,2024-09-22,-
-10,WCTT,World Championships (Zurich) I.T.T. (prov.),43614,MCNULTY Brandon,26508,0,8,2024-09-22,Kees
-1,2.PS,"Tour de Luxembourg, General classification (prov.)",43707,TIBERI Antonio,30649,4,50,2024-09-22,-
-2,2.PS,"Tour de Luxembourg, General classification (prov.)",43707,VAN DER POEL Mathieu,21971,1,35,2024-09-22,Harry
-3,2.PS,"Tour de Luxembourg, General classification (prov.)",43707,GAUDU David,24255,0.5,25,2024-09-22,PB
-4,2.PS,"Tour de Luxembourg, General classification (prov.)",43707,VANSEVENANT Mauri,28580,0,20,2024-09-22,Jan
-5,2.PS,"Tour de Luxembourg, General classification (prov.)",43707,AYUSO PESQUERA Juan,31654,0,18,2024-09-22,Frank
-6,2.PS,"Tour de Luxembourg, General classification (prov.)",43707,HIRSCHI Marc,26509,0,16,2024-09-22,Bram
-7,2.PS,"Tour de Luxembourg, General classification (prov.)",43707,SWEENY Harrison,26796,0,14,2024-09-22,-
-8,2.PS,"Tour de Luxembourg, General classification (prov.)",43707,JEGAT Jordan,32860,0,12,2024-09-22,-
-9,2.PS,"Tour de Luxembourg, General classification (prov.)",43707,PIGANZOLI Davide,32232,0,10,2024-09-22,-
-10,2.PS,"Tour de Luxembourg, General classification (prov.)",43707,WENZEL Mats,31859,0,8,2024-09-22,-
-1,2.PSs,"Tour de Luxembourg, Stage 5 : Mersch - Luxembourg (prov.)",43706,GAUDU David,24255,0.3,0,2024-09-22,PB
-1,1.1,Gooikse Pijl (prov.),43628,MERLIER Tim,17988,2,0,2024-09-22,Frank
-2,1.1,Gooikse Pijl (prov.),43628,MEEUS Jordi,26421,0.3,0,2024-09-22,Vel
-3,1.1,Gooikse Pijl (prov.),43628,KOOIJ Olav,30643,0.1,0,2024-09-22,Roy
-1,1.1,Paris - Chauny (prov.),43629,DEMARE Arnaud,16653,2,0,2024-09-22,Jan
-2,1.1,Paris - Chauny (prov.),43629,PENHOËT Paul,30686,0.3,0,2024-09-22,Jan
-3,1.1,Paris - Chauny (prov.),43629,FRETIN Milan,32617,0.1,0,2024-09-22,-
+1,WCTT,World Championships (Zurich) I.T.T.,43614,EVENEPOEL Remco,28377,10,50,2024-09-22,Roy
+2,WCTT,World Championships (Zurich) I.T.T.,43614,GANNA Filippo,24057,3,35,2024-09-22,Vel
+3,WCTT,World Championships (Zurich) I.T.T.,43614,AFFINI Edoardo,24794,1,25,2024-09-22,-
+4,WCTT,World Championships (Zurich) I.T.T.,43614,TARLING Joshua,34297,0.5,20,2024-09-22,Kaspar
+5,WCTT,World Championships (Zurich) I.T.T.,43614,VINE Jay,29568,0.2,18,2024-09-22,Vel
+6,WCTT,World Championships (Zurich) I.T.T.,43614,ASGREEN Kasper,23558,0,16,2024-09-22,Nicky
+7,WCTT,World Championships (Zurich) I.T.T.,43614,FOSS Tobias Svendsen,24873,0,14,2024-09-22,Kees
+8,WCTT,World Championships (Zurich) I.T.T.,43614,KÜNG Stefan,20960,0,12,2024-09-22,Wijnand
+9,WCTT,World Championships (Zurich) I.T.T.,43614,CAMPENAERTS Victor,20184,0,10,2024-09-22,-
+10,WCTT,World Championships (Zurich) I.T.T.,43614,MCNULTY Brandon,26508,0,8,2024-09-22,Kees
+1,2.PS,"Tour de Luxembourg, General classification",43707,TIBERI Antonio,30649,4,50,2024-09-22,-
+2,2.PS,"Tour de Luxembourg, General classification",43707,VAN DER POEL Mathieu,21971,1,35,2024-09-22,Harry
+3,2.PS,"Tour de Luxembourg, General classification",43707,GAUDU David,24255,0.5,25,2024-09-22,PB
+4,2.PS,"Tour de Luxembourg, General classification",43707,VANSEVENANT Mauri,28580,0,20,2024-09-22,Jan
+5,2.PS,"Tour de Luxembourg, General classification",43707,AYUSO PESQUERA Juan,31654,0,18,2024-09-22,Frank
+6,2.PS,"Tour de Luxembourg, General classification",43707,HIRSCHI Marc,26509,0,16,2024-09-22,Bram
+7,2.PS,"Tour de Luxembourg, General classification",43707,SWEENY Harrison,26796,0,14,2024-09-22,-
+8,2.PS,"Tour de Luxembourg, General classification",43707,JEGAT Jordan,32860,0,12,2024-09-22,-
+9,2.PS,"Tour de Luxembourg, General classification",43707,PIGANZOLI Davide,32232,0,10,2024-09-22,-
+10,2.PS,"Tour de Luxembourg, General classification",43707,WENZEL Mats,31859,0,8,2024-09-22,-
+1,2.PSs,"Tour de Luxembourg, Stage 5 : Mersch - Luxembourg",43706,GAUDU David,24255,0.3,0,2024-09-22,PB
+1,1.1,Paris - Chauny,43629,DEMARE Arnaud,16653,2,0,2024-09-22,Jan
+2,1.1,Paris - Chauny,43629,PENHOËT Paul,30686,0.3,0,2024-09-22,Jan
+3,1.1,Paris - Chauny,43629,FRETIN Milan,32617,0.1,0,2024-09-22,-
+1,1.1,Gooikse Pijl,43628,MERLIER Tim,17988,2,0,2024-09-22,Frank
+2,1.1,Gooikse Pijl,43628,MEEUS Jordi,26421,0.3,0,2024-09-22,Vel
+3,1.1,Gooikse Pijl,43628,KOOIJ Olav,30643,0.1,0,2024-09-22,Roy
 1,1.PS,Super 8 Classic Impanis - Van Petegem,43627,BARONCINI Filippo,29419,4,50,2024-09-21,Kees
 2,1.PS,Super 8 Classic Impanis - Van Petegem,43627,PLUIMERS Rick,29463,1,35,2024-09-21,-
 3,1.PS,Super 8 Classic Impanis - Van Petegem,43627,OLIVEIRA Rui Filipe Alves,24030,0.5,25,2024-09-21,-
@@ -36,12 +36,12 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 8,1.PS,Super 8 Classic Impanis - Van Petegem,43627,STEWART Jake,28437,0,12,2024-09-21,-
 9,1.PS,Super 8 Classic Impanis - Van Petegem,43627,TEUNISSEN Mike,19165,0,10,2024-09-21,Albert
 10,1.PS,Super 8 Classic Impanis - Van Petegem,43627,VANDENSTORME Dylan,34292,0,8,2024-09-21,-
-1,2.PSs,"Tour de Luxembourg, Stage 4 : Differdange - Differdange I.T.T. (prov.)",43705,AYUSO PESQUERA Juan,31654,0.3,0,2024-09-21,Frank
-1,2.PSs,"Tour de Luxembourg, Stage 3 : Rosport - Diekirch (prov.)",43704,VANSEVENANT Mauri,28580,0.3,0,2024-09-20,Jan
+1,2.PSs,"Tour de Luxembourg, Stage 4 : Differdange - Differdange I.T.T.",43705,AYUSO PESQUERA Juan,31654,0.3,0,2024-09-21,Frank
+1,2.PSs,"Tour de Luxembourg, Stage 3 : Rosport - Diekirch",43704,VANSEVENANT Mauri,28580,0.3,0,2024-09-20,Jan
 1,1.1,Kampioenschap van Vlaanderen,43626,MERLIER Tim,17988,2,0,2024-09-20,Frank
 2,1.1,Kampioenschap van Vlaanderen,43626,DE KLEIJN Arvid,22596,0.3,0,2024-09-20,Wijnand
 3,1.1,Kampioenschap van Vlaanderen,43626,PHILIPSEN Jasper,26392,0.1,0,2024-09-20,Nicky
-1,2.PSs,"Tour de Luxembourg, Stage 2 : Junglister - Schifflange (prov.)",43703,PEDERSEN Mads,21992,0.3,0,2024-09-19,Kees
+1,2.PSs,"Tour de Luxembourg, Stage 2 : Junglister - Schifflange",43703,PEDERSEN Mads,21992,0.3,0,2024-09-19,Kees
 1,1.PS,GP de Wallonie,43625,ADRIA OLIVERAS Roger,27469,4,50,2024-09-18,-
 2,1.PS,GP de Wallonie,43625,ARANBURU DEVA Alexander,23940,1,35,2024-09-18,Harry
 3,1.PS,GP de Wallonie,43625,CHAMPOUSSIN Clément,27153,0.5,25,2024-09-18,Harry
@@ -52,7 +52,7 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 8,1.PS,GP de Wallonie,43625,BLACKMORE Joseph,34973,0,12,2024-09-18,-
 9,1.PS,GP de Wallonie,43625,ZINGLE Axel,31263,0,10,2024-09-18,Paul
 10,1.PS,GP de Wallonie,43625,OLIVEIRA Rui Filipe Alves,24030,0,8,2024-09-18,-
-1,2.PSs,"Tour de Luxembourg, Stage 1 : Luxembourg - Luxembourg (prov.)",43702,VAN DER POEL Mathieu,21971,0.3,0,2024-09-18,Harry
+1,2.PSs,"Tour de Luxembourg, Stage 1 : Luxembourg - Luxembourg",43702,VAN DER POEL Mathieu,21971,0.3,0,2024-09-18,Harry
 1,1.WT2,GP de Montréal,43622,POGACAR Tadej,26526,10,50,2024-09-15,Wijnand
 2,1.WT2,GP de Montréal,43622,BILBAO LOPEZ DE ARMENTIA Pello,17881,3,35,2024-09-15,Albert
 3,1.WT2,GP de Montréal,43622,ALAPHILIPPE Julian,18610,1,25,2024-09-15,Kaspar

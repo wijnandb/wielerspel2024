@@ -1,4 +1,14 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
+1,WCTT,World Championships (Zurich) I.T.T. (prov.),43614,EVENEPOEL Remco,28377,10,50,2024-09-22,Roy
+2,WCTT,World Championships (Zurich) I.T.T. (prov.),43614,GANNA Filippo,24057,3,35,2024-09-22,Vel
+3,WCTT,World Championships (Zurich) I.T.T. (prov.),43614,AFFINI Edoardo,24794,1,25,2024-09-22,-
+4,WCTT,World Championships (Zurich) I.T.T. (prov.),43614,TARLING Joshua,34297,0.5,20,2024-09-22,Kaspar
+5,WCTT,World Championships (Zurich) I.T.T. (prov.),43614,VINE Jay,29568,0.2,18,2024-09-22,Vel
+6,WCTT,World Championships (Zurich) I.T.T. (prov.),43614,ASGREEN Kasper,23558,0,16,2024-09-22,Nicky
+7,WCTT,World Championships (Zurich) I.T.T. (prov.),43614,FOSS Tobias Svendsen,24873,0,14,2024-09-22,Kees
+8,WCTT,World Championships (Zurich) I.T.T. (prov.),43614,KÜNG Stefan,20960,0,12,2024-09-22,Wijnand
+9,WCTT,World Championships (Zurich) I.T.T. (prov.),43614,CAMPENAERTS Victor,20184,0,10,2024-09-22,-
+10,WCTT,World Championships (Zurich) I.T.T. (prov.),43614,MCNULTY Brandon,26508,0,8,2024-09-22,Kees
 1,2.PS,"Tour de Luxembourg, General classification (prov.)",43707,TIBERI Antonio,30649,4,50,2024-09-22,-
 2,2.PS,"Tour de Luxembourg, General classification (prov.)",43707,VAN DER POEL Mathieu,21971,1,35,2024-09-22,Harry
 3,2.PS,"Tour de Luxembourg, General classification (prov.)",43707,GAUDU David,24255,0.5,25,2024-09-22,PB
@@ -13,6 +23,9 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 1,1.1,Paris - Chauny (prov.),43629,DEMARE Arnaud,16653,2,0,2024-09-22,Jan
 2,1.1,Paris - Chauny (prov.),43629,PENHOËT Paul,30686,0.3,0,2024-09-22,Jan
 3,1.1,Paris - Chauny (prov.),43629,FRETIN Milan,32617,0.1,0,2024-09-22,-
+1,1.1,Gooikse Pijl (prov.),43628,MERLIER Tim,17988,2,0,2024-09-22,Frank
+2,1.1,Gooikse Pijl (prov.),43628,MEEUS Jordi,26421,0.3,0,2024-09-22,Vel
+3,1.1,Gooikse Pijl (prov.),43628,KOOIJ Olav,30643,0.1,0,2024-09-22,Roy
 1,1.PS,Super 8 Classic Impanis - Van Petegem,43627,BARONCINI Filippo,29419,4,50,2024-09-21,Kees
 2,1.PS,Super 8 Classic Impanis - Van Petegem,43627,PLUIMERS Rick,29463,1,35,2024-09-21,-
 3,1.PS,Super 8 Classic Impanis - Van Petegem,43627,OLIVEIRA Rui Filipe Alves,24030,0.5,25,2024-09-21,-
@@ -71,7 +84,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 9,1.WT3,European Championships (Hasselt) R.R.,43613,LAPORTE Christophe,19953,0,10,2024-09-15,Paul
 10,1.WT3,European Championships (Hasselt) R.R.,43613,KIRSCH Alex,19545,0,8,2024-09-15,-
 1,NC5,National Championships United States Virgin Islands (St. Croix) R.R.,43820,SWANTON Stephen,24823,0.0,0,2024-09-15,-
-1,1.1,Memorial Marco Pantani,43621,HIRSCHI Marc,26509,2,0,2024-09-14,Bram
-2,1.1,Memorial Marco Pantani,43621,MILESI Lorenzo,31752,0.3,0,2024-09-14,-
-3,1.1,Memorial Marco Pantani,43621,ALBANESE Vincenzo,24139,0.1,0,2024-09-14,-
-1,2.1s,"Tour of Istanbul, Stage 3 : Beykoz - Polonezkoy",43694,BURGAUDEAU Mathieu,27151,0.2,0,2024-09-14,Paul

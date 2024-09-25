@@ -1,4 +1,7 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
+1,1.1,Omloop van het Houtland (prov.),43631,WALSCHEID Maximilian,19646,0.0,0,2024-09-25
+2,1.1,Omloop van het Houtland (prov.),43631,GROENEWEGEN Dylan,19238,0.0,0,2024-09-25
+3,1.1,Omloop van het Houtland (prov.),43631,BARBIER Pierre,25501,0.0,0,2024-09-25
 1,WCUT,World Championships U23 (Zurich) I.T.T.,43615,ROMEO ABAD Ivan,32764,0.0,0,2024-09-23
 2,WCUT,World Championships U23 (Zurich) I.T.T.,43615,SÖDERQVIST Jakob,34230,0.0,0,2024-09-23
 3,WCUT,World Championships U23 (Zurich) I.T.T.,43615,CHRISTEN Jan,34430,0.0,0,2024-09-23
@@ -83,13 +86,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
 2,1.1,Trofeo Matteotti,43624,COVI Alessandro,28298,0.0,0,2024-09-15
 3,1.1,Trofeo Matteotti,43624,LUTSENKO Alexey,18455,0.0,0,2024-09-15
 1,2.1s,"Tour of Istanbul, Stage 4 : Istanbul - Istanbul",43695,GABBURO Davide,20196,0.0,0,2024-09-15
-1,1.WT3,European Championships (Hasselt) R.R.,43613,MERLIER Tim,17988,0.0,0,2024-09-15
-2,1.WT3,European Championships (Hasselt) R.R.,43613,KOOIJ Olav,30643,0.0,0,2024-09-15
-3,1.WT3,European Championships (Hasselt) R.R.,43613,MIHKELS Madis,32946,0.0,0,2024-09-15
-4,1.WT3,European Championships (Hasselt) R.R.,43613,PHILIPSEN Jasper,26392,0.0,0,2024-09-15
-5,1.WT3,European Championships (Hasselt) R.R.,43613,KRISTOFF Alexander,4179,0.0,0,2024-09-15
-6,1.WT3,European Championships (Hasselt) R.R.,43613,PEDERSEN Mads,21992,0.0,0,2024-09-15
-7,1.WT3,European Championships (Hasselt) R.R.,43613,BITTNER Pavel,31555,0.0,0,2024-09-15
-8,1.WT3,European Championships (Hasselt) R.R.,43613,ANIOLKOWSKI Stanislaw,24940,0.0,0,2024-09-15
-9,1.WT3,European Championships (Hasselt) R.R.,43613,LAPORTE Christophe,19953,0.0,0,2024-09-15
-10,1.WT3,European Championships (Hasselt) R.R.,43613,KIRSCH Alex,19545,0.0,0,2024-09-15

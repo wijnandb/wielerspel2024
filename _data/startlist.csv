@@ -1,5 +1,5 @@
 race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id,price,dropped_out
-128,,Vadim Pronskiy,26676,Astana Qazaqstan Team,KAZ,-,-,-,
+128,,Anthon Charmig,26474,Astana Qazaqstan Team,DEN,-,-,-,
 128,,Ide Schelling,26301,Astana Qazaqstan Team,NED,Harry Koene,Harry,0,
 128,,Hugh Carthy,21014,EF Education-EasyPost,GBR,Harry Koene,Harry,2,
 128,,Stefan de Bod,23888,EF Education-EasyPost,RSA,-,-,-,
@@ -128,3 +128,6 @@ race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id
 26,,Magnus Sheffield,31598,USA,USA,Jan Versluys,Jan,5,
 26,,Quinn Simmons,30666,USA,USA,Bram van Ommeren,Bram,1,
 26,,Kevin Vermaerke,29332,USA,USA,Nick Veenstra,Nicky,2,
+773,,Filippo Ganna,24057,INEOS Grenadiers,ITA,Frank Vellinga,Vel,19,
+773,,Ben Turner,27923,INEOS Grenadiers,GBR,Arjan Knibbe,Arjan,2,
+773,,Elia Viviani,13240,INEOS Grenadiers,ITA,Arjan Knibbe,Arjan,1,

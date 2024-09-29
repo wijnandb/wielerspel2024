@@ -1,4 +1,5 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
+1,2.PSs,"Tour de Langkawi, Stage 1 : Langkawi - Langkawi (prov.)",43716,SYRITSA Gleb,29927,0.0,0,2024-09-29
 1,WCU,World Championships U23 (Zurich) R.R.,43616,BEHRENS Niklas,35584,0.0,0,2024-09-27
 2,WCU,World Championships U23 (Zurich) R.R.,43616,SVRCEK Martin,32767,0.0,0,2024-09-27
 3,WCU,World Championships U23 (Zurich) R.R.,43616,SEGAERT Alec,33567,0.0,0,2024-09-27
@@ -59,5 +60,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
 8,1.PS,Super 8 Classic Impanis - Van Petegem,43627,STEWART Jake,28437,0.0,0,2024-09-21
 9,1.PS,Super 8 Classic Impanis - Van Petegem,43627,TEUNISSEN Mike,19165,0.0,0,2024-09-21
 10,1.PS,Super 8 Classic Impanis - Van Petegem,43627,VANDENSTORME Dylan,34292,0.0,0,2024-09-21
-1,2.PSs,"Tour de Luxembourg, Stage 4 : Differdange - Differdange I.T.T.",43705,AYUSO PESQUERA Juan,31654,0.0,0,2024-09-21
-1,2.PSs,"Tour de Luxembourg, Stage 3 : Rosport - Diekirch",43704,VANSEVENANT Mauri,28580,0.0,0,2024-09-20

@@ -1,4 +1,14 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
+1,WCRR,World Championships (Zurich) R.R. (prov.),43317,POGACAR Tadej,26526,25,50,2024-09-29,Wijnand
+2,WCRR,World Championships (Zurich) R.R. (prov.),43317,O'CONNOR Ben,23763,5,35,2024-09-29,Nicky
+3,WCRR,World Championships (Zurich) R.R. (prov.),43317,VAN DER POEL Mathieu,21971,3,25,2024-09-29,Harry
+4,WCRR,World Championships (Zurich) R.R. (prov.),43317,SKUJINS Toms,16739,2,20,2024-09-29,-
+5,WCRR,World Championships (Zurich) R.R. (prov.),43317,EVENEPOEL Remco,28377,1.5,18,2024-09-29,Roy
+6,WCRR,World Championships (Zurich) R.R. (prov.),43317,HIRSCHI Marc,26509,1,16,2024-09-29,Bram
+7,WCRR,World Championships (Zurich) R.R. (prov.),43317,HEALY Ben,28846,0.8,14,2024-09-29,Kees
+8,WCRR,World Championships (Zurich) R.R. (prov.),43317,MAS NICOLAU Enric,22794,0.6,12,2024-09-29,Bram
+9,WCRR,World Championships (Zurich) R.R. (prov.),43317,SIMMONS Quinn,30666,0.4,10,2024-09-29,Bram
+10,WCRR,World Championships (Zurich) R.R. (prov.),43317,BARDET Romain,13566,0.2,8,2024-09-29,Nicky
 1,2.PSs,"Tour de Langkawi, Stage 1 : Langkawi - Langkawi (prov.)",43716,SYRITSA Gleb,29927,0.3,0,2024-09-29,-
 1,WCU,World Championships U23 (Zurich) R.R.,43616,BEHRENS Niklas,35584,0.0,0,2024-09-27,-
 2,WCU,World Championships U23 (Zurich) R.R.,43616,SVRCEK Martin,32767,0.0,0,2024-09-27,-
@@ -50,13 +60,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 1,1.1,Paris - Chauny,43629,DEMARE Arnaud,16653,2,0,2024-09-22,Jan
 2,1.1,Paris - Chauny,43629,PENHOËT Paul,30686,0.3,0,2024-09-22,Jan
 3,1.1,Paris - Chauny,43629,FRETIN Milan,32617,0.1,0,2024-09-22,-
-1,1.PS,Super 8 Classic Impanis - Van Petegem,43627,BARONCINI Filippo,29419,4,50,2024-09-21,Kees
-2,1.PS,Super 8 Classic Impanis - Van Petegem,43627,PLUIMERS Rick,29463,1,35,2024-09-21,-
-3,1.PS,Super 8 Classic Impanis - Van Petegem,43627,OLIVEIRA Rui Filipe Alves,24030,0.5,25,2024-09-21,-
-4,1.PS,Super 8 Classic Impanis - Van Petegem,43627,JEANNIERE Emilien,29288,0,20,2024-09-21,-
-5,1.PS,Super 8 Classic Impanis - Van Petegem,43627,ADRIA OLIVERAS Roger,27469,0,18,2024-09-21,-
-6,1.PS,Super 8 Classic Impanis - Van Petegem,43627,TRENTIN Matteo,13270,0,16,2024-09-21,Jan
-7,1.PS,Super 8 Classic Impanis - Van Petegem,43627,REX Laurenz,28442,0,14,2024-09-21,-
-8,1.PS,Super 8 Classic Impanis - Van Petegem,43627,STEWART Jake,28437,0,12,2024-09-21,-
-9,1.PS,Super 8 Classic Impanis - Van Petegem,43627,TEUNISSEN Mike,19165,0,10,2024-09-21,Albert
-10,1.PS,Super 8 Classic Impanis - Van Petegem,43627,VANDENSTORME Dylan,34292,0,8,2024-09-21,-

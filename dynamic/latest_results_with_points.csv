@@ -1,4 +1,5 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
+1,2.PSs,"Tour de Langkawi, Stage 2 : Arau - Butterworth (prov.)",43717,MALUCELLI Matteo,23467,0.3,0,2024-09-30,-
 1,WCRR,World Championships (Zurich) R.R.,43317,POGACAR Tadej,26526,25,50,2024-09-29,Wijnand
 2,WCRR,World Championships (Zurich) R.R.,43317,O'CONNOR Ben,23763,5,35,2024-09-29,Nicky
 3,WCRR,World Championships (Zurich) R.R.,43317,VAN DER POEL Mathieu,21971,3,25,2024-09-29,Harry
@@ -53,4 +54,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 8,2.PS,"Tour de Luxembourg, General classification",43707,JEGAT Jordan,32860,0,12,2024-09-22,-
 9,2.PS,"Tour de Luxembourg, General classification",43707,PIGANZOLI Davide,32232,0,10,2024-09-22,-
 10,2.PS,"Tour de Luxembourg, General classification",43707,WENZEL Mats,31859,0,8,2024-09-22,-
-1,2.PSs,"Tour de Luxembourg, Stage 5 : Mersch - Luxembourg",43706,GAUDU David,24255,0.3,0,2024-09-22,PB

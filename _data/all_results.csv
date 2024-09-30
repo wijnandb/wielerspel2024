@@ -688,7 +688,6 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
 2,2.1,"Österreich-Rundfahrt / Tour of Austria , General classification",43357,RIVERA VARGAS Brandon Smith,26283,0.0,0,2024-07-07
 3,2.1,"Österreich-Rundfahrt / Tour of Austria , General classification",43357,SHEFFIELD Magnus,31598,0.0,0,2024-07-07
 1,2.1s,"Sibiu Cycling Tour, Stage 2b : Sibiu I.T.T.",43360,WALKER Max,31835,0.0,0,2024-07-07
-1,2.1s,"Österreich-Rundfahrt / Tour of Austria , Stage 5 : Kufstein - Kühtai",43356,no result,13543,0.0,0,2024-07-07
 1,2.1s,"Sibiu Cycling Tour, Stage 2a : Sibiu - Sibiu",43359,PICKRELL Riley,31786,0.0,0,2024-07-07
 1,NC5,National Championships Malta R.R.,43597,BUTTIGIEG Aidan,32043,0.0,0,2024-07-07
 1,NCT5,National Championships Guam (Ritidian) I.T.T.,43345,APONIK Dan,26770,0.0,0,2024-07-07
@@ -885,6 +884,7 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
 1,NC4,National Championships Switzerland (Aire-la-Ville) R.R.,43044,SCHMID Mauro,29214,0.0,0,2024-06-23
 1,NC5,National Championships Ukraine (Vidnyky) R.R. (prov.),43083,SYDOR Sergiy,31676,0.0,0,2024-06-23
 1,NC5,National Championships Costa Rica (Perez Zeledon) R.R. (prov.),43093,BONILLA QUIROS Daniel Andres,23672,0.0,0,2024-06-23
+1,NC4,National Championships Venezuela (San Carlos) R.R.,43071,PAREDES LOPEZ Anderson Timoteo,23830,0.0,0,2024-06-23
 1,NC5,National Championships Romania (Ocna Sibiului) R.R.,43089,RAILEANU Cristian,13770,0.0,0,2024-06-23
 1,NC5,National Championships Luxembourg (Harlange) R.R.,43568,GENIETS Kévin,25763,0.0,0,2024-06-23
 1,NC4,National Championships Hungary (Pannonhalma) R.R,43069,VALTER Attila,27198,0.0,0,2024-06-23
@@ -1042,7 +1042,6 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
 1,1.1,GP Kanton Aargau - Gippingen,43018,VAN GILS Maxim,28521,0.0,0,2024-06-07
 2,1.1,GP Kanton Aargau - Gippingen,43018,BETTIOL Alberto,20697,0.0,0,2024-06-07
 3,1.1,GP Kanton Aargau - Gippingen,43018,ADRIA OLIVERAS Roger,27469,0.0,0,2024-06-07
-1,2.WT1s,"Critérium du Dauphiné, Stage 5 : Amplepuis - Saint-Priest (prov.)",43177,no result,13543,0.0,0,2024-06-06
 1,2.1s,"ZLM Tour, Stage 2 : Middelburg - Wissenkerke (prov.)",43185,VAN UDEN Casper,30636,0.0,0,2024-06-06
 1,2.WT1s,"Critérium du Dauphiné, Stage 4 : Saint-Germain-Laval - Neulise I.T.T. (prov.)",43176,EVENEPOEL Remco,28377,0.0,0,2024-06-05
 1,2.1s,"ZLM Tour, Stage 1 : Westkapelle I.T.T. (prov.)",43184,HERREGODTS Rune,28392,0.0,0,2024-06-05
@@ -1137,16 +1136,16 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
 1,1.1,Rund um Köln,42829,VAN UDEN Casper,30636,0.0,0,2024-05-26
 2,1.1,Rund um Köln,42829,GIRMAY HAILU Biniam,29474,0.0,0,2024-05-26
 3,1.1,Rund um Köln,42829,BLOUWE Louis,29120,0.0,0,2024-05-26
-1,CC2,Pan-American Championships (Sao Jose dos Campos) R.R.,42834,LINAREZ MENESES Leangel Ruben,30518,0.0,0,2024-05-26
-2,CC2,Pan-American Championships (Sao Jose dos Campos) R.R.,42834,WALTERS Red,29355,0.0,0,2024-05-26
-3,CC2,Pan-American Championships (Sao Jose dos Campos) R.R.,42834,PAREDES ZAPATA Wilmar Andres,24876,0.0,0,2024-05-26
-4,CC2,Pan-American Championships (Sao Jose dos Campos) R.R.,42834,AULAR SANABRIA Orluis Alberto,24326,0.0,0,2024-05-26
-5,CC2,Pan-American Championships (Sao Jose dos Campos) R.R.,42834,BRENES MATA Sebastian,34598,0.0,0,2024-05-26
-6,CC2,Pan-American Championships (Sao Jose dos Campos) R.R.,42834,HOPKINS Kaden,30107,0.0,0,2024-05-26
-7,CC2,Pan-American Championships (Sao Jose dos Campos) R.R.,42834,SILVA COUSSAN Guillermo Thomas,32828,0.0,0,2024-05-26
-8,CC2,Pan-American Championships (Sao Jose dos Campos) R.R.,42834,SILVA Kleber Ramos,3166,0.0,0,2024-05-26
-9,CC2,Pan-American Championships (Sao Jose dos Campos) R.R.,42834,CHUMIL GONZALEZ Sergio Geovani,30471,0.0,0,2024-05-26
-10,CC2,Pan-American Championships (Sao Jose dos Campos) R.R.,42834,CASTILLO SOTO Ulises Alfredo,19739,0.0,0,2024-05-26
+1,1.1,Pan-American Championships (Sao Jose dos Campos) R.R.,42834,LINAREZ MENESES Leangel Ruben,30518,0.0,0,2024-05-26
+2,1.1,Pan-American Championships (Sao Jose dos Campos) R.R.,42834,WALTERS Red,29355,0.0,0,2024-05-26
+3,1.1,Pan-American Championships (Sao Jose dos Campos) R.R.,42834,PAREDES ZAPATA Wilmar Andres,24876,0.0,0,2024-05-26
+4,1.1,Pan-American Championships (Sao Jose dos Campos) R.R.,42834,AULAR SANABRIA Orluis Alberto,24326,0.0,0,2024-05-26
+5,1.1,Pan-American Championships (Sao Jose dos Campos) R.R.,42834,BRENES MATA Sebastian,34598,0.0,0,2024-05-26
+6,1.1,Pan-American Championships (Sao Jose dos Campos) R.R.,42834,HOPKINS Kaden,30107,0.0,0,2024-05-26
+7,1.1,Pan-American Championships (Sao Jose dos Campos) R.R.,42834,SILVA COUSSAN Guillermo Thomas,32828,0.0,0,2024-05-26
+8,1.1,Pan-American Championships (Sao Jose dos Campos) R.R.,42834,SILVA Kleber Ramos,3166,0.0,0,2024-05-26
+9,1.1,Pan-American Championships (Sao Jose dos Campos) R.R.,42834,CHUMIL GONZALEZ Sergio Geovani,30471,0.0,0,2024-05-26
+10,1.1,Pan-American Championships (Sao Jose dos Campos) R.R.,42834,CASTILLO SOTO Ulises Alfredo,19739,0.0,0,2024-05-26
 -4,GT2s,"Leiderstrui na Giro dItalia, Stage 20 : Alpago - Bassano del Grappa (prov.)",42872,Pogacar Tadej,26526,0.0,0,2024-05-25
 -1,GT2s,"Jongerentrui na Giro dItalia, Stage 20 : Alpago - Bassano del Grappa (prov.)",42872,Tiberi Antonio,30649,0.0,0,2024-05-25
 -2,GT2s,"Puntentrui na Giro dItalia, Stage 20 : Alpago - Bassano del Grappa (prov.)",42872,Milan Jonathan,29359,0.0,0,2024-05-25
@@ -1393,7 +1392,6 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
 8,2.PS,"Presidential Tour of Turkey, General classification",42747,APARICIO MUÑOZ Mario,31664,0.0,0,2024-04-28
 9,2.PS,"Presidential Tour of Turkey, General classification",42747,HAGEN Carl Fredrik,23436,0.0,0,2024-04-28
 10,2.PS,"Presidential Tour of Turkey, General classification",42747,LANGELLOTTI Victor,26397,0.0,0,2024-04-28
-1,2.PSs,"Presidential Tour of Turkey, Stage 8 : Istanbul - Istanbul",42746,no result,13543,0.0,0,2024-04-28
 1,2.1,"Vuelta a Asturias, General classification",42774,DEL TORO ROMERO Isaac,33556,0.0,0,2024-04-28
 2,2.1,"Vuelta a Asturias, General classification",42774,MAJKA Rafal,14310,0.0,0,2024-04-28
 3,2.1,"Vuelta a Asturias, General classification",42774,FAGUNDEZ LIMA Antonio Eric,28445,0.0,0,2024-04-28
@@ -1483,16 +1481,16 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
 2,1.1,Classic Grand Besançon Doubs,42661,LANGELLOTTI Victor,26397,0.0,0,2024-04-12
 3,1.1,Classic Grand Besançon Doubs,42661,GAUDU David,24255,0.0,0,2024-04-12
 1,2.1s,"Giro dAbruzzo, Stage 4 : Montorio al Vomano - LAquila",42725,SIVAKOV Pavel,24934,0.0,0,2024-04-12
-1,CC2,Oceania Cycling Championships (Brisbane) R.R.,42678,CAVANAGH Ryan,23904,0.0,0,2024-04-12
-2,CC2,Oceania Cycling Championships (Brisbane) R.R.,42678,GREENWOOD Matthew,33593,0.0,0,2024-04-12
-3,CC2,Oceania Cycling Championships (Brisbane) R.R.,42678,GATE Aaron,13153,0.0,0,2024-04-12
-4,CC2,Oceania Cycling Championships (Brisbane) R.R.,42678,METCALFE Ben,29479,0.0,0,2024-04-12
-5,CC2,Oceania Cycling Championships (Brisbane) R.R.,42678,MEDWAY Jackson,35042,0.0,0,2024-04-12
-6,CC2,Oceania Cycling Championships (Brisbane) R.R.,42678,BETTLES Carter,29531,0.0,0,2024-04-12
-7,CC2,Oceania Cycling Championships (Brisbane) R.R.,42678,MOREY Drew,25476,0.0,0,2024-04-12
-8,CC2,Oceania Cycling Championships (Brisbane) R.R.,42678,JENNER Samuel,25337,0.0,0,2024-04-12
-9,CC2,Oceania Cycling Championships (Brisbane) R.R.,42678,WARD Jack,36000,0.0,0,2024-04-12
-10,CC2,Oceania Cycling Championships (Brisbane) R.R.,42678,BURNS Luke,33367,0.0,0,2024-04-12
+1,1.1,Oceania Cycling Championships (Brisbane) R.R.,42678,CAVANAGH Ryan,23904,0.0,0,2024-04-12
+2,1.1,Oceania Cycling Championships (Brisbane) R.R.,42678,GREENWOOD Matthew,33593,0.0,0,2024-04-12
+3,1.1,Oceania Cycling Championships (Brisbane) R.R.,42678,GATE Aaron,13153,0.0,0,2024-04-12
+4,1.1,Oceania Cycling Championships (Brisbane) R.R.,42678,METCALFE Ben,29479,0.0,0,2024-04-12
+5,1.1,Oceania Cycling Championships (Brisbane) R.R.,42678,MEDWAY Jackson,35042,0.0,0,2024-04-12
+6,1.1,Oceania Cycling Championships (Brisbane) R.R.,42678,BETTLES Carter,29531,0.0,0,2024-04-12
+7,1.1,Oceania Cycling Championships (Brisbane) R.R.,42678,MOREY Drew,25476,0.0,0,2024-04-12
+8,1.1,Oceania Cycling Championships (Brisbane) R.R.,42678,JENNER Samuel,25337,0.0,0,2024-04-12
+9,1.1,Oceania Cycling Championships (Brisbane) R.R.,42678,WARD Jack,36000,0.0,0,2024-04-12
+10,1.1,Oceania Cycling Championships (Brisbane) R.R.,42678,BURNS Luke,33367,0.0,0,2024-04-12
 1,NCT5,National Championships Argentina (Alta Gracia) I.T.T.,42789,FREDES Sergio Omar,24168,0.0,0,2024-04-12
 1,2.1s,"Giro dAbruzzo, Stage 3 : Pratola Peligna - Prati di Tivo",42724,LUTSENKO Alexey,18455,0.0,0,2024-04-11
 1,1.PS,Brabantse Pijl,42660,COSNEFROY Benoît,24189,0.0,0,2024-04-10
@@ -1871,7 +1869,6 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
 1,2.1s,"Tour du Rwanda, Stage 3 : Huye - Rusizi (prov.)",42522,RESTREPO VALENCIA Jhonatan,24720,0.0,0,2024-02-20
 1,2.WT3s,"UAE Tour, Stage 1 : Al Dhafra - Liwa (prov.)",42529,MERLIER Tim,17988,0.0,0,2024-02-19
 1,2.1s,"Tour du Rwanda, Stage 2 : Muhanga - Kibeho (prov.)",42521,EINHORN Itamar,27315,0.0,0,2024-02-19
-1,2.PS,"Vuelta a Andalucia / Ruta Del Sol, General classification",42516,no result,13543,0.0,0,2024-02-18
 1,2.PS,"Volta ao Algarve, General classification",42510,EVENEPOEL Remco,28377,0.0,0,2024-02-18
 2,2.PS,"Volta ao Algarve, General classification",42510,MARTINEZ POVEDA Daniel Felipe,23503,0.0,0,2024-02-18
 3,2.PS,"Volta ao Algarve, General classification",42510,TRATNIK Jan,12748,0.0,0,2024-02-18
@@ -1882,13 +1879,11 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
 8,2.PS,"Volta ao Algarve, General classification",42510,KUSS Sepp,25653,0.0,0,2024-02-18
 9,2.PS,"Volta ao Algarve, General classification",42510,KÜNG Stefan,20960,0.0,0,2024-02-18
 10,2.PS,"Volta ao Algarve, General classification",42510,MORGADO Antonio Tomas,34222,0.0,0,2024-02-18
-1,2.PSs,"Vuelta a Andalucia / Ruta Del Sol, Stage 5 : Benahavis - La Linea de la Concepcion",42515,no result,13543,0.0,0,2024-02-18
 1,2.PSs,"Volta ao Algarve, Stage 5 : Faro - Alto do Malhao",42509,MARTINEZ POVEDA Daniel Felipe,23503,0.0,0,2024-02-18
 1,2.1,"Tour des Alpes-Maritimes , General classification",42519,COSNEFROY Benoît,24189,0.0,0,2024-02-18
 2,2.1,"Tour des Alpes-Maritimes , General classification",42519,ALBANESE Vincenzo,24139,0.0,0,2024-02-18
 3,2.1,"Tour des Alpes-Maritimes , General classification",42519,PARET PEINTRE Aurélien,24110,0.0,0,2024-02-18
 1,2.1s,"Tour des Alpes-Maritimes , Stage 2 : Villefranche-sur-Mer - Vence",42518,COSNEFROY Benoît,24189,0.0,0,2024-02-18
-1,2.PSs,"Vuelta a Andalucia / Ruta Del Sol, Stage 4 : Cordoba - Lucena",42514,no result,13543,0.0,0,2024-02-17
 1,2.PSs,"Volta ao Algarve, Stage 4 : Albufeira - Albufeira I.T.T.",42508,EVENEPOEL Remco,28377,0.0,0,2024-02-17
 1,2.1s,"Tour des Alpes-Maritimes , Stage 1 : Levens - Antibes",42517,VERNON Ethan,30035,0.0,0,2024-02-17
 1,2.PSs,"Vuelta a Andalucia / Ruta Del Sol, Stage 3 : Alcaudete - Alcaudete I.T.T.",42513,VAN GILS Maxim,28521,0.0,0,2024-02-16
@@ -1896,7 +1891,6 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
 1,1.1,Classic Var,42543,MARTINEZ Lenny,32721,0.0,0,2024-02-16
 2,1.1,Classic Var,42543,JOHANNESSEN Tobias Halland,31567,0.0,0,2024-02-16
 3,1.1,Classic Var,42543,BARDET Romain,13566,0.0,0,2024-02-16
-1,2.PSs,"Vuelta a Andalucia / Ruta Del Sol, Stage 2 : Velez - Alcaudete",42512,no result,13543,0.0,0,2024-02-15
 1,2.PSs,"Volta ao Algarve, Stage 2 : Lagoa - Alto da Foia",42506,MARTINEZ POVEDA Daniel Felipe,23503,0.0,0,2024-02-15
 1,2.PS,"Tour of Oman, General classification",42504,YATES Adam,18975,0.0,0,2024-02-14
 2,2.PS,"Tour of Oman, General classification",42504,HIRT Jan,17078,0.0,0,2024-02-14
@@ -1908,20 +1902,10 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
 8,2.PS,"Tour of Oman, General classification",42504,KULSET Johannes,34399,0.0,0,2024-02-14
 9,2.PS,"Tour of Oman, General classification",42504,COBO CAYON Ivan,31277,0.0,0,2024-02-14
 10,2.PS,"Tour of Oman, General classification",42504,FAURE PROST Alexy,34353,0.0,0,2024-02-14
-1,2.PSs,"Vuelta a Andalucia / Ruta Del Sol, Stage 1 : Almunecar la Herradura - Cadiar",42511,no result,13543,0.0,0,2024-02-14
 1,2.PSs,"Volta ao Algarve, Stage 1 : Portimao - Lagos",42505,THIJSSEN Gerben,27085,0.0,0,2024-02-14
 1,2.PSs,"Tour of Oman, Stage 5 : Jamail - Jabal Al Akhdar",42503,YATES Adam,18975,0.0,0,2024-02-14
 1,2.PSs,"Tour of Oman, Stage 4 : Izki - Yitti Hills",42502,CAPIOT Amaury,22669,0.0,0,2024-02-13
 1,2.PSs,"Tour of Oman, Stage 3 : Al Khobar - Al Bustan",42501,MAGNIER Paul,34555,0.0,0,2024-02-12
-2,2.PS,"Vuelta a Andalucia / Ruta Del Sol, General classification (prov.)",42516,no result,13543,0.0,0,2024-02-16
-3,2.PS,"Vuelta a Andalucia / Ruta Del Sol, General classification (prov.)",42516,no result,13543,0.0,0,2024-02-16
-4,2.PS,"Vuelta a Andalucia / Ruta Del Sol, General classification (prov.)",42516,no result,13543,0.0,0,2024-02-16
-5,2.PS,"Vuelta a Andalucia / Ruta Del Sol, General classification (prov.)",42516,no result,13543,0.0,0,2024-02-16
-6,2.PS,"Vuelta a Andalucia / Ruta Del Sol, General classification (prov.)",42516,no result,13543,0.0,0,2024-02-16
-7,2.PS,"Vuelta a Andalucia / Ruta Del Sol, General classification (prov.)",42516,no result,13543,0.0,0,2024-02-16
-8,2.PS,"Vuelta a Andalucia / Ruta Del Sol, General classification (prov.)",42516,no result,13543,0.0,0,2024-02-16
-9,2.PS,"Vuelta a Andalucia / Ruta Del Sol, General classification (prov.)",42516,no result,13543,0.0,0,2024-02-16
-10,2.PS,"Vuelta a Andalucia / Ruta Del Sol, General classification (prov.)",42516,no result,13543,0.0,0,2024-02-16
 1,1.1,Clasica Jaén Paraíso Interior,42422,LAZKANO LOPEZ Oier,30595,0.0,0,2024-02-12
 2,1.1,Clasica Jaén Paraíso Interior,42422,TRONCHON Bastien,32134,0.0,0,2024-02-12
 3,1.1,Clasica Jaén Paraíso Interior,42422,TRATNIK Jan,12748,0.0,0,2024-02-12
@@ -2013,7 +1997,6 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
 1,2.1s,"AlUla Tour , Stage 3 : AlUla - AlUla",42465,MERLIER Tim,17988,0.0,0,2024-02-01
 1,NCT4,National Championships Ecuador (Riobamba) I.T.T.,42414,CARAPAZ MONTENEGRO Richard Antonio,21342,0.0,0,2024-02-01
 1,2.PSs,"Volta a la Comunitat Valenciana, Stage 1 : Benicassim - Castellón",42475,TONELLI Alessandro,19901,0.0,0,2024-01-31
-1,2.1s,"Etoile de Bessèges / Tour du Gard, Stage 1 : Bellegarde - Bellegarde (prov.)",42469,no result,13543,0.0,0,2024-01-31
 1,2.1s,"AlUla Tour , Stage 2 : Winter Park - Sharaan Nature Reserve",42464,WAERENSKJOLD Søren,29187,0.0,0,2024-01-31
 1,2.1s,"AlUla Tour , Stage 1 : Al Manshiyah - Al Manshiyah",42463,VAN UDEN Casper,30636,0.0,0,2024-01-30
 1,1.WT3,Cadel Evans Great Ocean Road Race,42403,PITHIE Laurence,31638,0.0,0,2024-01-28

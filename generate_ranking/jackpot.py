@@ -12,6 +12,6 @@ def get_jackpot():
         if result[9] == '-':
             jackpot_points += Decimal(result[6])
     jackpot = Decimal(str(jackpot_points)) * Decimal(0.25)
-    lines =[['sfgosfrg'], [jackpot]]
+    lines =[['hoogte'], [jackpot]]
     process_files.write_csv_file("jackpot.csv", lines)
     return lines[1]

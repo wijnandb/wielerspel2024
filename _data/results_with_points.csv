@@ -1,4 +1,9 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
+1,2.PSs,"Tour de Langkawi, Stage 3 : Taiping - Cameron Highlands (prov.)",43718,POOLE Max,32809,0.3,0,2024-10-01,Albert
+1,1.1,Binche - Chimay - Binche / Mémorial Frank Vandenbroucke (prov.),43634,DE LIE Arnaud,32221,2,0,2024-10-01,PB
+2,1.1,Binche - Chimay - Binche / Mémorial Frank Vandenbroucke (prov.),43634,GIRMAY HAILU Biniam,29474,0.3,0,2024-10-01,Nicky
+3,1.1,Binche - Chimay - Binche / Mémorial Frank Vandenbroucke (prov.),43634,FRETIN Milan,32617,0.1,0,2024-10-01,-
+1,2.1s,"Cro Race, Stage 1 : Vodice - Sinj (prov.)",43731,KRISTOFF Alexander,4179,0.2,0,2024-10-01,Nicky
 1,2.PSs,"Tour de Langkawi, Stage 2 : Arau - Butterworth (prov.)",43717,MALUCELLI Matteo,23467,0.3,0,2024-09-30,-
 1,WCRR,World Championships (Zurich) R.R.,43317,POGACAR Tadej,26526,25,50,2024-09-29,Wijnand
 2,WCRR,World Championships (Zurich) R.R.,43317,O'CONNOR Ben,23763,5,35,2024-09-29,Nicky

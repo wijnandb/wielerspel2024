@@ -1,4 +1,9 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
+1,2.PSs,"Tour de Langkawi, Stage 3 : Taiping - Cameron Highlands (prov.)",43718,POOLE Max,32809,0.0,0,2024-10-01
+1,1.1,Binche - Chimay - Binche / Mémorial Frank Vandenbroucke (prov.),43634,DE LIE Arnaud,32221,0.0,0,2024-10-01
+2,1.1,Binche - Chimay - Binche / Mémorial Frank Vandenbroucke (prov.),43634,GIRMAY HAILU Biniam,29474,0.0,0,2024-10-01
+3,1.1,Binche - Chimay - Binche / Mémorial Frank Vandenbroucke (prov.),43634,FRETIN Milan,32617,0.0,0,2024-10-01
+1,2.1s,"Cro Race, Stage 1 : Vodice - Sinj (prov.)",43731,KRISTOFF Alexander,4179,0.0,0,2024-10-01
 1,2.PSs,"Tour de Langkawi, Stage 2 : Arau - Butterworth (prov.)",43717,MALUCELLI Matteo,23467,0.0,0,2024-09-30
 1,WCRR,World Championships (Zurich) R.R.,43317,POGACAR Tadej,26526,0.0,0,2024-09-29
 2,WCRR,World Championships (Zurich) R.R.,43317,O'CONNOR Ben,23763,0.0,0,2024-09-29
@@ -24,33 +29,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
 1,1.1,Omloop van het Houtland,43631,WALSCHEID Maximilian,19646,0.0,0,2024-09-25
 2,1.1,Omloop van het Houtland,43631,GROENEWEGEN Dylan,19238,0.0,0,2024-09-25
 3,1.1,Omloop van het Houtland,43631,BARBIER Pierre,25501,0.0,0,2024-09-25
-1,WCUT,World Championships U23 (Zurich) I.T.T.,43615,ROMEO ABAD Ivan,32764,0.0,0,2024-09-23
-2,WCUT,World Championships U23 (Zurich) I.T.T.,43615,SÖDERQVIST Jakob,34230,0.0,0,2024-09-23
-3,WCUT,World Championships U23 (Zurich) I.T.T.,43615,CHRISTEN Jan,34430,0.0,0,2024-09-23
-4,WCUT,World Championships U23 (Zurich) I.T.T.,43615,SEGAERT Alec,33567,0.0,0,2024-09-23
-5,WCUT,World Championships U23 (Zurich) I.T.T.,43615,ORINS Robin,32677,0.0,0,2024-09-23
-6,WCUT,World Championships U23 (Zurich) I.T.T.,43615,RAFFERTY Darren,31511,0.0,0,2024-09-23
-7,WCUT,World Championships U23 (Zurich) I.T.T.,43615,BEHRENS Niklas,35584,0.0,0,2024-09-23
-8,WCUT,World Championships U23 (Zurich) I.T.T.,43615,SHMIDT Artem,34269,0.0,0,2024-09-23
-9,WCUT,World Championships U23 (Zurich) I.T.T.,43615,MOURIS Wessel,34394,0.0,0,2024-09-23
-10,WCUT,World Championships U23 (Zurich) I.T.T.,43615,RAFFERTY Adam,35751,0.0,0,2024-09-23
-1,WCTT,World Championships (Zurich) I.T.T.,43614,EVENEPOEL Remco,28377,0.0,0,2024-09-22
-2,WCTT,World Championships (Zurich) I.T.T.,43614,GANNA Filippo,24057,0.0,0,2024-09-22
-3,WCTT,World Championships (Zurich) I.T.T.,43614,AFFINI Edoardo,24794,0.0,0,2024-09-22
-4,WCTT,World Championships (Zurich) I.T.T.,43614,TARLING Joshua,34297,0.0,0,2024-09-22
-5,WCTT,World Championships (Zurich) I.T.T.,43614,VINE Jay,29568,0.0,0,2024-09-22
-6,WCTT,World Championships (Zurich) I.T.T.,43614,ASGREEN Kasper,23558,0.0,0,2024-09-22
-7,WCTT,World Championships (Zurich) I.T.T.,43614,FOSS Tobias Svendsen,24873,0.0,0,2024-09-22
-8,WCTT,World Championships (Zurich) I.T.T.,43614,KÜNG Stefan,20960,0.0,0,2024-09-22
-9,WCTT,World Championships (Zurich) I.T.T.,43614,CAMPENAERTS Victor,20184,0.0,0,2024-09-22
-10,WCTT,World Championships (Zurich) I.T.T.,43614,MCNULTY Brandon,26508,0.0,0,2024-09-22
-1,2.PS,"Tour de Luxembourg, General classification",43707,TIBERI Antonio,30649,0.0,0,2024-09-22
-2,2.PS,"Tour de Luxembourg, General classification",43707,VAN DER POEL Mathieu,21971,0.0,0,2024-09-22
-3,2.PS,"Tour de Luxembourg, General classification",43707,GAUDU David,24255,0.0,0,2024-09-22
-4,2.PS,"Tour de Luxembourg, General classification",43707,VANSEVENANT Mauri,28580,0.0,0,2024-09-22
-5,2.PS,"Tour de Luxembourg, General classification",43707,AYUSO PESQUERA Juan,31654,0.0,0,2024-09-22
-6,2.PS,"Tour de Luxembourg, General classification",43707,HIRSCHI Marc,26509,0.0,0,2024-09-22
-7,2.PS,"Tour de Luxembourg, General classification",43707,SWEENY Harrison,26796,0.0,0,2024-09-22
-8,2.PS,"Tour de Luxembourg, General classification",43707,JEGAT Jordan,32860,0.0,0,2024-09-22
-9,2.PS,"Tour de Luxembourg, General classification",43707,PIGANZOLI Davide,32232,0.0,0,2024-09-22
-10,2.PS,"Tour de Luxembourg, General classification",43707,WENZEL Mats,31859,0.0,0,2024-09-22

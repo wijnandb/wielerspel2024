@@ -1,8 +1,8 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
 1,2.PSs,"Tour de Langkawi, Stage 4 : Kuala Kubu Bharu - Bentong (prov.)",43719,DE KLEIJN Arvid,22596,0.0,0,2024-10-02
-1,1.1,BetCity Elfstedenrace (prov.),43636,VAN DER HOORN Taco,19897,0.0,0,2024-10-02
-2,1.1,BetCity Elfstedenrace (prov.),43636,KRIJNSEN Jelte,32717,0.0,0,2024-10-02
-3,1.1,BetCity Elfstedenrace (prov.),43636,LAPORTE Christophe,19953,0.0,0,2024-10-02
+1,1.1,BetCity Elfstedenrace,43636,VAN DER HOORN Taco,19897,0.0,0,2024-10-02
+2,1.1,BetCity Elfstedenrace,43636,KRIJNSEN Jelte,32717,0.0,0,2024-10-02
+3,1.1,BetCity Elfstedenrace,43636,LAPORTE Christophe,19953,0.0,0,2024-10-02
 1,2.1s,"Cro Race, Stage 2 : Biograd no Moru - Novalja (prov.)",43732,MOLANO BENAVIDES Juan Sebastian,23463,0.0,0,2024-10-02
 1,2.PSs,"Tour de Langkawi, Stage 3 : Taiping - Cameron Highlands (prov.)",43718,POOLE Max,32809,0.0,0,2024-10-01
 1,1.1,Binche - Chimay - Binche / Mémorial Frank Vandenbroucke,43634,DE LIE Arnaud,32221,0.0,0,2024-10-01

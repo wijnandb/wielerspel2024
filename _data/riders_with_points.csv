@@ -163,7 +163,7 @@ renner_id,renner,rider,ploegleider,kosten,team,nationality,age,punten,JPP
 28037,MOZZATO Luca,MOZZATO Luca,Nicky,1,ARK,ITA,25,7,107
 23429,PEDERSEN Casper Phillip,PEDERSEN Casper Phillip,Nicky,0,SOQ,DEN,27,0,0
 21342,CARAPAZ MONTENEGRO Richard Antonio,CARAPAZ MONTENEGRO Richard Antonio,Paul,16,EFE,ECU,30,19.0,34
-19953,LAPORTE Christophe,LAPORTE Christophe,Paul,11,TJV,FRA,31,3.7,101
+19953,LAPORTE Christophe,LAPORTE Christophe,Paul,11,TJV,FRA,31,3.8,101
 24316,VLASOV Alexander,VLASOV Alexander,Paul,10,BOH,RUS,27,5.9,114
 28057,JORGENSON Matteo,JORGENSON Matteo,Paul,10,TJV,USA,24,22.6,175
 26637,GROVES Kaden,GROVES Kaden,Paul,9,ADC,AUS,25,11.5,33
@@ -191,7 +191,7 @@ renner_id,renner,rider,ploegleider,kosten,team,nationality,age,punten,JPP
 29492,STRONG Corbin,STRONG Corbin,PB,6,IPT,NZL,23,2.0,75
 29699,BUITRAGO SANCHEZ Santiago,BUITRAGO SANCHEZ Santiago,PB,5,TBV,COL,24,6.2,61
 25704,GODON Dorian,GODON Dorian,PB,3,A2R,FRA,27,2.0,50
-23463,MOLANO BENAVIDES Juan Sebastian,MOLANO BENAVIDES Juan Sebastian,PB,3,UAD,COL,29,0,30
+23463,MOLANO BENAVIDES Juan Sebastian,MOLANO BENAVIDES Juan Sebastian,PB,3,UAD,COL,29,0.2,30
 13066,MATTHEWS Michael,MATTHEWS Michael,PB,3,JAY,AUS,33,15,119
 18123,VALGREN ANDERSEN Michael,VALGREN ANDERSEN Michael,PB,2,EFE,DEN,31,0,32
 28298,COVI Alessandro,COVI Alessandro,PB,2,UAD,ITA,25,0.3,0
@@ -236,7 +236,7 @@ renner_id,renner,rider,ploegleider,kosten,team,nationality,age,punten,JPP
 28451,ALEOTTI Giovanni,ALEOTTI Giovanni,Wijnand,1,BOH,ITA,24,4.3,66
 18413,MEINTJES Louis,MEINTJES Louis,Wijnand,1,ICW,RSA,31,2,0
 31889,JACKSON George,JACKSON George,Wijnand,1,BBH,NZL,23,0,0
-22596,DE KLEIJN Arvid,DE KLEIJN Arvid,Wijnand,1,TUD,NED,29,7.3,64
+22596,DE KLEIJN Arvid,DE KLEIJN Arvid,Wijnand,1,TUD,NED,29,7.6,64
 28186,MULUBRHAN Henok,MULUBRHAN Henok,Wijnand,1,AST,ERI,24,1,55
 6177,CARUSO Damiano,CARUSO Damiano,Wijnand,1,TBV,ITA,36,0,0
 28641,MARIT Arne,MARIT Arne,Wijnand,0,ICW,BEL,24,0,0

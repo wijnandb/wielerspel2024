@@ -1,4 +1,9 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
+1,1.PS,Giro dell'Emilia (prov.),43638,POGACAR Tadej,26526,0.0,0,2024-10-05
+2,1.PS,Giro dell'Emilia (prov.),43638,PIDCOCK Thomas,27708,0.0,0,2024-10-05
+3,1.PS,Giro dell'Emilia (prov.),43638,PIGANZOLI Davide,32232,0.0,0,2024-10-05
+4,1.PS,Giro dell'Emilia (prov.),43638,WOODS Michael,20257,0.0,0,2024-10-05
+5,1.PS,Giro dell'Emilia (prov.),43638,YATES Simon,17893,0.0,0,2024-10-05
 1,2.PSs,"Tour de Langkawi, Stage 7 : Miri - Bintulu (prov.)",43722,MALUCELLI Matteo,23467,0.0,0,2024-10-05
 1,2.1s,"Cro Race, Stage 5 : Bosiljevo - Karlovac (prov.)",43735,KRISTOFF Alexander,4179,0.0,0,2024-10-05
 1,2.PSs,"Tour de Langkawi, Stage 6 : Batu Pahat - Kulai (prov.)",43721,TAROZZI Manuele,29884,0.0,0,2024-10-04
@@ -24,4 +29,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
 1,1.1,Binche - Chimay - Binche / Mémorial Frank Vandenbroucke,43634,DE LIE Arnaud,32221,0.0,0,2024-10-01
 2,1.1,Binche - Chimay - Binche / Mémorial Frank Vandenbroucke,43634,GIRMAY HAILU Biniam,29474,0.0,0,2024-10-01
 3,1.1,Binche - Chimay - Binche / Mémorial Frank Vandenbroucke,43634,FRETIN Milan,32617,0.0,0,2024-10-01
-1,2.1s,"Cro Race, Stage 1 : Vodice - Sinj (prov.)",43731,KRISTOFF Alexander,4179,0.0,0,2024-10-01

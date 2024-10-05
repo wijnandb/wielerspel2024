@@ -1,4 +1,6 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
+1,2.PSs,"Tour de Langkawi, Stage 7 : Miri - Bintulu (prov.)",43722,MALUCELLI Matteo,23467,0.0,0,2024-10-05
+1,2.1s,"Cro Race, Stage 5 : Bosiljevo - Karlovac (prov.)",43735,KRISTOFF Alexander,4179,0.0,0,2024-10-05
 1,2.PSs,"Tour de Langkawi, Stage 6 : Batu Pahat - Kulai (prov.)",43721,TAROZZI Manuele,29884,0.0,0,2024-10-04
 1,2.1s,"Cro Race, Stage 4 : Batu Pahat - Labin (prov.)",43734,LUND ANDRESEN Tobias,31657,0.0,0,2024-10-04
 1,1.PS,Münsterland Giro,43637,PHILIPSEN Jasper,26392,0.0,0,2024-10-03
@@ -23,15 +25,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
 2,1.1,Binche - Chimay - Binche / Mémorial Frank Vandenbroucke,43634,GIRMAY HAILU Biniam,29474,0.0,0,2024-10-01
 3,1.1,Binche - Chimay - Binche / Mémorial Frank Vandenbroucke,43634,FRETIN Milan,32617,0.0,0,2024-10-01
 1,2.1s,"Cro Race, Stage 1 : Vodice - Sinj (prov.)",43731,KRISTOFF Alexander,4179,0.0,0,2024-10-01
-1,2.PSs,"Tour de Langkawi, Stage 2 : Arau - Butterworth (prov.)",43717,MALUCELLI Matteo,23467,0.0,0,2024-09-30
-1,WCRR,World Championships (Zurich) R.R.,43317,POGACAR Tadej,26526,0.0,0,2024-09-29
-2,WCRR,World Championships (Zurich) R.R.,43317,O'CONNOR Ben,23763,0.0,0,2024-09-29
-3,WCRR,World Championships (Zurich) R.R.,43317,VAN DER POEL Mathieu,21971,0.0,0,2024-09-29
-4,WCRR,World Championships (Zurich) R.R.,43317,SKUJINS Toms,16739,0.0,0,2024-09-29
-5,WCRR,World Championships (Zurich) R.R.,43317,EVENEPOEL Remco,28377,0.0,0,2024-09-29
-6,WCRR,World Championships (Zurich) R.R.,43317,HIRSCHI Marc,26509,0.0,0,2024-09-29
-7,WCRR,World Championships (Zurich) R.R.,43317,HEALY Ben,28846,0.0,0,2024-09-29
-8,WCRR,World Championships (Zurich) R.R.,43317,MAS NICOLAU Enric,22794,0.0,0,2024-09-29
-9,WCRR,World Championships (Zurich) R.R.,43317,SIMMONS Quinn,30666,0.0,0,2024-09-29
-10,WCRR,World Championships (Zurich) R.R.,43317,BARDET Romain,13566,0.0,0,2024-09-29
-1,2.PSs,"Tour de Langkawi, Stage 1 : Langkawi - Langkawi (prov.)",43716,SYRITSA Gleb,29927,0.0,0,2024-09-29

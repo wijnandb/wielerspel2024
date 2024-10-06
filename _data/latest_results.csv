@@ -9,13 +9,23 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
 8,2.PS,"Tour de Langkawi, General classification (prov.)",43724,GUTIERREZ GONZALEZ Jorge,34304,0.0,0,2024-10-06
 9,2.PS,"Tour de Langkawi, General classification (prov.)",43724,BIZKARRA ETXEGIBEL Mikel,17006,0.0,0,2024-10-06
 10,2.PS,"Tour de Langkawi, General classification (prov.)",43724,LOPEZ GRANIZO Harold Martin,29525,0.0,0,2024-10-06
+1,1.PS,Paris - Tours (prov.),43642,LAPORTE Christophe,19953,0.0,0,2024-10-06
+2,1.PS,Paris - Tours (prov.),43642,VACEK Mathias,31713,0.0,0,2024-10-06
+3,1.PS,Paris - Tours (prov.),43642,PHILIPSEN Jasper,26392,0.0,0,2024-10-06
+4,1.PS,Paris - Tours (prov.),43642,TEUNISSEN Mike,19165,0.0,0,2024-10-06
+5,1.PS,Paris - Tours (prov.),43642,RENARD Alexis,29969,0.0,0,2024-10-06
+6,1.PS,Paris - Tours (prov.),43642,BOL Cees,21930,0.0,0,2024-10-06
+7,1.PS,Paris - Tours (prov.),43642,DE LIE Arnaud,32221,0.0,0,2024-10-06
+8,1.PS,Paris - Tours (prov.),43642,VAN ASBROECK Tom,18504,0.0,0,2024-10-06
+9,1.PS,Paris - Tours (prov.),43642,CHRISTEN Fabio,31719,0.0,0,2024-10-06
+10,1.PS,Paris - Tours (prov.),43642,TURGIS Anthony,21312,0.0,0,2024-10-06
 1,2.PSs,"Tour de Langkawi, Stage 8 : Bintulu - Bintulu (prov.)",43723,MALUCELLI Matteo,23467,0.0,0,2024-10-06
 1,2.1,"Cro Race, General classification (prov.)",43737,MCNULTY Brandon,26508,0.0,0,2024-10-06
 2,2.1,"Cro Race, General classification (prov.)",43737,LUND ANDRESEN Tobias,31657,0.0,0,2024-10-06
 3,2.1,"Cro Race, General classification (prov.)",43737,WRIGHT Fred,28446,0.0,0,2024-10-06
-1,1.1,Coppa Agostoni - Giro delle Brianze (prov.),43643,HIRSCHI Marc,26509,0.0,0,2024-10-06
-2,1.1,Coppa Agostoni - Giro delle Brianze (prov.),43643,GREGOIRE Romain,32766,0.0,0,2024-10-06
-3,1.1,Coppa Agostoni - Giro delle Brianze (prov.),43643,LAPEIRA Paul,30615,0.0,0,2024-10-06
+1,1.1,"Alpes Isère Tour, Coppa Agostoni - Giro delle Brianze (prov.)",43643,HIRSCHI Marc,26509,0.0,0,2024-10-06
+2,1.1,"Alpes Isère Tour, Coppa Agostoni - Giro delle Brianze (prov.)",43643,GREGOIRE Romain,32766,0.0,0,2024-10-06
+3,1.1,"Alpes Isère Tour, Coppa Agostoni - Giro delle Brianze (prov.)",43643,LAPEIRA Paul,30615,0.0,0,2024-10-06
 1,2.1s,"Cro Race, Stage 6 : Sveta Nedelja - Zagreb (prov.)",43736,KOGUT Oded,31902,0.0,0,2024-10-06
 1,1.PS,Giro dell'Emilia,43638,POGACAR Tadej,26526,0.0,0,2024-10-05
 2,1.PS,Giro dell'Emilia,43638,PIDCOCK Thomas,27708,0.0,0,2024-10-05
@@ -42,4 +52,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
 9,1.PS,Münsterland Giro,43637,LAMPERTI Luke,31833,0.0,0,2024-10-03
 10,1.PS,Münsterland Giro,43637,VAN ASBROECK Tom,18504,0.0,0,2024-10-03
 1,2.PSs,"Tour de Langkawi, Stage 5 : Kuala Lumpur - Melaka (prov.)",43720,DE KLEIJN Arvid,22596,0.0,0,2024-10-03
-1,2.1s,"Cro Race, Stage 3 : Novi Vinodolski - Opatija (prov.)",43733,MCNULTY Brandon,26508,0.0,0,2024-10-03

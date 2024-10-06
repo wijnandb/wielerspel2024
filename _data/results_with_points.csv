@@ -1,32 +1,32 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
-1,2.PS,"Tour de Langkawi, General classification (prov.)",43724,POOLE Max,32809,4,50,2024-10-06,Albert
-2,2.PS,"Tour de Langkawi, General classification (prov.)",43724,PESENTI Thomas,28958,1,35,2024-10-06,-
-3,2.PS,"Tour de Langkawi, General classification (prov.)",43724,IRIBAR JAUREGI Unai,28237,0.5,25,2024-10-06,-
-4,2.PS,"Tour de Langkawi, General classification (prov.)",43724,TERCERO LOPEZ Fernando,32613,0,20,2024-10-06,-
-5,2.PS,"Tour de Langkawi, General classification (prov.)",43724,CHARMIG Anthon,26474,0,18,2024-10-06,-
-6,2.PS,"Tour de Langkawi, General classification (prov.)",43724,DIAZ GALLEGO Jose Manuel,24103,0,16,2024-10-06,-
-7,2.PS,"Tour de Langkawi, General classification (prov.)",43724,RUIZ SEDANO Ibon,30746,0,14,2024-10-06,-
-8,2.PS,"Tour de Langkawi, General classification (prov.)",43724,GUTIERREZ GONZALEZ Jorge,34304,0,12,2024-10-06,-
-9,2.PS,"Tour de Langkawi, General classification (prov.)",43724,BIZKARRA ETXEGIBEL Mikel,17006,0,10,2024-10-06,-
-10,2.PS,"Tour de Langkawi, General classification (prov.)",43724,LOPEZ GRANIZO Harold Martin,29525,0,8,2024-10-06,-
-1,1.PS,Paris - Tours (prov.),43642,LAPORTE Christophe,19953,4,50,2024-10-06,Paul
-2,1.PS,Paris - Tours (prov.),43642,VACEK Mathias,31713,1,35,2024-10-06,-
-3,1.PS,Paris - Tours (prov.),43642,PHILIPSEN Jasper,26392,0.5,25,2024-10-06,Nicky
-4,1.PS,Paris - Tours (prov.),43642,TEUNISSEN Mike,19165,0,20,2024-10-06,Albert
-5,1.PS,Paris - Tours (prov.),43642,RENARD Alexis,29969,0,18,2024-10-06,-
-6,1.PS,Paris - Tours (prov.),43642,BOL Cees,21930,0,16,2024-10-06,Nicky
-7,1.PS,Paris - Tours (prov.),43642,DE LIE Arnaud,32221,0,14,2024-10-06,PB
-8,1.PS,Paris - Tours (prov.),43642,VAN ASBROECK Tom,18504,0,12,2024-10-06,-
-9,1.PS,Paris - Tours (prov.),43642,CHRISTEN Fabio,31719,0,10,2024-10-06,-
-10,1.PS,Paris - Tours (prov.),43642,TURGIS Anthony,21312,0,8,2024-10-06,Roy
-1,2.PSs,"Tour de Langkawi, Stage 8 : Bintulu - Bintulu (prov.)",43723,MALUCELLI Matteo,23467,0.3,0,2024-10-06,-
-1,2.1,"Cro Race, General classification (prov.)",43737,MCNULTY Brandon,26508,2,0,2024-10-06,Kees
-2,2.1,"Cro Race, General classification (prov.)",43737,LUND ANDRESEN Tobias,31657,0.3,0,2024-10-06,PB
-3,2.1,"Cro Race, General classification (prov.)",43737,WRIGHT Fred,28446,0.1,0,2024-10-06,Albert
-1,1.1,Coppa Agostoni - Giro delle Brianze (prov.),43643,HIRSCHI Marc,26509,2,0,2024-10-06,Bram
-2,1.1,Coppa Agostoni - Giro delle Brianze (prov.),43643,GREGOIRE Romain,32766,0.3,0,2024-10-06,Jan
-3,1.1,Coppa Agostoni - Giro delle Brianze (prov.),43643,LAPEIRA Paul,30615,0.1,0,2024-10-06,-
-1,2.1s,"Cro Race, Stage 6 : Sveta Nedelja - Zagreb (prov.)",43736,KOGUT Oded,31902,0.2,0,2024-10-06,-
+1,2.PS,"Tour de Langkawi, General classification",43724,POOLE Max,32809,4,50,2024-10-06,Albert
+2,2.PS,"Tour de Langkawi, General classification",43724,PESENTI Thomas,28958,1,35,2024-10-06,-
+3,2.PS,"Tour de Langkawi, General classification",43724,IRIBAR JAUREGI Unai,28237,0.5,25,2024-10-06,-
+4,2.PS,"Tour de Langkawi, General classification",43724,TERCERO LOPEZ Fernando,32613,0,20,2024-10-06,-
+5,2.PS,"Tour de Langkawi, General classification",43724,CHARMIG Anthon,26474,0,18,2024-10-06,-
+6,2.PS,"Tour de Langkawi, General classification",43724,DIAZ GALLEGO Jose Manuel,24103,0,16,2024-10-06,-
+7,2.PS,"Tour de Langkawi, General classification",43724,RUIZ SEDANO Ibon,30746,0,14,2024-10-06,-
+8,2.PS,"Tour de Langkawi, General classification",43724,GUTIERREZ GONZALEZ Jorge,34304,0,12,2024-10-06,-
+9,2.PS,"Tour de Langkawi, General classification",43724,BIZKARRA ETXEGIBEL Mikel,17006,0,10,2024-10-06,-
+10,2.PS,"Tour de Langkawi, General classification",43724,LOPEZ GRANIZO Harold Martin,29525,0,8,2024-10-06,-
+1,1.PS,Paris - Tours,43642,LAPORTE Christophe,19953,4,50,2024-10-06,Paul
+2,1.PS,Paris - Tours,43642,VACEK Mathias,31713,1,35,2024-10-06,-
+3,1.PS,Paris - Tours,43642,PHILIPSEN Jasper,26392,0.5,25,2024-10-06,Nicky
+4,1.PS,Paris - Tours,43642,TEUNISSEN Mike,19165,0,20,2024-10-06,Albert
+5,1.PS,Paris - Tours,43642,RENARD Alexis,29969,0,18,2024-10-06,-
+6,1.PS,Paris - Tours,43642,BOL Cees,21930,0,16,2024-10-06,Nicky
+7,1.PS,Paris - Tours,43642,DE LIE Arnaud,32221,0,14,2024-10-06,PB
+8,1.PS,Paris - Tours,43642,VAN ASBROECK Tom,18504,0,12,2024-10-06,-
+9,1.PS,Paris - Tours,43642,CHRISTEN Fabio,31719,0,10,2024-10-06,-
+10,1.PS,Paris - Tours,43642,TURGIS Anthony,21312,0,8,2024-10-06,Roy
+1,2.PSs,"Tour de Langkawi, Stage 8 : Bintulu - Bintulu",43723,MALUCELLI Matteo,23467,0.3,0,2024-10-06,-
+1,2.1,"Cro Race, General classification",43737,MCNULTY Brandon,26508,2,0,2024-10-06,Kees
+2,2.1,"Cro Race, General classification",43737,LUND ANDRESEN Tobias,31657,0.3,0,2024-10-06,PB
+3,2.1,"Cro Race, General classification",43737,WRIGHT Fred,28446,0.1,0,2024-10-06,Albert
+1,1.1,Coppa Agostoni - Giro delle Brianze,43643,HIRSCHI Marc,26509,2,0,2024-10-06,Bram
+2,1.1,Coppa Agostoni - Giro delle Brianze,43643,GREGOIRE Romain,32766,0.3,0,2024-10-06,Jan
+3,1.1,Coppa Agostoni - Giro delle Brianze,43643,LAPEIRA Paul,30615,0.1,0,2024-10-06,-
+1,2.1s,"Cro Race, Stage 6 : Sveta Nedelja - Zagreb",43736,KOGUT Oded,31902,0.2,0,2024-10-06,-
 1,1.PS,Giro dell'Emilia,43638,POGACAR Tadej,26526,4,50,2024-10-05,Wijnand
 2,1.PS,Giro dell'Emilia,43638,PIDCOCK Thomas,27708,1,35,2024-10-05,Vel
 3,1.PS,Giro dell'Emilia,43638,PIGANZOLI Davide,32232,0.5,25,2024-10-05,-
@@ -37,10 +37,10 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 8,1.PS,Giro dell'Emilia,43638,MAS NICOLAU Enric,22794,0,12,2024-10-05,Bram
 9,1.PS,Giro dell'Emilia,43638,RYAN Archie,30565,0,10,2024-10-05,-
 10,1.PS,Giro dell'Emilia,43638,FORTUNATO Lorenzo,25552,0,8,2024-10-05,Paul
-1,2.PSs,"Tour de Langkawi, Stage 7 : Miri - Bintulu (prov.)",43722,MALUCELLI Matteo,23467,0.3,0,2024-10-05,-
-1,2.1s,"Cro Race, Stage 5 : Bosiljevo - Karlovac (prov.)",43735,KRISTOFF Alexander,4179,0.2,0,2024-10-05,Nicky
-1,2.PSs,"Tour de Langkawi, Stage 6 : Batu Pahat - Kulai (prov.)",43721,TAROZZI Manuele,29884,0.3,0,2024-10-04,-
-1,2.1s,"Cro Race, Stage 4 : Batu Pahat - Labin (prov.)",43734,LUND ANDRESEN Tobias,31657,0.2,0,2024-10-04,PB
+1,2.PSs,"Tour de Langkawi, Stage 7 : Miri - Bintulu",43722,MALUCELLI Matteo,23467,0.3,0,2024-10-05,-
+1,2.1s,"Cro Race, Stage 5 : Bosiljevo - Karlovac",43735,KRISTOFF Alexander,4179,0.2,0,2024-10-05,Nicky
+1,2.PSs,"Tour de Langkawi, Stage 6 : Batu Pahat - Kulai",43721,TAROZZI Manuele,29884,0.3,0,2024-10-04,-
+1,2.1s,"Cro Race, Stage 4 : Batu Pahat - Labin",43734,LUND ANDRESEN Tobias,31657,0.2,0,2024-10-04,PB
 1,1.PS,Münsterland Giro,43637,PHILIPSEN Jasper,26392,4,50,2024-10-03,Nicky
 2,1.PS,Münsterland Giro,43637,MEEUS Jordi,26421,1,35,2024-10-03,Vel
 3,1.PS,Münsterland Giro,43637,FRETIN Milan,32617,0.5,25,2024-10-03,-

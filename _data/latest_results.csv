@@ -1,4 +1,14 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
+1,1.PS,Coppa Bernocchi (prov.),43645,VAN TRICHT Stan,28579,0.0,0,2024-10-07
+2,1.PS,Coppa Bernocchi (prov.),43645,BAUDIN Alex,32146,0.0,0,2024-10-07
+3,1.PS,Coppa Bernocchi (prov.),43645,ADRIA OLIVERAS Roger,27469,0.0,0,2024-10-07
+4,1.PS,Coppa Bernocchi (prov.),43645,POWLESS Neilson,24902,0.0,0,2024-10-07
+5,1.PS,Coppa Bernocchi (prov.),43645,LEMMEN Bart,32252,0.0,0,2024-10-07
+6,1.PS,Coppa Bernocchi (prov.),43645,SIVAKOV Pavel,24934,0.0,0,2024-10-07
+7,1.PS,Coppa Bernocchi (prov.),43645,PINARELLO Alessandro,33101,0.0,0,2024-10-07
+8,1.PS,Coppa Bernocchi (prov.),43645,GODON Dorian,25704,0.0,0,2024-10-07
+9,1.PS,Coppa Bernocchi (prov.),43645,BUSATTO Francesco,32738,0.0,0,2024-10-07
+10,1.PS,Coppa Bernocchi (prov.),43645,VAN DEN BERG Marijn,27674,0.0,0,2024-10-07
 1,2.PS,"Tour de Langkawi, General classification",43724,POOLE Max,32809,0.0,0,2024-10-06
 2,2.PS,"Tour de Langkawi, General classification",43724,PESENTI Thomas,28958,0.0,0,2024-10-06
 3,2.PS,"Tour de Langkawi, General classification",43724,IRIBAR JAUREGI Unai,28237,0.0,0,2024-10-06
@@ -41,13 +51,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
 1,2.1s,"Cro Race, Stage 5 : Bosiljevo - Karlovac",43735,KRISTOFF Alexander,4179,0.0,0,2024-10-05
 1,2.PSs,"Tour de Langkawi, Stage 6 : Batu Pahat - Kulai",43721,TAROZZI Manuele,29884,0.0,0,2024-10-04
 1,2.1s,"Cro Race, Stage 4 : Batu Pahat - Labin",43734,LUND ANDRESEN Tobias,31657,0.0,0,2024-10-04
-1,1.PS,Münsterland Giro,43637,PHILIPSEN Jasper,26392,0.0,0,2024-10-03
-2,1.PS,Münsterland Giro,43637,MEEUS Jordi,26421,0.0,0,2024-10-03
-3,1.PS,Münsterland Giro,43637,FRETIN Milan,32617,0.0,0,2024-10-03
-4,1.PS,Münsterland Giro,43637,GIRMAY HAILU Biniam,29474,0.0,0,2024-10-03
-5,1.PS,Münsterland Giro,43637,WALSCHEID Maximilian,19646,0.0,0,2024-10-03
-6,1.PS,Münsterland Giro,43637,VAN POPPEL Danny,19242,0.0,0,2024-10-03
-7,1.PS,Münsterland Giro,43637,ACKERMANN Pascal,20917,0.0,0,2024-10-03
-8,1.PS,Münsterland Giro,43637,EEKHOFF Nils,26429,0.0,0,2024-10-03
-9,1.PS,Münsterland Giro,43637,LAMPERTI Luke,31833,0.0,0,2024-10-03
-10,1.PS,Münsterland Giro,43637,VAN ASBROECK Tom,18504,0.0,0,2024-10-03

@@ -1,14 +1,14 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
-1,1.PS,Coppa Bernocchi (prov.),43645,VAN TRICHT Stan,28579,0.0,0,2024-10-07
-2,1.PS,Coppa Bernocchi (prov.),43645,BAUDIN Alex,32146,0.0,0,2024-10-07
-3,1.PS,Coppa Bernocchi (prov.),43645,ADRIA OLIVERAS Roger,27469,0.0,0,2024-10-07
-4,1.PS,Coppa Bernocchi (prov.),43645,POWLESS Neilson,24902,0.0,0,2024-10-07
-5,1.PS,Coppa Bernocchi (prov.),43645,LEMMEN Bart,32252,0.0,0,2024-10-07
-6,1.PS,Coppa Bernocchi (prov.),43645,SIVAKOV Pavel,24934,0.0,0,2024-10-07
-7,1.PS,Coppa Bernocchi (prov.),43645,PINARELLO Alessandro,33101,0.0,0,2024-10-07
-8,1.PS,Coppa Bernocchi (prov.),43645,GODON Dorian,25704,0.0,0,2024-10-07
-9,1.PS,Coppa Bernocchi (prov.),43645,BUSATTO Francesco,32738,0.0,0,2024-10-07
-10,1.PS,Coppa Bernocchi (prov.),43645,VAN DEN BERG Marijn,27674,0.0,0,2024-10-07
+1,1.PS,Coppa Bernocchi,43645,VAN TRICHT Stan,28579,0.0,0,2024-10-07
+2,1.PS,Coppa Bernocchi,43645,BAUDIN Alex,32146,0.0,0,2024-10-07
+3,1.PS,Coppa Bernocchi,43645,ADRIA OLIVERAS Roger,27469,0.0,0,2024-10-07
+4,1.PS,Coppa Bernocchi,43645,POWLESS Neilson,24902,0.0,0,2024-10-07
+5,1.PS,Coppa Bernocchi,43645,LEMMEN Bart,32252,0.0,0,2024-10-07
+6,1.PS,Coppa Bernocchi,43645,SIVAKOV Pavel,24934,0.0,0,2024-10-07
+7,1.PS,Coppa Bernocchi,43645,PINARELLO Alessandro,33101,0.0,0,2024-10-07
+8,1.PS,Coppa Bernocchi,43645,GODON Dorian,25704,0.0,0,2024-10-07
+9,1.PS,Coppa Bernocchi,43645,BUSATTO Francesco,32738,0.0,0,2024-10-07
+10,1.PS,Coppa Bernocchi,43645,VAN DEN BERG Marijn,27674,0.0,0,2024-10-07
 1,2.PS,"Tour de Langkawi, General classification",43724,POOLE Max,32809,0.0,0,2024-10-06
 2,2.PS,"Tour de Langkawi, General classification",43724,PESENTI Thomas,28958,0.0,0,2024-10-06
 3,2.PS,"Tour de Langkawi, General classification",43724,IRIBAR JAUREGI Unai,28237,0.0,0,2024-10-06

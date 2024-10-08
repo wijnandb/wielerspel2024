@@ -1,4 +1,5 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
+1,1.PS,Tre Valli Varesine (prov.),43646,no result,13543,0.0,0,2024-10-08
 1,1.PS,Coppa Bernocchi,43645,VAN TRICHT Stan,28579,0.0,0,2024-10-07
 2,1.PS,Coppa Bernocchi,43645,BAUDIN Alex,32146,0.0,0,2024-10-07
 3,1.PS,Coppa Bernocchi,43645,ADRIA OLIVERAS Roger,27469,0.0,0,2024-10-07
@@ -50,5 +51,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
 1,2.PSs,"Tour de Langkawi, Stage 7 : Miri - Bintulu",43722,MALUCELLI Matteo,23467,0.0,0,2024-10-05
 1,2.1s,"Cro Race, Stage 5 : Bosiljevo - Karlovac",43735,KRISTOFF Alexander,4179,0.0,0,2024-10-05
 1,NC5,National Championships Mali (N'tabakoro) R.R. (prov.),43825,TOGOLA Moussa,26467,0.0,0,2024-10-05
-1,2.PSs,"Tour de Langkawi, Stage 6 : Batu Pahat - Kulai",43721,TAROZZI Manuele,29884,0.0,0,2024-10-04
-1,2.1s,"Cro Race, Stage 4 : Batu Pahat - Labin",43734,LUND ANDRESEN Tobias,31657,0.0,0,2024-10-04

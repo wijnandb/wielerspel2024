@@ -1,4 +1,5 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
+1,2.PSs,"Tour of Taihu Lake, Stage 1 : Wuxi - Wuxi (prov.)",43753,LAAS Martin,21460,0.0,0,2024-10-09
 1,1.PS,Tre Valli Varesine,43646,no result,13543,0.0,0,2024-10-08
 1,1.PS,Coppa Bernocchi,43645,VAN TRICHT Stan,28579,0.0,0,2024-10-07
 2,1.PS,Coppa Bernocchi,43645,BAUDIN Alex,32146,0.0,0,2024-10-07
@@ -50,4 +51,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
 10,1.PS,Giro dell'Emilia,43638,FORTUNATO Lorenzo,25552,0.0,0,2024-10-05
 1,2.PSs,"Tour de Langkawi, Stage 7 : Miri - Bintulu",43722,MALUCELLI Matteo,23467,0.0,0,2024-10-05
 1,2.1s,"Cro Race, Stage 5 : Bosiljevo - Karlovac",43735,KRISTOFF Alexander,4179,0.0,0,2024-10-05
-1,NC5,National Championships Mali (N'tabakoro) R.R.,43825,TOGOLA Moussa,26467,0.0,0,2024-10-05

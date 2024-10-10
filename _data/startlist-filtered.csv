@@ -2,23 +2,23 @@ race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id
 242,32,Milan Menten,24180,Lotto Dstny,BEL,Kees van Ommeren,Kees,2,
 61,1,Giulio Ciccone,21812,Lidl-Trek,ITA,Paul van Doorn,Paul,7,
 61,11,Kaden Groves,26637,Alpecin-Deceuninck,AUS,Paul van Doorn,Paul,9,
-61,22,Jenthe Biermans,22010,ARKEA-B&B HOTELS,BEL,Frank Rozemeijer,Frank,0,
+61,22,Jenthe Biermans,22010,ARKEA-B&B HOTELS,BEL,Frank Rozemeijer,Frank,0,1
 61,31,Alberto Bettiol,20697,Astana Qazaqstan Team,ITA,Pieter-Bas de Bruijn,PB,1,
-61,32,Davide Ballerini,22020,Astana Qazaqstan Team,ITA,Harry Koene,Harry,3,
+61,32,Davide Ballerini,22020,Astana Qazaqstan Team,ITA,Harry Koene,Harry,3,1
 61,34,Yevgeniy Fedorov,29309,Astana Qazaqstan Team,KAZ,Pieter-Bas de Bruijn,PB,1,
 61,41,Matej Mohoric,21145,Bahrain Victorious,SLO,Pieter-Bas de Bruijn,PB,13,
 61,45,Damiano Caruso,6177,Bahrain Victorious,ITA,Wijnand Baretta,Wijnand,1,
-61,46,Fred Wright,28446,Bahrain Victorious,GBR,Albert Kraaij,Albert,4,
-61,65,Axel Zingle,31263,Cofidis,FRA,Paul van Doorn,Paul,3,
+61,46,Fred Wright,28446,Bahrain Victorious,GBR,Albert Kraaij,Albert,4,1
+61,65,Axel Zingle,31263,Cofidis,FRA,Paul van Doorn,Paul,3,1
 61,81,Rui Costa,6807,EF Education-EasyPost,POR,Harry Koene,Harry,2,
 61,83,Neilson Powless,24902,EF Education-EasyPost,USA,Harry Koene,Harry,10,
-61,87,Marijn van den Berg,27674,EF Education-EasyPost,NED,Roy Smits,Roy,2,
-61,91,Filippo Ganna,24057,INEOS Grenadiers,ITA,Frank Vellinga,Vel,19,
+61,87,Marijn van den Berg,27674,EF Education-EasyPost,NED,Roy Smits,Roy,2,1
+61,91,Filippo Ganna,24057,INEOS Grenadiers,ITA,Frank Vellinga,Vel,19,1
 61,92,Thymen Arensman,27716,INEOS Grenadiers,NED,Kees van Ommeren,Kees,5,
 61,93,Ethan Hayter,27025,INEOS Grenadiers,GBR,Bram van Ommeren,Bram,9,
 61,94,Tom Pidcock,27708,INEOS Grenadiers,GBR,Frank Vellinga,Vel,20,
 61,96,Connor Swift,26437,INEOS Grenadiers,GBR,Arjan Knibbe,Arjan,1,
-61,97,Ben Turner,27923,INEOS Grenadiers,GBR,Arjan Knibbe,Arjan,2,
+61,97,Ben Turner,27923,INEOS Grenadiers,GBR,Arjan Knibbe,Arjan,2,1
 61,101,Lorenzo Rota,21958,Intermarché-Wanty,ITA,Paul van Doorn,Paul,2,
 61,107,Georg Zimmermann,25165,Intermarché-Wanty,GER,Paul van Doorn,Paul,2,
 61,116,Corbin Strong,29492,Israel-Premier Tech,NZL,Pieter-Bas de Bruijn,PB,6,
@@ -26,7 +26,7 @@ race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id
 61,126,Florian Vermeersch,28127,Lotto Dstny,BEL,Albert Kraaij,Albert,4,
 61,131,Alex Aranburu,23940,Movistar Team,ESP,Harry Koene,Harry,4,
 61,134,Iván García Cortina,23497,Movistar Team,ESP,Pieter-Bas de Bruijn,PB,1,
-61,144,Matteo Moschetti,27126,Q36.5 Pro Cycling Team,ITA,Kees van Ommeren,Kees,2,
+61,144,Matteo Moschetti,27126,Q36.5 Pro Cycling Team,ITA,Kees van Ommeren,Kees,2,1
 61,151,Matteo Sobrero,27033,Red Bull-BORA-hansgrohe,ITA,Frank Vellinga,Vel,2,
 61,152,Giovanni Aleotti,28451,Red Bull-BORA-hansgrohe,ITA,Wijnand Baretta,Wijnand,1,
 61,155,Sergio Higuita,25026,Red Bull-BORA-hansgrohe,COL,Jan Versluys,Jan,4,
@@ -46,7 +46,6 @@ race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id
 24,6,Pavel Sivakov,24934,UAE Team Emirates,FRA,Albert Kraaij,Albert,7,
 24,7,Adam Yates,18975,UAE Team Emirates,GBR,Kees van Ommeren,Kees,20,
 24,16,Axel Laurance,31621,Alpecin-Deceuninck,FRA,Jan Versluys,Jan,2,
-24,21,Kévin Vauquelin,31264,ARKEA-B&B HOTELS,FRA,Albert Kraaij,Albert,5,
 24,22,Clément Champoussin,27153,ARKEA-B&B HOTELS,FRA,Harry Koene,Harry,1,
 24,31,Lorenzo Fortunato,25552,Astana Qazaqstan Team,ITA,Paul van Doorn,Paul,0,
 24,34,Henok Mulubrhan,28186,Astana Qazaqstan Team,ERI,Wijnand Baretta,Wijnand,1,

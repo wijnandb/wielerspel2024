@@ -1,4 +1,16 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
+1,1.WT1,Il Lombardia (prov.),43648,POGACAR Tadej,26526,15,50,2024-10-12,Wijnand
+2,1.WT1,Il Lombardia (prov.),43648,EVENEPOEL Remco,28377,3,35,2024-10-12,Roy
+3,1.WT1,Il Lombardia (prov.),43648,CICCONE Giulio,21812,2,25,2024-10-12,Paul
+4,1.WT1,Il Lombardia (prov.),43648,IZAGIRRE INSAUSTI Ion,14321,1,20,2024-10-12,PB
+5,1.WT1,Il Lombardia (prov.),43648,MAS NICOLAU Enric,22794,0.5,18,2024-10-12,Bram
+6,1.WT1,Il Lombardia (prov.),43648,SIVAKOV Pavel,24934,0,16,2024-10-12,Albert
+7,1.WT1,Il Lombardia (prov.),43648,VAN EETVELT Lennert,32225,0,14,2024-10-12,Albert
+8,1.WT1,Il Lombardia (prov.),43648,POWLESS Neilson,24902,0,12,2024-10-12,Harry
+9,1.WT1,Il Lombardia (prov.),43648,GAUDU David,24255,0,10,2024-10-12,PB
+10,1.WT1,Il Lombardia (prov.),43648,MEURISSE Xandro,20165,0,8,2024-10-12,-
+1,2.PSs,"Tour of Taihu Lake, Stage 4 : Changxing - Huzhou (prov.)",43756,TESSON Jason,29883,0.3,0,2024-10-12,-
+1,2.1s,"Tour de Kyushu, Stage 1 : Beppu - Hita (prov.)",43758,JEANNIERE Emilien,29288,0.2,0,2024-10-12,-
 1,2.PSs,"Tour of Taihu Lake, Stage 3 : Wujiang - Wujiang (prov.)",43755,LAAS Martin,21460,0.3,0,2024-10-11,-
 1,1.PS,Gran Piemonte,43647,POWLESS Neilson,24902,4,50,2024-10-10,Harry
 2,1.PS,Gran Piemonte,43647,STRONG Corbin,29492,1,35,2024-10-10,PB

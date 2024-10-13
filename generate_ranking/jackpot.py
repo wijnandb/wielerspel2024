@@ -9,7 +9,7 @@ def get_jackpot():
     results = process_files.read_csv_file('results_with_points.csv')
     jackpot_points = 0
     for result in results[1:]:
-        if result[9] == '-':
+        if result[9] == '-' and result[4] != 'no result':
             jackpot_points += Decimal(result[6])
     jackpot = Decimal(str(jackpot_points)) * Decimal(0.25)
     lines =[['hoogte'], [jackpot]]

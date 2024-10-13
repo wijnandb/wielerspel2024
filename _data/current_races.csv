@@ -1,9 +1,6 @@
 startdate,enddate,race,FC_race_id,category,points,jpp
-2024-09-12 00:00:00,,Europe Mixed Relay,12532,CCTT,0,0
-2024-09-12 00:00:00,,Coppa Sabatini,160,1.PS,5.5,208
-2024-09-13 00:00:00,,GP Québec,59,1.WT2,14.7,208
-2024-09-14 00:00:00,,Memorial Pantani,68,1.1,2.4,0
-2024-09-15 00:00:00,,Europe RR,4019,CCRR,0,0
-2024-09-15 00:00:00,,GP d'Isbergues,171,1.1,2.4,0
-2024-09-15 00:00:00,,GP Montreal,58,1.WT2,14.7,208
-2024-09-15 00:00:00,,Trofeo Matteotti,205,1.1,2.4,0
+2024-10-09 00:00:00,2024-10-13 00:00:00,Tour of Taihu Lake,242,2.PS,5.5,208
+2024-10-12 00:00:00,2024-10-14 00:00:00,Tour de Kyushu,18945,2.1,2.4,0
+2024-10-13 00:00:00,,Chrono des Nations,154,1.1,2.4,0
+2024-10-15 00:00:00,2024-10-20 00:00:00,Gree - Tour of Guangxi,7591,2.WT3,8.0,208
+2024-10-16 00:00:00,,Giro del Veneto,183,1.PS,5.5,208

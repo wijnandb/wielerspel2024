@@ -1,69 +1,58 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
-1,1.1,Giro della Toscana - Memorial Alfredo Martini (prov.),43618,CHAMPOUSSIN Clément,27153,0.0,0,2024-09-11
-2,1.1,Giro della Toscana - Memorial Alfredo Martini (prov.),43618,STORER Michael,25335,0.0,0,2024-09-11
-3,1.1,Giro della Toscana - Memorial Alfredo Martini (prov.),43618,JEGAT Jordan,32860,0.0,0,2024-09-11
-1,CCT1,European Championships (Leuven) I.T.T. (prov.),43611,AFFINI Edoardo,24794,0.0,0,2024-09-11
-1,GT2,"Vuelta a España , General classification",43498,ROGLIC Primoz,20719,0.0,0,2024-09-08
-2,GT2,"Vuelta a España , General classification",43498,O'CONNOR Ben,23763,0.0,0,2024-09-08
-3,GT2,"Vuelta a España , General classification",43498,MAS NICOLAU Enric,22794,0.0,0,2024-09-08
-4,GT2,"Vuelta a España , General classification",43498,CARAPAZ MONTENEGRO Richard Antonio,21342,0.0,0,2024-09-08
-5,GT2,"Vuelta a España , General classification",43498,SKJELMOSE JENSEN Mattias,30166,0.0,0,2024-09-08
-6,GT2,"Vuelta a España , General classification",43498,GAUDU David,24255,0.0,0,2024-09-08
-7,GT2,"Vuelta a España , General classification",43498,LIPOWITZ Florian,30805,0.0,0,2024-09-08
-8,GT2,"Vuelta a España , General classification",43498,LANDA MEANA Mikel,14319,0.0,0,2024-09-08
-9,GT2,"Vuelta a España , General classification",43498,SIVAKOV Pavel,24934,0.0,0,2024-09-08
-10,GT2,"Vuelta a España , General classification",43498,RODRIGUEZ CANO Carlos,30836,0.0,0,2024-09-08
-11,GT2,"Vuelta a España , General classification",43498,DUNBAR Edward,23765,0.0,0,2024-09-08
-12,GT2,"Vuelta a España , General classification",43498,YATES Adam,18975,0.0,0,2024-09-08
-13,GT2,"Vuelta a España , General classification",43498,RODRIGUEZ MARTIN Cristian,24102,0.0,0,2024-09-08
-14,GT2,"Vuelta a España , General classification",43498,KUSS Sepp,25653,0.0,0,2024-09-08
-15,GT2,"Vuelta a España , General classification",43498,MARTIN Guillaume,19994,0.0,0,2024-09-08
-0,GT2c,Correctie dragen jongerentrui in Vuelta a España,43497,Skjelmose Mattias,30166,-0.2,0,2024-09-08
-0,GT2c,Correctie dragen leiderstrui in Vuelta a España,43498,Roglic Primoz,20719,-4.0,0,2024-09-08
-0,GT2c,Correctie dragen puntentrui in Vuelta a España,43499,Groves Kaden,26637,-1.2,0,2024-09-08
-0,GT2c,Correctie dragen bergtrui in Vuelta a España,43500,Vine Jay,29568,-0.6,0,2024-09-08
--1,GT2,Winnaar jongerentrui Vuelta a Españ,43497,Skjelmose Mattias,30166,0,0,2024-09-08
-1,GT2s,"Vuelta a España , Stage 21 : Madrid - Madrid I.T.T.",43497,KÜNG Stefan,20960,0.0,0,2024-09-08
-1,GT2r,"Vuelta a España , Points classification",43499,GROVES Kaden,26637,0.0,0,2024-09-08
-1,GT2r,"Vuelta a España , Mountains classification",43500,VINE Jay,29568,0.0,0,2024-09-08
-1,1.WT2,Bemer Cyclassics - Hamburg,43515,KOOIJ Olav,30643,0.0,0,2024-09-08
-2,1.WT2,Bemer Cyclassics - Hamburg,43515,MILAN Jonathan,29359,0.0,0,2024-09-08
-3,1.WT2,Bemer Cyclassics - Hamburg,43515,GIRMAY HAILU Biniam,29474,0.0,0,2024-09-08
-4,1.WT2,Bemer Cyclassics - Hamburg,43515,MEEUS Jordi,26421,0.0,0,2024-09-08
-5,1.WT2,Bemer Cyclassics - Hamburg,43515,KRISTOFF Alexander,4179,0.0,0,2024-09-08
-6,1.WT2,Bemer Cyclassics - Hamburg,43515,ZINGLE Axel,31263,0.0,0,2024-09-08
-7,1.WT2,Bemer Cyclassics - Hamburg,43515,PHILIPSEN Jasper,26392,0.0,0,2024-09-08
-8,1.WT2,Bemer Cyclassics - Hamburg,43515,TEUNISSEN Mike,19165,0.0,0,2024-09-08
-9,1.WT2,Bemer Cyclassics - Hamburg,43515,TRENTIN Matteo,13270,0.0,0,2024-09-08
-10,1.WT2,Bemer Cyclassics - Hamburg,43515,OLDANI Stefano,27072,0.0,0,2024-09-08
-1,2.PS,"Tour of Britain , General classification",43676,WILLIAMS Stephen,24346,0.0,0,2024-09-08
-2,2.PS,"Tour of Britain , General classification",43676,ONLEY Oscar,31724,0.0,0,2024-09-08
-3,2.PS,"Tour of Britain , General classification",43676,DONNENWIRTH Tom,34163,0.0,0,2024-09-08
-4,2.PS,"Tour of Britain , General classification",43676,DONOVAN Mark,27964,0.0,0,2024-09-08
-5,2.PS,"Tour of Britain , General classification",43676,BLACKMORE Joseph,34973,0.0,0,2024-09-08
-6,2.PS,"Tour of Britain , General classification",43676,KRIJNSEN Jelte,32717,0.0,0,2024-09-08
-7,2.PS,"Tour of Britain , General classification",43676,ZAMBANINI Edoardo,31437,0.0,0,2024-09-08
-8,2.PS,"Tour of Britain , General classification",43676,BREGNHØJ Mathias,25637,0.0,0,2024-09-08
-9,2.PS,"Tour of Britain , General classification",43676,ISIDORE Noa,34396,0.0,0,2024-09-08
-10,2.PS,"Tour of Britain , General classification",43676,FLYNN Sean,29931,0.0,0,2024-09-08
-1,1.PS,GP Industria & Artigianato - Larciano,43132,HIRSCHI Marc,26509,0.0,0,2024-09-08
-2,1.PS,GP Industria & Artigianato - Larciano,43132,SILVA COUSSAN Guillermo Thomas,32828,0.0,0,2024-09-08
-3,1.PS,GP Industria & Artigianato - Larciano,43132,ULISSI Diego,10023,0.0,0,2024-09-08
-4,1.PS,GP Industria & Artigianato - Larciano,43132,ROMO OLIVER Javier,31678,0.0,0,2024-09-08
-5,1.PS,GP Industria & Artigianato - Larciano,43132,VELASCO Simone,22662,0.0,0,2024-09-08
-6,1.PS,GP Industria & Artigianato - Larciano,43132,ALBANESE Vincenzo,24139,0.0,0,2024-09-08
-7,1.PS,GP Industria & Artigianato - Larciano,43132,VERCHER Mattéo,32905,0.0,0,2024-09-08
-8,1.PS,GP Industria & Artigianato - Larciano,43132,NICOLAU BELTRAN Joel,29873,0.0,0,2024-09-08
-9,1.PS,GP Industria & Artigianato - Larciano,43132,BRAMBILLA Gianluca,7279,0.0,0,2024-09-08
-10,1.PS,GP Industria & Artigianato - Larciano,43132,CARBONI Giovanni,22210,0.0,0,2024-09-08
-1,1.PS,GP de Fourmies,43152,DE KLEIJN Arvid,22596,0.0,0,2024-09-08
-2,1.PS,GP de Fourmies,43152,THIJSSEN Gerben,27085,0.0,0,2024-09-08
-3,1.PS,GP de Fourmies,43152,WAERENSKJOLD Søren,29187,0.0,0,2024-09-08
-4,1.PS,GP de Fourmies,43152,FRETIN Milan,32617,0.0,0,2024-09-08
-5,1.PS,GP de Fourmies,43152,PAGE Hugo,30663,0.0,0,2024-09-08
-6,1.PS,GP de Fourmies,43152,PLOWRIGHT Jensen,29528,0.0,0,2024-09-08
-7,1.PS,GP de Fourmies,43152,JEANNIERE Emilien,29288,0.0,0,2024-09-08
-8,1.PS,GP de Fourmies,43152,ABERASTURI IZAGA Jon,15286,0.0,0,2024-09-08
-9,1.PS,GP de Fourmies,43152,POLLEFLIET Gianluca,32735,0.0,0,2024-09-08
-10,1.PS,GP de Fourmies,43152,PITHIE Laurence,31638,0.0,0,2024-09-08
-1,2.PSs,"Tour of Britain , Stage 6 : Lowestoft - Felixstowe",43675,GOVEKAR Matevz,20406,0.0,0,2024-09-08
+1,1.WT1,Il Lombardia,43648,POGACAR Tadej,26526,0.0,0,2024-10-12
+2,1.WT1,Il Lombardia,43648,EVENEPOEL Remco,28377,0.0,0,2024-10-12
+3,1.WT1,Il Lombardia,43648,CICCONE Giulio,21812,0.0,0,2024-10-12
+4,1.WT1,Il Lombardia,43648,IZAGIRRE INSAUSTI Ion,14321,0.0,0,2024-10-12
+5,1.WT1,Il Lombardia,43648,MAS NICOLAU Enric,22794,0.0,0,2024-10-12
+6,1.WT1,Il Lombardia,43648,SIVAKOV Pavel,24934,0.0,0,2024-10-12
+7,1.WT1,Il Lombardia,43648,VAN EETVELT Lennert,32225,0.0,0,2024-10-12
+8,1.WT1,Il Lombardia,43648,POWLESS Neilson,24902,0.0,0,2024-10-12
+9,1.WT1,Il Lombardia,43648,GAUDU David,24255,0.0,0,2024-10-12
+10,1.WT1,Il Lombardia,43648,MEURISSE Xandro,20165,0.0,0,2024-10-12
+1,2.PSs,"Tour of Taihu Lake, Stage 4 : Changxing - Huzhou (prov.)",43756,TESSON Jason,29883,0.0,0,2024-10-12
+1,2.1s,"Tour de Kyushu, Stage 1 : Beppu - Hita (prov.)",43758,JEANNIERE Emilien,29288,0.0,0,2024-10-12
+1,2.PSs,"Tour of Taihu Lake, Stage 3 : Wujiang - Wujiang (prov.)",43755,LAAS Martin,21460,0.0,0,2024-10-11
+1,1.PS,Gran Piemonte,43647,POWLESS Neilson,24902,0.0,0,2024-10-10
+2,1.PS,Gran Piemonte,43647,STRONG Corbin,29492,0.0,0,2024-10-10
+3,1.PS,Gran Piemonte,43647,ARANBURU DEVA Alexander,23940,0.0,0,2024-10-10
+4,1.PS,Gran Piemonte,43647,MAGLI Filippo,29779,0.0,0,2024-10-10
+5,1.PS,Gran Piemonte,43647,MEURISSE Xandro,20165,0.0,0,2024-10-10
+6,1.PS,Gran Piemonte,43647,JOHANNESSEN Tobias Halland,31567,0.0,0,2024-10-10
+7,1.PS,Gran Piemonte,43647,TESFATSION Natnael Ocbit,28234,0.0,0,2024-10-10
+8,1.PS,Gran Piemonte,43647,BUSATTO Francesco,32738,0.0,0,2024-10-10
+9,1.PS,Gran Piemonte,43647,ZAMBANINI Edoardo,31437,0.0,0,2024-10-10
+10,1.PS,Gran Piemonte,43647,MOHORIC Matej,21145,0.0,0,2024-10-10
+1,2.PSs,"Tour of Taihu Lake, Stage 2 : Nantong - Qidong (prov.)",43754,DE SCHUYTENEER Steffen,35568,0.0,0,2024-10-10
+1,2.PSs,"Tour of Taihu Lake, Stage 1 : Wuxi - Wuxi (prov.)",43753,LAAS Martin,21460,0.0,0,2024-10-09
+1,CCT2,African Cycling Championships (Eldoret) I.T.T.,43817,KAGIMU Charles,24714,0.0,0,2024-10-09
+1,1.PS,Tre Valli Varesine,43646,no result,13543,0.0,0,2024-10-08
+1,1.PS,Coppa Bernocchi,43645,VAN TRICHT Stan,28579,0.0,0,2024-10-07
+2,1.PS,Coppa Bernocchi,43645,BAUDIN Alex,32146,0.0,0,2024-10-07
+3,1.PS,Coppa Bernocchi,43645,ADRIA OLIVERAS Roger,27469,0.0,0,2024-10-07
+4,1.PS,Coppa Bernocchi,43645,POWLESS Neilson,24902,0.0,0,2024-10-07
+5,1.PS,Coppa Bernocchi,43645,LEMMEN Bart,32252,0.0,0,2024-10-07
+6,1.PS,Coppa Bernocchi,43645,SIVAKOV Pavel,24934,0.0,0,2024-10-07
+7,1.PS,Coppa Bernocchi,43645,PINARELLO Alessandro,33101,0.0,0,2024-10-07
+8,1.PS,Coppa Bernocchi,43645,GODON Dorian,25704,0.0,0,2024-10-07
+9,1.PS,Coppa Bernocchi,43645,BUSATTO Francesco,32738,0.0,0,2024-10-07
+10,1.PS,Coppa Bernocchi,43645,VAN DEN BERG Marijn,27674,0.0,0,2024-10-07
+1,2.PS,"Tour de Langkawi, General classification",43724,POOLE Max,32809,0.0,0,2024-10-06
+2,2.PS,"Tour de Langkawi, General classification",43724,PESENTI Thomas,28958,0.0,0,2024-10-06
+3,2.PS,"Tour de Langkawi, General classification",43724,IRIBAR JAUREGI Unai,28237,0.0,0,2024-10-06
+4,2.PS,"Tour de Langkawi, General classification",43724,TERCERO LOPEZ Fernando,32613,0.0,0,2024-10-06
+5,2.PS,"Tour de Langkawi, General classification",43724,CHARMIG Anthon,26474,0.0,0,2024-10-06
+6,2.PS,"Tour de Langkawi, General classification",43724,DIAZ GALLEGO Jose Manuel,24103,0.0,0,2024-10-06
+7,2.PS,"Tour de Langkawi, General classification",43724,RUIZ SEDANO Ibon,30746,0.0,0,2024-10-06
+8,2.PS,"Tour de Langkawi, General classification",43724,GUTIERREZ GONZALEZ Jorge,34304,0.0,0,2024-10-06
+9,2.PS,"Tour de Langkawi, General classification",43724,BIZKARRA ETXEGIBEL Mikel,17006,0.0,0,2024-10-06
+10,2.PS,"Tour de Langkawi, General classification",43724,LOPEZ GRANIZO Harold Martin,29525,0.0,0,2024-10-06
+1,1.PS,Paris - Tours,43642,LAPORTE Christophe,19953,0.0,0,2024-10-06
+2,1.PS,Paris - Tours,43642,VACEK Mathias,31713,0.0,0,2024-10-06
+3,1.PS,Paris - Tours,43642,PHILIPSEN Jasper,26392,0.0,0,2024-10-06
+4,1.PS,Paris - Tours,43642,TEUNISSEN Mike,19165,0.0,0,2024-10-06
+5,1.PS,Paris - Tours,43642,RENARD Alexis,29969,0.0,0,2024-10-06
+6,1.PS,Paris - Tours,43642,BOL Cees,21930,0.0,0,2024-10-06
+7,1.PS,Paris - Tours,43642,DE LIE Arnaud,32221,0.0,0,2024-10-06
+8,1.PS,Paris - Tours,43642,VAN ASBROECK Tom,18504,0.0,0,2024-10-06
+9,1.PS,Paris - Tours,43642,CHRISTEN Fabio,31719,0.0,0,2024-10-06
+10,1.PS,Paris - Tours,43642,TURGIS Anthony,21312,0.0,0,2024-10-06

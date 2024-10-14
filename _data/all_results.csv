@@ -1,4 +1,29 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
+1,2.PS,"Tour of Taihu Lake, General classification",43757,KRIJNSEN Jelte,32717,0.0,0,2024-10-13
+2,2.PS,"Tour of Taihu Lake, General classification",43757,BUDZINSKI Marcin,29523,0.0,0,2024-10-13
+3,2.PS,"Tour of Taihu Lake, General classification",43757,PAREDES ZAPATA Wilmar Andres,24876,0.0,0,2024-10-13
+4,2.PS,"Tour of Taihu Lake, General classification",43757,LAUK Karl Patrick,25669,0.0,0,2024-10-13
+5,2.PS,"Tour of Taihu Lake, General classification",43757,SORARRAIN AGIRREZABALA Gorka,34221,0.0,0,2024-10-13
+6,2.PS,"Tour of Taihu Lake, General classification",43757,LAAS Martin,21460,0.0,0,2024-10-13
+7,2.PS,"Tour of Taihu Lake, General classification",43757,OURSELIN Paul,23509,0.0,0,2024-10-13
+8,2.PS,"Tour of Taihu Lake, General classification",43757,HOPKINS Dylan,30870,0.0,0,2024-10-13
+9,2.PS,"Tour of Taihu Lake, General classification",43757,RAILEANU Cristian,13770,0.0,0,2024-10-13
+10,2.PS,"Tour of Taihu Lake, General classification",43757,CURRIE Logan,30604,0.0,0,2024-10-13
+1,2.PSs,"Tour of Taihu Lake, Stage 5 : Nanjing - Jiangning",43826,KRIJNSEN Jelte,32717,0.0,0,2024-10-13
+1,1.1,Chrono des Nations,43649,KÜNG Stefan,20960,0.0,0,2024-10-13
+2,1.1,Chrono des Nations,43649,VINE Jay,29568,0.0,0,2024-10-13
+3,1.1,Chrono des Nations,43649,PRICE-PEJTERSEN Johan,27805,0.0,0,2024-10-13
+1,2.1s,"Tour de Kyushu, Stage 2 : Minamioguni - Minamiaso (prov.)",43759,JEANNIERE Emilien,29288,0.0,0,2024-10-13
+1,CC2,African Cycling Championships (Eldoret) R.R.,43819,MULUBRHAN Henok,28186,0.0,0,2024-10-13
+2,CC2,African Cycling Championships (Eldoret) R.R.,43819,VAN NIEKERK Emile,37098,0.0,0,2024-10-13
+3,CC2,African Cycling Championships (Eldoret) R.R.,43819,KAGIMU Charles,24714,0.0,0,2024-10-13
+4,CC2,African Cycling Championships (Eldoret) R.R.,43819,ABREHA Negasi Haylu,29240,0.0,0,2024-10-13
+5,CC2,African Cycling Championships (Eldoret) R.R.,43819,DOWNES Brandon,25389,0.0,0,2024-10-13
+6,CC2,African Cycling Championships (Eldoret) R.R.,43819,MAEKELE Milkias,36292,0.0,0,2024-10-13
+7,CC2,African Cycling Championships (Eldoret) R.R.,43819,MUHOZA Eric,32170,0.0,0,2024-10-13
+8,CC2,African Cycling Championships (Eldoret) R.R.,43819,KIFLOM Pawlos Gebremeskel,33554,0.0,0,2024-10-13
+9,CC2,African Cycling Championships (Eldoret) R.R.,43819,MAYER Alexandre,27291,0.0,0,2024-10-13
+10,CC2,African Cycling Championships (Eldoret) R.R.,43819,MARCELINO Dario Antonio,20335,0.0,0,2024-10-13
 1,1.WT1,Il Lombardia,43648,POGACAR Tadej,26526,0.0,0,2024-10-12
 2,1.WT1,Il Lombardia,43648,EVENEPOEL Remco,28377,0.0,0,2024-10-12
 3,1.WT1,Il Lombardia,43648,CICCONE Giulio,21812,0.0,0,2024-10-12
@@ -9,9 +34,9 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
 8,1.WT1,Il Lombardia,43648,POWLESS Neilson,24902,0.0,0,2024-10-12
 9,1.WT1,Il Lombardia,43648,GAUDU David,24255,0.0,0,2024-10-12
 10,1.WT1,Il Lombardia,43648,MEURISSE Xandro,20165,0.0,0,2024-10-12
-1,2.PSs,"Tour of Taihu Lake, Stage 4 : Changxing - Huzhou (prov.)",43756,TESSON Jason,29883,0.0,0,2024-10-12
+1,2.PSs,"Tour of Taihu Lake, Stage 4 : Changxing - Huzhou",43756,TESSON Jason,29883,0.0,0,2024-10-12
 1,2.1s,"Tour de Kyushu, Stage 1 : Beppu - Hita (prov.)",43758,JEANNIERE Emilien,29288,0.0,0,2024-10-12
-1,2.PSs,"Tour of Taihu Lake, Stage 3 : Wujiang - Wujiang (prov.)",43755,LAAS Martin,21460,0.0,0,2024-10-11
+1,2.PSs,"Tour of Taihu Lake, Stage 3 : Wujiang - Wujiang",43755,LAAS Martin,21460,0.0,0,2024-10-11
 1,1.PS,Gran Piemonte,43647,POWLESS Neilson,24902,0.0,0,2024-10-10
 2,1.PS,Gran Piemonte,43647,STRONG Corbin,29492,0.0,0,2024-10-10
 3,1.PS,Gran Piemonte,43647,ARANBURU DEVA Alexander,23940,0.0,0,2024-10-10
@@ -22,7 +47,7 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
 8,1.PS,Gran Piemonte,43647,BUSATTO Francesco,32738,0.0,0,2024-10-10
 9,1.PS,Gran Piemonte,43647,ZAMBANINI Edoardo,31437,0.0,0,2024-10-10
 10,1.PS,Gran Piemonte,43647,MOHORIC Matej,21145,0.0,0,2024-10-10
-1,2.PSs,"Tour of Taihu Lake, Stage 2 : Nantong - Qidong (prov.)",43754,DE SCHUYTENEER Steffen,35568,0.0,0,2024-10-10
+1,2.PSs,"Tour of Taihu Lake, Stage 2 : Nantong - Qidong",43754,DE SCHUYTENEER Steffen,35568,0.0,0,2024-10-10
 1,2.PSs,"Tour of Taihu Lake, Stage 1 : Wuxi - Wuxi (prov.)",43753,LAAS Martin,21460,0.0,0,2024-10-09
 1,CCT2,African Cycling Championships (Eldoret) I.T.T.,43817,KAGIMU Charles,24714,0.0,0,2024-10-09
 1,1.PS,Tre Valli Varesine,43646,no result,13543,0.0,0,2024-10-08

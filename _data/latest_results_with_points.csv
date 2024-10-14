@@ -1,4 +1,29 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
+1,2.PS,"Tour of Taihu Lake, General classification",43757,KRIJNSEN Jelte,32717,4,50,2024-10-13,-
+2,2.PS,"Tour of Taihu Lake, General classification",43757,BUDZINSKI Marcin,29523,1,35,2024-10-13,-
+3,2.PS,"Tour of Taihu Lake, General classification",43757,PAREDES ZAPATA Wilmar Andres,24876,0.5,25,2024-10-13,-
+4,2.PS,"Tour of Taihu Lake, General classification",43757,LAUK Karl Patrick,25669,0,20,2024-10-13,-
+5,2.PS,"Tour of Taihu Lake, General classification",43757,SORARRAIN AGIRREZABALA Gorka,34221,0,18,2024-10-13,-
+6,2.PS,"Tour of Taihu Lake, General classification",43757,LAAS Martin,21460,0,16,2024-10-13,-
+7,2.PS,"Tour of Taihu Lake, General classification",43757,OURSELIN Paul,23509,0,14,2024-10-13,-
+8,2.PS,"Tour of Taihu Lake, General classification",43757,HOPKINS Dylan,30870,0,12,2024-10-13,-
+9,2.PS,"Tour of Taihu Lake, General classification",43757,RAILEANU Cristian,13770,0,10,2024-10-13,-
+10,2.PS,"Tour of Taihu Lake, General classification",43757,CURRIE Logan,30604,0,8,2024-10-13,-
+1,2.PSs,"Tour of Taihu Lake, Stage 5 : Nanjing - Jiangning",43826,KRIJNSEN Jelte,32717,0.3,0,2024-10-13,-
+1,1.1,Chrono des Nations,43649,KÜNG Stefan,20960,2,0,2024-10-13,Wijnand
+2,1.1,Chrono des Nations,43649,VINE Jay,29568,0.3,0,2024-10-13,Vel
+3,1.1,Chrono des Nations,43649,PRICE-PEJTERSEN Johan,27805,0.1,0,2024-10-13,-
+1,2.1s,"Tour de Kyushu, Stage 2 : Minamioguni - Minamiaso (prov.)",43759,JEANNIERE Emilien,29288,0.2,0,2024-10-13,-
+1,CC2,African Cycling Championships (Eldoret) R.R.,43819,MULUBRHAN Henok,28186,1,0,2024-10-13,Wijnand
+2,CC2,African Cycling Championships (Eldoret) R.R.,43819,VAN NIEKERK Emile,37098,0.0,0,2024-10-13,-
+3,CC2,African Cycling Championships (Eldoret) R.R.,43819,KAGIMU Charles,24714,0.0,0,2024-10-13,-
+4,CC2,African Cycling Championships (Eldoret) R.R.,43819,ABREHA Negasi Haylu,29240,0.0,0,2024-10-13,-
+5,CC2,African Cycling Championships (Eldoret) R.R.,43819,DOWNES Brandon,25389,0.0,0,2024-10-13,-
+6,CC2,African Cycling Championships (Eldoret) R.R.,43819,MAEKELE Milkias,36292,0.0,0,2024-10-13,-
+7,CC2,African Cycling Championships (Eldoret) R.R.,43819,MUHOZA Eric,32170,0.0,0,2024-10-13,-
+8,CC2,African Cycling Championships (Eldoret) R.R.,43819,KIFLOM Pawlos Gebremeskel,33554,0.0,0,2024-10-13,-
+9,CC2,African Cycling Championships (Eldoret) R.R.,43819,MAYER Alexandre,27291,0.0,0,2024-10-13,-
+10,CC2,African Cycling Championships (Eldoret) R.R.,43819,MARCELINO Dario Antonio,20335,0.0,0,2024-10-13,-
 1,1.WT1,Il Lombardia,43648,POGACAR Tadej,26526,15,50,2024-10-12,Wijnand
 2,1.WT1,Il Lombardia,43648,EVENEPOEL Remco,28377,3,35,2024-10-12,Roy
 3,1.WT1,Il Lombardia,43648,CICCONE Giulio,21812,2,25,2024-10-12,Paul
@@ -9,9 +34,9 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 8,1.WT1,Il Lombardia,43648,POWLESS Neilson,24902,0,12,2024-10-12,Harry
 9,1.WT1,Il Lombardia,43648,GAUDU David,24255,0,10,2024-10-12,PB
 10,1.WT1,Il Lombardia,43648,MEURISSE Xandro,20165,0,8,2024-10-12,-
-1,2.PSs,"Tour of Taihu Lake, Stage 4 : Changxing - Huzhou (prov.)",43756,TESSON Jason,29883,0.3,0,2024-10-12,-
+1,2.PSs,"Tour of Taihu Lake, Stage 4 : Changxing - Huzhou",43756,TESSON Jason,29883,0.3,0,2024-10-12,-
 1,2.1s,"Tour de Kyushu, Stage 1 : Beppu - Hita (prov.)",43758,JEANNIERE Emilien,29288,0.2,0,2024-10-12,-
-1,2.PSs,"Tour of Taihu Lake, Stage 3 : Wujiang - Wujiang (prov.)",43755,LAAS Martin,21460,0.3,0,2024-10-11,-
+1,2.PSs,"Tour of Taihu Lake, Stage 3 : Wujiang - Wujiang",43755,LAAS Martin,21460,0.3,0,2024-10-11,-
 1,1.PS,Gran Piemonte,43647,POWLESS Neilson,24902,4,50,2024-10-10,Harry
 2,1.PS,Gran Piemonte,43647,STRONG Corbin,29492,1,35,2024-10-10,PB
 3,1.PS,Gran Piemonte,43647,ARANBURU DEVA Alexander,23940,0.5,25,2024-10-10,Harry
@@ -22,37 +47,4 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 8,1.PS,Gran Piemonte,43647,BUSATTO Francesco,32738,0,12,2024-10-10,-
 9,1.PS,Gran Piemonte,43647,ZAMBANINI Edoardo,31437,0,10,2024-10-10,-
 10,1.PS,Gran Piemonte,43647,MOHORIC Matej,21145,0,8,2024-10-10,PB
-1,2.PSs,"Tour of Taihu Lake, Stage 2 : Nantong - Qidong (prov.)",43754,DE SCHUYTENEER Steffen,35568,0.3,0,2024-10-10,-
-1,2.PSs,"Tour of Taihu Lake, Stage 1 : Wuxi - Wuxi (prov.)",43753,LAAS Martin,21460,0.3,0,2024-10-09,-
-1,CCT2,African Cycling Championships (Eldoret) I.T.T.,43817,KAGIMU Charles,24714,1,0,2024-10-09,-
-1,1.PS,Tre Valli Varesine,43646,no result,13543,4,50,2024-10-08,-
-1,1.PS,Coppa Bernocchi,43645,VAN TRICHT Stan,28579,4,50,2024-10-07,-
-2,1.PS,Coppa Bernocchi,43645,BAUDIN Alex,32146,1,35,2024-10-07,-
-3,1.PS,Coppa Bernocchi,43645,ADRIA OLIVERAS Roger,27469,0.5,25,2024-10-07,-
-4,1.PS,Coppa Bernocchi,43645,POWLESS Neilson,24902,0,20,2024-10-07,Harry
-5,1.PS,Coppa Bernocchi,43645,LEMMEN Bart,32252,0,18,2024-10-07,-
-6,1.PS,Coppa Bernocchi,43645,SIVAKOV Pavel,24934,0,16,2024-10-07,Albert
-7,1.PS,Coppa Bernocchi,43645,PINARELLO Alessandro,33101,0,14,2024-10-07,-
-8,1.PS,Coppa Bernocchi,43645,GODON Dorian,25704,0,12,2024-10-07,PB
-9,1.PS,Coppa Bernocchi,43645,BUSATTO Francesco,32738,0,10,2024-10-07,-
-10,1.PS,Coppa Bernocchi,43645,VAN DEN BERG Marijn,27674,0,8,2024-10-07,Roy
-1,2.PS,"Tour de Langkawi, General classification",43724,POOLE Max,32809,4,50,2024-10-06,Albert
-2,2.PS,"Tour de Langkawi, General classification",43724,PESENTI Thomas,28958,1,35,2024-10-06,-
-3,2.PS,"Tour de Langkawi, General classification",43724,IRIBAR JAUREGI Unai,28237,0.5,25,2024-10-06,-
-4,2.PS,"Tour de Langkawi, General classification",43724,TERCERO LOPEZ Fernando,32613,0,20,2024-10-06,-
-5,2.PS,"Tour de Langkawi, General classification",43724,CHARMIG Anthon,26474,0,18,2024-10-06,-
-6,2.PS,"Tour de Langkawi, General classification",43724,DIAZ GALLEGO Jose Manuel,24103,0,16,2024-10-06,-
-7,2.PS,"Tour de Langkawi, General classification",43724,RUIZ SEDANO Ibon,30746,0,14,2024-10-06,-
-8,2.PS,"Tour de Langkawi, General classification",43724,GUTIERREZ GONZALEZ Jorge,34304,0,12,2024-10-06,-
-9,2.PS,"Tour de Langkawi, General classification",43724,BIZKARRA ETXEGIBEL Mikel,17006,0,10,2024-10-06,-
-10,2.PS,"Tour de Langkawi, General classification",43724,LOPEZ GRANIZO Harold Martin,29525,0,8,2024-10-06,-
-1,1.PS,Paris - Tours,43642,LAPORTE Christophe,19953,4,50,2024-10-06,Paul
-2,1.PS,Paris - Tours,43642,VACEK Mathias,31713,1,35,2024-10-06,-
-3,1.PS,Paris - Tours,43642,PHILIPSEN Jasper,26392,0.5,25,2024-10-06,Nicky
-4,1.PS,Paris - Tours,43642,TEUNISSEN Mike,19165,0,20,2024-10-06,Albert
-5,1.PS,Paris - Tours,43642,RENARD Alexis,29969,0,18,2024-10-06,-
-6,1.PS,Paris - Tours,43642,BOL Cees,21930,0,16,2024-10-06,Nicky
-7,1.PS,Paris - Tours,43642,DE LIE Arnaud,32221,0,14,2024-10-06,PB
-8,1.PS,Paris - Tours,43642,VAN ASBROECK Tom,18504,0,12,2024-10-06,-
-9,1.PS,Paris - Tours,43642,CHRISTEN Fabio,31719,0,10,2024-10-06,-
-10,1.PS,Paris - Tours,43642,TURGIS Anthony,21312,0,8,2024-10-06,Roy
+1,2.PSs,"Tour of Taihu Lake, Stage 2 : Nantong - Qidong",43754,DE SCHUYTENEER Steffen,35568,0.3,0,2024-10-10,-

@@ -1,4 +1,8 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
+1,2.1,"Tour de Kyushu, General classification (prov.)",43761,JEANNIERE Emilien,29288,2,0,2024-10-14,-
+2,2.1,"Tour de Kyushu, General classification (prov.)",43761,NERURKAR Lukas,33158,0.3,0,2024-10-14,-
+3,2.1,"Tour de Kyushu, General classification (prov.)",43761,SMIRNOV Ivan,27928,0.1,0,2024-10-14,-
+1,2.1s,"Tour de Kyushu, Stage 3 : Okagaki - Munakata (prov.)",43760,SMIRNOV Ivan,27928,0.2,0,2024-10-14,-
 1,2.PS,"Tour of Taihu Lake, General classification",43757,KRIJNSEN Jelte,32717,4,50,2024-10-13,-
 2,2.PS,"Tour of Taihu Lake, General classification",43757,BUDZINSKI Marcin,29523,1,35,2024-10-13,-
 3,2.PS,"Tour of Taihu Lake, General classification",43757,PAREDES ZAPATA Wilmar Andres,24876,0.5,25,2024-10-13,-
@@ -37,14 +41,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 1,2.PSs,"Tour of Taihu Lake, Stage 4 : Changxing - Huzhou",43756,TESSON Jason,29883,0.3,0,2024-10-12,-
 1,2.1s,"Tour de Kyushu, Stage 1 : Beppu - Hita (prov.)",43758,JEANNIERE Emilien,29288,0.2,0,2024-10-12,-
 1,2.PSs,"Tour of Taihu Lake, Stage 3 : Wujiang - Wujiang",43755,LAAS Martin,21460,0.3,0,2024-10-11,-
-1,1.PS,Gran Piemonte,43647,POWLESS Neilson,24902,4,50,2024-10-10,Harry
-2,1.PS,Gran Piemonte,43647,STRONG Corbin,29492,1,35,2024-10-10,PB
-3,1.PS,Gran Piemonte,43647,ARANBURU DEVA Alexander,23940,0.5,25,2024-10-10,Harry
-4,1.PS,Gran Piemonte,43647,MAGLI Filippo,29779,0,20,2024-10-10,-
-5,1.PS,Gran Piemonte,43647,MEURISSE Xandro,20165,0,18,2024-10-10,-
-6,1.PS,Gran Piemonte,43647,JOHANNESSEN Tobias Halland,31567,0,16,2024-10-10,Albert
-7,1.PS,Gran Piemonte,43647,TESFATSION Natnael Ocbit,28234,0,14,2024-10-10,-
-8,1.PS,Gran Piemonte,43647,BUSATTO Francesco,32738,0,12,2024-10-10,-
-9,1.PS,Gran Piemonte,43647,ZAMBANINI Edoardo,31437,0,10,2024-10-10,-
-10,1.PS,Gran Piemonte,43647,MOHORIC Matej,21145,0,8,2024-10-10,PB
-1,2.PSs,"Tour of Taihu Lake, Stage 2 : Nantong - Qidong",43754,DE SCHUYTENEER Steffen,35568,0.3,0,2024-10-10,-

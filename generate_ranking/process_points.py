@@ -29,7 +29,6 @@ def calculate_jpp(ranking, jackpot):
     Grant the number of points to the team captain.
     Add them to the ranking
     """
-    print(ranking, jackpot, jackpot[0])
     # open the jackpot distribution from jpp.csv
     jpp_bonus = process_files.read_csv_file('jpp.csv')
     # order ranking by JPP descending
@@ -39,9 +38,13 @@ def calculate_jpp(ranking, jackpot):
         ranking[i][6] = Decimal(ranking[i][3]) + Decimal(ranking[i][5])
 
     # ranking = redistribute_jpp_equals(ranking, jackpot)
-    ranking.sort(key=lambda x: x[3], reverse=True)
-    ranking[-1][-2] += Decimal(0.03) * Decimal(jackpot[0])
-    ranking.sort(key=lambda x: x[3], reverse=True)
+    ranking.sort(key=lambda x: x[6], reverse=True)
+    print(ranking[-1])
+    ranking[-1][5] += Decimal(0.03) * Decimal(jackpot[0])
+    ranking[-1][6] += Decimal(0.03) * Decimal(jackpot[0])
+    print(ranking[-1])
+    ranking.sort(key=lambda x: x[6], reverse=True)
+    # print(ranking)
     ranking = redistribute_jpp_equals(ranking, jackpot[0])
     for i in range(len(ranking)):
         ranking[i][5] = round(ranking[i][5], 2)

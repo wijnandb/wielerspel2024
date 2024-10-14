@@ -1,22 +1,52 @@
-<table class="table table-striped">
-    <tr>
-        <th>#</th>
-        <th></th>
-        <th>punten</th>
-        <th>JPP</th>
-        <th scope="col" class="d-none d-md-table-cell">bonus</th>
-        <th scope="col" class="d-none d-md-table-cell">totaal</th>
-    </tr>
-    {% for member in site.data.ranking %}
-        <tr>
-            <td>{{ member.positie }}.</td>
-            <td><a href="{{ site.baseurl }}{% link index.html %}ploegleiders/{{ member.short | downcase }}.html">
-                {{ member.ploegleider }}
-                </a></td>
-            <td>{{ member.punten }}</td>
-            <td>{{ member.JPP }}</td>
-            <td scope="col" class="d-none d-md-table-cell">{{ member.bonus }}</td>
-            <td scope="col" class="d-none d-md-table-cell">{{ member.totaal }}</td>
-        </tr>
-    {% endfor %}
-</table>
+<div class="table-responsive">
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th class="sticky-column">#</th>
+                <th class="sticky-column">Ploegleider</th>
+                <th>punten</th>
+                <th>JPP</th>
+                <th scope="col" class="d-none d-md-table-cell">bonus</th>
+                <th scope="col" class="d-none d-md-table-cell">totaal</th>
+                <th scope="col">&euro;</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for member in site.data.ranking %}
+                <tr>
+                    <td class="sticky-column">{{ member.positie }}.</td>
+                    <td class="sticky-column"><a href="{{ site.baseurl }}{% link index.html %}ploegleiders/{{ member.short | downcase }}.html">{{ member.ploegleider }}</a></td>
+                    <td>{{ member.punten }}</td>
+                    <td>{{ member.JPP }}</td>
+                    <td scope="col" class="d-none d-md-table-cell">{{ member.bonus }}</td>
+                    <td scope="col" class="d-none d-md-table-cell">{{ member.totaal }}</td>
+                    <td scope="col">
+                        {% assign verdiend_clean = member.verdiend | strip | replace: ',', '.' | times: 1 %}
+                        {% if verdiend_clean < 0 %}
+                            <span style="color: red;">{{ member.verdiend }}</span>
+                        {% else %}
+                            {{ member.verdiend }}
+                        {% endif %}
+                    </td>
+                </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+</div>
+
+<style>
+    .table-responsive {
+        overflow-x: auto;
+    }
+    .sticky-column {
+        position: -webkit-sticky;
+        position: sticky;
+        left: 0;
+        background-color: white;
+        z-index: 1;
+    }
+    /* Optional: Add a border or shadow for better visibility of the sticky column */
+    .sticky-column {
+        border-right: 1px solid #dee2e6;
+    }
+</style>

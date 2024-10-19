@@ -1,4 +1,5 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
+1,2.WT3s,"Tour of Guangxi, Stage 5 : Yizhou - Nongla (prov.)",43766,VAN EETVELT Lennert,32225,0.0,0,2024-10-19
 1,2.WT3s,"Tour of Guangxi, Stage 4 : Bama - Jinchengjiang (prov.)",43765,VERNON Ethan,30035,0.0,0,2024-10-18
 1,2.WT3s,"Tour of Guangxi, Stage 3 : Jingxi - Bama (prov.)",43764,VERNON Ethan,30035,0.0,0,2024-10-17
 1,2.WT3s,"Tour of Guangxi, Stage 2 : Chongzuo - Jingxi (prov.)",43763,VANGHELUWE Warre,31233,0.0,0,2024-10-16
@@ -53,4 +54,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
 9,1.WT1,Il Lombardia,43648,GAUDU David,24255,0.0,0,2024-10-12
 10,1.WT1,Il Lombardia,43648,MEURISSE Xandro,20165,0.0,0,2024-10-12
 1,2.PSs,"Tour of Taihu Lake, Stage 4 : Changxing - Huzhou",43756,TESSON Jason,29883,0.0,0,2024-10-12
-1,2.1s,"Tour de Kyushu, Stage 1 : Beppu - Hita",43758,JEANNIERE Emilien,29288,0.0,0,2024-10-12

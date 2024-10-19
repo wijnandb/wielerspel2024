@@ -14,6 +14,7 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
 9,1.PS,Giro del Veneto,43651,TONEATTI Davide,33514,0.0,0,2024-10-16
 10,1.PS,Giro del Veneto,43651,JOHANNESSEN Tobias Halland,31567,0.0,0,2024-10-16
 1,2.WT3s,"Tour of Guangxi, Stage 1 : Fangchenggang - Fangchenggang (prov.)",43762,TAMINIAUX Lionel,23416,0.0,0,2024-10-15
+1,NCT5,National Championships Vietnam (Hoa Binh) I.T.T. (prov.),43829,NGUYEN Tuan Vu,33684,0.0,0,2024-10-15
 1,2.1,"Tour de Kyushu, General classification",43761,JEANNIERE Emilien,29288,0.0,0,2024-10-14
 2,2.1,"Tour de Kyushu, General classification",43761,NERURKAR Lukas,33158,0.0,0,2024-10-14
 3,2.1,"Tour de Kyushu, General classification",43761,SMIRNOV Ivan,27928,0.0,0,2024-10-14
@@ -53,4 +54,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
 8,1.WT1,Il Lombardia,43648,POWLESS Neilson,24902,0.0,0,2024-10-12
 9,1.WT1,Il Lombardia,43648,GAUDU David,24255,0.0,0,2024-10-12
 10,1.WT1,Il Lombardia,43648,MEURISSE Xandro,20165,0.0,0,2024-10-12
-1,2.PSs,"Tour of Taihu Lake, Stage 4 : Changxing - Huzhou",43756,TESSON Jason,29883,0.0,0,2024-10-12

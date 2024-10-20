@@ -1,41 +1,41 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
-1,2.WT3,"Tour of Guangxi, General classification (prov.)",43768,VAN EETVELT Lennert,32225,5,50,2024-10-20,Albert
-2,2.WT3,"Tour of Guangxi, General classification (prov.)",43768,ONLEY Oscar,31724,2,35,2024-10-20,Albert
-3,2.WT3,"Tour of Guangxi, General classification (prov.)",43768,BAUDIN Alex,32146,1,25,2024-10-20,-
-4,2.WT3,"Tour of Guangxi, General classification (prov.)",43768,LAFAY Victor,26197,0,20,2024-10-20,Kees
-5,2.WT3,"Tour of Guangxi, General classification (prov.)",43768,SIVAKOV Pavel,24934,0,18,2024-10-20,Albert
-6,2.WT3,"Tour of Guangxi, General classification (prov.)",43768,ALEOTTI Giovanni,28451,0,16,2024-10-20,Wijnand
-7,2.WT3,"Tour of Guangxi, General classification (prov.)",43768,WELLENS Tim,16722,0,14,2024-10-20,Jan
-8,2.WT3,"Tour of Guangxi, General classification (prov.)",43768,FORTUNATO Lorenzo,25552,0,12,2024-10-20,Paul
-9,2.WT3,"Tour of Guangxi, General classification (prov.)",43768,COSTIOU Ewen,32834,0,10,2024-10-20,Kees
-10,2.WT3,"Tour of Guangxi, General classification (prov.)",43768,SIMMONS Quinn,30666,0,8,2024-10-20,Bram
-1,2.WT3s,"Tour of Guangxi, Stage 6 : Nanning - Nanning (prov.)",43767,GOVEKAR Matevz,20406,0.5,0,2024-10-20,-
-1,2.WT3r,"Tour of Guangxi, Mountains classification (prov.)",43770,REINDERINK Pepijn,31563,0.0,0,2024-10-20,-
-1,2.WT3r,"Tour of Guangxi, Points classification (prov.)",43769,VERNON Ethan,30035,0.0,0,2024-10-20,Albert
-1,1.PS,Veneto Classic (prov.),43653,CORT NIELSEN Magnus,19448,4,50,2024-10-20,Nicky
-2,1.PS,Veneto Classic (prov.),43653,GREGOIRE Romain,32766,1,35,2024-10-20,Jan
-3,1.PS,Veneto Classic (prov.),43653,MEURISSE Xandro,20165,0.5,25,2024-10-20,-
-4,1.PS,Veneto Classic (prov.),43653,HIRSCHI Marc,26509,0,20,2024-10-20,Bram
-5,1.PS,Veneto Classic (prov.),43653,ZANA Filippo,27749,0,18,2024-10-20,Jan
-6,1.PS,Veneto Classic (prov.),43653,PELLIZZARI Giulio,33100,0,16,2024-10-20,Kees
-7,1.PS,Veneto Classic (prov.),43653,BARONCINI Filippo,29419,0,14,2024-10-20,Kees
-8,1.PS,Veneto Classic (prov.),43653,BUSATTO Francesco,32738,0,12,2024-10-20,-
-9,1.PS,Veneto Classic (prov.),43653,ZIMMERMANN Georg,25165,0,10,2024-10-20,Paul
-10,1.PS,Veneto Classic (prov.),43653,DE PRETTO Davide,31745,0,8,2024-10-20,-
-1,1.PS,Japan Cup (prov.),43652,POWLESS Neilson,24902,4,50,2024-10-20,Harry
-2,1.PS,Japan Cup (prov.),43652,VAN WILDER Ilan,29828,1,35,2024-10-20,Kees
-3,1.PS,Japan Cup (prov.),43652,MOHORIC Matej,21145,0.5,25,2024-10-20,PB
-4,1.PS,Japan Cup (prov.),43652,WOODS Michael,20257,0,20,2024-10-20,Vel
-5,1.PS,Japan Cup (prov.),43652,VANSEVENANT Mauri,28580,0,18,2024-10-20,Jan
-6,1.PS,Japan Cup (prov.),43652,BERNARD Julien,23357,0,16,2024-10-20,-
-7,1.PS,Japan Cup (prov.),43652,ZINGLE Axel,31263,0,14,2024-10-20,Paul
-8,1.PS,Japan Cup (prov.),43652,SKUJINS Toms,16739,0,12,2024-10-20,-
-9,1.PS,Japan Cup (prov.),43652,NERURKAR Lukas,33158,0,10,2024-10-20,-
-10,1.PS,Japan Cup (prov.),43652,ZAMBANINI Edoardo,31437,0,8,2024-10-20,-
-1,2.WT3s,"Tour of Guangxi, Stage 5 : Yizhou - Nongla (prov.)",43766,VAN EETVELT Lennert,32225,0.5,0,2024-10-19,Albert
-1,2.WT3s,"Tour of Guangxi, Stage 4 : Bama - Jinchengjiang (prov.)",43765,VERNON Ethan,30035,0.5,0,2024-10-18,Albert
-1,2.WT3s,"Tour of Guangxi, Stage 3 : Jingxi - Bama (prov.)",43764,VERNON Ethan,30035,0.5,0,2024-10-17,Albert
-1,2.WT3s,"Tour of Guangxi, Stage 2 : Chongzuo - Jingxi (prov.)",43763,VANGHELUWE Warre,31233,0.5,0,2024-10-16,-
+1,2.WT3,"Tour of Guangxi, General classification",43768,VAN EETVELT Lennert,32225,5,50,2024-10-20,Albert
+2,2.WT3,"Tour of Guangxi, General classification",43768,ONLEY Oscar,31724,2,35,2024-10-20,Albert
+3,2.WT3,"Tour of Guangxi, General classification",43768,BAUDIN Alex,32146,1,25,2024-10-20,-
+4,2.WT3,"Tour of Guangxi, General classification",43768,LAFAY Victor,26197,0,20,2024-10-20,Kees
+5,2.WT3,"Tour of Guangxi, General classification",43768,SIVAKOV Pavel,24934,0,18,2024-10-20,Albert
+6,2.WT3,"Tour of Guangxi, General classification",43768,ALEOTTI Giovanni,28451,0,16,2024-10-20,Wijnand
+7,2.WT3,"Tour of Guangxi, General classification",43768,WELLENS Tim,16722,0,14,2024-10-20,Jan
+8,2.WT3,"Tour of Guangxi, General classification",43768,FORTUNATO Lorenzo,25552,0,12,2024-10-20,Paul
+9,2.WT3,"Tour of Guangxi, General classification",43768,COSTIOU Ewen,32834,0,10,2024-10-20,Kees
+10,2.WT3,"Tour of Guangxi, General classification",43768,SIMMONS Quinn,30666,0,8,2024-10-20,Bram
+1,2.WT3s,"Tour of Guangxi, Stage 6 : Nanning - Nanning",43767,GOVEKAR Matevz,20406,0.5,0,2024-10-20,-
+1,2.WT3r,"Tour of Guangxi, Mountains classification",43770,REINDERINK Pepijn,31563,0.0,0,2024-10-20,-
+1,2.WT3r,"Tour of Guangxi, Points classification",43769,VERNON Ethan,30035,0.0,0,2024-10-20,Albert
+1,1.PS,Veneto Classic,43653,CORT NIELSEN Magnus,19448,4,50,2024-10-20,Nicky
+2,1.PS,Veneto Classic,43653,GREGOIRE Romain,32766,1,35,2024-10-20,Jan
+3,1.PS,Veneto Classic,43653,MEURISSE Xandro,20165,0.5,25,2024-10-20,-
+4,1.PS,Veneto Classic,43653,HIRSCHI Marc,26509,0,20,2024-10-20,Bram
+5,1.PS,Veneto Classic,43653,ZANA Filippo,27749,0,18,2024-10-20,Jan
+6,1.PS,Veneto Classic,43653,PELLIZZARI Giulio,33100,0,16,2024-10-20,Kees
+7,1.PS,Veneto Classic,43653,BARONCINI Filippo,29419,0,14,2024-10-20,Kees
+8,1.PS,Veneto Classic,43653,BUSATTO Francesco,32738,0,12,2024-10-20,-
+9,1.PS,Veneto Classic,43653,ZIMMERMANN Georg,25165,0,10,2024-10-20,Paul
+10,1.PS,Veneto Classic,43653,DE PRETTO Davide,31745,0,8,2024-10-20,-
+1,1.PS,Japan Cup,43652,POWLESS Neilson,24902,4,50,2024-10-20,Harry
+2,1.PS,Japan Cup,43652,VAN WILDER Ilan,29828,1,35,2024-10-20,Kees
+3,1.PS,Japan Cup,43652,MOHORIC Matej,21145,0.5,25,2024-10-20,PB
+4,1.PS,Japan Cup,43652,WOODS Michael,20257,0,20,2024-10-20,Vel
+5,1.PS,Japan Cup,43652,VANSEVENANT Mauri,28580,0,18,2024-10-20,Jan
+6,1.PS,Japan Cup,43652,BERNARD Julien,23357,0,16,2024-10-20,-
+7,1.PS,Japan Cup,43652,ZINGLE Axel,31263,0,14,2024-10-20,Paul
+8,1.PS,Japan Cup,43652,SKUJINS Toms,16739,0,12,2024-10-20,-
+9,1.PS,Japan Cup,43652,NERURKAR Lukas,33158,0,10,2024-10-20,-
+10,1.PS,Japan Cup,43652,ZAMBANINI Edoardo,31437,0,8,2024-10-20,-
+1,2.WT3s,"Tour of Guangxi, Stage 5 : Yizhou - Nongla",43766,VAN EETVELT Lennert,32225,0.5,0,2024-10-19,Albert
+1,2.WT3s,"Tour of Guangxi, Stage 4 : Bama - Jinchengjiang",43765,VERNON Ethan,30035,0.5,0,2024-10-18,Albert
+1,2.WT3s,"Tour of Guangxi, Stage 3 : Jingxi - Bama",43764,VERNON Ethan,30035,0.5,0,2024-10-17,Albert
+1,2.WT3s,"Tour of Guangxi, Stage 2 : Chongzuo - Jingxi",43763,VANGHELUWE Warre,31233,0.5,0,2024-10-16,-
 1,1.PS,Giro del Veneto,43651,STRONG Corbin,29492,4,50,2024-10-16,PB
 2,1.PS,Giro del Veneto,43651,MEURISSE Xandro,20165,1,35,2024-10-16,-
 3,1.PS,Giro del Veneto,43651,GREGOIRE Romain,32766,0.5,25,2024-10-16,Jan
@@ -46,8 +46,8 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 8,1.PS,Giro del Veneto,43651,FIORELLI Filippo,24152,0,12,2024-10-16,-
 9,1.PS,Giro del Veneto,43651,TONEATTI Davide,33514,0,10,2024-10-16,-
 10,1.PS,Giro del Veneto,43651,JOHANNESSEN Tobias Halland,31567,0,8,2024-10-16,Albert
-1,2.WT3s,"Tour of Guangxi, Stage 1 : Fangchenggang - Fangchenggang (prov.)",43762,TAMINIAUX Lionel,23416,0.5,0,2024-10-15,-
-1,NCT5,National Championships Vietnam (Hoa Binh) I.T.T. (prov.),43829,NGUYEN Tuan Vu,33684,0.0,0,2024-10-15,-
+1,2.WT3s,"Tour of Guangxi, Stage 1 : Fangchenggang - Fangchenggang",43762,TAMINIAUX Lionel,23416,0.5,0,2024-10-15,-
+1,NCT5,National Championships Vietnam (Hoa Binh) I.T.T.,43829,NGUYEN Tuan Vu,33684,0.0,0,2024-10-15,-
 1,2.1,"Tour de Kyushu, General classification",43761,JEANNIERE Emilien,29288,2,0,2024-10-14,-
 2,2.1,"Tour de Kyushu, General classification",43761,NERURKAR Lukas,33158,0.3,0,2024-10-14,-
 3,2.1,"Tour de Kyushu, General classification",43761,SMIRNOV Ivan,27928,0.1,0,2024-10-14,-

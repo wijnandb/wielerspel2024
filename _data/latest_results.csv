@@ -1,4 +1,15 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
+1,2.WT3s,"Tour of Guangxi, Stage 6 : Nanning - Nanning (prov.)",43767,GOVEKAR Matevz,20406,0.0,0,2024-10-20
+1,1.PS,Japan Cup (prov.),43652,POWLESS Neilson,24902,0.0,0,2024-10-20
+2,1.PS,Japan Cup (prov.),43652,VAN WILDER Ilan,29828,0.0,0,2024-10-20
+3,1.PS,Japan Cup (prov.),43652,MOHORIC Matej,21145,0.0,0,2024-10-20
+4,1.PS,Japan Cup (prov.),43652,WOODS Michael,20257,0.0,0,2024-10-20
+5,1.PS,Japan Cup (prov.),43652,VANSEVENANT Mauri,28580,0.0,0,2024-10-20
+6,1.PS,Japan Cup (prov.),43652,BERNARD Julien,23357,0.0,0,2024-10-20
+7,1.PS,Japan Cup (prov.),43652,ZINGLE Axel,31263,0.0,0,2024-10-20
+8,1.PS,Japan Cup (prov.),43652,SKUJINS Toms,16739,0.0,0,2024-10-20
+9,1.PS,Japan Cup (prov.),43652,NERURKAR Lukas,33158,0.0,0,2024-10-20
+10,1.PS,Japan Cup (prov.),43652,ZAMBANINI Edoardo,31437,0.0,0,2024-10-20
 1,2.WT3s,"Tour of Guangxi, Stage 5 : Yizhou - Nongla (prov.)",43766,VAN EETVELT Lennert,32225,0.0,0,2024-10-19
 1,2.WT3s,"Tour of Guangxi, Stage 4 : Bama - Jinchengjiang (prov.)",43765,VERNON Ethan,30035,0.0,0,2024-10-18
 1,2.WT3s,"Tour of Guangxi, Stage 3 : Jingxi - Bama (prov.)",43764,VERNON Ethan,30035,0.0,0,2024-10-17
@@ -44,13 +55,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
 8,CC2,African Cycling Championships (Eldoret) R.R.,43819,KIFLOM Pawlos Gebremeskel,33554,0.0,0,2024-10-13
 9,CC2,African Cycling Championships (Eldoret) R.R.,43819,MAYER Alexandre,27291,0.0,0,2024-10-13
 10,CC2,African Cycling Championships (Eldoret) R.R.,43819,MARCELINO Dario Antonio,20335,0.0,0,2024-10-13
-1,1.WT1,Il Lombardia,43648,POGACAR Tadej,26526,0.0,0,2024-10-12
-2,1.WT1,Il Lombardia,43648,EVENEPOEL Remco,28377,0.0,0,2024-10-12
-3,1.WT1,Il Lombardia,43648,CICCONE Giulio,21812,0.0,0,2024-10-12
-4,1.WT1,Il Lombardia,43648,IZAGIRRE INSAUSTI Ion,14321,0.0,0,2024-10-12
-5,1.WT1,Il Lombardia,43648,MAS NICOLAU Enric,22794,0.0,0,2024-10-12
-6,1.WT1,Il Lombardia,43648,SIVAKOV Pavel,24934,0.0,0,2024-10-12
-7,1.WT1,Il Lombardia,43648,VAN EETVELT Lennert,32225,0.0,0,2024-10-12
-8,1.WT1,Il Lombardia,43648,POWLESS Neilson,24902,0.0,0,2024-10-12
-9,1.WT1,Il Lombardia,43648,GAUDU David,24255,0.0,0,2024-10-12
-10,1.WT1,Il Lombardia,43648,MEURISSE Xandro,20165,0.0,0,2024-10-12

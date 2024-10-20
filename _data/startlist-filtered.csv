@@ -30,24 +30,24 @@ race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id
 7591,177,Lennert Van Eetvelt,32225,Lotto Dstny,BEL,Albert Kraaij,Albert,2,
 95,1,Simon Yates,17893,Team Jayco-AlUla,GBR,Jan Versluys,Jan,19,
 95,3,Felix Engelhardt,29297,Team Jayco-AlUla,GER,Paul van Doorn,Paul,1,
-95,6,Mauro Schmid,29214,Team Jayco-AlUla,SUI,Albert Kraaij,Albert,3,
+95,6,Mauro Schmid,29214,Team Jayco-AlUla,SUI,Albert Kraaij,Albert,3,1
 95,11,Henok Mulubrhan,28186,Astana Qazaqstan Team,ERI,Wijnand Baretta,Wijnand,1,
 95,22,Matej Mohoric,21145,Bahrain Victorious,SLO,Pieter-Bas de Bruijn,PB,13,
 95,31,Axel Zingle,31263,Cofidis,FRA,Paul van Doorn,Paul,3,
 95,41,Neilson Powless,24902,EF Education-EasyPost,USA,Harry Koene,Harry,10,
-95,51,Mads Pedersen,21992,Lidl-Trek,DEN,Kees van Ommeren,Kees,20,
-95,52,Andrea Bagioli,28452,Lidl-Trek,ITA,Pieter-Bas de Bruijn,PB,11,
-95,61,Yves Lampaert,19941,Soudal Quick-Step,BEL,Harry Koene,Harry,1,
+95,51,Mads Pedersen,21992,Lidl-Trek,DEN,Kees van Ommeren,Kees,20,1
+95,52,Andrea Bagioli,28452,Lidl-Trek,ITA,Pieter-Bas de Bruijn,PB,11,1
+95,61,Yves Lampaert,19941,Soudal Quick-Step,BEL,Harry Koene,Harry,1,1
 95,65,Ilan Van Wilder,29828,Soudal Quick-Step,BEL,Kees van Ommeren,Kees,7,
 95,66,Mauri Vansevenant,28580,Soudal Quick-Step,BEL,Jan Versluys,Jan,2,
 95,71,Michael Woods,20257,Israel-Premier Tech,CAN,Frank Vellinga,Vel,2,
-95,75,Dylan Teuns,17908,Israel-Premier Tech,BEL,Kees van Ommeren,Kees,1,
+95,75,Dylan Teuns,17908,Israel-Premier Tech,BEL,Kees van Ommeren,Kees,1,1
 15208,1,Davide Formolo,18749,Movistar Team,ITA,Nick Veenstra,Nicky,6,
 15208,4,Einer Rubio,27024,Movistar Team,COL,Frank Rozemeijer,Frank,5,
 15208,11,Marc Hirschi,26509,UAE Team Emirates,SUI,Bram van Ommeren,Bram,14,
 15208,12,Filippo Baroncini,29419,UAE Team Emirates,ITA,Kees van Ommeren,Kees,0,
 15208,14,Alessandro Covi,28298,UAE Team Emirates,ITA,Pieter-Bas de Bruijn,PB,2,
-15208,15,Finn Fisher-Black,30562,UAE Team Emirates,NZL,Kees van Ommeren,Kees,1,
+15208,15,Finn Fisher-Black,30562,UAE Team Emirates,NZL,Kees van Ommeren,Kees,1,1
 15208,16,Diego Ulissi,10023,UAE Team Emirates,ITA,Kaspar Burghard,Kaspar,4,
 15208,17,Jay Vine,29568,UAE Team Emirates,AUS,Frank Vellinga,Vel,7,
 15208,27,Filippo Zana,27749,Team Jayco-AlUla,ITA,Jan Versluys,Jan,3,
@@ -55,8 +55,8 @@ race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id
 15208,37,Georg Zimmermann,25165,Intermarché-Wanty,GER,Paul van Doorn,Paul,2,
 15208,41,Romain Grégoire,32766,Groupama-FDJ,FRA,Jan Versluys,Jan,9,
 15208,66,Simone Velasco,22662,Astana Qazaqstan Team,ITA,Frank Vellinga,Vel,1,
-15208,73,Clément Champoussin,27153,ARKEA-B&B HOTELS,FRA,Harry Koene,Harry,1,
-15208,83,Kaden Groves,26637,Alpecin-Deceuninck,AUS,Paul van Doorn,Paul,9,
+15208,73,Clément Champoussin,27153,ARKEA-B&B HOTELS,FRA,Harry Koene,Harry,1,1
+15208,83,Kaden Groves,26637,Alpecin-Deceuninck,AUS,Paul van Doorn,Paul,9,1
 15208,85,Axel Laurance,31621,Alpecin-Deceuninck,FRA,Jan Versluys,Jan,2,
 15208,91,George Bennett,12254,Israel-Premier Tech,NZL,Nick Veenstra,Nicky,1,
 15208,95,Corbin Strong,29492,Israel-Premier Tech,NZL,Pieter-Bas de Bruijn,PB,6,

@@ -1,5 +1,16 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
+1,2.WT3,"Tour of Guangxi, General classification (prov.)",43768,VAN EETVELT Lennert,32225,5,50,2024-10-20,Albert
+2,2.WT3,"Tour of Guangxi, General classification (prov.)",43768,ONLEY Oscar,31724,2,35,2024-10-20,Albert
+3,2.WT3,"Tour of Guangxi, General classification (prov.)",43768,BAUDIN Alex,32146,1,25,2024-10-20,-
+4,2.WT3,"Tour of Guangxi, General classification (prov.)",43768,LAFAY Victor,26197,0,20,2024-10-20,Kees
+5,2.WT3,"Tour of Guangxi, General classification (prov.)",43768,SIVAKOV Pavel,24934,0,18,2024-10-20,Albert
+6,2.WT3,"Tour of Guangxi, General classification (prov.)",43768,ALEOTTI Giovanni,28451,0,16,2024-10-20,Wijnand
+7,2.WT3,"Tour of Guangxi, General classification (prov.)",43768,WELLENS Tim,16722,0,14,2024-10-20,Jan
+8,2.WT3,"Tour of Guangxi, General classification (prov.)",43768,FORTUNATO Lorenzo,25552,0,12,2024-10-20,Paul
+9,2.WT3,"Tour of Guangxi, General classification (prov.)",43768,COSTIOU Ewen,32834,0,10,2024-10-20,Kees
+10,2.WT3,"Tour of Guangxi, General classification (prov.)",43768,SIMMONS Quinn,30666,0,8,2024-10-20,Bram
 1,2.WT3s,"Tour of Guangxi, Stage 6 : Nanning - Nanning (prov.)",43767,GOVEKAR Matevz,20406,0.5,0,2024-10-20,-
+1,2.WT3r,"Tour of Guangxi, Points classification (prov.)",43769,VERNON Ethan,30035,0.0,0,2024-10-20,Albert
 1,1.PS,Japan Cup (prov.),43652,POWLESS Neilson,24902,4,50,2024-10-20,Harry
 2,1.PS,Japan Cup (prov.),43652,VAN WILDER Ilan,29828,1,35,2024-10-20,Kees
 3,1.PS,Japan Cup (prov.),43652,MOHORIC Matej,21145,0.5,25,2024-10-20,PB

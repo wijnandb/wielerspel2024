@@ -1,5 +1,5 @@
 renner_id,renner,rider,ploegleider,kosten,team,nationality,age,punten,JPP
-24934,SIVAKOV Pavel,SIVAKOV Pavel,Albert,7,UAD,FRA,26,2.5,42
+24934,SIVAKOV Pavel,SIVAKOV Pavel,Albert,7,UAD,FRA,26,2.5,60
 29359,MILAN Jonathan,MILAN Jonathan,Albert,6,LTK,ITA,23,19.4,67
 19238,GROENEWEGEN Dylan,GROENEWEGEN Dylan,Albert,6,JAY,NED,30,14.2,120
 17881,BILBAO LOPEZ DE ARMENTIA Pello,BILBAO LOPEZ DE ARMENTIA Pello,Albert,6,TBV,ESP,33,5.3,157
@@ -18,10 +18,10 @@ renner_id,renner,rider,ploegleider,kosten,team,nationality,age,punten,JPP
 30035,VERNON Ethan,VERNON Ethan,Albert,3,IPT,GBR,23,1.2,0
 29214,SCHMID Mauro,SCHMID Mauro,Albert,3,JAY,SUI,24,3,20
 31550,STAUNE-MITTET Johannes,STAUNE-MITTET Johannes,Albert,2,TJV,NOR,21,0,0
-31724,ONLEY Oscar,ONLEY Oscar,Albert,2,DSM,GBR,21,3.0,100
+31724,ONLEY Oscar,ONLEY Oscar,Albert,2,DSM,GBR,21,5.0,135
 32720,VADER Milan,VADER Milan,Albert,2,TJV,NED,27,0,0
 25335,STORER Michael,STORER Michael,Albert,2,FDJ,AUS,26,2.3,70
-32225,VAN EETVELT Lennert,VAN EETVELT Lennert,Albert,2,LTD,BEL,22,9.0,103
+32225,VAN EETVELT Lennert,VAN EETVELT Lennert,Albert,2,LTD,BEL,22,14.0,153
 28521,VAN GILS Maxim,VAN GILS Maxim,Albert,2,LTD,BEL,24,12.4,232
 19242,VAN POPPEL Danny,VAN POPPEL Danny,Albert,2,BOH,NED,30,2,76
 33567,SEGAERT Alec,SEGAERT Alec,Albert,1,LTD,BEL,20,6.0,49

@@ -32,6 +32,7 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
 8,1.PS,Japan Cup,43652,SKUJINS Toms,16739,0.0,0,2024-10-20
 9,1.PS,Japan Cup,43652,NERURKAR Lukas,33158,0.0,0,2024-10-20
 10,1.PS,Japan Cup,43652,ZAMBANINI Edoardo,31437,0.0,0,2024-10-20
+1,NC5,National Championships Vietnam (Hoa Binh) R.R. (prov.),43830,NGO Van Phuong,37124,0.0,0,2024-10-20
 1,2.WT3s,"Tour of Guangxi, Stage 5 : Yizhou - Nongla",43766,VAN EETVELT Lennert,32225,0.0,0,2024-10-19
 1,2.WT3s,"Tour of Guangxi, Stage 4 : Bama - Jinchengjiang",43765,VERNON Ethan,30035,0.0,0,2024-10-18
 1,2.WT3s,"Tour of Guangxi, Stage 3 : Jingxi - Bama",43764,VERNON Ethan,30035,0.0,0,2024-10-17
@@ -67,13 +68,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
 2,1.1,Chrono des Nations,43649,VINE Jay,29568,0.0,0,2024-10-13
 3,1.1,Chrono des Nations,43649,PRICE-PEJTERSEN Johan,27805,0.0,0,2024-10-13
 1,2.1s,"Tour de Kyushu, Stage 2 : Minamioguni - Minamiaso",43759,JEANNIERE Emilien,29288,0.0,0,2024-10-13
-1,CC2,African Cycling Championships (Eldoret) R.R.,43819,MULUBRHAN Henok,28186,0.0,0,2024-10-13
-2,CC2,African Cycling Championships (Eldoret) R.R.,43819,VAN NIEKERK Emile,37098,0.0,0,2024-10-13
-3,CC2,African Cycling Championships (Eldoret) R.R.,43819,KAGIMU Charles,24714,0.0,0,2024-10-13
-4,CC2,African Cycling Championships (Eldoret) R.R.,43819,ABREHA Negasi Haylu,29240,0.0,0,2024-10-13
-5,CC2,African Cycling Championships (Eldoret) R.R.,43819,DOWNES Brandon,25389,0.0,0,2024-10-13
-6,CC2,African Cycling Championships (Eldoret) R.R.,43819,MAEKELE Milkias,36292,0.0,0,2024-10-13
-7,CC2,African Cycling Championships (Eldoret) R.R.,43819,MUHOZA Eric,32170,0.0,0,2024-10-13
-8,CC2,African Cycling Championships (Eldoret) R.R.,43819,KIFLOM Pawlos Gebremeskel,33554,0.0,0,2024-10-13
-9,CC2,African Cycling Championships (Eldoret) R.R.,43819,MAYER Alexandre,27291,0.0,0,2024-10-13
-10,CC2,African Cycling Championships (Eldoret) R.R.,43819,MARCELINO Dario Antonio,20335,0.0,0,2024-10-13

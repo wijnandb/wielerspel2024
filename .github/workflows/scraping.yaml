@@ -3,7 +3,7 @@ on:
   #   branches:
   #     - main
   schedule:
-    - cron: '05 10,11,12,15,17,21 * 1-10 2024'
+    - cron: "5 2,16 * 1-10 *"
 
   workflow_dispatch:
 
